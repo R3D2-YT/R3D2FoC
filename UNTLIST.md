@@ -118,8 +118,53 @@
 
 # Rebellion:
 
+======SPACE======
  - X-Wing
+ - Y-Wing
+ - A-Wing
+ - B-Wing
+ - Z-95
+ - CR90
+ - DP20
+ - Marauder
+ - Nebulon-B
+ - Venator
+ - Assault Frigate MK I
+ - Assault Frigate MK I (Support Refit)
+ - Assault Frigate MK II
+
+============LAND=============
+ - Infantry Platoon
+ - PLEX Soldier
+ - T-2B
+ - Airspeeder
+ - MDU
+ - T-4B
+ - MTPL
+ - Gallofree HTT
+ - Infiltrator
 
 # Zahn Consortium:
 
- - StarViper
+======SPACE======
+ - Y-Wing
+ - Z-95
+ - Skipray Blastboat
+ - Interceptor III
+ - Interceptor IV
+ - Interceptor V
+ - CR90
+ - DP20
+ - Nebulon-B
+ - PDF Dreadnought
+ - Venator
+ - Victory
+
+============LAND=============
+ - Grenadier
+ - Merc Assault Squad
+ - Defiler
+ - MDU
+ - FTZ Transport
+ - MAL
+ - MZ-8 Tank
