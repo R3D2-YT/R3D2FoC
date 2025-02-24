@@ -11,3 +11,11 @@
 # CIS:
 
  - Vulture Droid
+
+# Empire:
+
+ - TIE Fighter
+
+# Rebellion:
+
+ - X-Wing
