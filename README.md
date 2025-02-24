@@ -4,7 +4,7 @@ Current release Version: 3.2
 
 Current WIP Version: 3.2.1
 
-Eras:
+#Eras:
 
  - Era I - Old Republic
  - Era II - Clone Wars
