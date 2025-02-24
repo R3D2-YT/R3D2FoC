@@ -56,11 +56,65 @@
 
 # CIS:
 
+======SPACE======
  - Vulture Droid
+ - Droid Bomber
+ - Diamond
+ - Marauder
+ - Munificent
+ - Recusant
+ - Auxilia
+ - Captor
+ - Providence
+ - Lucrehulk
+
+============LAND=============
+ - B1 Battledroid
+ - B2 Battledroid
+ - Droideka
+ - AAT
+ - Tank Droid
 
 # Empire:
 
+======SPACE======
  - TIE Fighter
+ - TIE Bomber
+ - TIE Interceptor
+ - TIE Scout
+ - TIE Defender
+ - Customs Corvette
+ - Tartan Cruiser
+ - Broadside
+ - Nebulon-B Frigate
+ - Strike Cruiser
+ - Carrack 
+ - Arquitens
+ - Acclamator
+ - Interdictor
+ - Vindicator
+ - Victory
+ - Dreadnought
+ - Gladiator
+ - Procursator
+ - Imperial Star Destroyer
+ - Tector
+ - Executor
+ - Bellator
+
+============LAND=============
+ - Stormtroopers
+ - Scout Troopers
+ - AT-ST
+ - TIE Mauler
+ - TIE Tank
+ - MDU
+ - 2-M Tank
+ - SPMA-T
+ - AT-AT
+ - AT-AA
+ - Lancet
+ - B5 Juggernaut
 
 # Rebellion:
 
