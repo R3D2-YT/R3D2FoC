@@ -615,7 +615,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_BOMBER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Vengeance_Frigate </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Starviper_Fighter </Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>rv_ywing.alo</Space_Model_Name>
+		<Space_Model_Name>Rv_Chelwing_Base.alo</Space_Model_Name>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-1</Select_Box_Z_Adjust>
@@ -749,7 +749,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_BOMBER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Acclamator_Assault_Ship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate Fighter </Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>rv_ywing.alo</Space_Model_Name>
+		<Space_Model_Name>Rv_Chelwing_Base.alo</Space_Model_Name>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-1</Select_Box_Z_Adjust>
@@ -1021,7 +1021,7 @@
 		<Encyclopedia_Good_Against> TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Skipray_Blastboat </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_z95_headhunter.tga</Icon_Name>
-		<Space_Model_Name>RV_Z-95.ALO</Space_Model_Name>
+		<Space_Model_Name>Z95A_Headhunter_Base.ALO</Space_Model_Name>
 		<Mass>0.995</Mass>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Fires_Forward>no</Fires_Forward>
@@ -1145,7 +1145,7 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FIGHTER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> TIE_Bomber Skipray_Blastboat</Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Starviper_Fighter </Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>RV_Z-95.ALO</Space_Model_Name>
+		<Space_Model_Name>Z95A_Headhunter_Base.ALO</Space_Model_Name>
 		<Icon_Name>i_button_z95_headhunter.tga</Icon_Name>
 
 		<Mass>0.995</Mass>

@@ -85,6 +85,7 @@
  - TIE Defender
  - Customs Corvette
  - Tartan Cruiser
+ - Raider Corvette
  - Broadside
  - Nebulon-B Frigate
  - Strike Cruiser
