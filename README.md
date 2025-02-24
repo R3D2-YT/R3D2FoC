@@ -18,7 +18,7 @@ Current WIP Version: 3.2.1
  - Era X - Vong Invasion
  - Era XI - New Empire
 
-Playable Factions:
+# Playable Factions:
 
  - Republic
  - Mandalorians
@@ -28,7 +28,7 @@ Playable Factions:
  - Rebellion
  - Zahn Consortium
 
-Non-Playable Factions:
+# Non-Playable Factions:
 
  - Hutts
  - Black Sun Pirates
