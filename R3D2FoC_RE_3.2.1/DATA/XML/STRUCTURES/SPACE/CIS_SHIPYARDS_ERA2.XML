@@ -1,0 +1,478 @@
+<?xml version="1.0"?>
+
+
+<Shipyards>
+
+
+	<SpecialStructure Name="Light_Shipyard_Confederacy_Era2">
+		<Text_ID>TEXT_LIGHT_SHIPYARD</Text_ID>
+		<Space_Model_Name>Heavy_Shipyard.alo</Space_Model_Name>
+		<GUI_Row> 0 </GUI_Row>
+		<Select_Box_Scale>330</Select_Box_Scale>
+		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
+		<Is_Dummy>Yes</Is_Dummy>
+		<Affiliation>Confederacy</Affiliation>
+		<Political_Control>0</Political_Control>
+		<Build_Cost_Credits>3500</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
+		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
+		<Scale_Factor>2.0</Scale_Factor>
+		<Size_Value>90</Size_Value>
+		<Base_Position>Orbital</Base_Position>
+		<Tech_Level>99</Tech_Level>
+		<Is_Interdictor>no</Is_Interdictor>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures></Required_Special_Structures>
+		<Required_Planets>
+				Abregado_Rae_Era2, 
+				AetenII_Era2, 
+				Alderaan_Era2, 
+				AlzocIII_Era2, 
+				Anaxes_Era2, 
+				Atzerri_Era2, 
+				Bespin_Era2, 
+				Bestine_Era2, 
+				Bonadan_Era2, 
+				Bothawui_Era2, 
+				Byss_Era2, 
+				Carida_Era2, 
+				Corellia_Era2, 
+				Corulag_Era2, 
+				Coruscant_Era2, 
+				Dagobah_Era2, 
+				Dantooine_Era2, 
+				Dathomir_Era2, 
+				Endor_Era2, 
+				Eriadu_Era2, 
+				Felucia_Era2, 
+				Fondor_Era2, 
+				Fresia_Era2, 
+				Geonosis_Era2, 
+				Honoghr_Era2, 
+				Hoth_Era2, 
+				Hypori_Era2, 
+				Ilum_Era2, 
+				Jabiim_Era2, 
+				Kamino_Era2, 
+				Kashyyyk_Era2, 
+				Kessel_Era2, 
+				Korriban_Era2, 
+				Kuat_Era2, 
+				Manaan_Era2, 
+				Mandalore_Era2, 
+				MonCalimari_Era2, 
+				Mustafar_Era2, 
+				Muunilinst_Era2, 
+				Myrkr_Era2, 
+				Naboo_Era2, 
+				NalHutta_Era2, 
+				Polus_Era2,
+				Ryloth_Era2, 
+				Saleucami_Era2, 
+				Shola_Era2, 
+				Sullust_Era2, 
+				Taris_Era2, 
+				Tatooine_Era2, 
+				The_Maw_Era2, 
+				Thyferra_Era2, 
+				Utapau_Era2, 
+				VergessoAsteroids_Era2, 
+				Wayland_Era2, 
+				Yavin_Era2,
+                <!-- MOD Planets -->
+				RocheAsteroids_Era2,
+				Centares_Era2,
+				YagDhul_Era2,
+				QatChrystac_Era2,
+				<!-- Deep Core -->
+				Hakassi_Era2,
+				Tython_Era2,
+				Ojom_Era2,
+				Columus_Era2,
+				Empress_Teta_Era2,
+				Kalist_Era2,
+				Kampe_Era2,
+				<!-- New Territories -->
+				Mygeeto_Era2,
+				Jaemus_Era2,
+				Yaga_Minor_Era2,
+				Bastion_Era2,
+				Orinda_Era2,
+				Ord_Trasi_Era2,
+				<!-- Cutric Hedgemony -->
+				Cutric_Era2,
+				Agamar_Era2,
+				Axxila_Era2,
+				Sereno_Era2,
+				Celanon_Era2,
+				<!-- Corporate Sector -->
+				Etti_Era2,
+		</Required_Planets>
+		<Tactical_Health>2000</Tactical_Health>
+		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>
+		<SpaceBehavior>SPACE_OBSTACLE, REVEAL, HIDE_WHEN_FOGGED,UNIT_AI</SpaceBehavior>
+		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
+		<Death_Explosions>Large_Explosion_Space</Death_Explosions>
+		<Space_FOW_Reveal_Range>700.0</Space_FOW_Reveal_Range>
+		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
+		<Icon_Name>I_BUTTON_lsy.tga</Icon_Name>
+		<Victory_Relevant>yes</Victory_Relevant>
+		<No_Reflection_Below_Detail_Level>1</No_Reflection_Below_Detail_Level>
+		<No_Refraction_Below_Detail_Level>1</No_Refraction_Below_Detail_Level>
+
+		<Land_Damage_Thresholds>1, 0.66, 0.33</Land_Damage_Thresholds>
+		<Land_Damage_Alternates>0, 1, 2</Land_Damage_Alternates>
+		<Land_Damage_SFX>null,SFX_Grenade_Detonation, SFX_Grenade_Detonation</Land_Damage_SFX>
+
+		<Sabotage_Cost_Credits>3000</Sabotage_Cost_Credits>
+
+		<SFXEvent_Build_Started>EHD_Build_Structure</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Building_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete>EHD_Construction_Complete</SFXEvent_Build_Complete>
+		<Death_SFXEvent_Start_Die>Unit_Generic_Building_Death_SFX</Death_SFXEvent_Start_Die>
+		<SFXEvent_Unit_Under_Attack> EHD_Gravity_Control_Under_Attack </SFXEvent_Unit_Under_Attack>
+		<SFXEvent_Unit_Lost> EHD_Gravity_Control_Destroyed </SFXEvent_Unit_Lost>
+		<SFXEvent_Select> Structure_Power_Gen_Select_SFX </SFXEvent_Select>
+		
+		<GUI_Bracket_Size>2</GUI_Bracket_Size>
+		<Influences_Capture_Point>False</Influences_Capture_Point>
+		<Armor_Type> Station </Armor_Type>
+
+		<Modifies_Reveal_Range>no</Modifies_Reveal_Range>
+		<Reveal_Range_Modifier>-.50</Reveal_Range_Modifier>
+		
+		<CategoryMask> Structure </CategoryMask>
+		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
+		<Radar_Icon_Size>0.1  0.1</Radar_Icon_Size>
+
+		<Death_Clone>Damage_Normal, E_Gravity_Well_Station_Death_Clone</Death_Clone>
+
+		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_LIGHT_SHIPYARD  </Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_STRUCTURE</Encyclopedia_Unit_Class>
+		<Score_Cost_Credits> 15000 </Score_Cost_Credits>
+		<Has_Space_Evaluator>True</Has_Space_Evaluator>
+		<Custom_Soft_Footprint_Radius> 500 </Custom_Soft_Footprint_Radius>
+		<Space_Obstacle_Offset> 0 0 0 </Space_Obstacle_Offset> 
+		<Space_Layer> StaticObject </Space_Layer>
+
+	</SpecialStructure>
+	
+	<SpecialStructure Name="Medium_Shipyard_Confederacy_Era2">
+		<Text_ID>TEXT_MEDIUM_SHIPYARD</Text_ID>
+		<Space_Model_Name>Heavy_Shipyard.alo</Space_Model_Name>
+		<GUI_Row> 0 </GUI_Row>
+		<Select_Box_Scale>330</Select_Box_Scale>
+		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
+		<Is_Dummy>Yes</Is_Dummy>
+		<Affiliation>Confederacy</Affiliation>
+		<Political_Control>0</Political_Control>
+		<Build_Cost_Credits>4500</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
+		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
+		<Scale_Factor>2.0</Scale_Factor>
+		<Size_Value>90</Size_Value>
+		<Base_Position>Orbital</Base_Position>
+		<Tech_Level>1</Tech_Level>
+		<Is_Interdictor>no</Is_Interdictor>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures></Required_Special_Structures>
+		<Required_Planets>
+				Abregado_Rae_Era2, 
+				AetenII_Era2, 
+				Alderaan_Era2, 
+				AlzocIII_Era2, 
+				Anaxes_Era2, 
+				Atzerri_Era2, 
+				Bespin_Era2, 
+				Bestine_Era2, 
+				Bonadan_Era2, 
+				Bothawui_Era2, 
+				Byss_Era2, 
+				Carida_Era2, 
+				Corellia_Era2, 
+				Corulag_Era2, 
+				Coruscant_Era2, 
+				Dagobah_Era2, 
+				Dantooine_Era2, 
+				Dathomir_Era2, 
+				Endor_Era2, 
+				Eriadu_Era2, 
+				Felucia_Era2, 
+				Fondor_Era2, 
+				Fresia_Era2, 
+				Geonosis_Era2, 
+				Honoghr_Era2, 
+				Hoth_Era2, 
+				Hypori_Era2, 
+				Ilum_Era2, 
+				Jabiim_Era2, 
+				Kamino_Era2, 
+				Kashyyyk_Era2, 
+				Kessel_Era2, 
+				Korriban_Era2, 
+				Kuat_Era2, 
+				Manaan_Era2, 
+				Mandalore_Era2, 
+				MonCalimari_Era2, 
+				Mustafar_Era2, 
+				Muunilinst_Era2, 
+				Myrkr_Era2, 
+				Naboo_Era2, 
+				NalHutta_Era2, 
+				Polus_Era2,
+				Ryloth_Era2, 
+				Saleucami_Era2, 
+				Shola_Era2, 
+				Sullust_Era2, 
+				Taris_Era2, 
+				Tatooine_Era2, 
+				The_Maw_Era2, 
+				Thyferra_Era2, 
+				Utapau_Era2, 
+				VergessoAsteroids_Era2, 
+				Wayland_Era2, 
+				Yavin_Era2,
+                <!-- MOD Planets -->
+				RocheAsteroids_Era2,
+				Centares_Era2,
+				YagDhul_Era2,
+				QatChrystac_Era2,
+				<!-- Deep Core -->
+				Hakassi_Era2,
+				Tython_Era2,
+				Ojom_Era2,
+				Columus_Era2,
+				Empress_Teta_Era2,
+				Kalist_Era2,
+				Kampe_Era2,
+				<!-- New Territories -->
+				Mygeeto_Era2,
+				Jaemus_Era2,
+				Yaga_Minor_Era2,
+				Bastion_Era2,
+				Orinda_Era2,
+				Ord_Trasi_Era2,
+				<!-- Cutric Hedgemony -->
+				Cutric_Era2,
+				Agamar_Era2,
+				Axxila_Era2,
+				Sereno_Era2,
+				Celanon_Era2,
+				<!-- Corporate Sector -->
+				Etti_Era2,
+		</Required_Planets>
+		<Tactical_Health>2000</Tactical_Health>
+		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>
+		<SpaceBehavior>SPACE_OBSTACLE, REVEAL, HIDE_WHEN_FOGGED,UNIT_AI</SpaceBehavior>
+		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
+		<Death_Explosions>Large_Explosion_Space</Death_Explosions>
+		<Space_FOW_Reveal_Range>700.0</Space_FOW_Reveal_Range>
+		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
+		<Icon_Name>I_BUTTON_msy.tga</Icon_Name>
+		<Victory_Relevant>yes</Victory_Relevant>
+		<No_Reflection_Below_Detail_Level>1</No_Reflection_Below_Detail_Level>
+		<No_Refraction_Below_Detail_Level>1</No_Refraction_Below_Detail_Level>
+
+		<Land_Damage_Thresholds>1, 0.66, 0.33</Land_Damage_Thresholds>
+		<Land_Damage_Alternates>0, 1, 2</Land_Damage_Alternates>
+		<Land_Damage_SFX>null,SFX_Grenade_Detonation, SFX_Grenade_Detonation</Land_Damage_SFX>
+
+		<Sabotage_Cost_Credits>3000</Sabotage_Cost_Credits>
+
+		<SFXEvent_Build_Started>EHD_Build_Structure</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Building_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete>EHD_Construction_Complete</SFXEvent_Build_Complete>
+		<Death_SFXEvent_Start_Die>Unit_Generic_Building_Death_SFX</Death_SFXEvent_Start_Die>
+		<SFXEvent_Unit_Under_Attack> EHD_Gravity_Control_Under_Attack </SFXEvent_Unit_Under_Attack>
+		<SFXEvent_Unit_Lost> EHD_Gravity_Control_Destroyed </SFXEvent_Unit_Lost>
+		<SFXEvent_Select> Structure_Power_Gen_Select_SFX </SFXEvent_Select>
+		
+		<GUI_Bracket_Size>2</GUI_Bracket_Size>
+		<Influences_Capture_Point>False</Influences_Capture_Point>
+		<Armor_Type> Station </Armor_Type>
+
+		<Modifies_Reveal_Range>no</Modifies_Reveal_Range>
+		<Reveal_Range_Modifier>-.50</Reveal_Range_Modifier>
+		
+		<CategoryMask> Structure </CategoryMask>
+		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
+		<Radar_Icon_Size>0.1  0.1</Radar_Icon_Size>
+
+		<Death_Clone>Damage_Normal, E_Gravity_Well_Station_Death_Clone</Death_Clone>
+
+		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_MEDIUM_SHIPYARD  </Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_STRUCTURE</Encyclopedia_Unit_Class>
+		<Score_Cost_Credits> 15000 </Score_Cost_Credits>
+		<Has_Space_Evaluator>True</Has_Space_Evaluator>
+		<Custom_Soft_Footprint_Radius> 500 </Custom_Soft_Footprint_Radius>
+		<Space_Obstacle_Offset> 0 0 0 </Space_Obstacle_Offset> 
+		<Space_Layer> StaticObject </Space_Layer>
+
+	</SpecialStructure>
+	
+	<SpecialStructure Name="Heavy_Shipyard_Confederacy_Era2">
+		<Text_ID>TEXT_HEAVY_SHIPYARD</Text_ID>
+		<Space_Model_Name>Heavy_Shipyard.alo</Space_Model_Name>
+		<GUI_Row> 0 </GUI_Row>
+		<Select_Box_Scale>330</Select_Box_Scale>
+		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
+		<Is_Dummy>Yes</Is_Dummy>
+		<Affiliation>Confederacy</Affiliation>
+		<Political_Control>0</Political_Control>
+		<Build_Cost_Credits>5000</Build_Cost_Credits>
+		<Build_Time_Seconds>40</Build_Time_Seconds>
+		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
+		<Scale_Factor>2.5</Scale_Factor>
+		<Size_Value>90</Size_Value>
+		<Base_Position>Orbital</Base_Position>
+		<Tech_Level>1</Tech_Level>
+		<Is_Interdictor>no</Is_Interdictor>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures></Required_Special_Structures>
+		<Required_Planets>
+				Abregado_Rae_Era2, 
+				AetenII_Era2, 
+				Alderaan_Era2, 
+				AlzocIII_Era2, 
+				Anaxes_Era2, 
+				Atzerri_Era2, 
+				Bespin_Era2, 
+				Bestine_Era2, 
+				Bonadan_Era2, 
+				Bothawui_Era2, 
+				Byss_Era2, 
+				Carida_Era2, 
+				Corellia_Era2, 
+				Corulag_Era2, 
+				Coruscant_Era2, 
+				Dagobah_Era2, 
+				Dantooine_Era2, 
+				Dathomir_Era2, 
+				Endor_Era2, 
+				Eriadu_Era2, 
+				Felucia_Era2, 
+				Fondor_Era2, 
+				Fresia_Era2, 
+				Geonosis_Era2, 
+				Honoghr_Era2, 
+				Hoth_Era2, 
+				Hypori_Era2, 
+				Ilum_Era2, 
+				Jabiim_Era2, 
+				Kamino_Era2, 
+				Kashyyyk_Era2, 
+				Kessel_Era2, 
+				Korriban_Era2, 
+				Kuat_Era2, 
+				Manaan_Era2, 
+				Mandalore_Era2, 
+				MonCalimari_Era2, 
+				Mustafar_Era2, 
+				Muunilinst_Era2, 
+				Myrkr_Era2, 
+				Naboo_Era2, 
+				NalHutta_Era2, 
+				Polus_Era2,
+				Ryloth_Era2, 
+				Saleucami_Era2, 
+				Shola_Era2, 
+				Sullust_Era2, 
+				Taris_Era2, 
+				Tatooine_Era2, 
+				The_Maw_Era2, 
+				Thyferra_Era2, 
+				Utapau_Era2, 
+				VergessoAsteroids_Era2, 
+				Wayland_Era2, 
+				Yavin_Era2,
+                <!-- MOD Planets -->
+				RocheAsteroids_Era2,
+				Centares_Era2,
+				YagDhul_Era2,
+				QatChrystac_Era2,
+				<!-- Deep Core -->
+				Hakassi_Era2,
+				Tython_Era2,
+				Ojom_Era2,
+				Columus_Era2,
+				Empress_Teta_Era2,
+				Kalist_Era2,
+				Kampe_Era2,
+				<!-- New Territories -->
+				Mygeeto_Era2,
+				Jaemus_Era2,
+				Yaga_Minor_Era2,
+				Bastion_Era2,
+				Orinda_Era2,
+				Ord_Trasi_Era2,
+				<!-- Cutric Hedgemony -->
+				Cutric_Era2,
+				Agamar_Era2,
+				Axxila_Era2,
+				Sereno_Era2,
+				Celanon_Era2,
+				<!-- Corporate Sector -->
+				Etti_Era2,
+		</Required_Planets>
+		<Tactical_Health>3000</Tactical_Health>
+		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>
+		<SpaceBehavior>SPACE_OBSTACLE, REVEAL, HIDE_WHEN_FOGGED,UNIT_AI</SpaceBehavior>
+		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
+		<Death_Explosions>Large_Explosion_Space</Death_Explosions>
+		<Space_FOW_Reveal_Range>700.0</Space_FOW_Reveal_Range>
+		<Last_State_Visible_Under_FOW> Yes </Last_State_Visible_Under_FOW>
+		<Icon_Name>I_BUTTON_hsy.tga</Icon_Name>
+		<Victory_Relevant>yes</Victory_Relevant>
+		<No_Reflection_Below_Detail_Level>1</No_Reflection_Below_Detail_Level>
+		<No_Refraction_Below_Detail_Level>1</No_Refraction_Below_Detail_Level>
+
+		<Land_Damage_Thresholds>1, 0.66, 0.33</Land_Damage_Thresholds>
+		<Land_Damage_Alternates>0, 1, 2</Land_Damage_Alternates>
+		<Land_Damage_SFX>null,SFX_Grenade_Detonation, SFX_Grenade_Detonation</Land_Damage_SFX>
+
+		<Sabotage_Cost_Credits>3000</Sabotage_Cost_Credits>
+
+		<SFXEvent_Build_Started>EHD_Build_Structure</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Building_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete>EHD_Construction_Complete</SFXEvent_Build_Complete>
+		<Death_SFXEvent_Start_Die>Unit_Generic_Building_Death_SFX</Death_SFXEvent_Start_Die>
+		<SFXEvent_Unit_Under_Attack> EHD_Gravity_Control_Under_Attack </SFXEvent_Unit_Under_Attack>
+		<SFXEvent_Unit_Lost> EHD_Gravity_Control_Destroyed </SFXEvent_Unit_Lost>
+		<SFXEvent_Select> Structure_Power_Gen_Select_SFX </SFXEvent_Select>
+		
+		<GUI_Bracket_Size>2</GUI_Bracket_Size>
+		<Influences_Capture_Point>False</Influences_Capture_Point>
+		<Armor_Type> Station </Armor_Type>
+
+		<Modifies_Reveal_Range>no</Modifies_Reveal_Range>
+		<Reveal_Range_Modifier>-.50</Reveal_Range_Modifier>
+		
+		<CategoryMask> Structure </CategoryMask>
+		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
+		<Radar_Icon_Size>0.1  0.1</Radar_Icon_Size>
+
+		<Death_Clone>Damage_Normal, E_Gravity_Well_Station_Death_Clone</Death_Clone>
+
+		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_HEAVY_SHIPYARD  </Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_STRUCTURE</Encyclopedia_Unit_Class>
+		<Score_Cost_Credits> 15000 </Score_Cost_Credits>
+		<Has_Space_Evaluator>True</Has_Space_Evaluator>
+		<Custom_Soft_Footprint_Radius> 500 </Custom_Soft_Footprint_Radius>
+		<Space_Obstacle_Offset> 0 0 0 </Space_Obstacle_Offset> 
+		<Space_Layer> StaticObject </Space_Layer>
+
+	</SpecialStructure>
+
+
+
+
+</Shipyards>

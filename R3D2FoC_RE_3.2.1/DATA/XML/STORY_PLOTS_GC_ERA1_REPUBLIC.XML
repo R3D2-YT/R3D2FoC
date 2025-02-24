@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<Story_Mode_Plots>
+	<Lua_Script>GCFTGU</Lua_Script>
+	<Lua_Script>GCFTGU2</Lua_Script>
+	<Lua_Script>GCUtilityDetectCancels</Lua_Script>
+	<Active_Plot>STORY_GC_ERA1_REPUBLIC.XML</Active_Plot>
+	
+</Story_Mode_Plots>

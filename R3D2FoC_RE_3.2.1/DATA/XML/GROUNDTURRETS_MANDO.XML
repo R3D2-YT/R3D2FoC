@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<GroundStructures>
+
+	<GroundStructure Name="Mandalorians_Anti_Aircraft_Turret">
+
+		<Variant_Of_Existing_Type> Abstract_Anti_Aircraft_Turret </Variant_Of_Existing_Type>
+		<Scale_Factor>1.25</Scale_Factor>
+		<Land_Model_Name>EB_AATURRET.ALO</Land_Model_Name>
+		<Icon_Name>i_button_e_anti_aircraft.tga</Icon_Name>
+
+		<Affiliation>Mandalorians</Affiliation>
+
+		<Ranged_Target_Z_Adjust>8.0</Ranged_Target_Z_Adjust>
+
+		<Turret_Rotate_Speed>5.0</Turret_Rotate_Speed>
+	
+		<Blob_Shadow_Scale>40.0, 40.0</Blob_Shadow_Scale>
+		<Blob_Shadow_Material_Name>Square_Shadow</Blob_Shadow_Material_Name>
+		<SFXEvent_Sold_Tactical> EHD_Turret_Sold </SFXEvent_Sold_Tactical>
+		<SFXEvent_Turret_Rotating_Loop> Structure_Turret_Motor </SFXEvent_Turret_Rotating_Loop>	<!-- Event for turret while rotating to fire  -->
+
+	</GroundStructure>
+
+	<GroundStructure Name="Mandalorians_Anti_Infantry_Turret">
+		<GUI_Bias>5</GUI_Bias>
+
+		<Variant_Of_Existing_Type> Abstract_Anti_Infantry_Turret </Variant_Of_Existing_Type>
+	
+		<Land_Model_Name>EB_INFANTRYTURRET.ALO</Land_Model_Name>
+		<Icon_Name>i_button_e_anti_infantry.tga</Icon_Name>
+
+		<Affiliation>Mandalorians</Affiliation>
+
+		<Projectile_Types>Proj_HRB_Cannon_Green</Projectile_Types>
+		<Ranged_Target_Z_Adjust>6.0</Ranged_Target_Z_Adjust>
+
+		<Targeting_Fire_Inaccuracy> Infantry, 20.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Vehicle, 30.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Air, 0.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Structure, 0.0 </Targeting_Fire_Inaccuracy>
+
+		<Projectile_Fire_Recharge_Seconds>2.0</Projectile_Fire_Recharge_Seconds>
+		<Projectile_Fire_Pulse_Count>10</Projectile_Fire_Pulse_Count>
+		<Projectile_Fire_Pulse_Delay_Seconds>0.02</Projectile_Fire_Pulse_Delay_Seconds>
+
+		<Turret_Rotate_Speed>5.0</Turret_Rotate_Speed>
+		
+		<Blob_Shadow_Scale>25.0, 25.0</Blob_Shadow_Scale>
+		<Blob_Shadow_Material_Name>Square_Shadow</Blob_Shadow_Material_Name>
+		<SFXEvent_Sold_Tactical> EHD_Turret_Sold </SFXEvent_Sold_Tactical>
+		<SFXEvent_Turret_Rotating_Loop> Structure_Turret_Motor </SFXEvent_Turret_Rotating_Loop>	<!-- Event for turret while rotating to fire  -->
+
+	</GroundStructure>
+  
+	<GroundStructure Name="Mandalorians_Anti_Vehicle_Turret">
+
+		<Variant_Of_Existing_Type> Abstract_Anti_Vehicle_Turret </Variant_Of_Existing_Type>
+
+		<Land_Model_Name>EB_VEHICLETURRET.ALO</Land_Model_Name>
+		<Icon_Name>i_button_e_anti_vehicle.tga</Icon_Name>
+
+		<Affiliation>Mandalorians</Affiliation>
+
+		<Projectile_Types>Proj_Ground_AV_Turret_Laser_Green</Projectile_Types>
+		<Ranged_Target_Z_Adjust>10.0</Ranged_Target_Z_Adjust>
+
+		<Turret_Rotate_Speed>3.0</Turret_Rotate_Speed>
+		
+		<Targeting_Fire_Inaccuracy> Infantry, 20.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Vehicle, 2.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Air, 0.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Structure, 0.0 </Targeting_Fire_Inaccuracy>
+
+		<Blob_Shadow_Scale>45.0, 45.0</Blob_Shadow_Scale>
+		<Blob_Shadow_Material_Name>Square_Shadow</Blob_Shadow_Material_Name>
+		<SFXEvent_Sold_Tactical> EHD_Turret_Sold </SFXEvent_Sold_Tactical>
+		<SFXEvent_Turret_Rotating_Loop> Structure_Turret_Motor </SFXEvent_Turret_Rotating_Loop>	<!-- Event for turret while rotating to fire  -->
+
+	</GroundStructure>
+
+
+	<GroundStructure Name="Mandalorians_Buildable_Repair_Facility">
+
+		<Variant_Of_Existing_Type> Abstract_Repair_Facility </Variant_Of_Existing_Type>
+
+		<Text_ID> TEXT_STRUCTURE_Mandalorians_BUILDABLE_REPAIR_FACILITY </Text_ID>
+		
+		<Land_FOW_Reveal_Range> 200.0 </Land_FOW_Reveal_Range>
+		<Dense_FOW_Reveal_Range_Multiplier> 0.0 </Dense_FOW_Reveal_Range_Multiplier>
+		<SFXEvent_Sold_Tactical> EHD_Repair_Station_Sold </SFXEvent_Sold_Tactical>
+
+		<Affiliation> Mandalorians </Affiliation>
+		
+		<Icon_Name>i_button_e_repair_facility.tga</Icon_Name>
+
+	</GroundStructure>
+
+	<GroundStructure Name="Mandalorians_Buildable_Bacta_Tank">
+
+		<Variant_Of_Existing_Type> Abstract_Bacta_Tank </Variant_Of_Existing_Type>
+
+		<Text_ID> TEXT_STRUCTURE_Mandalorians_BUILDABLE_BACTA_TANK </Text_ID>
+
+		<Land_FOW_Reveal_Range> 200.0 </Land_FOW_Reveal_Range>
+		<Dense_FOW_Reveal_Range_Multiplier> 0.0 </Dense_FOW_Reveal_Range_Multiplier>
+		<SFXEvent_Sold_Tactical> EHD_Bacta_Tank_Sold </SFXEvent_Sold_Tactical>
+		<Affiliation> Mandalorians </Affiliation>
+
+	</GroundStructure>
+
+
+
+
+
+
+
+
+</GroundStructures>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+
+<Hard_Point_Files>
+	<File>HardPoints.xml</File>
+	<File>CIN_HardPoints.xml</File>
+	<File>HardPoints_Underworld.xml</File>
+	<File>UNITS/SPACE/HardPoints_Genaric.xml</File>
+	
+	<!-- Republic -->
+	
+	<File>UNITS/SPACE/HardPoints_Besh.xml</File>
+	<File>UNITS/SPACE/HardPoints_ICF3.xml</File>
+	<File>UNITS/SPACE/HardPoints_Consular.xml</File>
+	<File>UNITS/SPACE/HardPoints_Dreadnought.xml</File>
+	<File>UNITS/SPACE/HardPoints_Praetorian.xml</File>
+	<File>UNITS/SPACE/HardPoints_Paladin.xml</File>
+	<File>UNITS/SPACE/HardPoints_Hammerhead.xml</File>
+	<File>UNITS/SPACE/HardPoints_Carrack.xml</File>
+	<File>UNITS/SPACE/HardPoints_Inexpugnable.xml</File>
+	<File>UNITS/SPACE/HardPoints_Invincible.xml</File>
+	<File>UNITS/SPACE/HardPoints_Venator.xml</File>
+	
+	<File>UNITS/LAND/HardPoints_Avelanche_Tank.xml</File>
+	<File>UNITS/LAND/HardPoints_Manka_Walker.xml</File>
+	<File>UNITS/LAND/HardPoints_ATTE.xml</File>
+	
+	<!-- Mandalorians -->
+	
+	<File>UNITS/SPACE/HardPoints_Jehavey.xml</File>
+	<File>UNITS/SPACE/HardPoints_Kyramud.xml</File>
+	<File>UNITS/SPACE/HardPoints_Mandalorian_Cruisers.xml</File>
+	
+	<File>UNITS/LAND/HardPoints_Basilisk.xml</File>
+	
+	<!-- Sith -->
+	
+	<File>UNITS/SPACE/HardPoints_Sith_Bomber.xml</File>
+	<File>UNITS/SPACE/HardPoints_Assassin_Corvette.xml</File>
+	<File>UNITS/SPACE/HardPoints_Derriphan.xml</File>
+	<File>UNITS/SPACE/HardPoints_Ardent.xml</File>
+	<File>UNITS/SPACE/HardPoints_Centurion.xml</File>
+	<File>UNITS/SPACE/HardPoints_Sith_Battlecruiser.xml</File>
+	
+	<File>UNITS/SPACE/HardPoints_Vanilla.xml</File>
+	
+	<!-- Empire/Republic -->
+	
+	<File>UNITS/SPACE/HardPoints_Victory_I.xml</File>
+	<File>UNITS/SPACE/HardPoints_Gladiator.xml</File>
+	<File>UNITS/SPACE/HardPoints_Procursator.xml</File>
+	<File>UNITS/SPACE/HardPoints_Vindicator.xml</File>
+	<File>UNITS/SPACE/HardPoints_Strike.xml</File>
+	<File>UNITS/SPACE/HardPoints_ISD.xml</File>
+	<File>UNITS/SPACE/HardPoints_TSD.xml</File>
+	<File>UNITS/SPACE/HardPoints_Empire_Space_Supers.xml</File>
+	<File>UNITS/SPACE/HardPoints_MTC.xml</File>
+	<File>UNITS/SPACE/HardPoints_Arquitens.xml</File>
+	<File>UNITS/SPACE/HardPoints_Empire_Bellator.xml</File>
+	<File>UNITS/SPACE/HardPoints_Empire_MandatorIII.xml</File>
+	
+	<!-- CIS -->
+	
+	<File>UNITS/SPACE/HardPoints_Munificent.xml</File>
+	<File>UNITS/SPACE/HardPoints_Recusant.xml</File>
+	<File>UNITS/SPACE/HardPoints_Providence.xml</File>
+	<File>UNITS/SPACE/HardPoints_Diamond.xml</File>
+	<File>UNITS/LAND/HardPoints_Tank_Droid.xml</File>
+	<File>UNITS/LAND/HardPoints_AAT.xml</File>
+	<File>UNITS/SPACE/HARDPOINTS_missile_Frigate.xml</File>
+	<File>UNITS/SPACE/HardPoints_Lucerhulk.xml</File>
+	<File>UNITS/SPACE/Hardpoints_Axuila.xml</File>
+	
+	<!-- Zann -->
+	<File>UNITS/SPACE/HardPoints_Interceptor5.xml</File>
+	
+	<!-- Rebel -->
+	<File>UNITS/SPACE/Hardpoints_Assault_Frigate_MKI.xml</File>
+	<File>UNITS/SPACE/Hardpoints_xwing.xml</File>
+	
+</Hard_Point_Files>

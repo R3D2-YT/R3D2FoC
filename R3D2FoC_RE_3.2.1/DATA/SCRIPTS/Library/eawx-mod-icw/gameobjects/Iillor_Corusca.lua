@@ -1,0 +1,3 @@
+return {
+	Flags = {FULLINHERIT = "GENERIC_INTERDICTOR_CRUISER"}
+}

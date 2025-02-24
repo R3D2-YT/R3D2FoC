@@ -1,0 +1,3 @@
+return {
+	Flags = {FULLINHERIT = "ALLIANCE_ASSAULT_FRIGATE"}
+}
