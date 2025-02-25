@@ -77,5 +77,6 @@
 	<!-- Rebel -->
 	<File>UNITS/SPACE/Hardpoints_Assault_Frigate_MKI.xml</File>
 	<File>UNITS/SPACE/Hardpoints_xwing.xml</File>
+	<File>UNITS/SPACE/HardPoints_Profundity.xml</File>
 	
 </Hard_Point_Files>

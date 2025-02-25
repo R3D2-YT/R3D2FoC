@@ -672,7 +672,7 @@
 
 		<Asteroid_Damage_Hit_Particles>Small_Damage_Space</Asteroid_Damage_Hit_Particles>
 		<HardPoints>
-			HP_BOMBER_01, HP_BOMBER_03
+			HP_BOMBER_01, HP_BOMBER_04
 		</HardPoints>
 
 		<SFXEvent_Fire> Unit_Y_Wing_Fire </SFXEvent_Fire>
@@ -727,15 +727,6 @@
 		<Remove_Upon_Death>true</Remove_Upon_Death>
 
 		<Tactical_Bribe_Cost>125</Tactical_Bribe_Cost>
-
- 		<!-- Unit abilities description -->
-		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Attack_Y_Wing</SFXEvent_GUI_Unit_Ability_Activated>
-			</Unit_Ability>
-		</Unit_Abilities_Data>
 
 		<Strafe_Distance>500.0</Strafe_Distance>
 		<Population_Value>0</Population_Value>
@@ -805,7 +796,7 @@
 
 		<Asteroid_Damage_Hit_Particles>Small_Damage_Space</Asteroid_Damage_Hit_Particles>
 		<HardPoints>
-			HP_BOMBER_01, HP_BOMBER_03
+			HP_BOMBER_01, HP_BOMBER_04
 		</HardPoints>
 
 		<SFXEvent_Fire> Unit_Y_Wing_Fire </SFXEvent_Fire>

@@ -329,7 +329,9 @@
 	
 	<File>UNITS\HERO\UNITS_HERO_PEREGINE.xml</File>
 	<File>UNITS\HERO\UNITS_HERO_REBEL_YODA.xml</File>
+	<File>UNITS\HERO\UNITS_HERO_REBEL_RADDUS.xml</File>
 	<File>UNITS\SPACE\Assault_Frigate_MKI.xml</File>
+	<File>UNITS\SPACE\Units_Space_Profundity.xml</File>
 	
 	<!-- Underworld -->
 	

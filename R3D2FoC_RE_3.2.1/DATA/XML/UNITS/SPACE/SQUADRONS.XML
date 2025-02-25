@@ -128,16 +128,9 @@
 		<Autonomous_Move_Extension_Vs_Attacker>300.0</Autonomous_Move_Extension_Vs_Attacker>
 		<Property_Flags> SmallShip </Property_Flags>
 		
-		<!-- if we have a targeted ability, we'll need a team object to attach this ability to -->
-		<Create_Team_Type>Y_Wing_Squadron_Container </Create_Team_Type>
+		<!-- if we have a targeted ability, we'll need a team object to attach this ability to
+		<Create_Team_Type>Y_Wing_Squadron_Container </Create_Team_Type>-->
      	<Max_Squad_Size> 6 </Max_Squad_Size>
-			
-		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-			</Unit_Ability>
-		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_Y_WING</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_BOMBER </Encyclopedia_Unit_Class>
@@ -201,16 +194,9 @@
 		<Autonomous_Move_Extension_Vs_Attacker>300.0</Autonomous_Move_Extension_Vs_Attacker>
 		<Property_Flags> SmallShip </Property_Flags>
 		
-		<!-- if we have a targeted ability, we'll need a team object to attach this ability to -->
-		<Create_Team_Type>Y_Wing_Squadron_Container </Create_Team_Type>
+		<!-- if we have a targeted ability, we'll need a team object to attach this ability to
+		<Create_Team_Type>Y_Wing_Squadron_Container </Create_Team_Type>-->
      	<Max_Squad_Size> 6 </Max_Squad_Size>
-			
-		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-			</Unit_Ability>
-		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_Y_WING</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_BOMBER </Encyclopedia_Unit_Class>
