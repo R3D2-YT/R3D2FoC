@@ -40,6 +40,6 @@
  - Victory (Kuat, KDY)
 
 ============LAND=============
- - Noghri Squad (Honoghr
+ - Noghri Squad (Honoghr)
 
 -
