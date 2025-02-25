@@ -7,6 +7,7 @@
  - Bellator (Kuat, Heavy Shipyard)
 
 ============LAND=============
+ - Noghri Squad (Honoghr, Eras 3-6)
 
 # Rebellion:
 
