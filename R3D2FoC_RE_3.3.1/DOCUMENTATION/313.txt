@@ -1,0 +1,24 @@
+A fully rebuilt version of R3D2FoC, fixing many issues with previous versions of the mod
+
+Mod Version: 3.1.2
+
+Launch Code: STEAMMOD=3229954674
+
+Playable Factions:
+-Republic
+-Mandalorians
+
+Non-Playable Factions:
+-Independant Forces
+
+May 4th Better Late than never Content Update (3.1.1):
+
+-2 Galactic Conquests
+-Republic separated from Empire and given its own faction slot
+-Reworked Rosters for both factions
+
+May 5th patch (3.1.2):
+
+-Boming runs should no longer crash the game
+-Missing Text has been added
+-Lance Walkers now explode and dissappear upon death
