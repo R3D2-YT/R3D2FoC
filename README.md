@@ -27,6 +27,10 @@ Current WIP Version: 3.2.1
  - Empire
  - Rebellion
  - Zahn Consortium
+ - Pentastar Alignment
+ - Warlord Zsinj's Empire
+ - Greater Maldrood
+ - Eriadu Authrority
 
 # Non-Playable Factions:
 
