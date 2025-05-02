@@ -1883,9 +1883,7 @@
 		<Starting_Forces> Empire, Ord_Trasi_Era4, Imperial_Heavy_Assault_Company </Starting_Forces>
 		
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Empire, Eriadu_Era4, Empire_Star_Base_3 </Starting_Forces>
-		<Starting_Forces> Empire, Eriadu_Era4, Demolisher </Starting_Forces>		
-		<Starting_Forces> Empire, Eriadu_Era4, Hublin </Starting_Forces>		
+		<Starting_Forces> Empire, Eriadu_Era4, Empire_Star_Base_3 </Starting_Forces>	
 		<Starting_Forces> Empire, Eriadu_Era4, Gladiator </Starting_Forces>		
 		<Starting_Forces> Empire, Eriadu_Era4, Gladiator </Starting_Forces>					
         <!-- Thyferra Land Forces -->

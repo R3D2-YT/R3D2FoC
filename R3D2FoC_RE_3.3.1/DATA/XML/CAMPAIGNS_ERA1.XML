@@ -190,7 +190,7 @@
         <Starting_Active_Player> Republic </Starting_Active_Player>
 
 		<Story_Name>Republic, STORY_PLOTS_GC_ERA1_REPUBLIC.XML</Story_Name>
-		<Story_Name>Mandalorians, STORY_PLOTS_GC_ERA1_REPUBLIC.XML</Story_Name>
+		<Story_Name>Mandalorians, STORY_PLOTS_GC_ERA1_MANDO.XML</Story_Name>
 		<Story_Name>Player, STORY_PLOTS_GC_ERA1_REPUBLIC.XML</Story_Name>
         
 		<AI_Player_Control> Mandalorians, BasicEmpire </AI_Player_Control>

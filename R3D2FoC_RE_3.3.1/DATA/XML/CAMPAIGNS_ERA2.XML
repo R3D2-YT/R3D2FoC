@@ -232,7 +232,7 @@
 
         <Starting_Active_Player> Republic </Starting_Active_Player>
 
-		<Story_Name>Republic, STORY_PLOTS_GC_Era1_REPUBLIC.XML</Story_Name>
+		<Story_Name>Republic, STORY_PLOTS_GC_Era2_REPUBLIC.XML</Story_Name>
 		<Story_Name>Confederacy, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Player, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
         
@@ -510,6 +510,7 @@
 		<Starting_Forces> Republic, Coruscant_Era2, Clone_Trooper_Squad </Starting_Forces>
 		<Starting_Forces> Republic, Coruscant_Era2, Clone_Trooper_Squad </Starting_Forces>
 		<Starting_Forces> Republic, Coruscant_Era2, Chancellor_Palpatine_Team </Starting_Forces>
+		<Starting_Forces> Republic, Coruscant_Era2, Grand_Moff_Tarkin_Team </Starting_Forces>
 		<Starting_Forces> Republic, Coruscant_Era2, Rep_Yoda_Company </Starting_Forces>
 		<Starting_Forces> Republic, Coruscant_Era2, A6_Juggernaut_Company </Starting_Forces>
 		<Starting_Forces> Republic, Coruscant_Era2, ATTE_Company </Starting_Forces>

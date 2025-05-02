@@ -796,7 +796,7 @@
 		<Encyclopedia_Text> TEXT_TOOLTIP_TIE_ADVANCED </Encyclopedia_Text>
 		
 		<Land_Model_Name> EV_TIEADVANCED.ALO </Land_Model_Name>
-		<Space_Model_Name> EV_TIEADVANCED.ALO </Space_Model_Name>
+		<Space_Model_Name> Ev_TieAdvancedX1.ALO </Space_Model_Name>
 		<Icon_Name>i_button_darth_vader.tga</Icon_Name>
 		
 		<Scale_Factor>0.9</Scale_Factor>
