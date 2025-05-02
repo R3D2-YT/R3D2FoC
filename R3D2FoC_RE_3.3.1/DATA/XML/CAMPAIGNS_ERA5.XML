@@ -226,6 +226,7 @@
         <Starting_Active_Player> Zsinj </Starting_Active_Player>
 
 		<Story_Name>Empire, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+		<Story_Name>Zsinj, STORY_PLOTS_GC_ZSINJ.XML</Story_Name>
 		<Story_Name>Rebel, STORY_PLOTS_GC_GENARIC_Rebel.XML</Story_Name>
 		<Story_Name>Underworld, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Player, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
