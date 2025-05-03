@@ -223,10 +223,14 @@
         <Home_Location> Rebel, Yavin_Era5 </Home_Location>
         <Home_Location> Underworld, Ryloth_Era5 </Home_Location>
 
-        <Starting_Active_Player> Zsinj </Starting_Active_Player>
+        <Starting_Active_Player> Maldrood </Starting_Active_Player>
 
 		<Story_Name>Empire, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
-		<Story_Name>Zsinj, STORY_PLOTS_GC_ZSINJ.XML</Story_Name>
+		<!--<Story_Name>Zsinj, STORY_PLOTS_GC_ZSINJ.XML</Story_Name>-->
+		<Story_Name>Maldrood, STORY_PLOTS_GC_MALDROOD.XML</Story_Name>
+		<Story_Name>Pentastar, STORY_PLOTS_GC_PENTASTAR.XML</Story_Name>
+		<Story_Name>Eriadu, STORY_PLOTS_GC_ERIADU.XML</Story_Name>
+		<!--<Story_Name>Neutral, STORY_PLOTS_TIERS_AND_TRAITS_INFO.XML</Story_Name>-->
 		<Story_Name>Rebel, STORY_PLOTS_GC_GENARIC_Rebel.XML</Story_Name>
 		<Story_Name>Underworld, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Player, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
