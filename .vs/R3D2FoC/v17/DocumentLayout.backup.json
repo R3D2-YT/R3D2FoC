@@ -50,8 +50,7 @@
               "RelativeToolTip": "DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-03T01:25:07.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T01:25:07.998Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "DATA\\XML\\STORY_GC_PENTASTAR.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-03T01:24:47.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T01:24:47.608Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-03T01:23:58.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-03T01:23:58.713Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-02T22:43:43.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T22:43:43.787Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGNS_ERA5.XML",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_ERA5.XML",
               "RelativeToolTip": "DATA\\XML\\CAMPAIGNS_ERA5.XML",
-              "ViewState": "AgIAANAAAAAAAAAAAAAQwOEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwOUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-05-02T22:07:03.625Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "DATA\\SCRIPTS\\Story\\Dialog_Maldrood_GC_Solo.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-02T22:06:47.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T22:06:47.159Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "DATA\\XML\\STORY_GC_MALDROOD.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-02T22:43:48.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T22:43:48.754Z"
             }
           ]
         }
