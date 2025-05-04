@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_ERA5.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\CAMPAIGNS_ERA5.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_GC_PENTASTAR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_ERA5.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\CAMPAIGNS_ERA5.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_GC_MALDROOD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\SCRIPTS\\Story\\Dialog_Maldrood_GC_Solo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "STORY_PLOTS_GC_PENTASTAR.XML",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML",
               "RelativeDocumentMoniker": "DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML",
@@ -50,17 +50,18 @@
               "RelativeToolTip": "DATA\\XML\\STORY_PLOTS_GC_PENTASTAR.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-03T01:25:07.998Z"
+              "WhenOpened": "2025-05-03T01:25:07.998Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "STORY_GC_PENTASTAR.XML",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_PENTASTAR.XML",
               "RelativeDocumentMoniker": "DATA\\XML\\STORY_GC_PENTASTAR.XML",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_PENTASTAR.XML",
               "RelativeToolTip": "DATA\\XML\\STORY_GC_PENTASTAR.XML",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-05-03T01:24:47.608Z"
             },
@@ -72,13 +73,14 @@
               "RelativeDocumentMoniker": "DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt",
               "RelativeToolTip": "DATA\\SCRIPTS\\Story\\Dialog_Pentastar_GC_Solo.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-03T01:23:58.713Z"
+              "WhenOpened": "2025-05-03T01:23:58.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "STORY_PLOTS_GC_MALDROOD.XML",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML",
               "RelativeDocumentMoniker": "DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML",
@@ -86,11 +88,12 @@
               "RelativeToolTip": "DATA\\XML\\STORY_PLOTS_GC_MALDROOD.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-02T22:43:43.787Z"
+              "WhenOpened": "2025-05-02T22:43:43.787Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CAMPAIGNS_ERA5.XML",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_ERA5.XML",
               "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGNS_ERA5.XML",
@@ -98,8 +101,7 @@
               "RelativeToolTip": "DATA\\XML\\CAMPAIGNS_ERA5.XML",
               "ViewState": "AgIAANMAAAAAAAAAAAAQwOgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-02T22:07:03.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-02T22:07:03.625Z"
             },
             {
               "$type": "Document",
@@ -115,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "STORY_GC_MALDROOD.XML",
               "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_MALDROOD.XML",
               "RelativeDocumentMoniker": "DATA\\XML\\STORY_GC_MALDROOD.XML",
