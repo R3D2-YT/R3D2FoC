@@ -2,9 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\DATA",
+    "\\DATA\\RESOURCES",
+    "\\DATA\\RESOURCES\\GUIDIALOG",
     "\\DATA\\SCRIPTS",
-    "\\DATA\\SCRIPTS\\Story",
-    "\\DATA\\XML"
+    "\\DATA\\XML",
+    "\\DATA\\XML\\PLANETS",
+    "\\DATA\\XML\\UNITS"
   ],
+  "SelectedNode": "\\DATA\\XML\\TRADEROUTELINES.XML",
   "PreviewInSolutionExplorer": false
 }

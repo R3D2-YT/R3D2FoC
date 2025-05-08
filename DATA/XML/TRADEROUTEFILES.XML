@@ -2,6 +2,9 @@
 
 <Trade_Route_Files>
 	<File>TradeRoutes.xml</File>
+	
+	<File>PLANETS\TRADEROUTES_DEEP_CORE_ERA1.xml</File>
+	
 	<File>TRADEROUTES_ERA1.xml</File>
 	<File>TRADEROUTES_ERA2.xml</File>
 	<File>TRADEROUTES_ERA3.xml</File>

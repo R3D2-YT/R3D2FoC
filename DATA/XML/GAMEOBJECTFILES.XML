@@ -51,6 +51,8 @@
 	<File>PLANETS_ERA3.xml</File>
 	<File>PLANETS_ERA4.xml</File>
 	<File>PLANETS_ERA5.xml</File>
+	
+	<File>PLANETS\PLANETS_DEEP_CORE_ERA1.xml</File>
 
 	<File>Projectiles.xml</File>
 
