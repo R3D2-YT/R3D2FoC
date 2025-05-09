@@ -60,5 +60,29 @@
 		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
 	</TradeRoute>
 
+	<TradeRoute Name="Constancia_Crystan_Era1">
+		<Point_A>Constancia_Era1_DeepCore</Point_A>
+		<Point_B>Crystan_Era1_DeepCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Constancia_Dulvoyinn_Era1">
+		<Point_A>Constancia_Era1_DeepCore</Point_A>
+		<Point_B>Dulvoyinn_Era1_DeepCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Constancia_Zamael_Era1">
+		<Point_A>Constancia_Era1_DeepCore</Point_A>
+		<Point_B>Zamael_Era1_DeepCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
 
 </TradeRoutes>

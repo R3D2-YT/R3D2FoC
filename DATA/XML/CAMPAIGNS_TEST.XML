@@ -59,8 +59,11 @@
 			Odik_Byss_Era1,
 			Kalist_Zamael_Era1,
 			Kalist_Crystan_Era1,
-			Lialis_Zamael_Era1
+			Lialis_Zamael_Era1,
 			Lialis_Dulvoyinn_Era1,
+			Constancia_Crystan_Era1,
+			Constancia_Dulvoyinn_Era1,
+			Constancia_Zamael_Era1,
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>
@@ -69,7 +72,7 @@
 
         <Starting_Active_Player> Republic </Starting_Active_Player>
 
-		<Story_Name>Republic, STORY_GC_GENARIC.XML</Story_Name>
+		<Story_Name>Republic, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Mandalorians, .XML</Story_Name>
 		<Story_Name>Player, .XML</Story_Name>
         
