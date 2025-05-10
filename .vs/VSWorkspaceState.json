@@ -7,8 +7,11 @@
     "\\DATA\\SCRIPTS",
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
-    "\\DATA\\XML\\UNITS"
+    "\\DATA\\XML\\STRUCTURES\\LAND",
+    "\\DATA\\XML\\UNITS",
+    "\\DATA\\XML\\UNITS\\HERO",
+    "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\STORY_GC_PENTASTAR.XML",
+  "SelectedNode": "\\DATA\\XML\\EXPANSION_FACTIONS.XML",
   "PreviewInSolutionExplorer": false
 }

@@ -671,7 +671,7 @@
 		</Land_Advisor_Hints>
 		<!-- End Droid Advisor Speech/Text -->
 		<Allies />
-		<Enemies>Empire, Rebel, Pirates, Hostile, Sarlacc, Hutts, Republic, Mandalorians, Confederacy, Player</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Sith, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		<Can_Control_Planets>true</Can_Control_Planets>
 		<Garrison_Reinforcement_Delay_Seconds>20.0</Garrison_Reinforcement_Delay_Seconds>
 		<Multiplayer_Beacon_Type>R_Multiplayer_Beacon</Multiplayer_Beacon_Type>
@@ -729,7 +729,7 @@
 		<Scatters_From_Crushers> true </Scatters_From_Crushers>
 
 		<Allies />
-		<Enemies>Empire, Rebel, Hostile, Sarlacc, Underworld, Republic, Mandalorians</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		<Easily_Bribed> Yes </Easily_Bribed>
 
 		<Can_Control_Planets>true</Can_Control_Planets>
@@ -1455,7 +1455,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Empire, Mandalorians, Player, Confederacy, Sith</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -2208,7 +2208,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Empire, Republic, Player, Confederacy, Sith</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Pentastar, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -2961,7 +2961,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Empire, Republic, Mandalorians, Confederacy, Player</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -3714,7 +3714,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Empire, Republic, Mandalorians, Confederacy</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -4467,7 +4467,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Empire, Republic, Player, Mandalorians</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Pentastar, Player, Empire, Zsinj, Eriadu, Maldrood</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 

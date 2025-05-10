@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<Campaigns>
+
+
+
+<!-- *********************************************************************** -->
+<!-- **************** SANDBOX CAMPAIGN "Galactic Conflict" ***************** -->
+<!-- *********************************************************************** -->
+
+
+	<Campaign Name="Sandbox_DeepCore_Maldrood">
+
+		<Campaign_Set> DeepCore </Campaign_Set>
+		<Sort_Order>1</Sort_Order>
+
+        <Text_ID> TEXT_CAMPAIGN_GC_DEEPCORE </Text_ID>
+		
+        <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_DEEPCORE </Description_Text>
+			<!--TEXT_PLAYABLE_FACTIONS_GC
+			TEXT_FACTION_REPUBLIC
+			TEXT_FACTION_MANDO-->
+
+        <Camera_Shift_X> 40.0 </Camera_Shift_X>
+        <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+        <Camera_Distance> 1200.0 </Camera_Distance>
+
+        <Locations>
+			Galaxy_Core_Art_Model
+			<!-- Deep Core -->
+			Byss_Era1_DeepCore,
+			Crystan_Era1_DeepCore,
+			Constancia_Era1_DeepCore,
+			Dulvoyinn_Era1_DeepCore,
+			EmpressTeta_Era1_DeepCore,
+			Spina_Era1_DeepCore,
+			Ebaq_Era1_DeepCore,
+			Odik_Era1_DeepCore,
+			Ojom_Era1_DeepCore,
+			Ottabesk_Era1_DeepCore,
+			Prakith_Era1_DeepCore,
+			TsossBeacon_Era1_DeepCore,
+			Tython_Era1_DeepCore,
+			Lialis_Era1_DeepCore,
+			Kampe_Era1_DeepCore,
+			Kalist_Era1_DeepCore,
+			Zamael_Era1_DeepCore,
+			Hakassi_Era1_DeepCore,
+			<!-- Northern Core-->
+
+			<!-- Eastern Core-->
+
+			<!-- Southern Core-->
+		</Locations>
+
+        <Trade_Routes>
+			<!-- Deep Core -->
+			Kalist_Byss_Era1,
+			Kampe_Byss_Era1,
+			Odik_Byss_Era1,
+			Kalist_Zamael_Era1,
+			Kalist_Crystan_Era1,
+			Lialis_Zamael_Era1,
+			Lialis_Dulvoyinn_Era1,
+			Constancia_Crystan_Era1,
+			Constancia_Dulvoyinn_Era1,
+			Constancia_Zamael_Era1,
+			Prakith_Odik_Era1,
+			Kampe_Prakith_Era1,
+			Tython_Prakith_Era1,
+			Kampe_Kalist_Era1,
+			Kampe_Ojom_Era1,
+			Kampe_Ebaq_Era1,
+			Ottabesk_Ojom_Era1,
+			Ebaq_Ojom_Era1,
+			Ottabesk_Hakassi_Era1,
+			Ebaq_Hakassi_Era1,
+			Kampe_TsossBeacon_Era1,
+			Prakith_TsossBeacon_Era1,
+			EmpressTeta_TsossBeacon_Era1,
+			EmpressTeta_Tython_Era1,
+			EmpressTeta_Spina_Era1,
+			<!-- Northern Core -->
+			
+		</Trade_Routes>
+
+        <Home_Location> Maldrood, Hakassi_Era1_DeepCore </Home_Location>
+        <Home_Location> Eriadu, Kampe_Era1_DeepCore </Home_Location>
+        <Home_Location> Player, Kalist_Era1_DeepCore </Home_Location>
+
+        <Starting_Active_Player> Eriadu </Starting_Active_Player>
+
+		<Story_Name>Maldrood, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+		<Story_Name>Eriadu, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+		<Story_Name>Player, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+        
+		<AI_Player_Control> Maldrood, BasicEmpire </AI_Player_Control>
+		<AI_Player_Control> Player, None </AI_Player_Control>
+
+		<Human_Victory_Conditions>
+				Galactic_Super_Weapon_Destruction,
+				Galactic_All_Planets_Controlled
+		</Human_Victory_Conditions>
+
+		<AI_Victory_Conditions>
+				Galactic_Super_Weapon_Destruction,
+				Galactic_All_Planets_Controlled
+		</AI_Victory_Conditions>
+
+		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Pirates, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Underworld, DefaultGalacticHints </Markup_Filename>
+		
+		<Supports_Custom_Settings>False</Supports_Custom_Settings>
+		<Show_Completed_Tab>False</Show_Completed_Tab>
+
+		<Starting_Credits> Maldrood,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Maldrood, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Maldrood, 5 </Max_Tech_Level>
+		
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>	
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Teradoc </Starting_Forces>				
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>				
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>				
+        <!-- Thyferra Land Forces -->
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
+
+		<Starting_Credits> Eriadu,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Eriadu, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Eriadu, 5 </Max_Tech_Level>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Briliant </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Acclamator </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Acclamator </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Ground_Barracks </Starting_Forces>
+    </Campaign>
+
+ </Campaigns>

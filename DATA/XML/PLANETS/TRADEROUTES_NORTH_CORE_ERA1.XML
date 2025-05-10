@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<TradeRoutes>
+
+        <!-- Northern Core -->
+
+	<TradeRoute Name="Kalist_Byss_Era1">
+            <Point_A>Kalist_Era1_DeepCore</Point_A>
+            <Point_B>Byss_Era1_DeepCore</Point_B>
+            <HS_Speed_Factor>2.0</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+        </TradeRoute>
+
+
+</TradeRoutes>

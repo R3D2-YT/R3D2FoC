@@ -64,6 +64,23 @@
 			Constancia_Crystan_Era1,
 			Constancia_Dulvoyinn_Era1,
 			Constancia_Zamael_Era1,
+			Prakith_Odik_Era1,
+			Kampe_Prakith_Era1,
+			Tython_Prakith_Era1,
+			Kampe_Kalist_Era1,
+			Kampe_Ojom_Era1,
+			Kampe_Ebaq_Era1,
+			Ottabesk_Ojom_Era1,
+			Ebaq_Ojom_Era1,
+			Ottabesk_Hakassi_Era1,
+			Ebaq_Hakassi_Era1,
+			Kampe_TsossBeacon_Era1,
+			Prakith_TsossBeacon_Era1,
+			EmpressTeta_TsossBeacon_Era1,
+			EmpressTeta_Tython_Era1,
+			EmpressTeta_Spina_Era1,
+			<!-- Northern Core -->
+			
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>
