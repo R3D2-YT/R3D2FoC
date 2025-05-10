@@ -160,6 +160,18 @@
 		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Acclamator </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Eriadu, TsossBeacon_Era1_DeepCore, Eriadu_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Eriadu, TsossBeacon_Era1_DeepCore, Ton_Falk_Eriadu </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Eriadu_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
+		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
+		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Ton_Falk_Eriadu </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Ground_Barracks </Starting_Forces>
     </Campaign>
 
  </Campaigns>

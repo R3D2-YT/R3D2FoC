@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\DATA",
-    "\\DATA\\RESOURCES",
-    "\\DATA\\RESOURCES\\GUIDIALOG",
     "\\DATA\\SCRIPTS",
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
+    "\\DATA\\XML\\STRUCTURES",
     "\\DATA\\XML\\STRUCTURES\\LAND",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\EXPANSION_FACTIONS.XML",
+  "SelectedNode": "\\DATA\\XML\\STRUCTURES\\LAND\\STRUCTURES_LAND_ERIADU_GROUND_BARRACKS.XML",
   "PreviewInSolutionExplorer": false
 }
