@@ -47,7 +47,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures> Light_Shipyard | Medium_Shipyard | Light_Shipyard | Medium_Shipyard </Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 		<Required_Planets/>
 		<Ship_Class>corvette</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -166,7 +166,6 @@
 	<SpaceUnit Name="Pentastar_Raider">
 		<Variant_Of_Existing_Type>Raider_E</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Light_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

@@ -6,11 +6,11 @@
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
-    "\\DATA\\XML\\STRUCTURES\\LAND",
+    "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\STRUCTURES\\LAND\\STRUCTURES_LAND_ERIADU_GROUND_BARRACKS.XML",
+  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_EMPIRE_TIE_AVENGER.XML",
   "PreviewInSolutionExplorer": false
 }

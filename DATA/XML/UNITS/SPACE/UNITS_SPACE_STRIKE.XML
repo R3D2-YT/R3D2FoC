@@ -45,7 +45,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard | Light_Shipyard | Medium_Shipyard </Required_Special_Structures>
+		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -187,19 +187,16 @@
 	<SpaceUnit Name="Pentastar_Strike">
 		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_Strike">
 		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Strike">
 		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

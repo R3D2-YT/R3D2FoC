@@ -87,13 +87,13 @@
         <Home_Location> Eriadu, Kampe_Era1_DeepCore </Home_Location>
         <Home_Location> Player, Kalist_Era1_DeepCore </Home_Location>
 
-        <Starting_Active_Player> Eriadu </Starting_Active_Player>
+        <Starting_Active_Player> Maldrood </Starting_Active_Player>
 
 		<Story_Name>Maldrood, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Eriadu, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Player, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
         
-		<AI_Player_Control> Maldrood, BasicEmpire </AI_Player_Control>
+		<AI_Player_Control> Eriadu, BasicEmpire </AI_Player_Control>
 		<AI_Player_Control> Player, None </AI_Player_Control>
 
 		<Human_Victory_Conditions>
@@ -119,7 +119,7 @@
 		<Max_Tech_Level> Maldrood, 5 </Max_Tech_Level>
 		
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>	
+		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Maldrood_Star_Base_3 </Starting_Forces>	
 		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Teradoc </Starting_Forces>				
 		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>				
 		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>				
@@ -127,21 +127,21 @@
 		<Starting_Forces> Maldrood, Hakassi_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
 
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Maldrood_Star_Base_3 </Starting_Forces>
 		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Maldrood, Ebaq_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
 
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Star_Base_3 </Starting_Forces>
 		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
 
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Maldrood_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Maldrood_Star_Base_3 </Starting_Forces>
 		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<Starting_Forces> Maldrood, Ottabesk_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
 		<!-- Thyferra Land Forces -->
@@ -152,7 +152,8 @@
 		<Max_Tech_Level> Eriadu, 5 </Max_Tech_Level>
 
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Tier_V_Shipyard </Starting_Forces>
 		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Briliant </Starting_Forces>
 		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
 		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
@@ -171,7 +172,7 @@
 		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Eriadu_Nebulon </Starting_Forces>
 		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Ton_Falk_Eriadu </Starting_Forces>
 		<!-- Thyferra Land Forces -->
-		<Starting_Forces> Eriadu, Kampe_Era1_DeepCore, Eriadu_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Eriadu, EmpressTeta_Era1_DeepCore, Eriadu_Ground_Barracks </Starting_Forces>
     </Campaign>
 
  </Campaigns>

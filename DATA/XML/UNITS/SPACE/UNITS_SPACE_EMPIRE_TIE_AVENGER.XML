@@ -180,7 +180,7 @@
 		<Required_Special_Structures />
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard | Heavy_Shipyard | Light_Shipyard | Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 
 		<Squadron_Units>TIE_Avenger, TIE_Avenger, TIE_Avenger, TIE_Avenger</Squadron_Units>
 		<Squadron_Units>TIE_Avenger, TIE_Avenger, TIE_Avenger</Squadron_Units>
@@ -232,13 +232,13 @@
 	<Squadron Name="Pentastar_TIE_Avenger_Squadron">
 		<Variant_Of_Existing_Type>TIE_Avenger_Squadron</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Light_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 	</Squadron>
 	
 	<Squadron Name="Maldrood_TIE_Avenger_Squadron">
 		<Variant_Of_Existing_Type>TIE_Avenger_Squadron</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>Medium_Shipyard | Light_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 	</Squadron>
 
 

@@ -38,7 +38,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures> Light_Shipyard | Medium_Shipyard </Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 		<Shield_Points>800</Shield_Points>
 		<Tactical_Health>500</Tactical_Health>
 		<Damage>20</Damage>
@@ -168,25 +168,25 @@
 		<Variant_Of_Existing_Type>Tartan_Patrol_Cruiser</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
 		<Tech_Level>99</Tech_Level>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Tartan_Patrol_Cruiser_Zsinj">
 		<Variant_Of_Existing_Type>Tartan_Patrol_Cruiser</Variant_Of_Existing_Type>
 		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Tartan_Patrol_Cruiser_Maldrood">
 		<Variant_Of_Existing_Type>Tartan_Patrol_Cruiser</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Tartan_Patrol_Cruiser_Eriadu">
 		<Variant_Of_Existing_Type>Tartan_Patrol_Cruiser</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Tartan_Patrol_Cruiser_Easy">

@@ -25,91 +25,9 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>4</Required_Star_Base_Level>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets>
-				Abregado_Rae_Era2, 
-				AetenII_Era2, 
-				Alderaan_Era2, 
-				AlzocIII_Era2, 
-				Anaxes_Era2, 
-				Atzerri_Era2, 
-				Bespin_Era2, 
-				Bestine_Era2, 
-				Bonadan_Era2, 
-				Bothawui_Era2, 
-				Byss_Era2, 
-				Carida_Era2, 
-				Corellia_Era2, 
-				Corulag_Era2, 
-				Coruscant_Era2, 
-				Dagobah_Era2, 
-				Dantooine_Era2, 
-				Dathomir_Era2, 
-				Endor_Era2, 
-				Eriadu_Era2, 
-				Felucia_Era2, 
-				Fondor_Era2, 
-				Fresia_Era2, 
-				Geonosis_Era2, 
-				Honoghr_Era2, 
-				Hoth_Era2, 
-				Hypori_Era2, 
-				Ilum_Era2, 
-				Jabiim_Era2, 
-				Kamino_Era2, 
-				Kashyyyk_Era2, 
-				Kessel_Era2, 
-				Korriban_Era2, 
-				Kuat_Era2, 
-				Manaan_Era2, 
-				Mandalore_Era2, 
-				MonCalimari_Era2, 
-				Mustafar_Era2, 
-				Muunilinst_Era2, 
-				Myrkr_Era2, 
-				Naboo_Era2, 
-				NalHutta_Era2, 
-				Polus_Era2,
-				Ryloth_Era2, 
-				Saleucami_Era2, 
-				Shola_Era2, 
-				Sullust_Era2, 
-				Taris_Era2, 
-				Tatooine_Era2, 
-				The_Maw_Era2, 
-				Thyferra_Era2, 
-				Utapau_Era2, 
-				VergessoAsteroids_Era2, 
-				Wayland_Era2, 
-				Yavin_Era2,
-                <!-- MOD Planets -->
-				RocheAsteroids_Era2,
-				Centares_Era2,
-				YagDhul_Era2,
-				QatChrystac_Era2,
-				<!-- Deep Core -->
-				Hakassi_Era2,
-				Tython_Era2,
-				Ojom_Era2,
-				Columus_Era2,
-				Empress_Teta_Era2,
-				Kalist_Era2,
-				Kampe_Era2,
-				<!-- New Territories -->
-				Mygeeto_Era2,
-				Jaemus_Era2,
-				Yaga_Minor_Era2,
-				Bastion_Era2,
-				Orinda_Era2,
-				Ord_Trasi_Era2,
-				<!-- Cutric Hedgemony -->
-				Cutric_Era2,
-				Agamar_Era2,
-				Axxila_Era2,
-				Sereno_Era2,
-				Celanon_Era2,
-				<!-- Corporate Sector -->
-				Etti_Era2,
+				
 		</Required_Planets>
 		<Build_Cost_Credits>8500</Build_Cost_Credits>
 		<Build_Time_Seconds>100</Build_Time_Seconds>
@@ -527,91 +445,9 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets>
-				Abregado_Rae_Era3, 
-				AetenII_Era3, 
-				Alderaan_Era3, 
-				AlzocIII_Era3, 
-				Anaxes_Era3, 
-				Atzerri_Era3, 
-				Bespin_Era3, 
-				Bestine_Era3, 
-				Bonadan_Era3, 
-				Bothawui_Era3, 
-				Byss_Era3, 
-				Carida_Era3, 
-				Corellia_Era3, 
-				Corulag_Era3, 
-				Coruscant_Era3, 
-				Dagobah_Era3, 
-				Dantooine_Era3, 
-				Dathomir_Era3, 
-				Endor_Era3, 
-				Eriadu_Era3, 
-				Felucia_Era3, 
-				Fondor_Era3, 
-				Fresia_Era3, 
-				Geonosis_Era3, 
-				Honoghr_Era3, 
-				Hoth_Era3, 
-				Hypori_Era3, 
-				Ilum_Era3, 
-				Jabiim_Era3, 
-				Kamino_Era3, 
-				Kashyyyk_Era3, 
-				Kessel_Era3, 
-				Korriban_Era3, 
-				Kuat_Era3, 
-				Manaan_Era3, 
-				Mandalore_Era3, 
-				MonCalimari_Era3, 
-				Mustafar_Era3, 
-				Muunilinst_Era3, 
-				Myrkr_Era3, 
-				Naboo_Era3, 
-				NalHutta_Era3, 
-				Polus_Era3,
-				Ryloth_Era3, 
-				Saleucami_Era3, 
-				Shola_Era3, 
-				Sullust_Era3, 
-				Taris_Era3, 
-				Tatooine_Era3, 
-				The_Maw_Era3, 
-				Thyferra_Era3, 
-				Utapau_Era3, 
-				VergessoAsteroids_Era3, 
-				Wayland_Era3, 
-				Yavin_Era3,
-                <!-- MOD Planets -->
-				RocheAsteroids_Era3,
-				Centares_Era3,
-				YagDhul_Era3,
-				QatChrystac_Era3,
-				<!-- Deep Core -->
-				Hakassi_Era3,
-				Tython_Era3,
-				Ojom_Era3,
-				Columus_Era3,
-				Empress_Teta_Era3,
-				Kalist_Era3,
-				Kampe_Era3,
-				<!-- New Territories -->
-				Mygeeto_Era3,
-				Jaemus_Era3,
-				Yaga_Minor_Era3,
-				Bastion_Era3,
-				Orinda_Era3,
-				Ord_Trasi_Era3,
-				<!-- Cutric Hedgemony -->
-				Cutric_Era3,
-				Agamar_Era3,
-				Axxila_Era3,
-				Sereno_Era3,
-				Celanon_Era3,
-				<!-- Corporate Sector -->
-				Etti_Era3,
+				
 		</Required_Planets>
 		<Build_Cost_Credits>8500</Build_Cost_Credits>
 		<Build_Time_Seconds>100</Build_Time_Seconds>
@@ -821,95 +657,13 @@
 		<!-- Build Requirements -->
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>1</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets>
-				Abregado_Rae_Era4, 
-				AetenII_Era4, 
-				Alderaan_Era4, 
-				AlzocIII_Era4, 
-				Anaxes_Era4, 
-				Atzerri_Era4, 
-				Bespin_Era4, 
-				Bestine_Era4, 
-				Bonadan_Era4, 
-				Bothawui_Era4, 
-				Byss_Era4, 
-				Carida_Era4, 
-				Corellia_Era4, 
-				Corulag_Era4, 
-				Coruscant_Era4, 
-				Dagobah_Era4, 
-				Dantooine_Era4, 
-				Dathomir_Era4, 
-				Endor_Era4, 
-				Eriadu_Era4, 
-				Felucia_Era4, 
-				Fondor_Era4, 
-				Fresia_Era4, 
-				Geonosis_Era4, 
-				Honoghr_Era4, 
-				Hoth_Era4, 
-				Hypori_Era4, 
-				Ilum_Era4, 
-				Jabiim_Era4, 
-				Kamino_Era4, 
-				Kashyyyk_Era4, 
-				Kessel_Era4, 
-				Korriban_Era4, 
-				Kuat_Era4, 
-				Manaan_Era4, 
-				Mandalore_Era4, 
-				MonCalimari_Era4, 
-				Mustafar_Era4, 
-				Muunilinst_Era4, 
-				Myrkr_Era4, 
-				Naboo_Era4, 
-				NalHutta_Era4, 
-				Polus_Era4,
-				Ryloth_Era4, 
-				Saleucami_Era4, 
-				Shola_Era4, 
-				Sullust_Era4, 
-				Taris_Era4, 
-				Tatooine_Era4, 
-				The_Maw_Era4, 
-				Thyferra_Era4, 
-				Utapau_Era4, 
-				VergessoAsteroids_Era4, 
-				Wayland_Era4, 
-				Yavin_Era4,
-                <!-- MOD Planets -->
-				RocheAsteroids_Era4,
-				Centares_Era4,
-				YagDhul_Era4,
-				QatChrystac_Era4,
-				<!-- Deep Core -->
-				Hakassi_Era4,
-				Tython_Era4,
-				Ojom_Era4,
-				Columus_Era4,
-				Empress_Teta_Era4,
-				Kalist_Era4,
-				Kampe_Era4,
-				<!-- New Territories -->
-				Mygeeto_Era4,
-				Jaemus_Era4,
-				Yaga_Minor_Era4,
-				Bastion_Era4,
-				Orinda_Era4,
-				Ord_Trasi_Era4,
-				<!-- Cutric Hedgemony -->
-				Cutric_Era4,
-				Agamar_Era4,
-				Axxila_Era4,
-				Sereno_Era4,
-				Celanon_Era4,
-				<!-- Corporate Sector -->
-				Etti_Era4,
+			
 		</Required_Planets>
 		<Build_Cost_Credits>8500</Build_Cost_Credits>
 		<Build_Time_Seconds>100</Build_Time_Seconds>
@@ -1102,89 +856,7 @@
 	<SpaceUnit Name="Star_Destroyer_E_Era5">
 		<Variant_Of_Existing_Type>Star_Destroyer_E_Era4</Variant_Of_Existing_Type>
 		<Required_Planets>
-				Abregado_Rae_Era5, 
-				AetenII_Era5, 
-				Alderaan_Era5, 
-				AlzocIII_Era5, 
-				Anaxes_Era5, 
-				Atzerri_Era5, 
-				Bespin_Era5, 
-				Bestine_Era5, 
-				Bonadan_Era5, 
-				Bothawui_Era5, 
-				Byss_Era5, 
-				Carida_Era5, 
-				Corellia_Era5, 
-				Corulag_Era5, 
-				Coruscant_Era5, 
-				Dagobah_Era5, 
-				Dantooine_Era5, 
-				Dathomir_Era5, 
-				Endor_Era5, 
-				Eriadu_Era5, 
-				Felucia_Era5, 
-				Fondor_Era5, 
-				Fresia_Era5, 
-				Geonosis_Era5, 
-				Honoghr_Era5, 
-				Hoth_Era5, 
-				Hypori_Era5, 
-				Ilum_Era5, 
-				Jabiim_Era5, 
-				Kamino_Era5, 
-				Kashyyyk_Era5, 
-				Kessel_Era5, 
-				Korriban_Era5, 
-				Kuat_Era5, 
-				Manaan_Era5, 
-				Mandalore_Era5, 
-				MonCalimari_Era5, 
-				Mustafar_Era5, 
-				Muunilinst_Era5, 
-				Myrkr_Era5, 
-				Naboo_Era5, 
-				NalHutta_Era5, 
-				Polus_Era5,
-				Ryloth_Era5, 
-				Saleucami_Era5, 
-				Shola_Era5, 
-				Sullust_Era5, 
-				Taris_Era5, 
-				Tatooine_Era5, 
-				The_Maw_Era5, 
-				Thyferra_Era5, 
-				Utapau_Era5, 
-				VergessoAsteroids_Era5, 
-				Wayland_Era5, 
-				Yavin_Era5,
-                <!-- MOD Planets -->
-				RocheAsteroids_Era5,
-				Centares_Era5,
-				YagDhul_Era5,
-				QatChrystac_Era5,
-				<!-- Deep Core -->
-				Hakassi_Era5,
-				Tython_Era5,
-				Ojom_Era5,
-				Columus_Era5,
-				Empress_Teta_Era5,
-				Kalist_Era5,
-				Kampe_Era5,
-				<!-- New Territories -->
-				Mygeeto_Era5,
-				Jaemus_Era5,
-				Yaga_Minor_Era5,
-				Bastion_Era5,
-				Orinda_Era5,
-				Ord_Trasi_Era5,
-				<!-- Cutric Hedgemony -->
-				Cutric_Era5,
-				Agamar_Era5,
-				Axxila_Era5,
-				Sereno_Era5,
-				Celanon_Era5,
-				<!-- Corporate Sector -->
-				Etti_Era5,
+				
 		</Required_Planets>
 	</SpaceUnit>
 	
@@ -1197,25 +869,25 @@
 	<SpaceUnit Name="Pentastar_ISD">
 		<Variant_Of_Existing_Type>Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Zsinj_ISD">
 		<Variant_Of_Existing_Type>Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_ISD">
 		<Variant_Of_Existing_Type>Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_ISD">
 		<Variant_Of_Existing_Type>Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 
