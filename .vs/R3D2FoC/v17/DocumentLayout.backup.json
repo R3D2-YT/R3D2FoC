@@ -75,8 +75,7 @@
               "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_INTERDICTOR_STRIKE.XML",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAC8AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T01:33:02.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T01:33:02.956Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "DATA\\XML\\STRUCTURES\\SPACE\\SHIPYARDS_NEW.XML",
               "ViewState": "AgIAAJsAAAAAAAAAAAAgwKEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T00:48:10.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T00:48:10.615Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "DATA\\XML\\EXPANSION_FACTIONS.XML",
               "ViewState": "AgIAAIkCAAAAAAAAAAAQwLMFAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T00:48:55.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T00:48:55.192Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "DATA\\XML\\GAMECONSTANTS.XML",
               "ViewState": "AgIAAOcAAAAAAAAAAAAAAHIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T00:42:54.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T00:42:54.265Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "DATA\\XML\\PLANETS\\PLANETS_DEEP_CORE_ERA1.XML",
               "ViewState": "AgIAAGkEAAAAAAAAAAAQwIEEAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-11T00:35:22.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-11T00:35:22.182Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAF8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-10T19:58:40.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-10T19:58:40.246Z"
             },
             {
               "$type": "Document",
@@ -177,8 +171,7 @@
               "RelativeToolTip": "DATA\\XML\\GAMEOBJECTFILES.XML",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAAJ8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-08T20:49:38.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T20:49:38.611Z"
             }
           ]
         }
