@@ -166,6 +166,7 @@
 	<SpaceUnit Name="Pentastar_Raider">
 		<Variant_Of_Existing_Type>Raider_E</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

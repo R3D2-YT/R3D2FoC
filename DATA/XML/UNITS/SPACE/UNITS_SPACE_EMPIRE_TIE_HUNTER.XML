@@ -180,7 +180,7 @@
 		<Required_Special_Structures />
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 
-		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Seinar, Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 
 		<Squadron_Units>TIE_Hunter, TIE_Hunter, TIE_Hunter, TIE_Hunter</Squadron_Units>
 		<Squadron_Units>TIE_Hunter, TIE_Hunter, TIE_Hunter</Squadron_Units>

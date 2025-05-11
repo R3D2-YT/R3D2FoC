@@ -455,7 +455,7 @@
 		<!--<Required_Ground_Base_Level>2</Required_Ground_Base_Level>-->
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
-		<Required_Special_Structures>E_Ground_Light_Vehicle_Factory</Required_Special_Structures>
+		<Required_Special_Structures>Seinar, E_Ground_Light_Vehicle_Factory</Required_Special_Structures>
 		<Required_Planets />
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 		<Formation_Priority>2</Formation_Priority>
@@ -500,7 +500,7 @@
 	<GroundCompany Name="Maldrood_TIE_Mauler">
 		<Affiliation>Maldrood</Affiliation>
 		<Variant_Of_Existing_Type>Imperial_Anti_Infantry_Brigade</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Maldrood_Ground_Light_Vehicle_Factory</Required_Special_Structures>
+		<Required_Special_Structures>Seinar, Maldrood_Ground_Light_Vehicle_Factory</Required_Special_Structures>
 	</GroundCompany>
 
 

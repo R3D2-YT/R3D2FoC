@@ -63,7 +63,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Headquarters</Required_Special_Structures>
 		<Required_Planets>
 			
 		</Required_Planets>

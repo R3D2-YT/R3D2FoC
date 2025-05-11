@@ -42,6 +42,8 @@
 
 	<File>LandBombingRunUnits.xml</File>
 
+	<File>STRUCTURES\LAND\STRUCTURES_LAND_HEADQUARTERS.xml</File>
+	<File>STRUCTURES\LAND\STRUCTURES_LAND_CORPORATIONS.xml</File>
 	<File>SpecialStructures.xml</File>
 	<File>StarBases.xml</File>
 

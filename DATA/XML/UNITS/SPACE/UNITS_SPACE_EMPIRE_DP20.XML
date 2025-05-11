@@ -46,8 +46,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard | Heavy_Shipyard | Light_Shipyard | Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
-		<Required_Planets>Corellia_Era3, Corellia_Era4</Required_Planets>
+		<Required_Special_Structures>CEC, Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 		<Shield_Points>800</Shield_Points>
 		<Tactical_Health>550</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
@@ -172,6 +171,12 @@
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>2</Population_Value>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Warlord_DP20">
+		<Variant_Of_Existing_Type>DP20_E</Variant_Of_Existing_Type>
+		<Affiliation>Eriadu, Maldrood, Pentastar, Zsinj</Affiliation>
+		<Required_Special_Structures>CEC, Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 
