@@ -2,7 +2,7 @@
 
 <REP_PDF_Dreadnought>
 	
-	<SpaceUnit Name="STRIKE">
+	<SpaceUnit Name="Genaric_STRIKE">
 		<Text_ID>TEXT_UNIT_STRIKE</Text_ID>
 		<Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat Calamari_Cruiser </Encyclopedia_Vulnerable_To>
@@ -41,7 +41,7 @@
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>1</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -76,8 +76,6 @@
 		<HardPoints>
 			HP_STRIKE_01, HP_STRIKE_02, HP_STRIKE_03, HP_STRIKE_04, HP_STRIKE_05, HP_STRIKE_06, HP_Strike_Fighter_Bay_00, HP_Strike_Fighter_Bay_01
 		</HardPoints>
-		
-		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
 		<Icon_Name>i_button_STRIKE.tga</Icon_Name>
@@ -183,20 +181,33 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
+
+	<SpaceUnit Name="Strike">
+		<Variant_Of_Existing_Type>Genaric_Strike</Variant_Of_Existing_Type>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Affiliation>Empire</Affiliation>
+		<Tech_Level>1</Tech_Level>
+	</SpaceUnit>
 	
 	<SpaceUnit Name="Pentastar_Strike">
-		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Genaric_Strike</Variant_Of_Existing_Type>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Affiliation>Pentastar</Affiliation>
+		<Tech_Level>1</Tech_Level>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_Strike">
-		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Genaric_Strike</Variant_Of_Existing_Type>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Affiliation>Maldrood</Affiliation>
+		<Tech_Level>1</Tech_Level>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Strike">
-		<Variant_Of_Existing_Type>Strike</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Genaric_Strike</Variant_Of_Existing_Type>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Affiliation>Eriadu</Affiliation>
+		<Tech_Level>1</Tech_Level>
 	</SpaceUnit>
 
 
