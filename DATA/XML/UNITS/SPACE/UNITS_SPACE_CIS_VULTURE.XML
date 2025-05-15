@@ -49,7 +49,7 @@
 		<Number_per_Squadron>5</Number_per_Squadron>
 		<Size_Value>5</Size_Value>
 
-		<SpaceBehavior>ABILITY_COUNTDOWN, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>HUNT, ABILITY_COUNTDOWN, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 
 		<Projectile_Types>Proj_Ship_Small_Laser_Cannon_Red</Projectile_Types>
 		<Projectile_Fire_Recharge_Seconds>1.0</Projectile_Fire_Recharge_Seconds>
@@ -127,6 +127,14 @@
 		
 		<Strafe_Distance>500.0</Strafe_Distance>
 		<Population_Value>0</Population_Value>
+
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
 		
 		<Abilities SubObjectList="Yes">
 			<Redirect_Blaster_Ability Name="US_Magnetically_Sealed_Armor_Bonus_L1">
@@ -232,6 +240,14 @@
 		<Population_Value>1</Population_Value>
 		<Score_Cost_Credits> 900</Score_Cost_Credits>
 
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
+
 		<Create_Team_Type> Vulture_Team </Create_Team_Type>
 		
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->
@@ -301,6 +317,14 @@
 		<Squadron_Offsets>0.0,-20.0,0.0</Squadron_Offsets>
 		<Squadron_Offsets>-45.0,45.0,0.0</Squadron_Offsets>
 		<Squadron_Offsets>-45.0,-45.0,0.0</Squadron_Offsets>
+
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
 
 		<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->
 		<Tactical_Build_Cost_Multiplayer>675</Tactical_Build_Cost_Multiplayer>

@@ -62,6 +62,10 @@
 			<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0f</Mod_Multiplier>
 			<Mod_Multiplier>SPEED_MULTIPLIER,		2</Mod_Multiplier>
 			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_X_WING</Encyclopedia_Text>
@@ -392,6 +396,14 @@
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
 		<Property_Flags> SmallShip </Property_Flags>
+
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
 		
 		<Encyclopedia_Text>TEXT_TOOLTIP_TIE_BOMBER</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_BOMBER</Encyclopedia_Unit_Class>
@@ -464,6 +476,10 @@
 				<Type>LURE</Type>
 				<!-- details in the unit's XML -->
 			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 			
 		</Unit_Abilities_Data>
 		
@@ -493,7 +509,7 @@
 		<Is_Bomber>no</Is_Bomber>
 		<Autoresolve_Health>150</Autoresolve_Health>
 		<Damage>9</Damage>
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Eriadu, Zsinj, Maldrood, Pentastar</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>240</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
@@ -550,6 +566,10 @@
 				<Effective_Radius> 0.0 </Effective_Radius> <!-- 0.0 means no distance factor, unlimited to entire map -->
 				<Area_Effect_Decal_Distance> 600.0 </Area_Effect_Decal_Distance> 
 				<GUI_Activated_Ability_Name>  </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 			
 		</Unit_Abilities_Data>

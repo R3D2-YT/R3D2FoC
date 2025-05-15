@@ -44,10 +44,11 @@
 
 		<Affiliation>Confederacy</Affiliation>
 		<Tech_Level>1</Tech_Level>
+		<Population_Value>6</Population_Value>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Heavy_Shipyard | Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Damage>70</Damage>
 		<Autoresolve_Health>7500</Autoresolve_Health>

@@ -336,15 +336,16 @@
 
 
 	<Projectile Name="Proj_Ship_Proton_Torpedo">
-		<Text_ID>TEXT_NONE</Text_ID>
+		<Text_ID>TEXT_NONE</Text_ID><!--
 		<Projectile_Custom_Render>2</Projectile_Custom_Render>
 		<Projectile_Width>5</Projectile_Width>
 		<Projectile_Length>10</Projectile_Length>
 		<Projectile_Texture_Slot>2,0</Projectile_Texture_Slot>
-		<Projectile_Laser_Color>238,71,54,255</Projectile_Laser_Color>
-		<Scale_Factor>1.0</Scale_Factor>
+		<Projectile_Laser_Color>238,71,54,255</Projectile_Laser_Color>-->
+		<Space_Model_Name>P_proton_torpedo.alo</Space_Model_Name>
+		<Scale_Factor>180.0</Scale_Factor>
 		<Damage_Type> Damage_Proton_Torp </Damage_Type>
-		<Max_Speed>5</Max_Speed>
+		<Max_Speed>10</Max_Speed>
 		<Max_Rate_Of_Turn>3.0</Max_Rate_Of_Turn>
 		<Behavior>PROJECTILE, HIDE_WHEN_FOGGED</Behavior>
 		<Projectile_Category>MISSILE</Projectile_Category>
@@ -363,7 +364,8 @@
 		<Projectile_Lifetime_Detonation_Particle />
 		<Projectile_Absorbed_By_Shields_Particle />
 		<AI_Combat_Power>600</AI_Combat_Power>
-	</Projectile>
+	
+</Projectile>
 	
 	<!-- Split off from Proton Torpedo to avoid 5x damage vs. cap ships, etc. -->
 	<Projectile Name="Proj_Ship_Proton_Torpedo_Light">
@@ -374,7 +376,7 @@
 	<Projectile Name="Proj_Ship_Proton_Torpedo_Fighter">
 		<Variant_Of_Existing_Type>Proj_Ship_Proton_Torpedo</Variant_Of_Existing_Type>
 		<Projectile_Damage>5.0</Projectile_Damage>
-		<Scale_Factor>0.5</Scale_Factor>
+		<Scale_Factor>90</Scale_Factor>
 		<Damage_Type> Damage_Proton_Torp_Light </Damage_Type>
 	</Projectile>
 
@@ -383,6 +385,38 @@
 		<Projectile_Damage>24.0</Projectile_Damage>
 		<Projectile_Max_Flight_Distance>3500.0</Projectile_Max_Flight_Distance>
 	</Projectile>
+	
+	<Projectile Name="Proj_Ship_Proton_Bomb">
+		<Text_ID>TEXT_NONE</Text_ID><!--
+		<Projectile_Custom_Render>2</Projectile_Custom_Render>
+		<Projectile_Width>5</Projectile_Width>
+		<Projectile_Length>10</Projectile_Length>
+		<Projectile_Texture_Slot>2,0</Projectile_Texture_Slot>
+		<Projectile_Laser_Color>238,71,54,255</Projectile_Laser_Color>-->
+		<Space_Model_Name>P_proton_torpedo_homing.alo</Space_Model_Name>
+		<Scale_Factor>180.0</Scale_Factor>
+		<Damage_Type> Damage_Proton_Torp </Damage_Type>
+		<Max_Speed>1</Max_Speed>
+		<Max_Rate_Of_Turn>0.0</Max_Rate_Of_Turn>
+		<Behavior>PROJECTILE, HIDE_WHEN_FOGGED</Behavior>
+		<Projectile_Category>MISSILE</Projectile_Category>
+		<Projectile_Max_Flight_Distance>2200.0</Projectile_Max_Flight_Distance> <!-- was 1200 -->
+		<Projectile_Max_Scan_Range>0.0</Projectile_Max_Scan_Range>	<!-- was 750, changed so it doesn't reacquire targets -->
+		<Projectile_Damage>60.0</Projectile_Damage>
+		<Projectile_SFXEvent_Detonate>SFX_Proton_Torpedo_Detonation</Projectile_SFXEvent_Detonate>
+		<Projectile_SFXEvent_Detonate_Reduced_By_Armor> SFX_Small_Damage_Detonation </Projectile_SFXEvent_Detonate_Reduced_By_Armor>
+		<Projectile_Does_Shield_Damage>No</Projectile_Does_Shield_Damage>
+		<Projectile_Does_Energy_Damage>No</Projectile_Does_Energy_Damage>
+		<Projectile_Does_Hitpoint_Damage>Yes</Projectile_Does_Hitpoint_Damage>
+		<Projectile_Energy_Per_Shot>0</Projectile_Energy_Per_Shot>
+		<Projectile_Object_Detonation_Particle> Conc_Missile_Detonation_Particle </Projectile_Object_Detonation_Particle>
+		<Projectile_Object_Armor_Reduced_Detonation_Particle>Large_Dud</Projectile_Object_Armor_Reduced_Detonation_Particle>
+		<Projectile_Ground_Detonation_Particle />
+		<Projectile_Lifetime_Detonation_Particle />
+		<Projectile_Absorbed_By_Shields_Particle />
+		<AI_Combat_Power>600</AI_Combat_Power>
+	
+</Projectile>
 
 
 	<Projectile Name="Proj_Ship_Concussion_Missile">
@@ -533,6 +567,36 @@
 		<Variant_Of_Existing_Type>Proj_Ship_Turbolaser_Green</Variant_Of_Existing_Type>
 		<Projectile_Max_Flight_Distance>3500.0</Projectile_Max_Flight_Distance>
 		<Projectile_Damage>18.0</Projectile_Damage>
+	</Projectile>
+
+	<Projectile Name="Proj_Ship_Octuple_Turbolaser_Green">
+		<Text_ID>TEXT_NONE</Text_ID>
+		<Space_Model_Name>w_turbolaser_g8.alo</Space_Model_Name>
+		<!--<Projectile_Custom_Render>2</Projectile_Custom_Render>
+		<Projectile_Width>5</Projectile_Width>
+		<Projectile_Length>10</Projectile_Length>
+		<Projectile_Texture_Slot>2,0</Projectile_Texture_Slot>
+		<Projectile_Laser_Color>139,230,104,255</Projectile_Laser_Color>-->
+		<Scale_Factor>0.2</Scale_Factor>
+		<Damage_Type> Damage_Turbolaser </Damage_Type>
+		<Max_Speed>50.0</Max_Speed>
+		<Max_Rate_Of_Turn>0.0</Max_Rate_Of_Turn>
+		<Behavior>PROJECTILE, HIDE_WHEN_FOGGED</Behavior>
+		<Projectile_Category>Laser</Projectile_Category>
+		<Projectile_Max_Flight_Distance>2200.0</Projectile_Max_Flight_Distance>
+		<Projectile_Damage>120.0</Projectile_Damage>
+		<Projectile_Does_Shield_Damage>Yes</Projectile_Does_Shield_Damage>
+		<Projectile_Does_Energy_Damage>No</Projectile_Does_Energy_Damage>
+		<Projectile_Does_Hitpoint_Damage>Yes</Projectile_Does_Hitpoint_Damage>
+		<Projectile_Energy_Per_Shot>20</Projectile_Energy_Per_Shot>
+		<Projectile_Object_Detonation_Particle> Large_Damage_Space </Projectile_Object_Detonation_Particle>
+		<Projectile_Object_Armor_Reduced_Detonation_Particle>Large_Dud</Projectile_Object_Armor_Reduced_Detonation_Particle>
+		<Projectile_Ground_Detonation_Particle />
+		<Projectile_Lifetime_Detonation_Particle />
+		<Projectile_Absorbed_By_Shields_Particle>Projectile_Shield_Absorb_Large</Projectile_Absorbed_By_Shields_Particle>
+		<AI_Combat_Power>500</AI_Combat_Power>
+		<Projectile_SFXEvent_Detonate> SFX_Small_Damage_Detonation </Projectile_SFXEvent_Detonate>
+		<Projectile_SFXEvent_Detonate_Reduced_By_Armor> SFX_Small_Damage_Detonation </Projectile_SFXEvent_Detonate_Reduced_By_Armor>
 	</Projectile>
 
 

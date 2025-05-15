@@ -53,7 +53,7 @@
 		<Build_Cost_Credits>60</Build_Cost_Credits>
 		<Build_Time_Seconds>10</Build_Time_Seconds>
 		<Size_Value>4</Size_Value>  <!-- 8 -->
-		<SpaceBehavior>ABILITY_COUNTDOWN, LURE, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>HUNT, ABILITY_COUNTDOWN, LURE, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 			
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Damage>7</Damage>
@@ -162,6 +162,10 @@
 	
 				<Mod_Multiplier>TAKE_DAMAGE_MULTIPLIER,	0.7f</Mod_Multiplier><!-- Invulnerable -->
 			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 			
 		</Unit_Abilities_Data>
 
@@ -226,7 +230,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Number_per_Squadron>5</Number_per_Squadron>
 		<Size_Value>8</Size_Value>
-		<SpaceBehavior>FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Damage>5</Damage>
 		
@@ -313,6 +317,10 @@
 			<Mod_Multiplier>SPEED_MULTIPLIER,		            1.3</Mod_Multiplier>
 			<SFXEvent_GUI_Unit_Ability_Activated>Unit_Ability_On_X_Wing</SFXEvent_GUI_Unit_Ability_Activated>
 			<SFXEvent_GUI_Unit_Ability_Deactivated>Unit_Ability_Off_X_Wing</SFXEvent_GUI_Unit_Ability_Deactivated>
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 		</Unit_Abilities_Data>
 		
@@ -536,7 +544,7 @@
 		<Build_Cost_Credits>30</Build_Cost_Credits>
 		<Build_Time_Seconds>5</Build_Time_Seconds>
 		<Size_Value>8</Size_Value>
-		<SpaceBehavior> FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<HardPoints>
 			HP_BOMBER_00, HP_BOMBER_02
@@ -593,6 +601,14 @@
 		<Targeting_Stickiness_Time_Threshold>5.0</Targeting_Stickiness_Time_Threshold>
 
 		<No_Colorization_Color> 75, 75, 75, 255 </No_Colorization_Color>
+
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
 		
 		<Spin_Away_On_Death>Yes</Spin_Away_On_Death>
 		<Spin_Away_On_Death_Chance>0.4</Spin_Away_On_Death_Chance>
@@ -868,7 +884,7 @@
 		<Encyclopedia_Text>TEXT_TOOLTIP_TIE_SCOUT</Encyclopedia_Text>
 		<Encyclopedia_Good_Against> Y-wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> A-Wing Crusader_Gunship</Encyclopedia_Vulnerable_To>
-		<Space_Model_Name>EV_TIESCOUT.ALO</Space_Model_Name>
+		<Space_Model_Name>Ev_TieSRScout.ALO</Space_Model_Name>
 		<Mass>0.995</Mass>
 		<Scale_Factor>0.7</Scale_Factor>
 		<Fires_Forward>no</Fires_Forward>
@@ -893,7 +909,7 @@
 		<Begin_Turn_Towards_Distance>100.0</Begin_Turn_Towards_Distance>
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.1</Maintenance_Cost>
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Eriadu, Zsinj, Maldrood, Pentastar</Affiliation>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>2</Required_Star_Base_Level>
 		<Shield_Points>30</Shield_Points>
@@ -913,7 +929,7 @@
 		<Build_Cost_Credits>80</Build_Cost_Credits>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
 		<Size_Value>8</Size_Value>
-		<SpaceBehavior>FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, ABILITY_COUNTDOWN, NEBULA </SpaceBehavior>
+		<SpaceBehavior>HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, ABILITY_COUNTDOWN, NEBULA </SpaceBehavior>
 		<Avoid_Enemy_Exclusion_Range>500.0</Avoid_Enemy_Exclusion_Range>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Damage>3</Damage>
@@ -999,6 +1015,10 @@
 				<Effective_Radius> 0.0 </Effective_Radius> <!-- 0.0 means no distance factor, unlimited to entire map -->
 				<Area_Effect_Decal_Distance> 600.0 </Area_Effect_Decal_Distance> 
 				<GUI_Activated_Ability_Name>  </GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 			
 		</Unit_Abilities_Data>

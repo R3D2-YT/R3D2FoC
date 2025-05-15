@@ -64,7 +64,7 @@
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		<Behavior> DUMMY_STARSHIP, SELECTABLE, POWERED, SHIELDED </Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
 
 		<Space_FOW_Reveal_Range>1200.0</Space_FOW_Reveal_Range>
 		<Targeting_Max_Attack_Distance>1000.0</Targeting_Max_Attack_Distance>
@@ -76,7 +76,7 @@
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
 		
 		<HardPoints>
-			HP_Nebulon_Weapon_FL, HP_Nebulon_Weapon_FR, HP_Nebulon_Weapon_BL, HP_Nebulon_Weapon_BR
+			HP_Nebulon_Weapon_FL, HP_Nebulon_Weapon_FR, HP_Nebulon_Weapon_BL, HP_Nebulon_Weapon_BR, HP_FighterBay
 		</HardPoints>
 
 		<Target_Bones> MISSILE_TARGET00, MISSILE_TARGET01 </Target_Bones>
@@ -393,9 +393,12 @@
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Nebulon">
-		<Variant_Of_Existing_Type>Nebulon_B_Frigate_E</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Nebulon_B_Frigate</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
 		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		
 	</SpaceUnit>
 
 	<SpaceUnit Name="Alliance_Assault_Frigate">

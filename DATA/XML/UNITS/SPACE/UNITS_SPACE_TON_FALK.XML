@@ -40,7 +40,7 @@
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>0</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -71,14 +71,6 @@
 
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
 		<Targeting_Max_Attack_Distance>1400.0</Targeting_Max_Attack_Distance>
-		
-		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
-
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
 		
 		<HardPoints>
 			HP_Ton_Falk_00,
@@ -198,17 +190,47 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
+
+	<SpaceUnit Name="Ton_Falk_E">
+		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
+		<Tech_Level>1</Tech_Level>
+		<Affiliation>Empire</Affiliation>
+		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+
+	</SpaceUnit>
 	
 	<SpaceUnit Name="Ton_Falk_Zsinj">
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
+		<Tech_Level>1</Tech_Level>
 		<Affiliation>Zsinj</Affiliation>
 		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Raptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Raptor_Squadron, 8</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Ton_Falk_Eriadu">
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
+		<Tech_Level>1</Tech_Level>
 		<Affiliation>Eriadu</Affiliation>
 		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 8</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		
 	</SpaceUnit>
 
 
