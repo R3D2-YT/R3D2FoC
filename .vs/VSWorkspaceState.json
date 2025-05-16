@@ -7,8 +7,9 @@
     "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
     "\\DATA\\XML\\UNITS",
+    "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_EMPIRE_NEBULONB.XML",
+  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_Raider.xml",
   "PreviewInSolutionExplorer": false
 }

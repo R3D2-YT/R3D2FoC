@@ -116,7 +116,7 @@
 
 
 	<UniqueUnit Name="Lancet_Star_Destroyer">
-		<Variant_Of_Existing_Type>Star_Destroyer_E_No_Fighters</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Maldrood_ISDII</Variant_Of_Existing_Type>
 		
 		<Text_ID>TEXT_UNIT_SD_LANCET</Text_ID>
 		<Encyclopedia_Text>
