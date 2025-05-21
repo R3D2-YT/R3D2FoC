@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\DATA",
-    "\\DATA\\SCRIPTS",
+    "\\DATA\\RESOURCES",
+    "\\DATA\\RESOURCES\\GUIDIALOG",
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
@@ -10,6 +11,5 @@
     "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_Raider.xml",
   "PreviewInSolutionExplorer": false
 }

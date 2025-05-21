@@ -471,11 +471,6 @@
 		
 		<!-- Non-Hero unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>LURE</Type>
-				<!-- details in the unit's XML -->
-			</Unit_Ability>
 
 			<Unit_Ability>
 				<Type>HUNT</Type>

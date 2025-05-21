@@ -118,50 +118,6 @@
 		<Target_Stealth_Units>Yes</Target_Stealth_Units>
 		<!-- Non-Hero unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>LURE</Type>
-				
-				<!-- If you change this - please make sure you communicate the change to artists (to Mike specifically).
-				     Any change to this radius will require a manual adjustment to the particle effect. Thank you. -->
-				<Effective_Radius>350</Effective_Radius>
-				
-				<Target_Types>
-					TIE_Fighter, 
-					TIE_Fighter_Squadron, 
-					TIE_Interceptor,
-					TIE_Interceptor_Squadron,
-					TIE_Scout, 
-					TIE_Scout_Squadron, 
-					TIE_Defender,
-					TIE_Defender_Squadron,
-					Z-95_Headhunter, 
-					Z95_Headhunter_Squadron, 
-					Z95_Headhunter_Rebel_Squadron, 
-					Pirate_Fighter_Squadron,
-					Pirate_Fighter,
-					VWing_Squadron_P, 
-					VWing_Squadron_R, 
-					VWing_Squadron_E, 
-					Rebel_X-Wing_Squadron, 
-					A_Wing_Squadron,
-					Z-95_Headhunter_Rebel,
-					Skipray_Squadron,
-					Skipray_Blastboat,
-					StarViper_Squadron,
-					Starviper_Fighter,
-				</Target_Types>
-
-				<Recharge_Seconds>45</Recharge_Seconds>
-				<Expiration_Seconds>16</Expiration_Seconds>
-				
-				<Is_Pulsing>Yes</Is_Pulsing>
-				<Pulse_Frequency_Secs>0.5</Pulse_Frequency_Secs>
-				<Max_Number_Of_Pulses>40</Max_Number_Of_Pulses>
-				<Particle_Effect>Lure_Ability_Particle</Particle_Effect>
-	
-				<Mod_Multiplier>TAKE_DAMAGE_MULTIPLIER,	0.7f</Mod_Multiplier><!-- Invulnerable -->
-			</Unit_Ability>
 
 			<Unit_Ability>
 				<Type>HUNT</Type>
