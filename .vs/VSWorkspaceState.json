@@ -7,9 +7,11 @@
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
+    "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
+  "SelectedNode": "\\DATA\\XML\\HARDPOINTDATAFILES.XML",
   "PreviewInSolutionExplorer": false
 }

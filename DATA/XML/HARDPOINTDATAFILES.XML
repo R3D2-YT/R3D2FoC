@@ -6,6 +6,8 @@
 	<File>HardPoints_Underworld.xml</File>
 	<File>UNITS/SPACE/HardPoints_Genaric.xml</File>
 	
+	<File>UNITS/SPACE/HardPoints_XQ1.xml</File>
+	
 	<!-- Republic -->
 	
 	<File>UNITS/SPACE/HardPoints_Besh.xml</File>

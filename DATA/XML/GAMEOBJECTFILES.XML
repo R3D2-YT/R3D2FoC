@@ -160,6 +160,7 @@
 	<!-- Shipyards -->
 
 	<File>STRUCTURES\SPACE\SHIPYARDS_NEW.xml</File>
+	<File>STRUCTURES\SPACE\XQ1.xml</File>
 	<File>STRUCTURES\SPACE\SHIP_MARKET.xml</File>
 
 	<!-- Faction-specific shipyards removed in favor of genaric all-faction shipyards -->
