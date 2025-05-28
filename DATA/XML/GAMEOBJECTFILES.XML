@@ -160,8 +160,14 @@
 	<!-- Shipyards -->
 
 	<File>STRUCTURES\SPACE\SHIPYARDS_NEW.xml</File>
-	<File>STRUCTURES\SPACE\XQ1.xml</File>
 	<File>STRUCTURES\SPACE\SHIP_MARKET.xml</File>
+
+	<!-- Defensive Stations -->
+
+	<File>STRUCTURES\SPACE\XQ1.xml</File>
+	<File>STRUCTURES\SPACE\GOLAN_I.xml</File>
+	<File>STRUCTURES\SPACE\GOLAN_II.xml</File>
+	<File>STRUCTURES\SPACE\GOLAN_III.xml</File>
 
 	<!-- Faction-specific shipyards removed in favor of genaric all-faction shipyards -->
 
