@@ -165,6 +165,7 @@
 	<!-- Defensive Stations -->
 
 	<File>STRUCTURES\SPACE\XQ1.xml</File>
+	<File>STRUCTURES\SPACE\TRADE_STATION.xml</File>
 	<File>STRUCTURES\SPACE\GOLAN_I.xml</File>
 	<File>STRUCTURES\SPACE\GOLAN_II.xml</File>
 	<File>STRUCTURES\SPACE\GOLAN_III.xml</File>
