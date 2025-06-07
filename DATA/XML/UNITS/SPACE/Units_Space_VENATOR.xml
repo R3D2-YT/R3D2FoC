@@ -265,7 +265,7 @@
 		</Required_Planets>
 		
 		<Tech_Level>1</Tech_Level>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<!-- Fighter complement -->
 		<Starting_Spawned_Units_Tech_0>VWing_Squadron_REP, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>YWing_Squadron_REP, 2</Starting_Spawned_Units_Tech_0>
@@ -288,7 +288,7 @@
 	<SpaceUnit Name="Eriadu_Venator">
 		<Variant_Of_Existing_Type>Venator_Destroyer</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Venator_Destroyer_R">

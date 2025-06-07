@@ -45,7 +45,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -234,7 +234,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 		<Required_Planets>
 				Abregado_Rae_Era2, 
 				AetenII_Era2, 
@@ -467,21 +467,25 @@
 	<SpaceUnit Name="Pentastar_Gladiator">
 		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Zsinj_Gladiator">
 		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
 		<Affiliation>Zsinj</Affiliation>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_Gladiator">
 		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Gladiator">
 		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
+		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

@@ -25,7 +25,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets>
 				
 		</Required_Planets>
@@ -229,8 +229,8 @@
 		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>4</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Build_Cost_Credits>8000</Build_Cost_Credits>
 		<Build_Time_Seconds>90</Build_Time_Seconds>
@@ -418,13 +418,13 @@
 	<SpaceUnit Name="Maldrood_TSD">
 		<Variant_Of_Existing_Type>Tector_Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_TSD">
 		<Variant_Of_Existing_Type>Tector_Star_Destroyer_E</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

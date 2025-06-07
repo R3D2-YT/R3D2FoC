@@ -46,7 +46,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets /> 
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -201,7 +201,7 @@
 
 	<SpaceUnit Name="Victory_Destroyer_I">
 		<Variant_Of_Existing_Type>Victory_Destroyer_I_No_Fighters</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Affiliation>Republic</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		
@@ -224,7 +224,7 @@
 	
 	<SpaceUnit Name="Victory_Destroyer_I_E">
 		<Variant_Of_Existing_Type>Victory_Destroyer_I_No_Fighters</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		<!-- Fighter complement -->
@@ -240,7 +240,7 @@
 	
 	<SpaceUnit Name="Victory_Destroyer_I_Pentastar">
 		<Variant_Of_Existing_Type>Victory_Destroyer_I_No_Fighters</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Affiliation>Pentastar</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		<!-- Fighter complement -->
@@ -256,7 +256,7 @@
 	
 	<SpaceUnit Name="Victory_Destroyer_I_Zsinj">
 		<Variant_Of_Existing_Type>Victory_Destroyer_I_No_Fighters</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Affiliation>Zsinj</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		<!-- Fighter complement -->
@@ -272,7 +272,7 @@
 	
 	<SpaceUnit Name="Victory_Destroyer_I_Eriadu">
 		<Variant_Of_Existing_Type>Victory_Destroyer_I_No_Fighters</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Affiliation>Eriadu</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		<!-- Fighter complement -->

@@ -25,7 +25,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>KDY, Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Build_Cost_Credits>10500</Build_Cost_Credits>
 		<Build_Time_Seconds>100</Build_Time_Seconds>
@@ -222,11 +222,13 @@
 	<SpaceUnit Name="Pentastar_Praetor">
 		<Variant_Of_Existing_Type>Praetor_E</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
+		<Required_Special_Structures>KDY, Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Praetor">
 		<Variant_Of_Existing_Type>Praetor_E</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
+		<Required_Special_Structures>KDY, Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

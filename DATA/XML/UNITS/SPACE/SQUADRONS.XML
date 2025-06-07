@@ -513,7 +513,7 @@
 		<Tech_Level>3</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Seinar, Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>TIE_Scout, TIE_Scout</Squadron_Units>
 		<Squadron_Units>TIE_Scout</Squadron_Units>
