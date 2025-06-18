@@ -3,14 +3,11 @@
     "",
     "\\DATA",
     "\\DATA\\XML",
+    "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
-    "\\DATA\\XML\\STRUCTURES\\ECONOMY",
-    "\\DATA\\XML\\STRUCTURES\\LAND",
-    "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
-    "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
+  "SelectedNode": "\\DATA\\XML\\UNITS_SPACE_UNDERWORLD_CRUSADER_GUNSHIP.XML",
   "PreviewInSolutionExplorer": false
 }

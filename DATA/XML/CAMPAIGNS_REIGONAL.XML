@@ -140,8 +140,9 @@
 
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Star_Base_3 </Starting_Forces>
-		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
-		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Victory_Destroyer_CC </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, TIE_Scout_Squadron </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, E_Lancer </Starting_Forces>
+		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, E_Lancer </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Maldrood, Ojom_Era1_DeepCore, Maldrood_Ground_Barracks </Starting_Forces>
 
