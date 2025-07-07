@@ -21,7 +21,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-35.0, -59.0, 10.0</Galactic_Position>
+    <Galactic_Position>-23.0, -57.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>5</Max_Space_Base>
@@ -118,7 +118,7 @@
     <Terrain>Urban</Terrain>
     <Planet_Credit_Value>85</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>38.0, -10.0, 10.0</Galactic_Position>
+    <Galactic_Position>34.0, -11.0, 10.0</Galactic_Position>
     <Special_Structures_Land>5</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>5</Max_Space_Base>
@@ -198,7 +198,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>70</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>17.0, -88.0, 10.0</Galactic_Position>
+    <Galactic_Position>15.0, -79.0, 10.0</Galactic_Position>
     <Special_Structures_Land>3</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>4</Max_Space_Base>
@@ -272,7 +272,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-35.0, -133.0, 10.0</Galactic_Position>
+    <Galactic_Position>-28.0, -119.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>3</Max_Space_Base>
@@ -347,7 +347,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>38.0, -148.0, 10.0</Galactic_Position>
+    <Galactic_Position>34.0, -132.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
@@ -422,7 +422,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-59.0, -197.0, 10.0</Galactic_Position>
+    <Galactic_Position>-51.0, -174.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
@@ -497,7 +497,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>24.0, -208.0, 10.0</Galactic_Position>
+    <Galactic_Position>21.0, -184.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
@@ -572,7 +572,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-21.0, -257.0, 10.0</Galactic_Position>
+    <Galactic_Position>-16.0, -228.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>1</Max_Space_Base>
@@ -647,7 +647,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-84.0, 0.0, 10.0</Galactic_Position>
+    <Galactic_Position>-71.0, -2.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>1</Max_Space_Base>
@@ -722,7 +722,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-21.0, 49.0, 10.0</Galactic_Position>
+    <Galactic_Position>-19.0, 38.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>4</Max_Space_Base>
@@ -797,7 +797,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>38.0, 63.0, 10.0</Galactic_Position>
+    <Galactic_Position>34.0, 53.0, 10.0</Galactic_Position>
     <Special_Structures_Land>0</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>1</Max_Space_Base>
@@ -872,7 +872,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-35.0, 126.0, 10.0</Galactic_Position>
+    <Galactic_Position>-28.0, 110.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
@@ -947,7 +947,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>38.0, 137.0, 10.0</Galactic_Position>
+    <Galactic_Position>34.0, 119.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
@@ -1022,7 +1022,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>38.0, 200.0, 10.0</Galactic_Position>
+    <Galactic_Position>34.0, 174.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>1</Max_Space_Base>
@@ -1097,7 +1097,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>112.0, -10.0, 10.0</Galactic_Position>
+    <Galactic_Position>98.0, -15.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>3</Max_Space_Base>
@@ -1172,7 +1172,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>91.0, -84.0, 10.0</Galactic_Position>
+    <Galactic_Position>80.0, -74.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>3</Max_Space_Base>
@@ -1269,7 +1269,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>148.0, -95.0, 10.0</Galactic_Position>
+    <Galactic_Position>132.0, -85.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>3</Max_Space_Base>
@@ -1344,7 +1344,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>172.0, -21.0, 10.0</Galactic_Position>
+    <Galactic_Position>152.0, -24.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>4</Max_Space_Base>

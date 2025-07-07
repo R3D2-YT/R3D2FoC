@@ -4,13 +4,221 @@
 
         <!-- Northern Core -->
 
-	<TradeRoute Name="Kalist_Byss_Era1">
-            <Point_A>Kalist_Era1_DeepCore</Point_A>
-            <Point_B>Byss_Era1_DeepCore</Point_B>
+	<TradeRoute Name="EmpressTeta_Foreost_Era1">
+            <Point_A>EmpressTeta_Era1_DeepCore</Point_A>
+            <Point_B>Foreost_Era1_NorthCore</Point_B>
             <HS_Speed_Factor>2.0</HS_Speed_Factor>
             <Political_Control_Gain>0</Political_Control_Gain>
             <Credit_Gain_Factor>0.5</Credit_Gain_Factor>
         </TradeRoute>
+
+	<TradeRoute Name="Spina_Foreost_Era1">
+		<Point_A>Spina_Era1_DeepCore</Point_A>
+		<Point_B>Foreost_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Coruscant_Foreost_Era1">
+		<Point_A>Coruscant_Era1_NorthCore</Point_A>
+		<Point_B>Foreost_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Coruscant_Spina_Era1">
+		<Point_A>Coruscant_Era1_NorthCore</Point_A>
+		<Point_B>Spina_Era1_DeepCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Coruscant_Metellos_Era1">
+		<Point_A>Coruscant_Era1_NorthCore</Point_A>
+		<Point_B>Metellos_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Coruscant_Alsakan_Era1">
+		<Point_A>Coruscant_Era1_NorthCore</Point_A>
+		<Point_B>Alsakan_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Scipio_Metellos_Era1">
+		<Point_A>Scipio_Era1_NorthCore</Point_A>
+		<Point_B>Metellos_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Scipio_Ragoon_Era1">
+		<Point_A>Scipio_Era1_NorthCore</Point_A>
+		<Point_B>Ragoon_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Ragoon_Metellos_Era1">
+		<Point_A>Ragoon_Era1_NorthCore</Point_A>
+		<Point_B>Metellos_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Fresia_Metellos_Era1">
+		<Point_A>Fresia_Era1_NorthCore</Point_A>
+		<Point_B>Metellos_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Fresia_CalSeti_Era1">
+		<Point_A>Fresia_Era1_NorthCore</Point_A>
+		<Point_B>CalSeti_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Nzoth_CalSeti_Era1">
+		<Point_A>Nzoth_Era1_NorthCore</Point_A>
+		<Point_B>CalSeti_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Nzoth_Jtptan_Era1">
+		<Point_A>Nzoth_Era1_NorthCore</Point_A>
+		<Point_B>Jtptan_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Nzoth_Aradia_Era1">
+		<Point_A>Nzoth_Era1_NorthCore</Point_A>
+		<Point_B>Aradia_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Aradia_Jtptan_Era1">
+		<Point_A>Aradia_Era1_NorthCore</Point_A>
+		<Point_B>Jtptan_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Aradia_XaFel_Era1">
+		<Point_A>Aradia_Era1_NorthCore</Point_A>
+		<Point_B>XaFel_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Ragoon_XaFel_Era1">
+		<Point_A>Ragoon_Era1_NorthCore</Point_A>
+		<Point_B>XaFel_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Bilbrighi_XaFel_Era1">
+		<Point_A>Bilbrighi_Era1_NorthCore</Point_A>
+		<Point_B>XaFel_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Anaxes_Alsakan_Era1">
+		<Point_A>Anaxes_Era1_NorthCore</Point_A>
+		<Point_B>Alsakan_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Anaxes_Chandrilla_Era1">
+		<Point_A>Anaxes_Era1_NorthCore</Point_A>
+		<Point_B>Chandrilla_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Anaxes_Corulag_Era1">
+		<Point_A>Anaxes_Era1_NorthCore</Point_A>
+		<Point_B>Corulag_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Chandrilla_Corulag_Era1">
+		<Point_A>Chandrilla_Era1_NorthCore</Point_A>
+		<Point_B>Corulag_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Chandrilla_Brentaal_Era1">
+		<Point_A>Chandrilla_Era1_NorthCore</Point_A>
+		<Point_B>Brentaal_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Corulag_Brentaal_Era1">
+		<Point_A>Corulag_Era1_NorthCore</Point_A>
+		<Point_B>Brentaal_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Corulag_Caamas_Era1">
+		<Point_A>Corulag_Era1_NorthCore</Point_A>
+		<Point_B>Caamas_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Alderaan_Caamas_Era1">
+		<Point_A>Alderaan_Era1_NorthCore</Point_A>
+		<Point_B>Caamas_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Carida_Brentaal_Era1">
+		<Point_A>Carida_Era1_NorthCore</Point_A>
+		<Point_B>Brentaal_Era1_NorthCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
 
 
 </TradeRoutes>

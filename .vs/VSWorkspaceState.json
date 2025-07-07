@@ -5,9 +5,10 @@
     "\\DATA\\XML",
     "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
+    "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\UNITS_SPACE_UNDERWORLD_CRUSADER_GUNSHIP.XML",
+  "SelectedNode": "\\DATA\\XML\\PLANETS\\PLANETS_NORTHERN_CORE_ERA1.XML",
   "PreviewInSolutionExplorer": false
 }

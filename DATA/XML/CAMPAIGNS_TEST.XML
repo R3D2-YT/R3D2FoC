@@ -51,8 +51,21 @@
 			Alsakan_Era1_NorthCore,
 			Metellos_Era1_NorthCore,
 			Fresia_Era1_NorthCore,
-			
-
+			CalSeti_Era1_NorthCore,
+			Nzoth_Era1_NorthCore,
+			Jtptan_Era1_NorthCore,
+			Aradia_Era1_NorthCore,
+			Ragoon_Era1_NorthCore,
+			XaFel_Era1_NorthCore,
+			Bilbrighi_Era1_NorthCore,
+			Scipio_Era1_NorthCore,
+			Anaxes_Era1_NorthCore
+			Chandrilla_Era1_NorthCore,
+			Corulag_Era1_NorthCore,
+			Brentaal_Era1_NorthCore,
+			Caamas_Era1_NorthCore,
+			Alderaan_Era1_NorthCore,
+			Carida_Era1_NorthCore,
 			<!-- Eastern Core-->
 
 			<!-- Southern Core-->
@@ -86,7 +99,32 @@
 			EmpressTeta_Tython_Era1,
 			EmpressTeta_Spina_Era1,
 			<!-- Northern Core -->
-			
+			EmpressTeta_Foreost_Era1,
+			Spina_Foreost_Era1,
+			Coruscant_Foreost_Era1,
+			Coruscant_Spina_Era1,
+			Coruscant_Metellos_Era1,
+			Coruscant_Alsakan_Era1,
+			Scipio_Metellos_Era1,
+			Scipio_Ragoon_Era1,
+			Ragoon_Metellos_Era1,
+			Fresia_Metellos_Era1,
+			Fresia_CalSeti_Era1,
+			Nzoth_CalSeti_Era1,
+			Nzoth_Jtptan_Era1,
+			Nzoth_Aradia_Era1,
+			Aradia_Jtptan_Era1,
+			Aradia_XaFel_Era1,
+			Ragoon_XaFel_Era1,
+			Bilbrighi_XaFel_Era1,
+			Anaxes_Alsakan_Era1,
+			Anaxes_Chandrilla_Era1,
+			Anaxes_Corulag_Era1,
+			Chandrilla_Corulag_Era1,
+			Corulag_Brentaal_Era1,
+			Corulag_Caamas_Era1,
+			Alderaan_Caamas_Era1,
+			Carida_Brentaal_Era1,
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>
