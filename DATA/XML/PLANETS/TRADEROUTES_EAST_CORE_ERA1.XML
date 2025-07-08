@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<TradeRoutes>
+
+        <!-- Eastern Core -->
+
+    	<TradeRoute Name="Alderaan_Kant_Era1">
+            <Point_A>Alderaan_Era1_NorthCore</Point_A>
+            <Point_B>Kant_Era1_NorthCore</Point_B>
+            <HS_Speed_Factor>2.0</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+        </TradeRoute>
+
+
+</TradeRoutes>

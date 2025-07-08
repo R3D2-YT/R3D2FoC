@@ -67,6 +67,8 @@
 			Alderaan_Era1_NorthCore,
 			Carida_Era1_NorthCore,
 			<!-- Eastern Core-->
+			Columus_Era1_EastCore,
+			
 
 			<!-- Southern Core-->
 		</Locations>
@@ -125,6 +127,9 @@
 			Corulag_Caamas_Era1,
 			Alderaan_Caamas_Era1,
 			Carida_Brentaal_Era1,
+			<!-- Eastern Core -->
+			Alderaan_Kant_Era1,
+			
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>
