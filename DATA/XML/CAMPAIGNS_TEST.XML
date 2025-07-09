@@ -69,8 +69,16 @@
 			<!-- Eastern Core-->
 			Columus_Era1_EastCore,
 			Kant_Era1_EastCore,
-			Kuat_Era1_EastCore
-
+			Kuat_Era1_EastCore,
+			Pria_Era1_EastCore,
+			Sarapim_Era1_EastCore,
+			Rendili_Era1_EastCore,
+			Rehemsa_Era1_EastCore,
+			Corellia_Era1_EastCore,
+			Duro_Era1_EastCore,
+			Nubia_Era1_EastCore,
+			Tinnel_Era1_EastCore,
+			Shumogi_Era1_EastCore,
 			<!-- Southern Core-->
 		</Locations>
 
@@ -130,7 +138,23 @@
 			Carida_Brentaal_Era1,
 			<!-- Eastern Core -->
 			Alderaan_Kant_Era1,
-			
+			Columus_Hakassi_Era1,
+			Alderaan_Sarapim_Era1,
+			Kuat_Kant_Era1,
+			Kuat_Pria_Era1,
+			Sarapim_Pria_Era1,
+			Sarapim_Columus_Era1,
+			Sarapim_Kant_Era1,
+			Sarapim_Rendili_Era1,
+			Sarapim_Rehemsa_Era1,
+			Rendili_Rehemsa_Era1,
+			Corellia_Rehemsa_Era1,
+			Duro_Rehemsa_Era1,
+			Duro_Corellia_Era1,
+			Duro_Nubia_Era1,
+			Tinnel_Nubia_Era1,
+			Tinnel_Shumogi_Era1,
+			Nubia_Shumogi_Era1
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>

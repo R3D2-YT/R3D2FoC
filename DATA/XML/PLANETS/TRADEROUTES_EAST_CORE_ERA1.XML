@@ -4,13 +4,151 @@
 
         <!-- Eastern Core -->
 
+	<TradeRoute Name="Columus_Hakassi_Era1">
+		<Point_A>Hakassi_Era1_DeepCore</Point_A>
+		<Point_B>Columus_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
     	<TradeRoute Name="Alderaan_Kant_Era1">
             <Point_A>Alderaan_Era1_NorthCore</Point_A>
-            <Point_B>Kant_Era1_NorthCore</Point_B>
+            <Point_B>Kant_Era1_EastCore</Point_B>
             <HS_Speed_Factor>2.0</HS_Speed_Factor>
             <Political_Control_Gain>0</Political_Control_Gain>
             <Credit_Gain_Factor>0.5</Credit_Gain_Factor>
         </TradeRoute>
+
+	<TradeRoute Name="Alderaan_Sarapim_Era1">
+		<Point_A>Alderaan_Era1_NorthCore</Point_A>
+		<Point_B>Sarapim_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Kuat_Kant_Era1">
+		<Point_A>Kuat_Era1_EastCore</Point_A>
+		<Point_B>Kant_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Kuat_Pria_Era1">
+		<Point_A>Kuat_Era1_EastCore</Point_A>
+		<Point_B>Pria_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Sarapim_Pria_Era1">
+		<Point_A>Sarapim_Era1_EastCore</Point_A>
+		<Point_B>Pria_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Sarapim_Columus_Era1">
+		<Point_A>Sarapim_Era1_EastCore</Point_A>
+		<Point_B>Columus_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Sarapim_Kant_Era1">
+		<Point_A>Sarapim_Era1_EastCore</Point_A>
+		<Point_B>Kant_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Sarapim_Rendili_Era1">
+		<Point_A>Sarapim_Era1_EastCore</Point_A>
+		<Point_B>Rendili_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Sarapim_Rehemsa_Era1">
+		<Point_A>Sarapim_Era1_EastCore</Point_A>
+		<Point_B>Rehemsa_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Rendili_Rehemsa_Era1">
+		<Point_A>Rendili_Era1_EastCore</Point_A>
+		<Point_B>Rehemsa_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Corellia_Rehemsa_Era1">
+		<Point_A>Corellia_Era1_EastCore</Point_A>
+		<Point_B>Rehemsa_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Duro_Rehemsa_Era1">
+		<Point_A>Duro_Era1_EastCore</Point_A>
+		<Point_B>Rehemsa_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Duro_Corellia_Era1">
+		<Point_A>Duro_Era1_EastCore</Point_A>
+		<Point_B>Corellia_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Duro_Nubia_Era1">
+		<Point_A>Duro_Era1_EastCore</Point_A>
+		<Point_B>Nubia_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Tinnel_Nubia_Era1">
+		<Point_A>Tinnel_Era1_EastCore</Point_A>
+		<Point_B>Nubia_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Tinnel_Shumogi_Era1">
+		<Point_A>Tinnel_Era1_EastCore</Point_A>
+		<Point_B>Shumogi_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+
+	<TradeRoute Name="Nubia_Shumogi_Era1">
+		<Point_A>Nubia_Era1_EastCore</Point_A>
+		<Point_B>Shumogi_Era1_EastCore</Point_B>
+		<HS_Speed_Factor>2.0</HS_Speed_Factor>
+		<Political_Control_Gain>0</Political_Control_Gain>
+		<Credit_Gain_Factor>0.5</Credit_Gain_Factor>
+	</TradeRoute>
+	
+	
 
 
 </TradeRoutes>

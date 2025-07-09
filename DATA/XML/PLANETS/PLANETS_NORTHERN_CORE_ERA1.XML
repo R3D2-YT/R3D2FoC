@@ -21,7 +21,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-8.0, 164.0, 10.0</Galactic_Position>
+    <Galactic_Position>-8.0, 159.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>5</Max_Space_Base>
@@ -1498,7 +1498,7 @@
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
     <Planet_Credit_Value>35</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>242.0, 115.0, 10.0</Galactic_Position>
+    <Galactic_Position>245.0, 123.0, 10.0</Galactic_Position>
     <Special_Structures_Land>6</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>2</Max_Space_Base>
