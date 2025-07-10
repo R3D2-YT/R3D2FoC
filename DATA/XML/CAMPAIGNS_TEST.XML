@@ -166,7 +166,24 @@
 			Duro_Nubia_Era1,
 			Tinnel_Nubia_Era1,
 			Tinnel_Shumogi_Era1,
-			Nubia_Shumogi_Era1
+			Nubia_Shumogi_Era1,
+			<!-- Southern Core -->
+			Abregado_Rae_Dulvoyinn_Era1,
+			Denfaal_Abregado_Rae_Era1,
+			Fresa_Abregado_Rae_Era1,
+			Denfaal_Diamal_Era1,
+			Fondor_Diamal_Era1,
+			Denfaal_Belgarotn_Era1,
+			Diamal_Belgarotn_Era1,
+			Cortina_Belgarotn_Era1,
+			Cortina_Abregado_Rae_Era1,
+			Fresa_Iphigin_Era1,
+			Fresa_Azbrain_Era1,
+			Iphigin_Azbrain_Era1,
+			Sestria_Azbrain_Era1,
+			Sestria_Loronar_Era1,
+			Sestria_Game_Era1,
+			Shumogi_Game_Era1,
 		</Trade_Routes>
 
         <Home_Location> Republic, Coruscant_Era1 </Home_Location>
