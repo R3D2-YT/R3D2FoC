@@ -1,0 +1,1124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Planets>
+  <Planet Name="Abregado_Rae_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_ABREGADORAE</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 19.77 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>70</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>-4.0, -283.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>3</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1500 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_AbregadoRae_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_AbregadoRae_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>1</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>3</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types />
+    <Planet_Black_Market_Modifier>300</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ABREGADORAE_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ABREGADORAE_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ABREGADORAE_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ABREGADORAE_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ABREGADORAE_ENCYC_01</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ABREGADORAE_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ABREGADORAE_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name> TEXT_PLANET_ABREGADORAE_INFO_ADV_01 </Planet_Ability_Name>
+    <Planet_Ability_Description> TEXT_PLANET_ABREGADORAE_ENCYC_01 </Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ABREGADORAE_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_swamp.tga</Native_Icon_Name>
+    <Potential_Indigenous_Power>Swamp_Civilian_A, 150</Potential_Indigenous_Power>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Abregado_Rae_ATST_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Imperial_Heavy_Scout_Squad </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Bribery </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1500 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Mission_Type> Corruption_Kidnapping </Corruption_1_Required_Mission_Type>
+    <Corruption_1_Required_Mission_Count> 1 </Corruption_1_Required_Mission_Count>
+    <Corruption_1_Success_Speech_Event>ABREGADORAE_BRB_VICTORY_COR01_01</Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name>Saboteur_Loop</Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event />
+    <Corruption_1_Failure_Bink_Hologram_Name />
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ABREGADORAE_STORY_BRIBERY</Corruption_1_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Cortina_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_CORTINA</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>-71.0, -283.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Denfaal_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_DENFAAL</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>-23.0, -316.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Fresa_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_FRESA</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>53.0, -297.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Azbrain_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_AZBRAIN</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>111.0, -283.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Game_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_GAME</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>164.0, -264.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Sestria_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_SESTRIA</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>149.0, -311.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Iphigin_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_IPHIGIN</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>82.0, -336.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Loronar_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_LORONAR</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>145.0, -359.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Belgarotn_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_BELGAROTN</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>-57.0, -340.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Diamal_Era1_SouthCore">
+    <Zoomed_Terrain_Index>0</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_DIAMAL</Text_ID>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Galactic_Model_Name>W_planet_Temperate01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Temperate01.alo</GUI_Model_Name>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 22 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -12, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Temperate</Terrain>
+    <Planet_Credit_Value>60</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>0.0, -355.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>4</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>3</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Planet_Capture_Bonus_Reward> 1900 </Planet_Capture_Bonus_Reward>
+    <Land_Tactical_Map> _Land_Planet_Anaxes_02.ted </Land_Tactical_Map>
+    <Space_Tactical_Map>_Space_Planet_Anaxes_01.ted</Space_Tactical_Map>
+    <Destroyed_Space_Tactical_Map />
+    <Planet_Slice_Difficulty_Rating>5</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Rebel_Ground_Shutter_Shield</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>1000</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_ANAXES_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_ANAXES_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_ANAXES_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_ANAXES_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_ANAXES_INFO_TAC</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_ANAXES_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_ANAXES_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_ANAXES_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_ANAXES_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_ANAXES_ENCYC_01</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_rain.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_RAIN</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_RAIN</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 400</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Anaxes_Victory_Star_Destroyer_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Victory_Destroyer </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Intimidation </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Land </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Land_Planet_Anaxes_Intimidation.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Anaxes_Intimidation.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>ANAXES_INT_LOAD_COR04_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> ANAXES_INT_VICTORY_COR04_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>ANAXES_INT_LOSS_COR04_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_INTIMIDATION</Corruption_1_Mission_Briefing>
+    <Corruption_2_Type> Corruption_Racketeering </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 800 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Mission_Type> Corruption_Intimidation </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 1 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Required_Unit_Type> Destroyer_Droid </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 1 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Success_Speech_Event> ANAXES_RKT_VICTORY_COR04_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_RACKETEER</Corruption_2_Mission_Briefing>
+    <Corruption_3_Type> Corruption_Black_Market </Corruption_3_Type>
+    <Corruption_3_Credit_Cost> 1000 </Corruption_3_Credit_Cost>
+    <Corruption_3_Required_Mission_Type> Corruption_Piracy </Corruption_3_Required_Mission_Type>
+    <Corruption_3_Required_Mission_Count> 1 </Corruption_3_Required_Mission_Count>
+    <Corruption_3_Success_Speech_Event> CARIDA_BLK_VICTORY_COR11_06 </Corruption_3_Success_Speech_Event>
+    <Corruption_3_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_3_Success_Bink_Hologram_Name>
+    <Corruption_3_Failure_Speech_Event />
+    <Corruption_3_Failure_Bink_Hologram_Name>Saboteur_Loop</Corruption_3_Failure_Bink_Hologram_Name>
+    <Corruption_3_Mission_Briefing>TEXT_CORRUPTION_ANAXES_STORY_BLACKMARKET</Corruption_3_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+  <Planet Name="Fondor_Era1_SouthCore">
+    <Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
+    <Text_ID>TEXT_OBJECT_STAR_SYSTEM_FONDOR</Text_ID>
+    <Galactic_Model_Name>W_planet_Urban01.alo</Galactic_Model_Name>
+    <Destroyed_Galactic_Model_Name>W_planet_Asteroids.alo</Destroyed_Galactic_Model_Name>
+    <GUI_Model_Name>W_planet_Urban01.alo</GUI_Model_Name>
+    <Loop_Idle_Anim_00>Yes</Loop_Idle_Anim_00>
+    <Always_Instantiate_Galactic>yes</Always_Instantiate_Galactic>
+    <Mass>1.0</Mass>
+    <Scale_Factor>1.0</Scale_Factor>
+    <Mouse_Collide_Override_Sphere_Radius> 19.77 </Mouse_Collide_Override_Sphere_Radius>
+    <Show_Name>Yes</Show_Name>
+    <Name_Adjust>-12, -10, 0.1</Name_Adjust>
+    <Behavior>SELECTABLE, PLANET, PRODUCTION</Behavior>
+    <Pre_Lit>no</Pre_Lit>
+    <Political_Control>0</Political_Control>
+    <Camera_Aligned>yes</Camera_Aligned>
+    <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
+    <Terrain>Urban</Terrain>
+    <Planet_Credit_Value>90</Planet_Credit_Value>
+    <Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
+    <Galactic_Position>0.0, -407.0, 10.0</Galactic_Position>
+    <Special_Structures_Land>3</Special_Structures_Land>
+    <Special_Structures_Space>1</Special_Structures_Space>
+    <Max_Space_Base>5</Max_Space_Base>
+    <The_Force>Neutral</The_Force>
+    <Force_Strength>0.0</Force_Strength>
+    <Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
+    <Space_Tactical_Map>_Space_Planet_Fondor_01.ted</Space_Tactical_Map>
+    <Land_Tactical_Map> _Land_Planet_Fondor_02.ted </Land_Tactical_Map>
+    <Planet_Capture_Bonus_Reward> 1800 </Planet_Capture_Bonus_Reward>
+    <Planet_Slice_Difficulty_Rating>2</Planet_Slice_Difficulty_Rating>
+    <Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
+    <Planet_Slice_Affinity_Types>Alliance_Assault_Frigate, Nebulon_B_Frigate</Planet_Slice_Affinity_Types>
+    <Planet_Black_Market_Modifier>400</Planet_Black_Market_Modifier>
+    <Describe_Population>TEXT_PLANET_FONDOR_INFO_POP</Describe_Population>
+    <Describe_Wildlife>TEXT_PLANET_FONDOR_INFO_WL</Describe_Wildlife>
+    <Describe_Terrain>TEXT_PLANET_FONDOR_INFO_TER</Describe_Terrain>
+    <Describe_Weather>TEXT_PLANET_TATOOINE_INFO_WEA</Describe_Weather>
+    <Describe_Tactical>TEXT_PLANET_FONDOR_ENCYC_01</Describe_Tactical>
+    <Describe_Advantage>TEXT_PLANET_FONDOR_INFO_ADV_01</Describe_Advantage>
+    <Describe_History>TEXT_PLANET_FONDOR_INFO_HIS_01</Describe_History>
+    <Planet_Ability_Name>TEXT_PLANET_FONDOR_INFO_ADV_01</Planet_Ability_Name>
+    <Planet_Ability_Description>TEXT_PLANET_FONDOR_ENCYC_01</Planet_Ability_Description>
+    <Encyclopedia_Text>TEXT_PLANET_FONDOR_ENCYC_01 TEXT_PLANET_CAPITAL_SHIP_PRODUCER</Encyclopedia_Text>
+    <Encyclopedia_Weather_Icon>i_pa_weather_wind.tga</Encyclopedia_Weather_Icon>
+    <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SAND</Encyclopedia_Weather_Name>
+    <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_WIND</Encyclopedia_Weather_Info>
+    <Planet_Ability_Icon>i_pa_galactic_production_boost.tga</Planet_Ability_Icon>
+    <Native_Icon_Name>load_urban.tga</Native_Icon_Name>
+    <Additional_Population_Capacity>5</Additional_Population_Capacity>
+    <Potential_Indigenous_Power>Urban_Civilian_A, 200</Potential_Indigenous_Power>
+    <Abilities SubObjectList="Yes">
+      <Reduce_Production_Price_Ability Name="Fondor_Assault_Frigate_Production_Boost">
+        <Unit_Strength_Category />
+        <Applicable_Unit_Categories />
+        <Applicable_Unit_Types> Alliance_Assault_Frigate </Applicable_Unit_Types>
+        <Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
+        <Stacking_Category>9</Stacking_Category>
+        <Galaxy_Wide> Yes </Galaxy_Wide>
+      </Reduce_Production_Price_Ability>
+    </Abilities>
+    <Corruption_1_Type> Corruption_Piracy </Corruption_1_Type>
+    <Corruption_1_Credit_Cost> 1000 </Corruption_1_Credit_Cost>
+    <Corruption_1_Required_Unit_Type> Bossk </Corruption_1_Required_Unit_Type>
+    <Corruption_1_Required_Unit_Count> 1 </Corruption_1_Required_Unit_Count>
+    <Corruption_1_Tactical_Game_Mode> Space </Corruption_1_Tactical_Game_Mode>
+    <Corruption_1_Tactical_Map_Name> _Space_Planet_Fondor_Piracy.ted </Corruption_1_Tactical_Map_Name>
+    <Corruption_1_Tactical_Script_Name> Story_Plots_Underworld_Fondor_Piracy.xml </Corruption_1_Tactical_Script_Name>
+    <Corruption_1_Mission_Commencing_Speech_Event>FONDOR_PIR_LOAD_COR21_01</Corruption_1_Mission_Commencing_Speech_Event>
+    <Corruption_1_Success_Speech_Event> FONDOR_PIR_VICTORY_COR21_03 </Corruption_1_Success_Speech_Event>
+    <Corruption_1_Success_Bink_Hologram_Name> Bossk_Loop </Corruption_1_Success_Bink_Hologram_Name>
+    <Corruption_1_Failure_Speech_Event>FONDOR_PIR_LOSS_COR21_04</Corruption_1_Failure_Speech_Event>
+    <Corruption_1_Failure_Bink_Hologram_Name>Bossk_Loop</Corruption_1_Failure_Bink_Hologram_Name>
+    <Corruption_1_Mission_Briefing>TEXT_CORRUPTION_FONDOR_STORY_PIRACY</Corruption_1_Mission_Briefing>
+    <Corruption_1_Success_Unlock_Unit_Type>Underworld_A_Wing_Squadron</Corruption_1_Success_Unlock_Unit_Type>
+    <Corruption_2_Type> Corruption_Corrupt_Militia </Corruption_2_Type>
+    <Corruption_2_Credit_Cost> 1000 </Corruption_2_Credit_Cost>
+    <Corruption_2_Required_Unit_Type> Underworld_Merc </Corruption_2_Required_Unit_Type>
+    <Corruption_2_Required_Unit_Count> 2 </Corruption_2_Required_Unit_Count>
+    <Corruption_2_Required_Mission_Type> Corruption_Bribery </Corruption_2_Required_Mission_Type>
+    <Corruption_2_Required_Mission_Count> 3 </Corruption_2_Required_Mission_Count>
+    <Corruption_2_Success_Speech_Event> FONDOR_CRM_VICTORY_COR21_05 </Corruption_2_Success_Speech_Event>
+    <Corruption_2_Success_Bink_Hologram_Name> Saboteur_Loop </Corruption_2_Success_Bink_Hologram_Name>
+    <Corruption_2_Mission_Briefing>TEXT_CORRUPTION_FONDOR_STORY_CORUPTMILITIA</Corruption_2_Mission_Briefing>
+    <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
+  </Planet>
+</Planets>

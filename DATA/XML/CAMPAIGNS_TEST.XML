@@ -80,6 +80,18 @@
 			Tinnel_Era1_EastCore,
 			Shumogi_Era1_EastCore,
 			<!-- Southern Core-->
+			Abregado_Rae_Era1_SouthCore,
+			Cortina_Era1_SouthCore,
+			Denfaal_Era1_SouthCore,
+			Fresa_Era1_SouthCore,
+			Azbrain_Era1_SouthCore,
+			Game_Era1_SouthCore,
+			Sestria_Era1_SouthCore,
+			Iphigin_Era1_SouthCore,
+			Loronar_Era1_SouthCore,
+			Belgarotn_Era1_SouthCore,
+			Diamal_Era1_SouthCore,
+			Fondor_Era1_SouthCore,
 		</Locations>
 
         <Trade_Routes>

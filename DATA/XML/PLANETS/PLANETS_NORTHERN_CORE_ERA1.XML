@@ -21,7 +21,7 @@
     <Terrain>Temperate</Terrain>
     <Planet_Credit_Value>30</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
-    <Galactic_Position>-8.0, 159.0, 10.0</Galactic_Position>
+    <Galactic_Position>-4.0, 153.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
     <Special_Structures_Space>1</Special_Structures_Space>
     <Max_Space_Base>5</Max_Space_Base>
@@ -166,7 +166,6 @@
     <Corruption_2_Mission_Briefing> TEXT_CORRUPTION_CORUSCANT_STORY_BLACKMARKET </Corruption_2_Mission_Briefing>
     <Planet_Corruption_Removal_Base_Cost>1500</Planet_Corruption_Removal_Base_Cost>
   </Planet>
-	
   <Planet Name="Alsakan_Era1_NorthCore">
     <Zoomed_Terrain_Index>6</Zoomed_Terrain_Index>
     <Text_ID>TEXT_OBJECT_STAR_SYSTEM_ALSAKAN</Text_ID>
