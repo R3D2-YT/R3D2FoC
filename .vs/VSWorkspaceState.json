@@ -3,12 +3,12 @@
     "",
     "\\DATA",
     "\\DATA\\XML",
-    "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\STRUCTURES",
     "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
+    "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\SPACE"
   ],
-  "SelectedNode": "\\DATA\\XML\\PLANETS\\TRADEROUTES_SOUTH_CORE_ERA1.XML",
+  "SelectedNode": "\\DATA\\XML\\UNITS\\HERO\\UNITS_HERO_HUBLIN.XML",
   "PreviewInSolutionExplorer": false
 }
