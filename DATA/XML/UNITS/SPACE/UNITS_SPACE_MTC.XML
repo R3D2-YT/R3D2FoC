@@ -44,8 +44,8 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures> Light_Shipyard | Medium_Shipyard | Heavy_Shipyard | Light_Shipyard | Medium_Shipyard | Heavy_Shipyard </Required_Special_Structures>
-		<Required_Planets>Byss_Era3, Byss_Era4</Required_Planets>
+		<Required_Special_Structures></Required_Special_Structures>
+		<Required_Planets>Byss_Era1_DeepCore</Required_Planets>
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
 		<Is_Escort>yes</Is_Escort>
@@ -231,7 +231,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Medium_Shipyard | Heavy_Shipyard </Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_VI_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
