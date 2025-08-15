@@ -15,7 +15,7 @@
 		<Icon_Name>i_button_uv_krayt.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_KRAYTCLASSDESTROYER.ALO</Space_Model_Name>
+		<Space_Model_Name>Uv_Aggressor_Underworld.ALO</Space_Model_Name>
 		<Select_Box_Scale>740</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
@@ -70,7 +70,7 @@
 		<Tactical_Bribe_Cost>3500</Tactical_Bribe_Cost>
 
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
 
 		
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
@@ -82,13 +82,20 @@
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN,
+			HP_KRAYT_SHIELD_GEN_1,
+			HP_KRAYT_SHIELD_GEN_2,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
-			HP_KRAYT_TURBOLASER_LEFT,
-			HP_KRAYT_TURBOLASER_RIGHT,
+			HP_KRAYT_TURBOLASER_LEFT_1,
+			HP_KRAYT_TURBOLASER_LEFT_2,
+			HP_KRAYT_TURBOLASER_LEFT_3,
+			HP_KRAYT_TURBOLASER_RIGHT_1,
+			HP_KRAYT_TURBOLASER_RIGHT_2,
+			HP_KRAYT_TURBOLASER_RIGHT_3,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES
+			HP_KRAYT_ENGINES_1,
+			HP_KRAYT_ENGINES_2
+			HP_Krayt_Fighter_Bay_00,
 		</HardPoints>
 
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>

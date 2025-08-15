@@ -9,7 +9,7 @@
 		<Encyclopedia_Text> TEXT_TOOLTIP_PROVIDENCE</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FRIGATE </Encyclopedia_Unit_Class>
 
-		<Space_Model_Name>CIS_providence.alo</Space_Model_Name>
+		<Space_Model_Name>BF2_Providence.alo</Space_Model_Name>
 		<Icon_Name>i_button_providence.tga</Icon_Name>
 
 		<Select_Box_Scale>720</Select_Box_Scale>
@@ -17,7 +17,8 @@
 		
 		<GUI_Row> 1 </GUI_Row>
 		<Mass>0.999</Mass>
-		<Scale_Factor>0.75</Scale_Factor>
+		<!-- Dreadnought Scale factor <Scale_Factor>0.90</Scale_Factor>-->
+		<Scale_Factor>0.45</Scale_Factor>
 		<Damage>30</Damage>
 		<Autoresolve_Health>2500</Autoresolve_Health>
 		<Shield_Points>1950</Shield_Points>
