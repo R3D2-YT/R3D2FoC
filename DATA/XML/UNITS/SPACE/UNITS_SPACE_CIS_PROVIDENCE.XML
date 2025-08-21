@@ -51,7 +51,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Heavy_Shipyard | Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Build_Cost_Credits>4000</Build_Cost_Credits>
 		<Build_Time_Seconds>33</Build_Time_Seconds>
@@ -74,10 +74,10 @@
 		
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 2</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
 
 		<Behavior> DUMMY_STARSHIP, SELECTABLE, POWERED, SHIELDED </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, SPAWN_SQUADRON, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
@@ -99,12 +99,14 @@
 			HP_Providence_Weapon_04,
 			HP_Providence_Weapon_05,
 			HP_Providence_Weapon_06,
-			HP_Providence_Weapon_13,
-			HP_Providence_Weapon_14,
-			HP_Providence_Weapon_15,
-			HP_Providence_Weapon_16,
+			HP_Providence_Weapon_07,
+			HP_Providence_Weapon_08,
+			HP_Providence_Weapon_09,
+			HP_Providence_Weapon_10,
+			HP_Providence_Weapon_11,
+			HP_Providence_Weapon_12,
 			HP_Providence_Fighter_Bay_1,
-			HP_Providence_Fighter_Bay_2
+			HP_Providence_Fighter_Bay_2,
 		</HardPoints>
 		
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -184,7 +186,7 @@
 	<SpaceUnit Name="Providence_U">
 		<GUI_Row>0</GUI_Row>
 		<Variant_Of_Existing_Type>Providence_Cis</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Ship_Market_Underworld_Era4</Required_Special_Structures>
+		<Required_Special_Structures>Ship_Market</Required_Special_Structures>
 		<Affiliation>Underworld</Affiliation>
 		<Tech_Level>1</Tech_Level>
 		

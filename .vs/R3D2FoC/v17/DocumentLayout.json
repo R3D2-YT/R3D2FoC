@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGN_SELECTOR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\CAMPAIGN_SELECTOR.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\CAMPAIGNS_REIGONAL.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\SELECTORPLANET.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\SELECTORPLANET.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\HARDPOINTS_UNDERWORLD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\HARDPOINTS_UNDERWORLD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\GAMEOBJECTFILES.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\GAMEOBJECTFILES.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNFILES.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DATA\\XML\\CAMPAIGNFILES.XML||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +50,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Units_Space_VENATOR.xml",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml",
-              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml",
-              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\Units_Space_VENATOR.xml",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T21:27:23.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UNITS_SPACE_CIS_PROVIDENCE.XML",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML",
-              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML",
-              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\UNITS_SPACE_CIS_PROVIDENCE.XML",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Title": "STORY_PLOTS_GC_SELECTOR_EMPIRE.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML",
+              "RelativeToolTip": "DATA\\XML\\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T21:23:05.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HARDPOINTS_ISD.XML",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML",
-              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML",
-              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\HARDPOINTS_ISD.XML",
-              "ViewState": "AgIAAOUDAAAAIAeUiSv9vwIEAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T20:48:15.161Z",
+              "WhenOpened": "2025-08-21T04:07:15.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HARDPOINTS_UNDERWORLD.XML",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\HARDPOINTS_UNDERWORLD.XML",
-              "RelativeDocumentMoniker": "DATA\\XML\\HARDPOINTS_UNDERWORLD.XML",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\HARDPOINTS_UNDERWORLD.XML",
-              "RelativeToolTip": "DATA\\XML\\HARDPOINTS_UNDERWORLD.XML",
-              "ViewState": "AgIAAA8JAAAAAAAAAAAUwDgJAAArAAAAAAAAAA==",
+              "Title": "Era_Selector_Dummy.xml",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml",
+              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml",
+              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\Era_Selector_Dummy.xml",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T20:24:46.946Z",
+              "WhenOpened": "2025-08-21T00:46:57.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CAMPAIGNS_REIGONAL.XML",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
-              "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
-              "RelativeToolTip": "DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
-              "ViewState": "AgIAAMoBAAAAADkFL6fMv+MBAABBAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Units_Space_EMPIRE_ICF3.xml",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml",
+              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml",
+              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\Units_Space_EMPIRE_ICF3.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T20:18:58.179Z",
+              "WhenOpened": "2025-08-21T00:28:29.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML",
-              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML",
-              "RelativeDocumentMoniker": "DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML",
-              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML",
-              "RelativeToolTip": "DATA\\XML\\UNITS_SPACE_UNDERWORLD_KRAYT_DESTROYER.XML",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAGIAAAAPAAAAAAAAAA==",
+              "Title": "Units_Space_REPUBLIC_ICF3.xml",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml",
+              "RelativeDocumentMoniker": "DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml",
+              "RelativeToolTip": "DATA\\XML\\UNITS\\SPACE\\Units_Space_REPUBLIC_ICF3.xml",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-08-15T20:15:58.969Z",
+              "WhenOpened": "2025-08-21T00:28:12.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "STORY_GC_SELECTOR_EMPIRE.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML",
+              "RelativeToolTip": "DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-21T00:24:40.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CAMPAIGNFILES.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNFILES.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGNFILES.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNFILES.XML",
+              "RelativeToolTip": "DATA\\XML\\CAMPAIGNFILES.XML",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-21T00:19:56.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CAMPAIGN_SELECTOR.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGN_SELECTOR.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGN_SELECTOR.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGN_SELECTOR.XML",
+              "RelativeToolTip": "DATA\\XML\\CAMPAIGN_SELECTOR.XML",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-21T00:19:47.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SELECTORPLANET.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\SELECTORPLANET.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\SELECTORPLANET.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\SELECTORPLANET.XML",
+              "RelativeToolTip": "DATA\\XML\\SELECTORPLANET.XML",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-21T00:10:18.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GAMEOBJECTFILES.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\GAMEOBJECTFILES.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\GAMEOBJECTFILES.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\GAMEOBJECTFILES.XML",
+              "RelativeToolTip": "DATA\\XML\\GAMEOBJECTFILES.XML",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-20T01:22:47.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CAMPAIGNS_REIGONAL.XML",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
+              "RelativeDocumentMoniker": "DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
+              "RelativeToolTip": "DATA\\XML\\CAMPAIGNS_REIGONAL.XML",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAmwOgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-08-15T20:18:58.179Z",
               "EditorCaption": ""
             }
           ]

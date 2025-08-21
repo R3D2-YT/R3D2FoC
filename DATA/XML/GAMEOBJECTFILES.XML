@@ -54,6 +54,8 @@
 	<File>PLANETS_ERA4.xml</File>
 	<File>PLANETS_ERA5.xml</File>
 
+	<File>SELECTORPLANET.xml</File>
+
 	<File>PLANETS\PLANETS_DEEP_CORE_ERA1.xml</File>
 	<File>PLANETS\PLANETS_NORTHERN_CORE_ERA1.xml</File>
 	<File>PLANETS\PLANETS_EASTERN_CORE_ERA1.xml</File>
@@ -202,6 +204,10 @@
 	
 	<File>STRUCTURES\SPACE\CIS_SHIPYARDS_ERA2.XML</File>
 	<File>STRUCTURES\SPACE\CIS_SHIPYARDS_ERA3.XML</File>-->
+
+	<!-- Dummies -->
+
+	<File>UNITS\SPACE\Era_Selector_Dummy.xml</File>
 
 	<!-- Starbases -->
 

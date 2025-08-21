@@ -15,7 +15,7 @@
 		<Select_Box_Scale>1</Select_Box_Scale>
 		<Select_Box_Z_Adjust>1</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.5</Scale_Factor>
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>1</Dense_FOW_Reveal_Range_Multiplier>
@@ -54,15 +54,15 @@
 		<Energy_Refresh_Rate>3000</Energy_Refresh_Rate>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>3</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>3</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures />
 		<Required_Planets />
 		
-		<Build_Cost_Credits>5500</Build_Cost_Credits>
+		<Build_Cost_Credits>2300</Build_Cost_Credits>
 		<Build_Time_Seconds>40</Build_Time_Seconds>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		

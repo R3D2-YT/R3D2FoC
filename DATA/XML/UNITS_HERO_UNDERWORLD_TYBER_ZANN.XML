@@ -532,14 +532,14 @@
 		<Encyclopedia_Text> TEXT_TOOLTIP_PEACEBRINGER </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_CRIMELORD </Encyclopedia_Unit_Class>
 
-		<Space_Model_Name>UV_KRAYTCLASSDESTROYER_TYBER.ALO</Space_Model_Name>
-		<Scale_Factor>1.2</Scale_Factor>
+		<Space_Model_Name>Uv_Aggressor_Merciless.ALO</Space_Model_Name>
+		<Scale_Factor>1</Scale_Factor>
 		<Select_Box_Scale>750</Select_Box_Scale>
 		<Icon_Name>i_button_tyber.tga</Icon_Name>
 		<Is_Named_Hero>true</Is_Named_Hero>
 
 		<Behavior> SELECTABLE, TRANSPORT, DUMMY_STARSHIP </Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
 
 		<Tech_Level>99</Tech_Level>
 		<No_Colorization_Color />
@@ -557,14 +557,26 @@
 		<Max_Thrust>0.4</Max_Thrust>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN,
+			HP_KRAYT_SHIELD_GEN_1,
+			HP_KRAYT_SHIELD_GEN_2,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
-			HP_KRAYT_TURBOLASER_LEFT_PEACEBRINGER,
-			HP_KRAYT_TURBOLASER_RIGHT_PEACEBRINGER,
+			HP_KRAYT_TURBOLASER_LEFT_1,
+			HP_KRAYT_TURBOLASER_LEFT_2,
+			HP_KRAYT_TURBOLASER_LEFT_3,
+			HP_KRAYT_TURBOLASER_RIGHT_1,
+			HP_KRAYT_TURBOLASER_RIGHT_2,
+			HP_KRAYT_TURBOLASER_RIGHT_3,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES
+			HP_KRAYT_ENGINES_1,
+			HP_KRAYT_ENGINES_2
+			HP_Krayt_Fighter_Bay_00,
 		</HardPoints>
+
+		<!-- Set to spawn all units once and then not continue - no reserves -->
+		<Starting_Spawned_Units_Tech_0>StarViper_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
+		<Reserve_Spawned_Units_Tech_0>StarViper_Squadron, 8</Reserve_Spawned_Units_Tech_0>
 
 		<SFXEvent_Select>Unit_Select_Tyber_Zann_Space</SFXEvent_Select>
 		<SFXEvent_Move>Unit_Move_Tyber_Zann_Space</SFXEvent_Move>
@@ -614,41 +626,8 @@
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
 		<Build_Limit_Lifetime_Per_Player>-1</Build_Limit_Lifetime_Per_Player>
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
-		
-		
-		<!-- Non-Hero unit abilities description -->
-		<Unit_Abilities_Data SubObjectList="Yes">
-		
-			<!-- Primary ability -->
-         <Unit_Ability>
-             <Type>BLAST</Type>
-             <Recharge_Seconds>90.0</Recharge_Seconds>
-             <GUI_Activated_Ability_Name> Peacebringer_Blast </GUI_Activated_Ability_Name>
-             <SFXEvent_GUI_Unit_Ability_Activated>GUI_Weapon_Boost_SFX</SFXEvent_GUI_Unit_Ability_Activated>
-         </Unit_Ability>
-
-         <Unit_Ability>
-             <Type>STEALTH</Type>
-             <Alternate_Icon_Name>i_sa_stealth.tga</Alternate_Icon_Name>
-             <Alternate_Name_Text>TEXT_TOOLTIP_CLOAK</Alternate_Name_Text>
-             <GUI_Activated_Ability_Name>Stealth_Peacebringer</GUI_Activated_Ability_Name> 
-             <Recharge_Seconds>10.0</Recharge_Seconds>
-             <Expiration_Seconds>180.0</Expiration_Seconds>
-             <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
-             <SFXEvent_GUI_Unit_Ability_Activated>Unit_Cloak_Tyber_Zann</SFXEvent_GUI_Unit_Ability_Activated>
-         </Unit_Ability>
-      
-		</Unit_Abilities_Data>
 
         <Abilities SubObjectList="Yes">
-
-            <Stealth_Ability Name="Stealth_Peacebringer">
-                <Activation_Style> User_Input </Activation_Style>
-                <Stealth_Color>255, 255, 255, 255</Stealth_Color>
-                <Stealth_Transition_Time>.3</Stealth_Transition_Time>
-                <SFXEvent_Activate>Unit_Lightsaber_Projectile_Block</SFXEvent_Activate>
-                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
-			</Stealth_Ability>
 
 			<Combat_Bonus_Ability Name="Tyber_Zann_Combat_Bonus">
 				<Activation_Style>Space_Automatic</Activation_Style>
@@ -663,15 +642,6 @@
 				<Movement_Speed_Bonus_Percentage> 0.1 </Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
-
-            <Blast_Ability Name="Peacebringer_Blast">
-                <Activation_Style> User_Input </Activation_Style>
-                <Charge_Up_Seconds>5</Charge_Up_Seconds>
-                <Damage_Multiplier>5</Damage_Multiplier>
-                <Charging_Effect />
-                <Charged_Effect />
-                <SFXEvent_Activate>Unit_Underworld_Plasma_Fire</SFXEvent_Activate>
-            </Blast_Ability>
             
         </Abilities>
 	
