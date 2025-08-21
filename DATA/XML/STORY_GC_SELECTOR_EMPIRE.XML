@@ -9,12 +9,12 @@
 		<Story_Chapter>0</Story_Chapter>
 		<Story_Tag>Intro_Tag</Story_Tag>
 	</Event>
-
+	<!--
 	<Event Name="Reveal_All_Planets">
 		<Event_Type>STORY_TRIGGER</Event_Type>
 		<Reward_Type>REVEAL_ALL_PLANETS</Reward_Type>
 		<Prereq>Universal_Story_Start</Prereq>
-	</Event>
+	</Event>-->
 
 	<Event Name="DISABLE_VICTORY">
 		<Event_Type>STORY_TRIGGER</Event_Type>
@@ -37,15 +37,23 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
-	<Event Name="LOAD_CAMPAIGN_ERA1">
+	<Event Name="LOAD_CAMPAIGN_ERA3">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
 		<Event_Param1>Era_Selector_Era3</Event_Param1>
 		<Event_Param2>1</Event_Param2>
-		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
 		<Reward_Type>LOAD_CAMPAIGN</Reward_Type>
 		<Reward_Param1>Sandbox_Core_Empire_Era3</Reward_Param1>
-		<Reward_Param2>0</Reward_Param2>
-		<Reward_Param3>0</Reward_Param3>
+		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
+<!--
+	<Event Name="TEST">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Era_Selector_Era3</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Grand_Moff_Tarkin_Team</Reward_Param1>
+		<Reward_Param2>SelectorPlanet</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>-->
 	
 </Story>

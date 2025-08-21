@@ -8,7 +8,7 @@
 
 	<Campaign Name="Sandbox_Core_Selector_Empire">
 
-		<Campaign_Set> Sandbox_Core </Campaign_Set>
+		<Campaign_Set> Core_Campaign_Selectors </Campaign_Set>
 		<Sort_Order>1</Sort_Order>
 		<Text_ID> TEXT_CAMPAIGN_GC_CORE </Text_ID>
 
