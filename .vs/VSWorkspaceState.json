@@ -7,8 +7,10 @@
     "\\DATA\\XML\\STRUCTURES\\SPACE",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\HERO",
-    "\\DATA\\XML\\UNITS\\SPACE"
+    "\\DATA\\XML\\UNITS\\LAND",
+    "\\DATA\\XML\\UNITS\\SPACE",
+    "\\DOCUMENTATION"
   ],
-  "SelectedNode": "\\DATA\\XML\\STORY_GC_SELECTOR_EMPIRE.XML",
+  "SelectedNode": "\\DATA",
   "PreviewInSolutionExplorer": false
 }

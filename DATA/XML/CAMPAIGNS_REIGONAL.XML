@@ -8,17 +8,15 @@
 <!-- *********************************************************************** -->
 
 
-	<Campaign Name="Sandbox_DeepCore_Maldrood">
+	<Campaign Name="Sandbox_DeepCore_Empire">
 
 		<Campaign_Set> DeepCore </Campaign_Set>
+		<Is_Listed>False</Is_Listed>
 		<Sort_Order>1</Sort_Order>
 
         <Text_ID> TEXT_CAMPAIGN_GC_DEEPCORE </Text_ID>
 		
         <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_DEEPCORE </Description_Text>
-			<!--TEXT_PLAYABLE_FACTIONS_GC
-			TEXT_FACTION_REPUBLIC
-			TEXT_FACTION_MANDO-->
 
         <Camera_Shift_X> 40.0 </Camera_Shift_X>
         <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
@@ -45,7 +43,6 @@
 			Kalist_Era1_DeepCore,
 			Zamael_Era1_DeepCore,
 			Hakassi_Era1_DeepCore,
-			
 		</Locations>
 
         <Trade_Routes>
@@ -76,7 +73,6 @@
 			EmpressTeta_Tython_Era1,
 			EmpressTeta_Spina_Era1,
 			<!-- Northern Core -->
-			
 		</Trade_Routes>
 
         <Home_Location> Maldrood, Hakassi_Era1_DeepCore </Home_Location>

@@ -52,7 +52,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures/>
-		<Required_Planets/>
+		<Required_Planets>SelectorPlanet</Required_Planets>
 		<Ship_Class>corvette</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
 		<Is_Escort>yes</Is_Escort>
@@ -210,6 +210,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era6">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Empire, Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_6.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_6_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -219,6 +220,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era7">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Empire, Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_7.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_7_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -228,6 +230,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era8">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Empire, Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_8.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_8_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -237,6 +240,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era9">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Empire, Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_9.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_9_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -246,6 +250,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era10">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Empire, Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_10.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_10_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -255,6 +260,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era11">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_11.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_11_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -264,6 +270,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era12">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_12.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_12_SELECTOR</Text_ID>
 		<Encyclopedia_Text>
@@ -273,6 +280,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era13">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
+		<Affiliation>Rebellion, Zsinj, Pentastar, Maldrood, Eriadu</Affiliation>
 		<Icon_Name>i_button_era_13.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_13_SELECTOR</Text_ID>
 		<Encyclopedia_Text>

@@ -208,7 +208,7 @@
 		<!--<Required_Ground_Base_Level>2</Required_Ground_Base_Level>-->
 		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
-		<Required_Special_Structures>Seinar, E_Ground_Heavy_Vehicle_Factory</Required_Special_Structures>
+		<Required_Special_Structures>E_Ground_Heavy_Vehicle_Factory</Required_Special_Structures>
 		<Required_Planets />
 		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
 		<Formation_Priority>1</Formation_Priority>
@@ -247,7 +247,7 @@
 	<GroundCompany Name="Zsinj_TIE_TANK">
 		<Affiliation>Zsinj</Affiliation>
 		<Variant_Of_Existing_Type>TIE_Tank_Company</Variant_Of_Existing_Type>
-		<Required_Special_Structures>Seinar, Zsinj_Ground_Heavy_Vehicle_Factory</Required_Special_Structures>
+		<Required_Special_Structures>Zsinj_Ground_Heavy_Vehicle_Factory</Required_Special_Structures>
 	</GroundCompany>
 
 </Basilisk>
