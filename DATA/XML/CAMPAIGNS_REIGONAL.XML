@@ -496,9 +496,77 @@
 		<Max_Tech_Level> Confederacy, 5 </Max_Tech_Level>
 
 		<!-- Thyferra Space Forces -->
-		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, CIS_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, Confederacy_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, CIS_Munificent </Starting_Forces>
 		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, CIS_Munificent </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Confederacy, Crystan_Era1_DeepCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Constancia_Era1_DeepCore, Confederacy_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Confederacy, Constancia_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<Starting_Forces> Confederacy, Constancia_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<Starting_Forces> Confederacy, Constancia_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Constancia_Era1_DeepCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, Confederacy_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, ProvicneProvidence_Cis </Starting_Forces>
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, CIS_Munificent </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, Confederacy_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, ProvicneProvidence_Cis </Starting_Forces>
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Munificent </Starting_Forces>
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Munificent </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<Starting_Credits> Rebel,  5000 </Starting_Credits>
+		<Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Rebel_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Peregrine </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Y-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Y-Wing_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, R_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Rebel_Ground_Mining_Facility </Starting_Forces>
+		<Starting_Forces> Rebel, Corellia_Era1_EastCore, Ground_Ion_Cannon </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Alderaan_Era1_NorthCore, R_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Rebel, Caamas_Era1_NorthCore, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Caamas_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Caamas_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Rebel, Caamas_Era1_NorthCore, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Caamas_Era1_NorthCore, Rebel_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Rebel_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Y-Wing_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, R_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Rebel, Chandrilla_Era1_NorthCore, Rebel_Ground_Mining_Facility </Starting_Forces>
 	</Campaign>
  </Campaigns>
