@@ -48,8 +48,8 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
 		<Required_Planets />
-		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>550</Tactical_Health>
+		<Shield_Points>1000</Shield_Points>
+		<Tactical_Health>1200</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>350</Energy_Refresh_Rate>
@@ -63,7 +63,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Transport_Capacity>6</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1350</Build_Cost_Credits>
+		<Build_Cost_Credits>1100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1350</AI_Combat_Power>
 		<Build_Time_Seconds>20</Build_Time_Seconds>

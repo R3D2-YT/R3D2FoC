@@ -27,7 +27,7 @@
 		<OverrideAcceleration> .065 </OverrideAcceleration>
 		<OverrideDeceleration> .065 </OverrideDeceleration>
 
-		<Armor_Type> Armor_Tartan </Armor_Type>
+		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 		<Max_Thrust>0.8</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -40,7 +40,7 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>500</Tactical_Health>
+		<Tactical_Health>900</Tactical_Health>
 		<Damage>20</Damage>
 		<Autoresolve_Health>900</Autoresolve_Health> 
 		<Shield_Refresh_Rate>10</Shield_Refresh_Rate>
@@ -54,7 +54,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1250</Build_Cost_Credits>
+		<Build_Cost_Credits>900</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1250</AI_Combat_Power>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
@@ -241,7 +241,7 @@
 		<OverrideDeceleration> .05 </OverrideDeceleration>
 
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
-		<Armor_Type> Armor_Corellian_Corvette </Armor_Type>
+		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 		<Max_Thrust>0.5</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -265,8 +265,8 @@
 		<Required_Planets />
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>
-		<Shield_Points>600</Shield_Points>
-		<Tactical_Health>750</Tactical_Health>
+		<Shield_Points>800</Shield_Points>
+		<Tactical_Health>900</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>300</Energy_Refresh_Rate>
@@ -278,7 +278,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1250</Build_Cost_Credits>
+		<Build_Cost_Credits>900</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
         <Slice_Cost_Credits>675</Slice_Cost_Credits>
 		<AI_Combat_Power>1250</AI_Combat_Power>
@@ -447,8 +447,8 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Ship_Market | Light_Shipyard</Required_Special_Structures>
 		<Required_Planets />
-		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>550</Tactical_Health>
+		<Shield_Points>1000</Shield_Points>
+		<Tactical_Health>1200</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>350</Energy_Refresh_Rate>
@@ -462,7 +462,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Transport_Capacity>6</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1350</Build_Cost_Credits>
+		<Build_Cost_Credits>1100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1350</AI_Combat_Power>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
@@ -837,7 +837,7 @@
 		<OverrideDeceleration> .06 </OverrideDeceleration>
 
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
-		<Armor_Type> Armor_Missile_Cruiser </Armor_Type>
+		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 		<Max_Thrust>0.8</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -849,8 +849,8 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard </Required_Special_Structures>
-		<Shield_Points>300</Shield_Points>
-		<Tactical_Health>650</Tactical_Health>
+		<Shield_Points>1000</Shield_Points>
+		<Tactical_Health>1200</Tactical_Health>
 		<Damage>20</Damage>
 		<Autoresolve_Health>700</Autoresolve_Health> 
 		<Shield_Refresh_Rate>12</Shield_Refresh_Rate>
@@ -864,7 +864,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1800</Build_Cost_Credits>
+		<Build_Cost_Credits>1100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1400</AI_Combat_Power>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
@@ -1028,7 +1028,7 @@
 		<OverrideDeceleration> .05 </OverrideDeceleration>
 
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
-		<Armor_Type> Armor_Missile_Cruiser </Armor_Type>
+		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 		<Max_Thrust>0.5</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -1053,8 +1053,8 @@
 		<Required_Planets />
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>
-		<Shield_Points>300</Shield_Points>
-		<Tactical_Health>650</Tactical_Health>
+		<Shield_Points>1000</Shield_Points>
+		<Tactical_Health>1200</Tactical_Health>
 		<Shield_Refresh_Rate>12</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>300</Energy_Refresh_Rate>
@@ -1066,7 +1066,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1800</Build_Cost_Credits>
+		<Build_Cost_Credits>1100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1400</AI_Combat_Power>
 		<Build_Time_Seconds>15</Build_Time_Seconds>

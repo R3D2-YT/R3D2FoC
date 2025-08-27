@@ -28,7 +28,7 @@
 		<OverrideDeceleration> .05 </OverrideDeceleration>
 
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
-		<Armor_Type> Armor_Corellian_Corvette </Armor_Type>
+		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 		<Max_Thrust>0.5</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -51,8 +51,8 @@
 		<Required_Special_Structures>CEC, Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>
-		<Shield_Points>600</Shield_Points>
-		<Tactical_Health>750</Tactical_Health>
+		<Shield_Points>800</Shield_Points>
+		<Tactical_Health>900</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>300</Energy_Refresh_Rate>
@@ -64,7 +64,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1250</Build_Cost_Credits>
+		<Build_Cost_Credits>900</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
         <Slice_Cost_Credits>675</Slice_Cost_Credits>
 		<AI_Combat_Power>1250</AI_Combat_Power>

@@ -13,8 +13,8 @@
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 		<Damage>20</Damage>
 		<Autoresolve_Health>600</Autoresolve_Health>
-		<Shield_Points>600</Shield_Points>
-		<Tactical_Health>750</Tactical_Health>
+		<Shield_Points>800</Shield_Points>
+		<Tactical_Health>900</Tactical_Health>
 		<Shield_Refresh_Rate>15</Shield_Refresh_Rate>
 		<Energy_Capacity>1500</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
@@ -58,7 +58,7 @@
 		<Squadron_Capacity>10</Squadron_Capacity>
 		<Transport_Capacity>8</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1500</Build_Cost_Credits>
+		<Build_Cost_Credits>900</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1600</AI_Combat_Power>
 		<Build_Time_Seconds>6</Build_Time_Seconds>
