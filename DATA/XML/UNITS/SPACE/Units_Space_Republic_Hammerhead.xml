@@ -13,8 +13,8 @@
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 		<Damage>30</Damage>
 		<Autoresolve_Health>3600</Autoresolve_Health>
-		<Shield_Points>700</Shield_Points>
-		<Tactical_Health>3600</Tactical_Health>
+		<Shield_Points>2100</Shield_Points>
+		<Tactical_Health>2300</Tactical_Health>
 		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>

@@ -33,8 +33,8 @@
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Damage>30</Damage>
 		<Autoresolve_Health>2400</Autoresolve_Health>
-		<Shield_Points>600</Shield_Points>
-		<Tactical_Health>2000</Tactical_Health>
+		<Shield_Points>1700</Shield_Points>
+		<Tactical_Health>1900</Tactical_Health>
 		<Shield_Refresh_Rate>62</Shield_Refresh_Rate> <!-- was 50 -->
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
@@ -54,7 +54,7 @@
 		<Squadron_Capacity>10</Squadron_Capacity>
 		<Transport_Capacity>8</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>2500</Build_Cost_Credits>
+		<Build_Cost_Credits>1800</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>2500</AI_Combat_Power>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
