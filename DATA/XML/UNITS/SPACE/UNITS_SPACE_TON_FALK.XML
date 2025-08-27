@@ -44,7 +44,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>KDY, Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -195,7 +195,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Empire</Affiliation>
-		<Required_Special_Structures>KDY, Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -209,7 +209,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>KDY, Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Raptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -223,7 +223,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>KDY, Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>

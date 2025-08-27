@@ -483,13 +483,109 @@
 		
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Empire_Star_Base_5 </Starting_Forces>
-		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Star_Destroyer_II_E </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Star_Destroyer_E </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Acclamator_Assault_Ship </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Emperor_Palpatine_Team </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Darth_Team </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Grand_Moff_Tarkin_Team </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, Mara_Jade_Team </Starting_Forces>
 		<Starting_Forces> Empire, Coruscant_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, Star_Destroyer_E </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Kuat_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Kant_Era1_EastCore, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Kant_Era1_EastCore, Strike </Starting_Forces>
+		<Starting_Forces> Empire, Kant_Era1_EastCore, Strike </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Kant_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Pria_Era1_EastCore, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Pria_Era1_EastCore, Acclamator_Assault_Ship </Starting_Forces>
+		<Starting_Forces> Empire, Pria_Era1_EastCore, Strike </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Pria_Era1_EastCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Sarapim_Era1_EastCore, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Sarapim_Era1_EastCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<Starting_Forces> Empire, Sarapim_Era1_EastCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Sarapim_Era1_EastCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Empire, Rendili_Era1_EastCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Rehemsa_Era1_EastCore, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Rehemsa_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Rehemsa_Era1_EastCore, E_Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, Rehemsa_Era1_EastCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Rehemsa_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Columus_Era1_EastCore, Empire_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Empire, Columus_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Columus_Era1_EastCore, E_Dreadnought </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Columus_Era1_EastCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Hakassi_Era1_DeepCore, E_Dreadnought </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Hakassi_Era1_DeepCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Ebaq_Era1_DeepCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Ebaq_Era1_DeepCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Ebaq_Era1_DeepCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Kampe_Era1_DeepCore, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Kampe_Era1_DeepCore, E_Dreadnought </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Kampe_Era1_DeepCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Kampe_Era1_DeepCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Spina_Era1_DeepCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Spina_Era1_DeepCore, E_Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, Spina_Era1_DeepCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Spina_Era1_DeepCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Spina_Era1_DeepCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, EmpressTeta_Era1_DeepCore, E_Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, EmpressTeta_Era1_DeepCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, EmpressTeta_Era1_DeepCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, TsossBeacon_Era1_DeepCore, Empire_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Empire, TsossBeacon_Era1_DeepCore, E_Arquitens </Starting_Forces>
 
 		<Starting_Credits> Confederacy,  20000 </Starting_Credits>
 		<Starting_Tech_Level> Confederacy, 5 </Starting_Tech_Level>

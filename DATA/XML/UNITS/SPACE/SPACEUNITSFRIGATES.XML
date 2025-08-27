@@ -1198,19 +1198,19 @@
 	<SpaceUnit Name="Pentastar_Acclamator">
 		<Variant_Of_Existing_Type>Acclamator_Assault_Ship</Variant_Of_Existing_Type>
 		<Affiliation>Pentastar</Affiliation>
-		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Maldrood_Acclamator">
 		<Variant_Of_Existing_Type>Acclamator_Assault_Ship</Variant_Of_Existing_Type>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_Acclamator">
 		<Variant_Of_Existing_Type>Acclamator_Assault_Ship</Variant_Of_Existing_Type>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>KDY, Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Interdictor_Cruiser">
@@ -1268,7 +1268,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>3000</Build_Cost_Credits>
+		<Build_Cost_Credits>5500</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>3000</AI_Combat_Power>
 		<Build_Time_Seconds>50</Build_Time_Seconds>

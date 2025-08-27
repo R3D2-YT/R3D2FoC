@@ -27,7 +27,7 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures></Required_Special_Structures>
 		<Required_Planets></Required_Planets>
-		<Build_Cost_Credits>8500</Build_Cost_Credits>
+		<Build_Cost_Credits>9000</Build_Cost_Credits>
 		<Build_Time_Seconds>100</Build_Time_Seconds>
 		<Tactical_Bribe_Cost>4000</Tactical_Bribe_Cost>
 		<Score_Cost_Credits> 45000</Score_Cost_Credits>
@@ -245,7 +245,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Lua_Script>StarDestroyer</Lua_Script>
 
 		<Population_Value>4</Population_Value>
@@ -273,7 +273,7 @@
 		<Tech_Level>1</Tech_Level>
 		<Population_Value>4</Population_Value>
 		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Raptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -288,7 +288,7 @@
 		<Tech_Level>1</Tech_Level>
 		<Population_Value>4</Population_Value>
 		<Affiliation>Maldrood</Affiliation>
-		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 	
 	<SpaceUnit Name="Eriadu_ISDII">
@@ -296,7 +296,7 @@
 		<Tech_Level>1</Tech_Level>
 		<Population_Value>4</Population_Value>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>KDY, Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Brute_Squadron, 1</Starting_Spawned_Units_Tech_0>

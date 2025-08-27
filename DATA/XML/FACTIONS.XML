@@ -47,8 +47,8 @@
 		<Easily_Bribed> No </Easily_Bribed>
 
 		<!-- Unlike the Empire, the Rebel's tech levels go from 0-3 instead of 1-4. It needs to be adjusted
-		before displaying it to the player otherwise it won't match the tech tree we show in-game. -->
-		<Displayed_Tech_Level_Adjustment> +1 </Displayed_Tech_Level_Adjustment>
+		before displaying it to the player otherwise it won't match the tech tree we show in-game.
+		<Displayed_Tech_Level_Adjustment> +1 </Displayed_Tech_Level_Adjustment>-->
 		
 		<Infantry_Icon_Name>i_button_rebel_soldier.tga</Infantry_Icon_Name>
 		<Vehicle_Icon_Name>i_r_vehicle.tga</Vehicle_Icon_Name>
@@ -822,7 +822,7 @@
 		<Hyperspace_Speed_Factor>0.07</Hyperspace_Speed_Factor>
 		<Is_Neutral> No </Is_Neutral>
 		<Force_Alignment>Dark</Force_Alignment>
-		<Minimum_Visible_Base_Level>3</Minimum_Visible_Base_Level>
+		<Minimum_Visible_Base_Level>1</Minimum_Visible_Base_Level>
 		<Basic_AI>BasicEmpire</Basic_AI>
 		<Faction_Super_Weapon> Death_Star </Faction_Super_Weapon>
 		<Skirmish_Land_Bomber> TIE_Bomber_Bombing_Run </Skirmish_Land_Bomber>
