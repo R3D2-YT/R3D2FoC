@@ -6,7 +6,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_IONCANNON</Tooltip_Text>
-            <Health>160</Health> <!-- was 260 -->
+            <Health>400</Health> <!-- was 260 -->
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
@@ -44,7 +44,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_IONCANNON</Tooltip_Text>
-            <Health>160</Health> <!-- was 260 -->
+            <Health>400</Health> <!-- was 260 -->
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
@@ -82,7 +82,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_TURBOLASER</Tooltip_Text>
-            <Health>160.0</Health>
+            <Health>400.0</Health>
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
@@ -92,7 +92,7 @@
             <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
 
-			<Damage_Type> Damage_Acclamator_TL </Damage_Type>
+			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
             <Fire_Bone_A>Turbo_02</Fire_Bone_A>
             <Fire_Bone_B>Turbo_02</Fire_Bone_B>
@@ -122,7 +122,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_TURBOLASER</Tooltip_Text>
-            <Health>160.0</Health>
+            <Health>400.0</Health>
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
@@ -132,7 +132,7 @@
             <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
 
-			<Damage_Type> Damage_Acclamator_TL </Damage_Type>
+			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
             <Fire_Bone_A>Turbo_03</Fire_Bone_A>
             <Fire_Bone_B>Turbo_03</Fire_Bone_B>
@@ -162,7 +162,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_TURBOLASER</Tooltip_Text>
-            <Health>160.0</Health>
+            <Health>400.0</Health>
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
@@ -172,7 +172,7 @@
             <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
 
-			<Damage_Type> Damage_Acclamator_TL </Damage_Type>
+			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
             <Fire_Bone_A>DUALTURBO_00</Fire_Bone_A>
             <Fire_Bone_B>DUALTURBO_00</Fire_Bone_B>
@@ -202,7 +202,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_WEAPON_TURBOLASER</Tooltip_Text>
-            <Health>160.0</Health>
+            <Health>400.0</Health>
 
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
@@ -212,7 +212,7 @@
             <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
 
-			<Damage_Type> Damage_Acclamator_TL </Damage_Type>
+			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
             <Fire_Bone_A>DUALTURBO_01</Fire_Bone_A>
             <Fire_Bone_B>DUALTURBO_01</Fire_Bone_B>
@@ -242,7 +242,7 @@
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
             <Tooltip_Text>TEXT_ENGINE_HARDPOINT</Tooltip_Text>
-            <Health>170.0</Health>
+            <Health>400.0</Health>
 
 				<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 				<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
@@ -261,7 +261,7 @@
 		<Attachment_Bone>ROOT</Attachment_Bone>             
 		<Collision_Mesh>ROOT</Collision_Mesh>
 		<Tooltip_Text>TEXT_FIGHTER_BAY_HARDPOINT</Tooltip_Text>
-		<Health>90.0</Health>
+		<Health>400.0</Health>
 		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
 		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent> <!-- STUBBED PLACEHOLDER -->
 	</HardPoint>

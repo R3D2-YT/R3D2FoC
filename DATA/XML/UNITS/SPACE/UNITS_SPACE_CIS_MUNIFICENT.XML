@@ -34,8 +34,8 @@
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Damage>40</Damage>
 		<Autoresolve_Health>3400</Autoresolve_Health>
-		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>3400</Tactical_Health>  <!-- was 2600 -->
+		<Shield_Points>3000</Shield_Points>
+		<Tactical_Health>3200</Tactical_Health>  <!-- was 2600 -->
 		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
@@ -45,7 +45,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Medium_Shipyard | Heavy_Shipyard | Medium_Shipyard | Heavy_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -55,7 +55,7 @@
 		<Squadron_Capacity>15</Squadron_Capacity>
 		<Transport_Capacity>12</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>3400</Build_Cost_Credits>
+		<Build_Cost_Credits>3100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>3400</AI_Combat_Power>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
@@ -86,6 +86,10 @@
 		</HardPoints>
 		
 		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		
+		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 2</Reserve_Spawned_Units_Tech_0>
 
 		<CategoryMask> Frigate | AntiCorvette</CategoryMask>
 		<Icon_Name>i_button_munificent.tga</Icon_Name>

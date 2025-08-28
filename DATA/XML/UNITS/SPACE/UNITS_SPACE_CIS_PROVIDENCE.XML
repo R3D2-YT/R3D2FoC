@@ -21,8 +21,8 @@
 		<Scale_Factor>0.45</Scale_Factor>
 		<Damage>30</Damage>
 		<Autoresolve_Health>2500</Autoresolve_Health>
-		<Shield_Points>1950</Shield_Points>
-		<Tactical_Health>2500</Tactical_Health>
+		<Shield_Points>3800</Shield_Points>
+		<Tactical_Health>4000</Tactical_Health>
 		<Shield_Refresh_Rate>40</Shield_Refresh_Rate>
 		<Energy_Capacity>9999</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
@@ -38,8 +38,8 @@
 		<OverrideAcceleration> .04 </OverrideAcceleration>
 		<OverrideDeceleration> .04 </OverrideDeceleration>
 
-		<Armor_Type> Armor_Assault_Frigate </Armor_Type>
-        <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
+		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
+        <Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
         
 		<Max_Thrust>2.0</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -53,7 +53,7 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets />
-		<Build_Cost_Credits>4000</Build_Cost_Credits>
+		<Build_Cost_Credits>4500</Build_Cost_Credits>
 		<Build_Time_Seconds>33</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 
@@ -73,11 +73,11 @@
 		<Size_Value>8</Size_Value>
 		
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 3</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 3</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 6</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Droid_Bomber_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 
 		<Behavior> DUMMY_STARSHIP, SELECTABLE, POWERED, SHIELDED </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, SPAWN_SQUADRON, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA</SpaceBehavior>
