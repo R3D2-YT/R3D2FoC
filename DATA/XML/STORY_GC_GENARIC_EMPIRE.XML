@@ -115,6 +115,26 @@
     	<Reward_Type>REMOVE_UNIT</Reward_Type>
     	<Reward_Param1>Hire_IG88_Dummy</Reward_Param1>
   	</Event>
+
+	<Event Name="Hire_Fennec_Shand">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Hire_Fennec_Shand_Dummy</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Fennec_Shand_Team</Reward_Param1>
+		<Reward_Param2>1</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_FENNEC_SHAND_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Hire_Fennec_Shand_Dummy</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Hire_Fennec_Shand_Dummy</Reward_Param1>
+  	</Event>
 	
 	
 </Story>

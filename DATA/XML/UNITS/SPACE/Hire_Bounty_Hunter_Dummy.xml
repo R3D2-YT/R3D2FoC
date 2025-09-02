@@ -113,9 +113,9 @@
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 
-		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
-		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete>Unit_Complete_Tartan</SFXEvent_Build_Complete>
+		<SFXEvent_Build_Started>UHD_Request_Assistance</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>UHD_Request_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete></SFXEvent_Build_Complete>
 		<SFXEvent_Ambient_Loop>Unit_Carrack_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
 		<SFXEvent_Select>Unit_Select_Tartan</SFXEvent_Select>
 		<SFXEvent_Move>Unit_Move_Tartan</SFXEvent_Move>
@@ -210,6 +210,21 @@
 		<Text_ID>TEXT_HIRE_IG88</Text_ID>
 		<Encyclopedia_Text>
 			TEXT_TOOLTIP_HIRE_IG88
+		</Encyclopedia_Text>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Hire_Fennec_Shand_Dummy">
+		<Variant_Of_Existing_Type>Hire_Bounty_Hunter_Template</Variant_Of_Existing_Type>
+		<Required_Special_Structures>Ground_Hutt_Palace_E</Required_Special_Structures>
+		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
+		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
+		<Build_Cost_Credits>5000</Build_Cost_Credits>
+		<Affiliation>Empire, Underworld</Affiliation>
+		<Tech_Level>1</Tech_Level>
+		<Icon_Name>i_button_Fennec_Shand.tga</Icon_Name>
+		<Text_ID>TEXT_HIRE_FENNEC_SHAND</Text_ID>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_HIRE_FENNEC_SHAND
 		</Encyclopedia_Text>
 	</SpaceUnit>
 

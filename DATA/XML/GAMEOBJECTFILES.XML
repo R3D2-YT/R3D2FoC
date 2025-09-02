@@ -115,6 +115,9 @@
 	<!-- Bounty hunter dummies -->
 	<File>UNITS\SPACE\Hire_Bounty_Hunter_Dummy.xml</File>
 
+	<!-- Bounty Hunters -->
+	<File>UNITS\HERO\UNITS_HERO_SHAND.XML</File>
+
 
 
 
