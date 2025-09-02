@@ -11,7 +11,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar</Affiliation>
+		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar, Yevethan</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>800</Build_Cost_Credits>
 		<Build_Time_Seconds>10</Build_Time_Seconds>
@@ -88,7 +88,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar</Affiliation>
+		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar, Yevethan</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>1600</Build_Cost_Credits>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
@@ -166,7 +166,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar</Affiliation>
+		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar, Yevethan</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>3200</Build_Cost_Credits>
 		<Build_Time_Seconds>40</Build_Time_Seconds>
@@ -244,7 +244,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar</Affiliation>
+		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar, Yevethan</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>6400</Build_Cost_Credits>
 		<Build_Time_Seconds>80</Build_Time_Seconds>
@@ -320,7 +320,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar</Affiliation>
+		<Affiliation>Rebel, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Empire, Zsinj, Eriadu, Maldrood, Sith, Pentastar, Yevethan</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>12800</Build_Cost_Credits>
 		<Build_Time_Seconds>160</Build_Time_Seconds>

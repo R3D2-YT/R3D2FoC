@@ -488,6 +488,12 @@
 		<Required_Special_Structures> Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Yevethan_Gladiator">
+		<Variant_Of_Existing_Type>Gladiator</Variant_Of_Existing_Type>
+		<Affiliation>Yevethan</Affiliation>
+		<Required_Special_Structures> Tier_III_Shipyard | Tier_IV_Shipyard</Required_Special_Structures>
+	</SpaceUnit>
+
 
 
 </REP_PDF_Gladiator>

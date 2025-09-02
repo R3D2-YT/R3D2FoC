@@ -2,6 +2,20 @@
 
 <Game_Object_Files>
 
+		<!-- Starbases -->
+
+	<File>StarBases_Underworld.xml</File>
+	<File>STARBASES_MOD.xml</File>
+	<File>STARBASES_MANDO.xml</File>
+	<File>STARBASES_PLAYER.xml</File>
+	<File>STARBASES_SITH.xml</File>
+	<File>STARBASES_CIS.xml</File>
+	<File>STARBASES_PENTASTAR.xml</File>
+	<File>STARBASES_ZSINJ.xml</File>
+	<File>STARBASES_MALDROOD.xml</File>
+	<File>STARBASES_ERIADU.xml</File>
+	<File>STARBASES_YEVETHAN.XML</File>
+
 	<File>TransportUnits.xml</File>
 
 	<File>UNIT_GC_SPAWNER.xml</File>
@@ -208,19 +222,6 @@
 	<!-- Dummies -->
 
 	<File>UNITS\SPACE\Era_Selector_Dummy.xml</File>
-
-	<!-- Starbases -->
-
-	<File>StarBases_Underworld.xml</File>
-	<File>STARBASES_MOD.xml</File>
-	<File>STARBASES_MANDO.xml</File>
-	<File>STARBASES_PLAYER.xml</File>
-	<File>STARBASES_SITH.xml</File>
-	<File>STARBASES_CIS.xml</File>
-	<File>STARBASES_PENTASTAR.xml</File>
-	<File>STARBASES_ZSINJ.xml</File>
-	<File>STARBASES_MALDROOD.xml</File>
-	<File>STARBASES_ERIADU.xml</File>
 
 	<!-- Fighters -->
 	<File>UNITS\SPACE\UNITS_SPACE_REPUBLIC_Z95.xml</File>

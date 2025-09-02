@@ -598,6 +598,69 @@
 		<Starting_Forces> Empire, Bilbrighi_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Empire, Bilbrighi_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
 
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Fresia_Era1_NorthCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Metellos_Era1_NorthCore, E_Arquitens </Starting_Forces>
+		<Starting_Forces> Empire, Metellos_Era1_NorthCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Metellos_Era1_NorthCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Empire, Metellos_Era1_NorthCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Ragoon_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Ragoon_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<Starting_Forces> Empire, Ragoon_Era1_NorthCore, Z95_Headhunter_Empire_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Ragoon_Era1_NorthCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, XaFel_Era1_NorthCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, XaFel_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
+		<Starting_Credits> Yevethan,  20000 </Starting_Credits>
+		<Starting_Tech_Level> Yevethan, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Yevethan, 5 </Max_Tech_Level>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Yevethan_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Star_Destroyer_E </Starting_Forces>
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Ton_Falk_Yevethan </Starting_Forces>
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Yevethan, CalSeti_Era1_NorthCore, Yevethan_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Yevethan, CalSeti_Era1_NorthCore, Ton_Falk_Yevethan </Starting_Forces>
+		<Starting_Forces> Yevethan, CalSeti_Era1_NorthCore, Ton_Falk_Yevethan </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Yevethan, CalSeti_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Yevethan, Aradia_Era1_NorthCore, Yevethan_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Yevethan, Aradia_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
+		<Starting_Forces> Yevethan, Aradia_Era1_NorthCore, Ton_Falk_Yevethan </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Yevethan, Aradia_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
+		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
+
 		<Starting_Credits> Confederacy,  20000 </Starting_Credits>
 		<Starting_Tech_Level> Confederacy, 5 </Starting_Tech_Level>
 		<Max_Tech_Level> Confederacy, 5 </Max_Tech_Level>
@@ -689,5 +752,58 @@
 		<Starting_Forces> Player, Alsakan_Era1_NorthCore, P_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Player, Alsakan_Era1_NorthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
 		<Starting_Forces> Player, Alsakan_Era1_NorthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Scipio_Era1_NorthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, REP_PDF_Dreadnought </Starting_Forces>
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Foreost_Era1_NorthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Tython_Era1_DeepCore, Player_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Tython_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Tython_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Player_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Prakith_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Odik_Era1_DeepCore, Player_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Player, Odik_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Odik_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Odik_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Odik_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Odik_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
 	</Campaign>
  </Campaigns>

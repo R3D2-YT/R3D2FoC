@@ -191,6 +191,11 @@
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Yevethan_Dreadnought">
+		<Variant_Of_Existing_Type>E_Dreadnought</Variant_Of_Existing_Type>
+		<Affiliation>Yevethan</Affiliation>
+	</SpaceUnit>
+
 
 
 </REP_PDF_Dreadnought>

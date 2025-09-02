@@ -427,6 +427,12 @@
 		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Yevethan_TSD">
+		<Variant_Of_Existing_Type>Tector_Star_Destroyer_E</Variant_Of_Existing_Type>
+		<Affiliation>Yevethan</Affiliation>
+		<Required_Special_Structures> Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+	</SpaceUnit>
+
 
 
 

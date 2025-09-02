@@ -751,7 +751,7 @@
 
 
 		<Allies />
-		<Enemies>Empire, Pirates, Hostile, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Maldrood, Zsinj, Eriadu</Enemies>
+		<Enemies>Empire, Pirates, Hostile, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Maldrood, Zsinj, Eriadu, Yevethan</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -1515,7 +1515,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Zsinj, Maldrood, Eriadu</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Zsinj, Maldrood, Eriadu, Yevethan</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
