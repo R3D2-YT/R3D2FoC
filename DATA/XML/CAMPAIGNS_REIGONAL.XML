@@ -634,7 +634,7 @@
 
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Yevethan_Star_Base_5 </Starting_Forces>
-		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Star_Destroyer_E </Starting_Forces>
+		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Yevethan_ISD </Starting_Forces>
 		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Ton_Falk_Yevethan </Starting_Forces>
 		<Starting_Forces> Yevethan, Nzoth_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
 		<!-- Thyferra Land Forces -->
@@ -656,6 +656,7 @@
 
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Star_Base_4 </Starting_Forces>
+		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_ISD </Starting_Forces>
 		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
 		<Starting_Forces> Yevethan, Jtptan_Era1_NorthCore, Yevethan_Strike </Starting_Forces>
 		<!-- Thyferra Land Forces -->
