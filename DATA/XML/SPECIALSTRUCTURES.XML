@@ -1153,7 +1153,7 @@
 		<Required_Planets />
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
-		<Build_Requires_Initial_Placement>true</Build_Requires_Initial_Placement>
+		<Build_Requires_Initial_Placement>no</Build_Requires_Initial_Placement>
 		<Base_Position>Out_Base</Base_Position>
 		<Can_Contain_Heroes_During_Ground_Battle> Yes </Can_Contain_Heroes_During_Ground_Battle>
 

@@ -68,7 +68,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos> <!-- WARNING: For some reason, non-0.0 Z can cause problems? -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_UNDERWORLD_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 		<Space_Retreat_Begin_SFXEvent> UHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Enemy_Begin_SFXEvent> Unit_Enemy_Retreat_Underworld_Soldier </Space_Retreat_Enemy_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> UHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -146,8 +146,8 @@
 		<Finale_Movie_2>Underworld_Win_Story_Campaign_Part2</Finale_Movie_2>
 		<Post_Credits_Movie />
 		
-		<Victory_Text>TEXT_UNDERWORLD_VICTORY</Victory_Text>
-		<Defeat_Text>TEXT_UNDERWORLD_DEFEAT</Defeat_Text>
+		<Victory_Text>TEXT_VICTORY_01</Victory_Text>
+		<Defeat_Text>TEXT_DEFEAT_01</Defeat_Text>
 		<Space_Win_Image>i_us_win.tga</Space_Win_Image>
 		<Space_Lose_Image>i_us_lose.tga</Space_Lose_Image>
 		<Land_Win_Image>i_ul_win.tga</Land_Win_Image>
@@ -797,7 +797,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_REPUBLIC_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -812,7 +812,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -1550,7 +1550,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_MANDO_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -1565,7 +1565,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -2303,7 +2303,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_MANDO_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -2318,7 +2318,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -3056,7 +3056,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_MANDO_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -3071,7 +3071,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -3809,7 +3809,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_MANDO_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -3824,7 +3824,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -4562,7 +4562,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_EMPIRE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -4577,7 +4577,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -5319,7 +5319,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_EMPIRE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -5334,7 +5334,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -6076,7 +6076,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_EMPIRE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -6091,7 +6091,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -6833,7 +6833,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_EMPIRE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -6848,7 +6848,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>

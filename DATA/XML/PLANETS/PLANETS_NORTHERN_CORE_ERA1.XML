@@ -116,7 +116,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>7.0, 203.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -145,7 +145,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -185,7 +185,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>53.0, 232.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -214,7 +214,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -254,7 +254,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-21.0, 232.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -283,7 +283,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -403,7 +403,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-82.0, 164.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -432,7 +432,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -472,7 +472,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-112.0, 128.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -501,7 +501,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -541,7 +541,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-144.0, 155.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -570,7 +570,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -610,7 +610,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-114.0, 191.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -639,7 +639,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -679,7 +679,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-71.0, 253.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -708,7 +708,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -748,7 +748,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-126.0, 271.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -777,7 +777,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -817,7 +817,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-148.0, 316.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -846,7 +846,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>
@@ -886,7 +886,7 @@
     <Political_Control>0</Political_Control>
     <Camera_Aligned>yes</Camera_Aligned>
     <Facing_Adjust>0.0, 0.0, 0.0</Facing_Adjust>
-    <Planet_Credit_Value>160</Planet_Credit_Value>
+    <Planet_Credit_Value>40</Planet_Credit_Value>
     <Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
     <Galactic_Position>-23.0, 298.0, 10.0</Galactic_Position>
     <Special_Structures_Land>8</Special_Structures_Land>
@@ -915,7 +915,7 @@
     <Encyclopedia_Weather_Icon>i_pa_weather_sun.tga</Encyclopedia_Weather_Icon>
     <Encyclopedia_Weather_Name>TEXT_WEATHER_NAME_SUN</Encyclopedia_Weather_Name>
     <Encyclopedia_Weather_Info>TEXT_TACTICAL_WEATHER_OBJECTIVE_SUN</Encyclopedia_Weather_Info>
-    <Planet_Ability_Icon>i_pa_high_credit_value.tga</Planet_Ability_Icon>
+    <Planet_Ability_Icon>.tga</Planet_Ability_Icon>
     <Native_Icon_Name>load_royal_guard.tga</Native_Icon_Name>
     <Additional_Population_Capacity>5</Additional_Population_Capacity>
     <Potential_Indigenous_Power>Urban_Civilian_A, 250</Potential_Indigenous_Power>

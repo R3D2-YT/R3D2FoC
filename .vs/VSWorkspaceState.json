@@ -4,13 +4,13 @@
     "\\DATA",
     "\\DATA\\XML",
     "\\DATA\\XML\\STRUCTURES",
-    "\\DATA\\XML\\STRUCTURES\\SPACE",
+    "\\DATA\\XML\\STRUCTURES\\LAND",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\HERO",
     "\\DATA\\XML\\UNITS\\LAND",
     "\\DATA\\XML\\UNITS\\SPACE",
     "\\DOCUMENTATION"
   ],
-  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\HardPoints_Vindicator.xml",
+  "SelectedNode": "\\DATA\\XML\\STRUCTURES\\LAND\\STRUCTURES_LAND_CORPORATIONS.XML",
   "PreviewInSolutionExplorer": false
 }
