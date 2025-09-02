@@ -411,6 +411,7 @@
 
 		<Story_Name>Republic, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Confederacy, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+		<Story_Name>Empire, STORY_PLOTS_GC_GENARIC_EMPIRE.XML</Story_Name>
 		<Story_Name>Mandalorians, .XML</Story_Name>
 		<Story_Name>Player, .XML</Story_Name>
 
@@ -628,6 +629,34 @@
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Empire, XaFel_Era1_NorthCore, E_Ground_Barracks </Starting_Forces>
 
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, Empire_Star_Base_5 </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, Star_Destroyer_E </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, Nebulon_B_Frigate_E </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, E_Ground_Heavy_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Empire, Fondor_Era1_SouthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Diamal_Era1_SouthCore, E_Arquitens </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Diamal_Era1_SouthCore, E_Ground_Barracks </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Denfaal_Era1_SouthCore, Empire_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Empire, Denfaal_Era1_SouthCore, E_Dreadnought </Starting_Forces>
+		<Starting_Forces> Empire, Denfaal_Era1_SouthCore, E_Dreadnought </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Denfaal_Era1_SouthCore, E_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Empire, Denfaal_Era1_SouthCore, E_Ground_Light_Vehicle_Factory </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Empire, Abregado_Rae_Era1_SouthCore, Ton_Falk_E </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Empire, Abregado_Rae_Era1_SouthCore, E_Ground_Barracks </Starting_Forces>
+
 		<Starting_Credits> Yevethan,  20000 </Starting_Credits>
 		<Starting_Tech_Level> Yevethan, 5 </Starting_Tech_Level>
 		<Max_Tech_Level> Yevethan, 5 </Max_Tech_Level>
@@ -684,7 +713,7 @@
 
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, Confederacy_Star_Base_4 </Starting_Forces>
-		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, ProvicneProvidence_Cis </Starting_Forces>
+		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, Providence_Cis </Starting_Forces>
 		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, CIS_Munificent </Starting_Forces>
 		<Starting_Forces> Confederacy, Kalist_Era1_DeepCore, CIS_Munificent </Starting_Forces>
 		<!-- Thyferra Land Forces -->
@@ -692,11 +721,36 @@
 
 		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Confederacy, Duro_Era1_EastCore, Confederacy_Star_Base_4 </Starting_Forces>
-		<Starting_Forces> Confederacy, Duro_Era1_EastCore, ProvicneProvidence_Cis </Starting_Forces>
+		<Starting_Forces> Confederacy, Duro_Era1_EastCore, Providence_Cis </Starting_Forces>
 		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Munificent </Starting_Forces>
 		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Munificent </Starting_Forces>
 		<!-- Thyferra Land Forces -->
 		<Starting_Forces> Confederacy, Duro_Era1_EastCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Nubia_Era1_EastCore, Confederacy_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Confederacy, Nubia_Era1_EastCore, Captor_Carrier </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Nubia_Era1_EastCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Shumogi_Era1_EastCore, Confederacy_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Confederacy, Shumogi_Era1_EastCore, Recusant_Cis </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Shumogi_Era1_EastCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Game_Era1_SouthCore, Confederacy_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Confederacy, Game_Era1_SouthCore, Captor_Carrier </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Game_Era1_SouthCore, CIS_Ground_Droid_Works </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Confederacy, Tinnel_Era1_EastCore, Confederacy_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Confederacy, Tinnel_Era1_EastCore, Captor_Carrier </Starting_Forces>
+		<Starting_Forces> Confederacy, Tinnel_Era1_EastCore, Captor_Carrier </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Confederacy, Tinnel_Era1_EastCore, CIS_Ground_Droid_Works </Starting_Forces>
 
 		<Starting_Credits> Rebel,  5000 </Starting_Credits>
 		<Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
@@ -799,6 +853,31 @@
 		<Starting_Forces> Player, Prakith_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
 
 		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, Invincible_Player </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Belgarotn_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Cortina_Era1_SouthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Cortina_Era1_SouthCore, Invincible_Player </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Cortina_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Cortina_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Cortina_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Dulvoyinn_Era1_DeepCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Dulvoyinn_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Dulvoyinn_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Dulvoyinn_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Dulvoyinn_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Player, Odik_Era1_DeepCore, Player_Star_Base_1 </Starting_Forces>
 		<Starting_Forces> Player, Odik_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
 		<Starting_Forces> Player, Odik_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
@@ -806,5 +885,74 @@
 		<Starting_Forces> Player, Odik_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
 		<Starting_Forces> Player, Odik_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
 		<Starting_Forces> Player, Odik_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, Player_Star_Base_1 </Starting_Forces>
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Lialis_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, Player_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Zamael_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Fresa_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Sestria_Era1_SouthCore, Player_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Player, Sestria_Era1_SouthCore, Star_Destroyer_E </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Sestria_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Sestria_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Sestria_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Azbrain_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, Nebulon_B_Frigate </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Iphigin_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Player_Star_Base_2 </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Strike </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Strike </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Strike </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Strike </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Strike </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Loronar_Era1_SouthCore, Player_Ground_Mining_Facility </Starting_Forces>
 	</Campaign>
  </Campaigns>

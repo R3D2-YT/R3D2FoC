@@ -106,7 +106,7 @@
 		<Select_Box_Scale>27</Select_Box_Scale>
 		<Select_Box_Z_Adjust>3.0f</Select_Box_Z_Adjust>
 		<Selection_Blob_Material_Name>Selection_Empire_Hero</Selection_Blob_Material_Name>
-        <Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>
+        <!--<Highlight_Blob_Material_Name>Highlight_Empire_Hero</Highlight_Blob_Material_Name>-->
 
 		<Has_Land_Evaluator>True</Has_Land_Evaluator>
 		<AI_Combat_Power>500</AI_Combat_Power>

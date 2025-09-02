@@ -112,6 +112,8 @@
 
 	<File>MOV_Cinematics.xml</File>
 
+	<!-- Bounty hunter dummies -->
+	<File>UNITS\SPACE\Hire_Bounty_Hunter_Dummy.xml</File>
 
 
 
