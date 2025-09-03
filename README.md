@@ -31,6 +31,7 @@ Current WIP Version: 3.3.1
  - Warlord Zsinj's Empire
  - Greater Maldrood
  - Eriadu Authrority
+ - Duskhan Leauge
 
 # Non-Playable Factions:
 
