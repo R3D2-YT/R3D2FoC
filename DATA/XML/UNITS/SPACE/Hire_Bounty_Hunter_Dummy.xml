@@ -9,7 +9,7 @@
 		</Encyclopedia_Text>
 		<Encyclopedia_Good_Against></Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To></Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Space_Model_Name>imp_CustomFrigate.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		<Mass>0.999</Mass>

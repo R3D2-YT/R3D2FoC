@@ -829,6 +829,26 @@
 		<Starting_Forces> Player, Foreost_Era1_NorthCore, Player_Ground_Mining_Facility </Starting_Forces>
 
 		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, Invincible_Player </Starting_Forces>
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Ojom_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, Player_Star_Base_3 </Starting_Forces>
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, Z95_Headhunter_Republic_Squadron </Starting_Forces>
+		<!-- Thyferra Land Forces -->
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, P_Ground_Barracks </Starting_Forces>
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, P_Ground_Light_Vehicle_Factory </Starting_Forces>
+		<Starting_Forces> Player, Ottabesk_Era1_DeepCore, Player_Ground_Mining_Facility </Starting_Forces>
+
+		<!-- Thyferra Space Forces -->
 		<Starting_Forces> Player, Tython_Era1_DeepCore, Player_Star_Base_2 </Starting_Forces>
 		<Starting_Forces> Player, Tython_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
 		<Starting_Forces> Player, Tython_Era1_DeepCore, REP_PDF_Dreadnought </Starting_Forces>
