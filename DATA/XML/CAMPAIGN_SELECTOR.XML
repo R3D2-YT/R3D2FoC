@@ -78,4 +78,39 @@
 
 	</Campaign>
 
+	<Campaign Name="Sandbox_Core_Selector_Rebel">
+
+		<Campaign_Set> Core_Campaign_Selectors </Campaign_Set>
+		<Sort_Order>2</Sort_Order>
+		<Text_ID> TEXT_CAMPAIGN_GC_CORE </Text_ID>
+
+		<Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_CORE_ERA1 </Description_Text>
+
+		<Camera_Shift_X> 40.0 </Camera_Shift_X>
+		<Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+		<Camera_Distance> 1200.0 </Camera_Distance>
+
+		<Locations>
+			Galaxy_Core_Art_Model
+			SelectorPlanet,
+		</Locations>
+
+		<Home_Location> Empire, SelectorPlanet </Home_Location>
+
+		<Starting_Active_Player> Rebel </Starting_Active_Player>
+
+		<Story_Name>Rebel, STORY_PLOTS_GC_SELECTOR_REBEL.XML</Story_Name>
+
+		<Supports_Custom_Settings>False</Supports_Custom_Settings>
+		<Show_Completed_Tab>False</Show_Completed_Tab>
+
+		<Starting_Credits> Rebel,  1 </Starting_Credits>
+		<Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Rebel, 5 </Max_Tech_Level>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Rebel, SelectorPlanet, Rebel_Star_Base_1 </Starting_Forces>
+
+	</Campaign>
+
  </Campaigns>
