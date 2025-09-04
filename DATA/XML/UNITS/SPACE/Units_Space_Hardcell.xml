@@ -51,7 +51,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Medium_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>

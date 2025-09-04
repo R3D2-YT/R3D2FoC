@@ -5,7 +5,7 @@
 		<Text_ID>TEXT_UNIT_TON_FALK</Text_ID>
 		<Encyclopedia_Good_Against> Corellian_Corvette Marauder_Missile_Cruiser Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Calamari_Cruiser Skipray_Blastboat Y-wing </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Space_Model_Name>ev_tonfalk.ALO</Space_Model_Name>
 		<Select_Box_Scale>350</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
@@ -44,7 +44,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets></Required_Planets>
 		<Ship_Class>frigate</Ship_Class>
 		<Formation_Priority>3</Formation_Priority>
@@ -176,7 +176,7 @@
 			
 		</Unit_Abilities_Data>
 		
-		<Encyclopedia_Text> TEXT_TOOLTIP_ACCLAMATOR</Encyclopedia_Text>
+		<Encyclopedia_Text> TEXT_TOOLTIP_TONN_FALK</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FRIGATE </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 1800</Score_Cost_Credits>
 
@@ -195,7 +195,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Empire</Affiliation>
-		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -209,7 +209,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Raptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -223,7 +223,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Shielded_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
@@ -237,7 +237,7 @@
 		<Variant_Of_Existing_Type>Ton_Falk</Variant_Of_Existing_Type>
 		<Tech_Level>1</Tech_Level>
 		<Affiliation>Yevethan</Affiliation>
-		<Required_Special_Structures> Tier_II_Shipyard | Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Special_Structures>Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>

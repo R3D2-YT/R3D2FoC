@@ -20,7 +20,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard | Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
 		<Required_Planets>
 				Abregado_Rae_Era2, 
 				AetenII_Era2, 

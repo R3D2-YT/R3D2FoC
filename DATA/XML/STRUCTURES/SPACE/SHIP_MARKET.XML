@@ -25,13 +25,8 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures></Required_Special_Structures><!--
-		<Required_Planets>
-			Spina_Era1_DeepCore,
-			TsossBeacon_Era1_DeepCore,
-			Odik_Era1_DeepCore,
-			Dulvoyinn_Era1_DeepCore,
-		</Required_Planets>-->
+		<Required_Special_Structures></Required_Special_Structures>
+		
 		<Tactical_Health>2000</Tactical_Health>
 		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>
 		<SpaceBehavior>SPACE_OBSTACLE, REVEAL, HIDE_WHEN_FOGGED,UNIT_AI</SpaceBehavior>
