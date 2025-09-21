@@ -3,14 +3,14 @@
     "",
     "\\DATA",
     "\\DATA\\XML",
-    "\\DATA\\XML\\STRUCTURES",
-    "\\DATA\\XML\\STRUCTURES\\LAND",
+    "\\DATA\\XML\\CAMPAIGNS",
+    "\\DATA\\XML\\CAMPAIGNS\\EMPIRE",
+    "\\DATA\\XML\\CAMPAIGNS\\EMPIRE\\REIGONAL",
+    "\\DATA\\XML\\PLANETS",
     "\\DATA\\XML\\UNITS",
-    "\\DATA\\XML\\UNITS\\HERO",
-    "\\DATA\\XML\\UNITS\\LAND",
     "\\DATA\\XML\\UNITS\\SPACE",
     "\\DOCUMENTATION"
   ],
-  "SelectedNode": "\\DATA\\XML\\STORY_GC_SELECTOR_REBEL.XML",
+  "SelectedNode": "\\DATA\\XML\\SpaceTFUSkybox.xml",
   "PreviewInSolutionExplorer": false
 }

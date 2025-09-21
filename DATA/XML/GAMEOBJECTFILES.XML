@@ -117,6 +117,9 @@
 
 	<!-- Bounty Hunters -->
 	<File>UNITS\HERO\UNITS_HERO_SHAND.XML</File>
+	
+	<!-- Research Dummies -->
+	<File>UNITS\SPACE\Research_Dummies.XML</File>
 
 
 

@@ -22,6 +22,62 @@
 		<Story_Chapter>0</Story_Chapter>
 		<Story_Tag>Intro_Tag</Story_Tag>
 	</Event>
+
+	<Event Name="LOCK_ISDII">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_EXECUTOR">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Executor_Super_Star_Destroyer_Genaric_Era3</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_BELLATOR">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Bellator_Super_Star_Destroyer_Genaric_Era3</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_QUASAR">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Quasar_Empire</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_TON_FALK">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_E</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_E_Lancer">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>E_Lancer</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_TIE_Phantom_Squadron">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>TIE_Phantom_Squadron</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="LOCK_TIE_Avenger_Squadron">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>TIE_Avenger_Squadron</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
 	
 	<!--
 	<Event Name="Campaign_Dialog">
@@ -55,6 +111,28 @@
 		<Reward_Param10>0</Reward_Param10>
 		<Prereq>Reveal_All_Planets</Prereq>
 	</Event>
+
+	<!-- Tech -->
+
+	<Event Name="New_Fleet_Initiative_ISD_II">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
+	</Event>
+
+	<Event Name="New_Fleet_Initiative_Ton_Falk">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_E</Reward_Param1>
+	</Event>
+	
+	<!-- Bounty Hunters -->
 
 	<Event Name="Hire_Boba_Fett">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
