@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -99,6 +99,10 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SpaceTFUSkybox.xml",
@@ -106,7 +110,7 @@
               "RelativeDocumentMoniker": "DATA\\XML\\SpaceTFUSkybox.xml",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\SpaceTFUSkybox.xml",
               "RelativeToolTip": "DATA\\XML\\SpaceTFUSkybox.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-09-21T21:09:41.028Z",
               "EditorCaption": ""
@@ -119,7 +123,7 @@
               "RelativeDocumentMoniker": "DATA\\XML\\SPACEPRIMARYSKYDOMES.XML",
               "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\Star Wars Empire at War\\corruption\\Mods\\R3D2FoC\\DATA\\XML\\SPACEPRIMARYSKYDOMES.XML",
               "RelativeToolTip": "DATA\\XML\\SPACEPRIMARYSKYDOMES.XML",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-09-21T21:07:13.743Z",
               "EditorCaption": ""
@@ -134,8 +138,7 @@
               "RelativeToolTip": "DATA\\XML\\SPACEPROPS_UNDERWORLD.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-21T20:56:20.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T20:56:20.849Z"
             },
             {
               "$type": "Document",
@@ -147,8 +150,7 @@
               "RelativeToolTip": "DATA\\XML\\SPACEPROPS.XML",
               "ViewState": "AgIAAFUBAAAAAAAAAAAmwF8BAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-21T20:55:45.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T20:55:45.657Z"
             },
             {
               "$type": "Document",
@@ -160,8 +162,7 @@
               "RelativeToolTip": "DATA\\XML\\PLANETS\\PLANETS_NORTHERN_CORE_ERA1.XML",
               "ViewState": "AgIAANsBAAAAAAAAAAAmwBICAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-21T20:48:32.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T20:48:32.884Z"
             },
             {
               "$type": "Document",
@@ -173,8 +174,7 @@
               "RelativeToolTip": "DATA\\XML\\CAMPAIGNS\\EMPIRE\\REIGONAL\\Campaigns_Reigonal_Empire_Era3.XML",
               "ViewState": "AgIAAI4CAAAAAAAAAAAmwK8CAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-21T20:47:54.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T20:47:54.398Z"
             },
             {
               "$type": "Document",
@@ -186,12 +186,7 @@
               "RelativeToolTip": "DATA\\XML\\PLANETS\\PLANETS_DEEP_CORE_ERA1.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-21T20:47:00.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-09-21T20:47:00.013Z"
             },
             {
               "$type": "Document",
@@ -227,8 +222,7 @@
               "RelativeToolTip": "DATA\\XML\\STORY_GC_GENARIC_EMPIRE.XML",
               "ViewState": "AgIAACsAAAAAAAAAAAAmwIMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-11T05:22:55.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-11T05:22:55.307Z"
             },
             {
               "$type": "Document",
@@ -240,8 +234,7 @@
               "RelativeToolTip": "DATA\\XML\\CAMPAIGN_SELECTOR.XML",
               "ViewState": "AgIAADMAAAAAAAAAAAAUwG8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-03T03:23:18.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T03:23:18.865Z"
             },
             {
               "$type": "Document",
@@ -253,8 +246,7 @@
               "RelativeToolTip": "DATA\\XML\\STRUCTURES\\LAND\\STRUCTURES_LAND_CORPORATIONS.XML",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-02T05:31:31.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T05:31:31.525Z"
             },
             {
               "$type": "Document",
@@ -266,8 +258,7 @@
               "RelativeToolTip": "DATA\\XML\\SPECIALSTRUCTURES.XML",
               "ViewState": "AgIAAGQEAAAAAAAAAAAmwIMEAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-02T05:28:00.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T05:28:00.639Z"
             }
           ]
         }

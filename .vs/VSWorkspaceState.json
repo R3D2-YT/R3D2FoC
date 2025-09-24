@@ -6,11 +6,12 @@
     "\\DATA\\XML\\CAMPAIGNS",
     "\\DATA\\XML\\CAMPAIGNS\\EMPIRE",
     "\\DATA\\XML\\CAMPAIGNS\\EMPIRE\\REIGONAL",
-    "\\DATA\\XML\\PLANETS",
+    "\\DATA\\XML\\CAMPAIGNS\\REBEL",
+    "\\DATA\\XML\\CAMPAIGNS\\REBEL\\REIGONAL",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\SPACE",
     "\\DOCUMENTATION"
   ],
-  "SelectedNode": "\\DATA\\XML\\SpaceTFUSkybox.xml",
+  "SelectedNode": "\\DATA\\XML\\CAMPAIGNS",
   "PreviewInSolutionExplorer": false
 }
