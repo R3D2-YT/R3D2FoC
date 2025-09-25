@@ -2,7 +2,7 @@
 <Campaigns>
 
 
-<!-- **************** EMPIRE CAMPAIGN SELECTORS ***************** -->
+<!-- **************** CAMPAIGN SELECTORS ***************** -->
 
 	<!-- Deep Core -->
 
@@ -42,6 +42,41 @@
 	</Campaign>
 	
 	<!-- Core -->
+
+		<Campaign Name="Sandbox_Core_Selector_Republic">
+
+		<Campaign_Set> Core_Campaign_Selectors </Campaign_Set>
+		<Sort_Order>2</Sort_Order>
+		<Text_ID> TEXT_CAMPAIGN_GC_CORE </Text_ID>
+
+		<Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_CORE_ERA1 </Description_Text>
+
+		<Camera_Shift_X> 40.0 </Camera_Shift_X>
+		<Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+		<Camera_Distance> 1200.0 </Camera_Distance>
+
+		<Locations>
+			Galaxy_Core_Art_Model
+			SelectorPlanet,
+		</Locations>
+
+		<Home_Location> Republic, SelectorPlanet </Home_Location>
+
+		<Starting_Active_Player> Republic </Starting_Active_Player>
+
+		<Story_Name>Republic, STORY_PLOTS_GC_SELECTOR_REPUBLIC.XML</Story_Name>
+
+		<Supports_Custom_Settings>False</Supports_Custom_Settings>
+		<Show_Completed_Tab>False</Show_Completed_Tab>
+
+		<Starting_Credits> Republic,  1 </Starting_Credits>
+		<Starting_Tech_Level> Republic, 5 </Starting_Tech_Level>
+		<Max_Tech_Level> Republic, 5 </Max_Tech_Level>
+
+		<!-- Thyferra Space Forces -->
+		<Starting_Forces> Republic, SelectorPlanet, Republic_Star_Base_1 </Starting_Forces>
+
+	</Campaign>
 
 	<Campaign Name="Sandbox_Core_Selector_Empire">
 

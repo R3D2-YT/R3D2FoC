@@ -15,7 +15,11 @@
 	<File>Campaigns_Era4.xml</File>
 	<File>Campaigns_Era5.xml</File>-->
 
-	<File>CAMPAIGN_SELECTOR.xml</File>
+	<File>CAMPAIGNS\CAMPAIGN_SELECTOR.xml</File>
+
+	<!-- REPUBLIC -->
+
+	<File>CAMPAIGNS\REPUBLIC\REIGONAL\Campaigns_Reigonal_Republic_Era1.xml</File>
 
 	<!-- EMPIRE -->
 
