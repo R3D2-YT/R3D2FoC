@@ -4,14 +4,12 @@
     "\\DATA",
     "\\DATA\\XML",
     "\\DATA\\XML\\CAMPAIGNS",
-    "\\DATA\\XML\\CAMPAIGNS\\EMPIRE",
-    "\\DATA\\XML\\CAMPAIGNS\\EMPIRE\\REIGONAL",
-    "\\DATA\\XML\\CAMPAIGNS\\REBEL",
     "\\DATA\\XML\\CAMPAIGNS\\REBEL\\REIGONAL",
+    "\\DATA\\XML\\CAMPAIGNS\\REIGONAL",
     "\\DATA\\XML\\UNITS",
     "\\DATA\\XML\\UNITS\\SPACE",
     "\\DOCUMENTATION"
   ],
-  "SelectedNode": "\\DATA\\XML\\CAMPAIGNS",
+  "SelectedNode": "\\DATA\\XML\\UNITS\\SPACE\\HardPoints_Vanilla.xml",
   "PreviewInSolutionExplorer": false
 }

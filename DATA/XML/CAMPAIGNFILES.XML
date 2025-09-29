@@ -19,18 +19,18 @@
 
 	<!-- REPUBLIC -->
 
-	<File>CAMPAIGNS\REPUBLIC\REIGONAL\Campaigns_Reigonal_Republic_Era1.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Republic_Era1.xml</File>
 
 	<!-- EMPIRE -->
 
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era3.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era4.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era5.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era6.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era7.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era8.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era9.xml</File>
-	<File>CAMPAIGNS\EMPIRE\REIGONAL\Campaigns_Reigonal_Empire_Era10.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era3.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era4.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era5.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era6.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era7.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era8.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era9.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era10.xml</File>
 
 	<!-- REBELLION -->
 

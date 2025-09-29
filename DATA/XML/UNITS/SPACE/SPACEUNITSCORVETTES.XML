@@ -817,12 +817,12 @@
 		<Encyclopedia_Good_Against> Rebel_Star_Base_1 X-wing Skipray_Blastboat </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Vengeance_Frigate Alliance_Assault_Frigate Corellian_Gunboat </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 0 </GUI_Row>
-		<Space_Model_Name>ev_missile_ship.alo</Space_Model_Name>
+		<Space_Model_Name>Ev_BroadsideCruiser.alo</Space_Model_Name>
 		<Icon_Name>i_button_broadside.tga</Icon_Name>
 		<Select_Box_Scale>250</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.65</Scale_Factor>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 
         <Ranking_In_Category>7</Ranking_In_Category>

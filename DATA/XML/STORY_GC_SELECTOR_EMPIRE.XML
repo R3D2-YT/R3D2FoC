@@ -33,7 +33,7 @@
 
 	<Event Name="Select_Era3_Core">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
-		<Event_Param1>Sandbox_Core_Republic_Era1</Event_Param1>
+		<Event_Param1>Era_Selector_Era3</Event_Param1>
 		<Event_Param2>1</Event_Param2>
 		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
 		<Reward_Type>LOAD_CAMPAIGN</Reward_Type>
