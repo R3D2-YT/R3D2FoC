@@ -190,12 +190,11 @@
 		<Home_Location> Player, Axxila_Era1 </Home_Location>
 
 		<Starting_Active_Player> Republic </Starting_Active_Player>
-
-		<Story_Name>Republic, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
+<!--
 		<Story_Name>Confederacy, STORY_PLOTS_GC_GENARIC.XML</Story_Name>
 		<Story_Name>Republic, STORY_PLOTS_GC_GENARIC_Republic.XML</Story_Name>
 		<Story_Name>Mandalorians, .XML</Story_Name>
-		<Story_Name>Player, .XML</Story_Name>
+		<Story_Name>Player, .XML</Story_Name>-->
 
 		<AI_Player_Control> Confederacy, BasicEmpire </AI_Player_Control>
 		<AI_Player_Control> Mandalorians, BasicEmpire </AI_Player_Control>
