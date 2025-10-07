@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+
+<Trade_Route_Files>
+	<File>TradeRoutes.xml</File>
+	
+	<File>PLANETS\TRADEROUTES_DEEP_CORE_ERA1.xml</File>
+	<File>PLANETS\TRADEROUTES_NORTH_CORE_ERA1.xml</File>
+	<File>PLANETS\TRADEROUTES_EAST_CORE_ERA1.xml</File>
+	<File>PLANETS\TRADEROUTES_SOUTH_CORE_ERA1.xml</File>
+	
+	<File>TRADEROUTES_ERA1.xml</File>
+	<File>TRADEROUTES_ERA2.xml</File>
+	<File>TRADEROUTES_ERA3.xml</File>
+	<File>TRADEROUTES_ERA4.xml</File>
+	<File>TRADEROUTES_ERA5.xml</File>
+</Trade_Route_Files>
