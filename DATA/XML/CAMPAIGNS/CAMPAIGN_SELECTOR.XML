@@ -64,7 +64,7 @@
 
 		<Starting_Active_Player> Republic </Starting_Active_Player>
 
-		<Story_Name>Republic, STORY_PLOTS_GC_SELECTOR_REPUBLIC.XML</Story_Name>
+		<Story_Name>Republic, CAMPAIGNS\PLOTS\STORY_PLOTS_GC_SELECTOR_REPUBLIC.XML</Story_Name>
 
 		<Supports_Custom_Settings>False</Supports_Custom_Settings>
 		<Show_Completed_Tab>False</Show_Completed_Tab>
@@ -99,7 +99,7 @@
 
 		<Starting_Active_Player> Empire </Starting_Active_Player>
 
-		<Story_Name>Empire, STORY_PLOTS_GC_SELECTOR_EMPIRE.XML</Story_Name>
+		<Story_Name>Empire, CAMPAIGNS\PLOTS\STORY_PLOTS_GC_SELECTOR_EMPIRE.XML</Story_Name>
 
 		<Supports_Custom_Settings>False</Supports_Custom_Settings>
 		<Show_Completed_Tab>False</Show_Completed_Tab>

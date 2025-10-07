@@ -43,7 +43,7 @@
 		<Ranged_Target_Z_Adjust>35.0</Ranged_Target_Z_Adjust>
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.1</Maintenance_Cost>
-		<Affiliation>Neutral</Affiliation>
+		<Affiliation>Republic</Affiliation>
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
 		<Slice_Cost_Credits>400</Slice_Cost_Credits>
@@ -170,7 +170,7 @@
 
 	<SpaceUnit Name="Era_Selector_Era1_Republic">
 		<Variant_Of_Existing_Type>Era_Selector_Era1</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Neutral</Affiliation>
 		<Icon_Name>i_button_era_1.tga</Icon_Name>
 		<Text_ID>TEXT_ERA_1_SELECTOR</Text_ID>
 		<Encyclopedia_Text>

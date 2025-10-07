@@ -19,9 +19,9 @@
 
 	<!-- REPUBLIC -->
 
-	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Republic_Era1.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal.xml</File>
 
-	<!-- EMPIRE -->
+	<!-- EMPIRE
 
 	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era3.xml</File>
 	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era4.xml</File>
@@ -30,7 +30,7 @@
 	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era7.xml</File>
 	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era8.xml</File>
 	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era9.xml</File>
-	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era10.xml</File>
+	<File>CAMPAIGNS\REIGONAL\Campaigns_Reigonal_Empire_Era10.xml</File>-->
 
 	<!-- REBELLION -->
 

@@ -24,6 +24,17 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
+	<Event Name="Select_Era3_Core">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Era_Selector_Era1</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>LOAD_CAMPAIGN</Reward_Type>
+		<Reward_Param1>Sandbox_Core_Republic_Era1</Reward_Param1>
+		<Reward_Param2>1</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+<!--
 	<Event Name="Select_Era1_Core">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
 		<Event_Param1>Era_Selector_Era1_Republic</Event_Param1>
@@ -33,6 +44,6 @@
 		<Reward_Param1>Sandbox_Core_Republic_Era1</Reward_Param1>
 		<Reward_Param2>1</Reward_Param2>
 		<Prereq>Universal_Story_Start</Prereq>
-	</Event>
+	</Event>-->
 	
 </Story>
