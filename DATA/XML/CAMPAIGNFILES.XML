@@ -1,11 +1,13 @@
 <?xml version="1.0" ?>
 
-<Campaign_Files>
+<Campaign_Files><!--
 	<File>CAMPAIGNS\GCS\Campaigns_Underworld_GC.xml</File>
 	<File>Campaigns_Underworld_Story.xml</File>
 	<File>Campaigns_Multiplayer.xml</File>
 	<File>Campaigns_Tutorial.xml</File>
-	<File>Campaigns_Underworld_Tutorial.xml</File>	
+	<File>Campaigns_Underworld_Tutorial.xml</File>	-->
+
+	<File>Campaigns_Multiplayer.xml</File>
 
 	<File>CAMPAIGNS\GCS\Campaigns_Reigonal_Empire_Era3.xml</File>	
 	<!--
