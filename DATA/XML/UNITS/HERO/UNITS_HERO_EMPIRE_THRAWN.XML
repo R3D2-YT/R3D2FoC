@@ -11,7 +11,13 @@
 	<HeroUnit Name="Grand_Admiral_Thrawn">
 		<Is_Named_Hero>Yes</Is_Named_Hero>
 		<Text_ID>TEXT_HERO_THRAWN</Text_ID>
-		<Encyclopedia_Text> TEXT_TOOLTIP_THRAWN </Encyclopedia_Text>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_THRAWN
+			SPACER
+			TEXT_TIER_5
+			SPACER
+			TEXT_SQUADRON_DETAILS
+		</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FLEET_COMMANDER </Encyclopedia_Unit_Class>
 		<Icon_Name>i_button_thrawn.tga</Icon_Name>
 		
@@ -51,17 +57,17 @@
 				<Stacking_Category>0</Stacking_Category>
 			</Reduce_Production_Price_Ability>
 
-			<Combat_Bonus_Ability Name="Thrawn_Combat_Bonus">
+			<Combat_Bonus_Ability Name="Command_Tier_V">
 				<Activation_Style>Space_Automatic</Activation_Style>
 				<Unit_Strength_Category>Capital | Corvette | Frigate | Fighter</Unit_Strength_Category>
 				<Applicable_Unit_Categories>Capital | Corvette | Frigate | Fighter</Applicable_Unit_Categories>
 				<Applicable_Unit_Types />
-				<Health_Bonus_Percentage>0.20</Health_Bonus_Percentage>
-				<Damage_Bonus_Percentage>0.1</Damage_Bonus_Percentage>
-				<Energy_Pool_Bonus_Percentage>0.0</Energy_Pool_Bonus_Percentage>
-				<Shield_Bonus_Percentage>0.1</Shield_Bonus_Percentage>
-				<Defense_Bonus_Percentage>0.1</Defense_Bonus_Percentage>
-				<Movement_Speed_Bonus_Percentage>0.1</Movement_Speed_Bonus_Percentage>
+				<Health_Bonus_Percentage>0.25</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.25</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.25</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.25</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.25</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.25</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
 
@@ -130,7 +136,13 @@
 
 	<HeroCompany Name="Grand_Admiral_Thrawn_Team">
 		<Text_ID>TEXT_HERO_THRAWN_TEAM</Text_ID>
-		<Encyclopedia_Text>TEXT_TOOLTIP_THRAWN</Encyclopedia_Text>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_THRAWN
+			SPACER
+			TEXT_TIER_5
+			SPACER
+			TEXT_SQUADRON_DETAILS
+		</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FLEET_COMMANDER </Encyclopedia_Unit_Class>
 		
 		<Icon_Name>i_button_grand_moff_tarkin.tga</Icon_Name>
@@ -176,16 +188,22 @@
 
 
 	<UniqueUnit Name="Admonitor_Star_Destroyer">
-		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Star_Destroyer_E_No_Fighters</Variant_Of_Existing_Type>
 		
 		<Text_ID>TEXT_UNIT_SD_ADMONITOR</Text_ID>
-		<Encyclopedia_Text> TEXT_TOOLTIP_SD_ADMONITOR </Encyclopedia_Text>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_SD_ADMONITOR
+			SPACER
+			TEXT_TIER_5
+			SPACER
+			TEXT_SQUADRON_DETAILS
+			TEXT_CARRIES_FIGHTERS_10
+			TEXT_CARRIES_BOMBERS_5
+		</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FLEET_COMMANDER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> Kedalbe_Battleship Calamari_Cruiser </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> B-Wing MC30_Frigate Skipray_Blastboat </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_thrawn.tga</Icon_Name>
-
-		<Space_Model_Name>EV_StarDestoyer_Thrawn.alo</Space_Model_Name>
 
 		<Is_Named_Hero>Yes</Is_Named_Hero>
 		
@@ -194,7 +212,7 @@
 		<Can_Be_Neutralized_By_Minor_Heroes>No</Can_Be_Neutralized_By_Minor_Heroes>
 
 		<Prevents_Story_Campaign_Autoresolve>yes</Prevents_Story_Campaign_Autoresolve>
-		<Tech_Level>99</Tech_Level>
+		<Tech_Level>1</Tech_Level>
         <Ranking_In_Category>3</Ranking_In_Category>
 		<AI_Combat_Power>4000</AI_Combat_Power>
 		<Score_Cost_Credits> 50000 </Score_Cost_Credits>
@@ -202,21 +220,24 @@
 		<CategoryMask> Capital | SpaceHero | AntiFrigate </CategoryMask>
 		<Population_Value>4</Population_Value>
 		<Death_Clone>Damage_Normal, Admonitor_Star_Destroyer_Death_Clone</Death_Clone>
+		<Build_Cost_Credits>30000</Build_Cost_Credits>
+		<Build_Time_Seconds>100</Build_Time_Seconds>
+		
+		<Required_Planets>
+				
+		</Required_Planets>
+		
+		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
 
 		<SpaceBehavior> ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, ION_STUN_EFFECT, NEBULA, SPAWN_SQUADRON </SpaceBehavior>
+		
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Defender_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
 
-		<HardPoints> 
-			HP_Thrawn_SD_Weapon_FL,
-			HP_Thrawn_SD_Weapon_FR,
-			HP_Thrawn_SD_Weapon_BL,
-			HP_Thrawn_SD_Weapon_BR,
-			HP_Thrawn_SD_Weapon_ML,
-			HP_Thrawn_SD_Weapon_MR, 
-			HP_Thrawn_SD_Shield_Generator,
-			HP_Thrawn_SD_Engines,
-			HP_Thrawn_SD_Fighter_Bay,
-			HP_Thrawn_SD_Tractor_Beam
-		</HardPoints>
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
 		
 		<SFXEvent_Select>Unit_Select_Thrawn</SFXEvent_Select>
 		<SFXEvent_Move>Unit_Move_Thrawn</SFXEvent_Move>
@@ -274,44 +295,22 @@
                 <Alternate_Icon_Name>i_sa_assault.tga</Alternate_Icon_Name>
 			</Unit_Ability>
 
-            <Unit_Ability>
-	            <Type>TRACTOR_BEAM</Type>
-	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.6f</Mod_Multiplier>
-	            <GUI_Activated_Ability_Name>Admonitor_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name>
-	            <Recharge_Seconds>25</Recharge_Seconds>
-	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Thrawn</SFXEvent_Target_Ability>
-				   <SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
-            </Unit_Ability>
-
 		</Unit_Abilities_Data>
 
 		<Abilities SubObjectList="Yes">
-			<Combat_Bonus_Ability Name="Admonitor_Combat_Bonus">
+			<Combat_Bonus_Ability Name="Command_Tier_V">
 				<Activation_Style>Space_Automatic</Activation_Style>
 				<Unit_Strength_Category>Capital | Corvette | Frigate | Fighter</Unit_Strength_Category>
 				<Applicable_Unit_Categories>Capital | Corvette | Frigate | Fighter</Applicable_Unit_Categories>
 				<Applicable_Unit_Types />
-				<Health_Bonus_Percentage>0.20</Health_Bonus_Percentage>
-				<Damage_Bonus_Percentage>0.1</Damage_Bonus_Percentage>
-				<Energy_Pool_Bonus_Percentage>0.0</Energy_Pool_Bonus_Percentage>
-				<Shield_Bonus_Percentage>0.1</Shield_Bonus_Percentage>
-				<Defense_Bonus_Percentage>0.1</Defense_Bonus_Percentage>
-				<Movement_Speed_Bonus_Percentage>0.1</Movement_Speed_Bonus_Percentage>
+				<Health_Bonus_Percentage>0.25</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.25</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.25</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.25</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.25</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.25</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
-
-			<Tractor_Beam_Attack_Ability Name="Admonitor_Tractor_Beam_Attack_Ability">
-				<Activation_Style> User_Input </Activation_Style>
-				<Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
-	            <Applicable_Unit_Types>Millennium_Falcon, Houndstooth, IG-2000</Applicable_Unit_Types>
-				<Excluded_Unit_Types>Buzz_Droids</Excluded_Unit_Types>
-				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>800</Activation_Max_Range>
-
-				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Target_Speed_Decrease_Percent>0.9</Target_Speed_Decrease_Percent>
-				<Stacking_Category>2</Stacking_Category>			
-			</Tractor_Beam_Attack_Ability>
 
 			<System_Spy_Ability Name="Admonitor_Ship_Reveal">
 				<Initially_Enabled>Yes</Initially_Enabled>
@@ -345,24 +344,6 @@
 
 		</Abilities>
 		
-	</UniqueUnit>
-	
-	<UniqueUnit Name="Admonitor_Star_Destroyer_No_Engine_Hardpoint">
-		<Variant_Of_Existing_Type>Admonitor_Star_Destroyer</Variant_Of_Existing_Type>
-
-		<HardPoints> 
-			HP_Thrawn_SD_Weapon_FL,
-			HP_Thrawn_SD_Weapon_FR,
-			HP_Thrawn_SD_Weapon_BL,
-			HP_Thrawn_SD_Weapon_BR,
-			HP_Thrawn_SD_Weapon_ML,
-			HP_Thrawn_SD_Weapon_MR, 
-			HP_Thrawn_SD_Shield_Generator,
-			HP_Thrawn_SD_Engines_No_Target,
-			HP_Thrawn_SD_Fighter_Bay,
-			HP_Thrawn_SD_Tractor_Beam
-		</HardPoints>
-				
 	</UniqueUnit>
 
 	<UniqueUnit Name="Admonitor_Star_Destroyer_Death_Clone">

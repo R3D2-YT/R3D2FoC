@@ -1,15 +1,31 @@
 <?xml version="1.0" ?>
 
-<Campaign_Files><!--
-	<File>CAMPAIGNS\GCS\Campaigns_Underworld_GC.xml</File>
+<Campaign_Files>
+		<!--<File>Campaigns_Singleplayer.xml</File>
+	<File>Campaigns_Underworld_GC.xml</File>
 	<File>Campaigns_Underworld_Story.xml</File>
-	<File>Campaigns_Multiplayer.xml</File>
 	<File>Campaigns_Tutorial.xml</File>
 	<File>Campaigns_Underworld_Tutorial.xml</File>	-->
+<!--
+	<File>CAMPAIGNS_TEST.xml</File>
+	<File>CAMPAIGNS_SPACER</File>
+	<File>Campaigns_Era1.xml</File>
+	<File>Campaigns_Era2.xml</File>
+	<File>Campaigns_Era3.xml</File>
+	<File>Campaigns_Era4.xml</File>
+	<File>Campaigns_Era5.xml</File>
+
+	<File>CAMPAIGNS\CAMPAIGN_SELECTOR.xml</File>-->
+
+	<File>CAMPAIGNS\GCS\Campaigns_Core.XML</File>
+	
+
+	<!-- Multiplayer -->
 
 	<File>Campaigns_Multiplayer.xml</File>
 
-	<File>CAMPAIGNS\GCS\Campaigns_Reigonal_Empire_Era3.xml</File>	
+
+
 	<!--
 	<File>Campaigns_Underworld_Demo.xml</File>
 	<File>Campaigns_Test.xml</File>

@@ -316,6 +316,16 @@
 		<Ranking_In_Category> 2 </Ranking_In_Category>
 		<Population_Value>1</Population_Value>
 	</HeroCompany>
+	
+	<SpaceUnit Name="Rep_Yoda">
+		<Variant_Of_Existing_Type>Yoda</Variant_Of_Existing_Type>
+		<Affiliation>Republic</Affiliation>
+	</SpaceUnit>
+	
+	<SpaceUnit Name="Rep_Yoda_Company">
+		<Variant_Of_Existing_Type>Yoda_Team</Variant_Of_Existing_Type>
+		<Affiliation>Republic</Affiliation>
+	</SpaceUnit>
 
 
 

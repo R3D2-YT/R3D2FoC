@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<Campaigns>
+
+
+
+<!-- *********************************************************************** -->
+<!-- **************** SANDBOX CAMPAIGN "Galactic Conflict" ***************** -->
+<!-- *********************************************************************** -->
+
+
+	<Campaign Name="Sandbox_Spacer">
+
+		<Campaign_Set> Sandbox_Spacer </Campaign_Set>
+		<Sort_Order>1</Sort_Order>
+
+        <Text_ID> TEXT_CAMPAIGN_GC_SPACER_SANDBOX </Text_ID>
+		
+        <Description_Text> TEXT_CAMPAIGN_GC_SPACER_SANDBOX </Description_Text>
+			<!--TEXT_PLAYABLE_FACTIONS_GC
+			TEXT_FACTION_REPUBLIC
+			TEXT_FACTION_MANDO-->
+
+        <Camera_Shift_X> 40.0 </Camera_Shift_X>
+        <Camera_Shift_Y> 0.0 </Camera_Shift_Y>
+        <Camera_Distance> 1200.0 </Camera_Distance>
+
+        <Locations> 
+				Galaxy_Core_Art_Model
+		</Locations>
+
+        <Trade_Routes> 
+		</Trade_Routes>
+
+        <Home_Location> Republic, Coruscant_Era1 </Home_Location>
+        <Home_Location> Mandalorians, Mandalore_Era1 </Home_Location>
+        <Home_Location> Player, Axxila_Era1 </Home_Location>
+
+        <Starting_Active_Player>  </Starting_Active_Player>
+
+		<Story_Name>Republic, STORY_PLOTS_GC_ERA1_REPUBLIC.XML</Story_Name>
+		<Story_Name>Mandalorians, STORY_PLOTS_GC_ERA1_MANDO.XML</Story_Name>
+		<Story_Name>Player, STORY_PLOTS_GC_ERA1_REPUBLIC.XML</Story_Name>
+        
+		<AI_Player_Control> Mandalorians, BasicEmpire </AI_Player_Control>
+		<AI_Player_Control> Player, None </AI_Player_Control>
+
+		<Human_Victory_Conditions>
+				Galactic_Super_Weapon_Destruction,
+				Galactic_All_Planets_Controlled
+		</Human_Victory_Conditions>
+
+		<AI_Victory_Conditions>
+				Galactic_Super_Weapon_Destruction,
+				Galactic_All_Planets_Controlled
+		</AI_Victory_Conditions>
+
+		<Markup_Filename>Empire, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Pirates, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Rebel, DefaultGalacticHints </Markup_Filename>
+		<Markup_Filename>Underworld, DefaultGalacticHints </Markup_Filename>
+		
+		<Supports_Custom_Settings>False</Supports_Custom_Settings>
+		<Show_Completed_Tab>False</Show_Completed_Tab>
+    </Campaign>
+
+ </Campaigns>

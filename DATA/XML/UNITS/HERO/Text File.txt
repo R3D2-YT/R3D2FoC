@@ -1,0 +1,8 @@
+<Battlefield_Modifier_Ability Name="Rebel_Field_Commander_FOW_Increase">
+<Initially_Enabled>Yes</Initially_Enabled>
+<Activation_Style>Ground_Automatic</Activation_Style>
+<FOW_Reveal_Range_Multiplier>1.5</FOW_Reveal_Range_Multiplier>
+<Apply_To_All_Allies>Yes</Apply_To_All_Allies>
+<Stacking_Category>0</Stacking_Category>
+</Battlefield_Modifier_Ability>
+</Abilities>

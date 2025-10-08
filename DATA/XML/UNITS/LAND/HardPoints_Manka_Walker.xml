@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<HardPoints>
+
+
+	<HardPoint Name="HP_Manka_00">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+            <Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+            <Fire_Cone_Width>90.0</Fire_Cone_Width>
+            <Fire_Cone_Height>30.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ground_Laser_Cannon_Red_ATAT</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>1.5</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>1.5</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>4</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>400.0</Fire_Range_Distance>
+			<Fire_SFXEvent>Unit_AT_AT_Fire</Fire_SFXEvent>
+
+			<Fire_When_Deployed>No</Fire_When_Deployed>
+			<Fire_When_Undeployed>Yes</Fire_When_Undeployed>
+
+		<Targeting_Fire_Inaccuracy> Infantry, 30.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Vehicle, 3.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Air, 10.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Structure, 1.0 </Targeting_Fire_Inaccuracy>
+				
+		
+    </HardPoint>
+
+	<HardPoint Name="HP_Manka_01">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+            <Fire_Bone_A>HP_03</Fire_Bone_A>
+            <Fire_Bone_B>HP_04</Fire_Bone_B>
+            <Fire_Cone_Width>170.0</Fire_Cone_Width>
+            <Fire_Cone_Height>30.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Blaster_Cannon_Red</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>0.7</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>1.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>1</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.15</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>150.0</Fire_Range_Distance>
+			<Fire_SFXEvent>Unit_Tie_Crawler_Fire</Fire_SFXEvent>
+
+			<Fire_When_Deployed>No</Fire_When_Deployed>
+			<Fire_When_Undeployed>Yes</Fire_When_Undeployed>
+
+			<Fire_Inaccuracy_Distance> Infantry, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Vehicle, 10.0 </Fire_Inaccuracy_Distance>
+				
+			<Fire_Category_Restrictions> Air, Structure </Fire_Category_Restrictions>	
+			
+    </HardPoint>
+
+	<HardPoint Name="HP_Manka_02">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+            <Fire_Bone_A>HP_05</Fire_Bone_A>
+            <Fire_Bone_B>HP_06</Fire_Bone_B>
+            <Fire_Cone_Width>170.0</Fire_Cone_Width>
+            <Fire_Cone_Height>30.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Blaster_Cannon_Red</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>0.7</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>1.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>1</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.15</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>150.0</Fire_Range_Distance>
+			<Fire_SFXEvent>Unit_Tie_Crawler_Fire</Fire_SFXEvent>
+
+			<Fire_When_Deployed>No</Fire_When_Deployed>
+			<Fire_When_Undeployed>Yes</Fire_When_Undeployed>
+
+			<Fire_Inaccuracy_Distance> Infantry, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Vehicle, 10.0 </Fire_Inaccuracy_Distance>
+				
+			<Fire_Category_Restrictions> Air, Structure </Fire_Category_Restrictions>	
+			
+    </HardPoint>
+    
+	<HardPoint Name="HP_Manka_03">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+            <Fire_Bone_A>HP_07</Fire_Bone_A>
+            <Fire_Bone_B>HP_08</Fire_Bone_B>
+            <Fire_Cone_Width>170.0</Fire_Cone_Width>
+            <Fire_Cone_Height>30.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Blaster_Cannon_Red</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>0.7</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>1.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>1</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.15</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>150.0</Fire_Range_Distance>
+			<Fire_SFXEvent>Unit_Tie_Crawler_Fire</Fire_SFXEvent>
+
+			<Fire_When_Deployed>No</Fire_When_Deployed>
+			<Fire_When_Undeployed>Yes</Fire_When_Undeployed>
+
+			<Fire_Inaccuracy_Distance> Infantry, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Vehicle, 10.0 </Fire_Inaccuracy_Distance>
+				
+			<Fire_Category_Restrictions> Air, Structure </Fire_Category_Restrictions>	
+			
+    </HardPoint>			
+    
+
+
+			
+    
+    
+    
+</HardPoints>
+

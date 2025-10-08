@@ -1,0 +1,35 @@
+-------------Command-------------
+Tier I 		+5% to all stats
+Tier II 	+10% to all stats
+Tier III 	+15% to all stats
+Tier IV 	+20% to all stats
+Tier V 		+25% to all stats
+
+-------------Administrator-------------
+Tier I		-5% to all build costs
+Tier II		-10% to all build costs
+Tier III	-15% to all build costs
+Tier IV 	-20% to all build costs
+Tier V 		-25% to all build costs
+
+----Steadfast----
+Retreat prevented
+
+---Cautious---
+-5% to speed
++5% to Shields
++5% to Health
+
+--Aggressive--
++5% to speed
++5% to damage
+-5% to Shields
+-5% to Health
+
+-----------------Efficient-----------------
++5% to speed
++5% to Shields
+Salvage collected on enemy ship destruction
+
+-------Wasteful--------
++10% to all build costs

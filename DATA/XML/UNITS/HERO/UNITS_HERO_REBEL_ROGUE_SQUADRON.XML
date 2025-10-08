@@ -17,13 +17,18 @@
 	<UniqueUnit Name="Wedge_XWing_Rogue">
 		<Variant_Of_Existing_Type>X-Wing</Variant_Of_Existing_Type>
 		<Text_ID>TEXT_UNIT_WEDGE_01_XWING</Text_ID>
-		<Encyclopedia_Text>TEXT_ENCYCLOPEDIA_ROGUE_SQUADRON</Encyclopedia_Text>
+		<Encyclopedia_Text>
+			TEXT_ENCYCLOPEDIA_ROGUE_SQUADRON
+			SPACER
+			TEXT_WING_COMMANDER
+			SPACER
+		</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FIGHTER </Encyclopedia_Unit_Class>
 		<Encyclopedia_Good_Against> TIE_Fighter TIE_Bomber Death_Star </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_wedge_antilles.tga</Icon_Name>
 
-		<Space_Model_Name>RV_rogue_squad.alo</Space_Model_Name>
+		<Space_Model_Name>T65_XWing_Red.alo</Space_Model_Name>
 		<Scale_Factor>0.9</Scale_Factor>
 		
 		<Armor_Type> Armor_Hero_Transport </Armor_Type>
@@ -87,18 +92,17 @@
 		</Unit_Abilities_Data>
 
 		<Abilities SubObjectList="Yes">
-		
-			<Combat_Bonus_Ability Name="Wedge_Combat_Bonus">
+			<Combat_Bonus_Ability Name="Wing_Commander">
 				<Activation_Style>Space_Automatic</Activation_Style>
 				<Unit_Strength_Category>Fighter</Unit_Strength_Category>
 				<Applicable_Unit_Categories>Fighter</Applicable_Unit_Categories>
 				<Applicable_Unit_Types />
-				<Health_Bonus_Percentage>0.25</Health_Bonus_Percentage>
-				<Damage_Bonus_Percentage>0.0</Damage_Bonus_Percentage>
-				<Energy_Pool_Bonus_Percentage>0.0</Energy_Pool_Bonus_Percentage>
-				<Shield_Bonus_Percentage>0.0</Shield_Bonus_Percentage>
-				<Defense_Bonus_Percentage>0.0</Defense_Bonus_Percentage>
-				<Movement_Speed_Bonus_Percentage>0.0</Movement_Speed_Bonus_Percentage>
+				<Health_Bonus_Percentage>0.35</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.35</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.35</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.35</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.35</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.35</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
 
@@ -294,7 +298,12 @@
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_FIGHTER_SQUADRON </Encyclopedia_Unit_Class>		
 		<Encyclopedia_Good_Against> TIE_Fighter TIE_Bomber Death_Star </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser </Encyclopedia_Vulnerable_To>
-		<Encyclopedia_Text>TEXT_ENCYCLOPEDIA_ROGUE_SQUADRON </Encyclopedia_Text>
+		<Encyclopedia_Text>
+			TEXT_ENCYCLOPEDIA_ROGUE_SQUADRON
+			SPACER
+			TEXT_WING_COMMANDER
+			SPACER
+		</Encyclopedia_Text>
 		<Show_Name>No</Show_Name>
 		<Icon_Name>i_button_wedge_antilles.tga</Icon_Name>
 		<Is_Named_Hero>Yes</Is_Named_Hero>

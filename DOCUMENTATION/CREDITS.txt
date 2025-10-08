@@ -1,0 +1,127 @@
+R3D2 - Head Developer/Project lead
+
+Special Thanks to:
+
+Warb_Null:
+	- Kyramund
+	- Mando Cruiser
+	- Wheel Tank
+
+Corey Loses:
+	- Raider Corvette
+	
+evilbobthebob
+	- Shipyards
+	
+GP17
+	- GC Background
+
+Larry3
+	- GC Background
+
+WDBittle
+	- Splash
+
+KeeperOfFaith
+	- B1
+	- B2
+	
+codeuser
+
+Farseer
+	- Storm Commando
+	- TIE Tank
+
+Ozzy:
+	- Munificent
+
+Spy Lake Walker:
+	- Corellian Destroyer
+	- Star Galleon
+	- Changelog
+	- Marauder Crusier
+	- Strike Cruiser & variants
+	- Rebel Combat Vehicle Textures
+	- Updated Rebel BF3 Transport
+	- Updated Rebel Combat Vehicle
+	- Hutt Cruiser, Corvette, Frigate & Yacht
+	- T-47 Snowspeeder
+	- T2-B Tank
+	- Rebel Combat Speeder
+	- The Other Hutt Cruiser
+	- Arrow-23 Landspeeder
+	- Invincible Dreadnought
+	- T1-B & T1-T Tanks
+	- Zero-G Assault Troopers
+	- Shoretrooper
+	- Jedha Props
+	- screenshots folder, people can now see what the models look like before downloading them
+	- Tartan Cruiser
+	- Acclamator 1 & 2 with variants
+	- new Imperial & Mon Calamari hulls, Hapan & Rothana Lights to 111 Engine Lights, Windows, Flashes.zip
+	- Venator & variants
+	- Arquitens & variant
+	- Turreted Venator
+	- Consular Cruiser & Charger +variants
+	- Consular & variants' collision meshes
+	- Republic Missile Corvette
+	- Cardan-V Starbase
+	- Lander variant of the DX-9
+	- C-9979 & variants
+	- B-Wing
+	- CR-98 corvette
+	- Imperial Fuel Tanker (reprisal)
+	- #2 Warpod
+	- BF3 Transport's Collision Mesh
+	- Retextured Bellator
+	- XG-1 Starwing
+	- Action VI Transport
+	- Imperial Troopship
+	- landing/takeoff anims for the Imp Troopship
+	- YT-1300
+	- HWK-290
+	- DP-30
+	- TIE Interceptor with variants
+	- TIE Bomber with Variants
+	- Tie Fighter with Vanguard, T.I.E, T.I.E Starfighter, Clutch, Mining Guild, Fire Control, Booster, & Bizarro variants
+	- TIE Droid with Legends & Cannon variants
+	- Tie Defender with Elite & Fractal variants
+	- Tie Hunter
+	- Free Virgillia Bunker Buster with Base & Starlight variants
+	- Pelta + Variants
+	- IPV Retexture
+	- Victory-I with Crimson Command variant
+	- Nadiri Starhawk
+	- Dreadnaught CIS, CSA, Corsec, Rebel, Rebel2, Republic Variants
+	- Assault Frigate Base & Rebel Variants
+	- DH Omhi
+	- Cogentor New Republic Team Colors & Imperial Team Colors
+	- Nebulon-H Frigate
+	- Nebulon-C Frigate
+	- C-9979 lander variants
+	- Y-Wing (chelmod idk what its called lmaoo)
+	- Auxilia & Captor
+	- MC80 Liberty Tan & Gray variants :3
+	- New Nebulon B Textures for the B2 & B, with Vanguard & Jinata Security textures
+	- Procursator (Base, Jsec & Gunless Variants)
+	- M-Class (Base & Green Variants)
+	- Y-Wing Longprobe (Base & Maroon Variants)
+	- Rebel Ship of the Line (Base & Red variants)
+	- V19 Torrent & Variants
+	- ARC170 & Variants
+	- Droid Tri Fighter
+	- the Delta-7B & Variants
+	- Eta Actis & Variants
+	- Vulture & Hyena (Base & Trade Federation Variants)
+	- Hardcell (Corvette & Lander Variants)
+	- CC-7700
+	- Aegis Shuttle
+	- CC-7700s textures (they didnt exist Xd )
+	- Lambda & Sentinel Shuttles
+	- Aegis landing anims got at some point lol, no more flying doors :3
+	- Muurian Transport (Gray & Tan)
+	- Missile Boat
+	- Kappa Transport
+	- TIE Brute (Imperial & First Order Variants)
+	- TIE Phantom
+	- Theta Transport (Base & Vader)

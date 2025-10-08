@@ -1,0 +1,5 @@
+Interceptor		Lasers
+Fighter			Lasers/x1 Light Torpedo
+Bomber			Anti-Fighter Lasers/x1 Torpedo
+Heavy Bomber		Anti-Fighter Lasers/x2 Torpedoes
+Superheavy Bomber	x3-4 Torpedoes
