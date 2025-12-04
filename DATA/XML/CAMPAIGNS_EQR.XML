@@ -7,9 +7,9 @@
     <Campaign Name="Sandbox_Equal_Footing_Revised_Underworld">
 
         <Campaign_Set> Sandbox_Equal_Footing_Revised </Campaign_Set>
-        <Sort_Order>5</Sort_Order>
+        <Sort_Order>1</Sort_Order>
 
-        <Text_ID> TEXT_CAMPAIGN_SINGLE_58 </Text_ID>
+        <Text_ID> TEXT_CAMPAIGN_SINGLE_56 </Text_ID>
         <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_58 </Description_Text>
 
         <Camera_Shift_X> 40.0 </Camera_Shift_X>
@@ -1377,9 +1377,9 @@
     <Campaign Name="Sandbox_Equal_Footing_Revised_Rebel">
 
         <Campaign_Set> Sandbox_Equal_Footing_Revised </Campaign_Set>
-        <Sort_Order>5</Sort_Order>
+        <Sort_Order>1</Sort_Order>
 
-        <Text_ID> TEXT_CAMPAIGN_SINGLE_58 </Text_ID>
+        <Text_ID> TEXT_CAMPAIGN_SINGLE_56 </Text_ID>
         <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_58 </Description_Text>
 
         <Camera_Shift_X> 40.0 </Camera_Shift_X>
@@ -2752,9 +2752,9 @@
     <Campaign Name="Sandbox_Equal_Footing_Revised_Empire">
 
         <Campaign_Set> Sandbox_Equal_Footing_Revised </Campaign_Set>
-        <Sort_Order>5</Sort_Order>
+        <Sort_Order>1</Sort_Order>
 
-        <Text_ID> TEXT_CAMPAIGN_SINGLE_58 </Text_ID>
+        <Text_ID> TEXT_CAMPAIGN_SINGLE_56 </Text_ID>
         <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_58 </Description_Text>
 
         <Camera_Shift_X> 40.0 </Camera_Shift_X>
