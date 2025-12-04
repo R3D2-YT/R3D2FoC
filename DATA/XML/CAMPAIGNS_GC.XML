@@ -427,7 +427,7 @@
         <Starting_Forces> Rebel, EQR_Mustafar, Rebel_X-Wing_Squadron </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, Y-Wing_Squadron </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, Nebulon_B_Frigate </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Mustafar, Tier_II_Shipyard </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Mustafar, Tier_III_Shipyard </Starting_Forces>
 
         <!-- Mustafar Land Forces -->
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Barracks </Starting_Forces>
