@@ -29,6 +29,7 @@
 
 		<Armor_Type> Armor_Tartan </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Max_Thrust>0.8</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
@@ -37,7 +38,7 @@
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Shield_Points>800</Shield_Points>
 		<Tactical_Health>500</Tactical_Health>
 		<Damage>20</Damage>
@@ -234,8 +235,8 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>
@@ -418,8 +419,8 @@
 		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Shield_Points>800</Shield_Points>
 		<Tactical_Health>550</Tactical_Health>
@@ -821,7 +822,8 @@
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>2</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Shield_Points>300</Shield_Points>
 		<Tactical_Health>650</Tactical_Health>
 		<Damage>20</Damage>
@@ -1022,7 +1024,7 @@
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 		<Autoresolve_Health>600</Autoresolve_Health>
 		<Damage>20</Damage>

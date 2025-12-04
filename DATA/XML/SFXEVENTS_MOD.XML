@@ -58,4 +58,32 @@
 			 <Samples>DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav</Samples>
 	</SFXEvent>
 
+	<!-- Dreadnought -->
+
+	<SFXEvent Name="Unit_Complete_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_1.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_3.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_4.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_1.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_2.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_3.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_1.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_2.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_3.wav</Samples>
+	</SFXEvent>
+
 </SFXEvents>

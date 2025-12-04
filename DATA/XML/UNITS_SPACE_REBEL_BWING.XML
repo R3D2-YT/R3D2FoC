@@ -42,7 +42,7 @@
 		<Maintenance_Cost>0.1</Maintenance_Cost>
 		<Affiliation>Rebel</Affiliation>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Shield_Points>45</Shield_Points>
 		<Tactical_Health>60</Tactical_Health>
 		<Shield_Refresh_Rate>4</Shield_Refresh_Rate>
@@ -168,7 +168,7 @@
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser TIE_Defender </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_RV_BWing.tga</Icon_Name>
 		
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>2</Formation_Priority>
 		<Is_Escort>Nos</Is_Escort>
@@ -185,8 +185,8 @@
 		<Slice_Cost_Credits>400</Slice_Cost_Credits>
 		<Tech_Level>4</Tech_Level>
 		<Required_Timeline />
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>B-Wing, B-Wing, B-Wing</Squadron_Units>
 		<Squadron_Offsets>60.0,0.0,0.0</Squadron_Offsets>

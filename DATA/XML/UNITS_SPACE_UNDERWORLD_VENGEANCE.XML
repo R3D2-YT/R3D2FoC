@@ -51,8 +51,8 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>4</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_II_Shipyard</Required_Special_Structures>
 		<Required_Planets />
 
 		<Cheap_Bribe_Cost>110</Cheap_Bribe_Cost>

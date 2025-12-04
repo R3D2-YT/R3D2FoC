@@ -110,7 +110,7 @@
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-250.0, 50.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -193,7 +193,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-120.0, 380.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -280,7 +280,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>120.0, 5.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -347,7 +347,7 @@
 		<Planet_Destroyed_Credit_Value>10</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-70.0, 415.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -432,7 +432,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>50.0, 25.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -538,7 +538,7 @@
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-210.0, -100.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -628,7 +628,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-300.0, -180.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -721,7 +721,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-160.0, -150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -813,7 +813,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-180.0, 150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -912,7 +912,7 @@
 		<Galactic_Position>310.0, 190.0, 10.0</Galactic_Position>
 
 		<Special_Structures_Land>7</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4 </Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1002,7 +1002,7 @@
 		<Planet_Destroyed_Credit_Value>4</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>210.0, -220.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1125,7 +1125,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-10.0, -10.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1216,7 +1216,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-75.0, 35.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1321,7 +1321,7 @@
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>0.0, -120.0, 20.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1416,7 +1416,7 @@
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-70.0, -20.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1514,7 +1514,7 @@
 		<Planet_Destroyed_Credit_Value>15</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-5.0, 55.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1594,7 +1594,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>180.0, 330.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1688,7 +1688,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-180.0, -330.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1757,7 +1757,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>230.0, 260.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1843,7 +1843,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-310.0, 10.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -1921,7 +1921,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-85.0, -130.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2013,7 +2013,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>315.0, 120.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2103,7 +2103,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-170.0, -10.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2201,7 +2201,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>80.0, 100.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2293,7 +2293,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>150.0, -500.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2387,7 +2387,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>300.0, -60.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2483,7 +2483,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>210.0, -130.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2574,7 +2574,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-330.0, -250.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2646,7 +2646,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>200.0, -440.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2726,7 +2726,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-170.0, 420.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2804,7 +2804,7 @@
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-200.0, 80.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -2923,7 +2923,7 @@
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>270.0, -330.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3023,7 +3023,7 @@
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>280.0, -150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3111,7 +3111,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>280.0, -150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3195,7 +3195,7 @@
 		<Planet_Destroyed_Credit_Value>20</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>350.0, -150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3278,7 +3278,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>210.0, 80.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3360,7 +3360,7 @@
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>35.0, -35.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3458,7 +3458,7 @@
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>220.0, -100.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3528,7 +3528,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>120.0, 260.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>7</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3626,7 +3626,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>60.0, -360.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3719,7 +3719,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>60.0, -360.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3812,7 +3812,7 @@
 		<Planet_Destroyed_Credit_Value>6</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>370.0, 150.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -3912,7 +3912,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-140.0, -300.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4005,7 +4005,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>40.0, 450.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4089,7 +4089,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>150.0, -125.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4164,7 +4164,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-50.0, -230.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4260,7 +4260,7 @@
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>370.0, -300.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4364,7 +4364,7 @@
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4442,7 +4442,7 @@
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4501,7 +4501,7 @@
 		<Planet_Destroyed_Credit_Value>12</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>140.0, -200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>8</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4596,7 +4596,7 @@
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-310.0, 90.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>3</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4683,7 +4683,7 @@
 		<Terrain>Desert</Terrain>
 		<Planet_Credit_Value>60</Planet_Credit_Value>
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<Galactic_Position>60.0, -460.0, 10.0</Galactic_Position>
 		<The_Force>Neutral</The_Force>
@@ -4773,7 +4773,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>100.0, -300.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4863,7 +4863,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>250.0, 0.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -4959,7 +4959,7 @@
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>90.0, -410.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5031,7 +5031,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>20.0, -250.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5125,7 +5125,7 @@
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-90.0, 200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5224,7 +5224,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>160.0, -400.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5315,7 +5315,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>400.0, -130.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5385,7 +5385,7 @@
 		<Planet_Destroyed_Credit_Value>14</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-150.0, -50.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5471,7 +5471,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-130.0, -400.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5564,7 +5564,7 @@
 		<Planet_Destroyed_Credit_Value>60</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-80.0, -550.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5636,7 +5636,7 @@
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-20.0, 130.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5725,7 +5725,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>250.0, 160.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5816,7 +5816,7 @@
 		<Planet_Destroyed_Credit_Value>100</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>200.0, -300.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -5908,7 +5908,7 @@
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>60.0, 410.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Additional_Population_Capacity>8</Additional_Population_Capacity>
 
 		<Max_Space_Base>3</Max_Space_Base>
@@ -5963,7 +5963,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>5.0, 230.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6051,7 +6051,7 @@
 		<Planet_Destroyed_Credit_Value>9</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>120.0, -70.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6135,7 +6135,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-215.0, -200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6502,7 +6502,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-140.0, -120.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6573,7 +6573,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-120.0, -220.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6644,7 +6644,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>40.0, 350.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6727,7 +6727,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-20.0, 480.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6810,7 +6810,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-10.0, 175.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6893,7 +6893,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>290.0, -380.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -6964,7 +6964,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>100.0, -210.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7042,7 +7042,7 @@
 		<Planet_Destroyed_Credit_Value>7</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-350.0, -20.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7125,7 +7125,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-115.0, 55.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>0</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7210,7 +7210,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>320.0, -200.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>2</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7293,7 +7293,7 @@
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>420.0, -270.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7383,7 +7383,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>130.0, 400.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7467,7 +7467,7 @@
 		<Planet_Destroyed_Credit_Value>5</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-70.0, 325.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7538,7 +7538,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>60.0, -120.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>5</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7621,7 +7621,7 @@
 		<Planet_Destroyed_Credit_Value>8</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-45.0, -70.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7704,7 +7704,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>160.0, 180.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -7788,7 +7788,7 @@
 		<Planet_Destroyed_Credit_Value>3</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-160.0, -100.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>5</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>3</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -8044,7 +8044,7 @@
 		<Planet_Destroyed_Credit_Value>2</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>-95.0, 105.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>4</Special_Structures_Land>
-		<Special_Structures_Space>6</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>5</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -8127,7 +8127,7 @@
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>90.0, -340.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>3</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>
@@ -8199,7 +8199,7 @@
 		<Planet_Destroyed_Credit_Value>16</Planet_Destroyed_Credit_Value>
 		<Galactic_Position>140.0, -300.0, 10.0</Galactic_Position>
 		<Special_Structures_Land>6</Special_Structures_Land>
-		<Special_Structures_Space>4</Special_Structures_Space>
+		<Special_Structures_Space>2</Special_Structures_Space>
 		<Max_Space_Base>4</Max_Space_Base>
 		<The_Force>Neutral</The_Force>
 		<Force_Strength>0.0</Force_Strength>

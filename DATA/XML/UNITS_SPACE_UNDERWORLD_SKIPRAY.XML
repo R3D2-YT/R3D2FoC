@@ -181,8 +181,8 @@
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 
 		<Cheap_Bribe_Cost>10</Cheap_Bribe_Cost>
 		<Expensive_Bribe_Cost>20</Expensive_Bribe_Cost>

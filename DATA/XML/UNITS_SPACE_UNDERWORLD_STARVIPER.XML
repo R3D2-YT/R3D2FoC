@@ -255,7 +255,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 
         <Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 

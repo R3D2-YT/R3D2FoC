@@ -4,4 +4,6 @@
 	<File>HardPoints.xml</File>
 	<File>CIN_HardPoints.xml</File>
 	<File>HardPoints_Underworld.xml</File>
+
+	<File>HardPoints_Dreadnought.xml</File>
 </Hard_Point_Files>

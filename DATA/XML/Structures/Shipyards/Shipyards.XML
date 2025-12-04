@@ -8,7 +8,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebellion, Underworld</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>1500</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -80,7 +80,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebellion, Underworld</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>3000</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -152,7 +152,7 @@
 		<Select_Box_Scale>330</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Is_Dummy>Yes</Is_Dummy>
-		<Affiliation>Empire, Rebellion, Underworld</Affiliation>
+		<Affiliation>Empire, Rebel, Underworld</Affiliation>
 		<Political_Control>0</Political_Control>
 		<Build_Cost_Credits>7500</Build_Cost_Credits>
 		<Build_Time_Seconds>60</Build_Time_Seconds>
@@ -167,7 +167,21 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets />
+		<Required_Planets>
+			EQR_Byss,
+			EQR_Corellia,
+			EQR_Fondor,
+			EQR_Kuat,
+			EQR_Mandalore, 
+            EQR_MonCalimari, 
+			EQR_The_Maw,
+			EQR_Scarif,
+			EQR_YagaMinor,
+            EQR_Bilbringi,
+            EQR_Rothana,
+			EQR_Balmorra,
+			EQR_Foerost,
+		</Required_Planets>
 		<Tactical_Health>6400</Tactical_Health>
 		<Behavior>SELECTABLE, DUMMY_ORBITAL_STRUCTURE</Behavior>
 		<SpaceBehavior>SPACE_OBSTACLE, REVEAL, HIDE_WHEN_FOGGED,UNIT_AI</SpaceBehavior>

@@ -6,7 +6,7 @@
 		<Text_ID>TEXT_X_WING_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> TIE_Fighter TIE_Bomber TIE_Prototype </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser Broadside_Class_Cruiser IPV1_System_Patrol_Craft </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -24,7 +24,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>X-Wing, X-Wing</Squadron_Units>
 		<Squadron_Units>X-Wing, X-Wing</Squadron_Units>
@@ -90,7 +90,7 @@
 		<Text_ID>TEXT_Y_WING_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Acclamator_Assault_Ship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>2</Formation_Priority>
 		<Is_Escort>Nos</Is_Escort>
@@ -109,7 +109,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>Y-Wing, Y-Wing, Y-Wing</Squadron_Units>
 		<Squadron_Offsets>60.0,0.0,0.0</Squadron_Offsets>
@@ -168,7 +168,7 @@
 		<Text_ID>TEXT_Y_WING_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Acclamator_Assault_Ship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>2</Formation_Priority>
 		<Is_Escort>Nos</Is_Escort>
@@ -243,7 +243,7 @@
 		<Text_ID>TEXT_Y_WING_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Star_Destroyer Victory_Destroyer Acclamator_Assault_Ship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>2</Formation_Priority>
 		<Is_Escort>Nos</Is_Escort>
@@ -300,7 +300,7 @@
 		<Text_ID>TEXT_TIE_FIGHTER_2_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Y-Wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Corellian_Corvette X-wing A-Wing </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -374,7 +374,7 @@
 		<Text_ID>TEXT_TIE_BOMBER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Calamari_Cruiser Alliance_Assault_Frigate Nebulon_B_Frigate </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Corellian_Corvette X-wing A-Wing </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>2</Formation_Priority>
 		<Is_Escort>No</Is_Escort>
@@ -441,7 +441,7 @@
 		<Text_ID>TEXT_A_WING_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> TIE_Fighter TIE_Scout TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -460,7 +460,7 @@
 		<Tech_Level>3</Tech_Level>
 		<Required_Timeline>3</Required_Timeline>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>A-Wing, A-Wing, A-Wing, A-Wing, A-Wing</Squadron_Units>
 		<Squadron_Offsets>30.0,0.0,0.0</Squadron_Offsets>
@@ -519,7 +519,7 @@
 		<Text_ID>TEXT_TIE_SCOUT_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Y-wing Z-95_Headhunter_Rebel </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> A-Wing </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>3</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -534,8 +534,8 @@
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Tech_Level>3</Tech_Level>
 		<Required_Timeline />
-		<Required_Star_Base_Level>2</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>TIE_Scout, TIE_Scout</Squadron_Units>
 		<Squadron_Units>TIE_Scout</Squadron_Units>
@@ -610,7 +610,7 @@
 		<Build_Time_Seconds>0</Build_Time_Seconds>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Tech_Structure />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>Z-95_Headhunter, Z-95_Headhunter</Squadron_Units>
 		<Squadron_Units>Z-95_Headhunter, Z-95_Headhunter, Z-95_Headhunter</Squadron_Units>
@@ -647,7 +647,7 @@
 		<Text_ID>TEXT_HEADHUNTER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -665,7 +665,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>Z-95_Headhunter_Rebel, Z-95_Headhunter_Rebel</Squadron_Units>
 		<Squadron_Units>Z-95_Headhunter_Rebel, Z-95_Headhunter_Rebel, Z-95_Headhunter_Rebel</Squadron_Units>
@@ -719,7 +719,7 @@
 		<Text_ID>TEXT_HEADHUNTER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -791,7 +791,7 @@
 		<Text_ID>TEXT_HEADHUNTER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter Tartan_Patrol_Cruiser Pirate_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -863,7 +863,7 @@
 		<Text_ID>TEXT_HEADHUNTER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Y-wing </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> X-Wing, Starviper_Fighter </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -934,7 +934,7 @@
 		<Text_ID>TEXT_HEADHUNTER_SQUADRON</Text_ID>
 		<Encyclopedia_Good_Against> Y-wing, TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> TIE_Fighter, X-Wing </Encyclopedia_Vulnerable_To>
-		<GUI_Row> 1 </GUI_Row>
+		<GUI_Row> 0 </GUI_Row>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Formation_Priority>1</Formation_Priority>
 		<Is_Escort>Yes</Is_Escort>
@@ -951,7 +951,7 @@
 		<Tech_Level>9</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures />
+		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 		<Squadron_Units>Z-95_Headhunter_Underworld, Z-95_Headhunter_Underworld</Squadron_Units>
 		<Squadron_Units>Z-95_Headhunter_Underworld, Z-95_Headhunter_Underworld, Z-95_Headhunter_Underworld</Squadron_Units>
