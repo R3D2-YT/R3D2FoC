@@ -25,7 +25,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>5</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets>The_Maw</Required_Planets>
+		<Required_Planets>EQR_The_Maw</Required_Planets>
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
 		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
 		<Build_Cost_Credits>100000</Build_Cost_Credits>
@@ -126,7 +126,7 @@
 		
 		<Text_ID>TEXT_UNIT_DEATH_STAR_II</Text_ID>
 		<Encyclopedia_Text>TEXT_TOOLTIP_DEATH_STAR_II</Encyclopedia_Text>
-		<Required_Planets>Endor</Required_Planets>
+		<Required_Planets>EQR_Endor</Required_Planets>
 
 		<Build_Cost_Credits>200000</Build_Cost_Credits>
 		

@@ -44,14 +44,6 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
-	<Event Name="Empire_AI_Heroes_02">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-		<Reward_Type>SPAWN_HERO</Reward_Type>
-		<Reward_Param1>Emperor_Palpatine_Team</Reward_Param1>
-		<Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Universal_Story_Start</Prereq>
-	</Event>
-
 
 
 
@@ -60,14 +52,6 @@
 	<Event Name="Empire_Enters_Tech_01">
 		<Event_Type>STORY_TECH_LEVEL</Event_Type>
 		<Event_Param1>1</Event_Param1>
-	</Event>
-
-	<Event Name="Spawn_Boba_Fett">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-		<Reward_Type>SPAWN_HERO</Reward_Type>
-		<Reward_Param1>Boba_Fett_Team</Reward_Param1>
-		<Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Empire_Enters_Tech_01</Prereq>
 	</Event>
 
 
@@ -80,15 +64,6 @@
 		<Event_Param1>2</Event_Param1>
 	</Event>
 
-	<Event Name="Spawn_Veers">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-		<Reward_Type>SPAWN_HERO</Reward_Type>
-		<Reward_Param1>General_Veers_Team</Reward_Param1>
-		<Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Empire_Enters_Tech_02</Prereq>
-	</Event>
-
-
 
 
 	<!-- Spawn Time Era 3 Heroes -->
@@ -98,29 +73,12 @@
 		<Event_Param1>3</Event_Param1>
 	</Event>
 
-	<Event Name="Spawn_Piett">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-        <Reward_Type>UNIQUE_UNIT</Reward_Type>
-        <Reward_Param1>Accuser_Star_Destroyer</Reward_Param1>
-        <Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Empire_Enters_Tech_03</Prereq>
-	</Event>
-
-
 
 	<!-- Spawn Time Era 4 Heroes -->
 
 	<Event Name="Empire_Enters_Tech_04">
 		<Event_Type>STORY_TECH_LEVEL</Event_Type>
 		<Event_Param1>4</Event_Param1>
-	</Event>
-
-	<Event Name="Spawn_Arc_Hammer">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-        <Reward_Type>UNIQUE_UNIT</Reward_Type>
-        <Reward_Param1>Arc_Hammer</Reward_Param1>
-        <Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Empire_Enters_Tech_04</Prereq>
 	</Event>
 
 
@@ -130,14 +88,6 @@
 	<Event Name="Empire_Enters_Tech_05">
 		<Event_Type>STORY_TECH_LEVEL</Event_Type>
 		<Event_Param1>5</Event_Param1>
-	</Event>
-
-	<Event Name="Spawn_Thrawn">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-        <Reward_Type>UNIQUE_UNIT</Reward_Type>
-        <Reward_Param1>Admonitor_Star_Destroyer</Reward_Param1>
-        <Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Empire_Enters_Tech_05</Prereq>
 	</Event>
 
 </Story>

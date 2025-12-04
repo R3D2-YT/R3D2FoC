@@ -18,6 +18,12 @@
 		<Story_Tag>Intro_Tag</Story_Tag>
 	</Event>
 
+	<Event Name="Reveal_All_Planets">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>REVEAL_ALL_PLANETS</Reward_Type>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
 
 <!-- Force Rebels to get X-wing instead of Z-95 to start -->
 	<Event Name="Unlock_X_wings">

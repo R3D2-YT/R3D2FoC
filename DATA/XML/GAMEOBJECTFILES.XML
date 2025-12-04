@@ -38,11 +38,13 @@
 
 	<File>LandBombingRunUnits.xml</File>
 
-	<File>SpecialStructures.xml</File>
-	<File>SPECIALSTRUCTURES_INDEPENDANT.xml</File>
-
 	<File>StarBases.xml</File>
 	<File>STARBASES_INDEPENDANT.XML</File>
+
+	<File>Structures\Shipyards\Shipyards.xml</File>
+
+	<File>SpecialStructures.xml</File>
+	<File>SPECIALSTRUCTURES_INDEPENDANT.xml</File>
 
 	<File>Squadrons.xml</File>
 

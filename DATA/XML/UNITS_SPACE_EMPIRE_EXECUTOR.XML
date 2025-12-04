@@ -356,7 +356,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>5</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets>Kuat, Fondor</Required_Planets>
+		<Required_Planets>EQR_Kuat, EQR_Fondor</Required_Planets>
 		<Build_Time_Seconds>180</Build_Time_Seconds>
 		<Build_Cost_Credits>25000</Build_Cost_Credits>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>

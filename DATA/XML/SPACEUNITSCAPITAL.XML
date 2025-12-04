@@ -44,7 +44,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>4</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets>MonCalimari, Kuat, Fondor, Sullust, Hypori, Mandalore</Required_Planets>
+		<Required_Planets></Required_Planets>
 		<Autoresolve_Health>2500</Autoresolve_Health>
 		<Tactical_Health>8500</Tactical_Health>
 		<Shield_Points>2000</Shield_Points>
@@ -389,7 +389,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>4</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets>MonCalimari, Kuat, Fondor, Sullust, Hypori, Mandalore</Required_Planets>
+		<Required_Planets></Required_Planets>
 		<Damage>70</Damage>
 		<Autoresolve_Health>7500</Autoresolve_Health>
 		<Shield_Points>2000</Shield_Points>
