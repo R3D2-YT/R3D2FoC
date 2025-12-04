@@ -17,11 +17,11 @@
 		<Icon_Name>i_button_Keldabe.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_KedalbeBattleship.alo</Space_Model_Name>
+		<Space_Model_Name>Uv_KeldabeBattleship.alo</Space_Model_Name>
 		<Select_Box_Scale>890</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.50</Scale_Factor>
 		<Size_Value>360</Size_Value>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 
@@ -44,9 +44,9 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
-		<Required_Planets>Mandalore_Era3, Mandalore_Era4</Required_Planets>
+		<Required_Star_Base_Level>5</Required_Star_Base_Level>
+		<Required_Special_Structures />
+		<Required_Planets>MonCalimari, Kuat, Fondor, Sullust, Hypori, Mandalore</Required_Planets>
 		<Build_Cost_Credits>6000</Build_Cost_Credits>
 		<Build_Time_Seconds>75</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
@@ -89,9 +89,24 @@
 			HP_KEDALBE_RIGHT_ION_00,
 			HP_KEDALBE_MASS_DRIVER_FRONT,
 			HP_KEDALBE_MASS_DRIVER_BACK,
+			HP_KEDALBE_MASS_DRIVER_BACK_00,
 			HP_KEDALBE_SHIELD_LEECH_00,
 			HP_KEDALBE_ENGINES_00,
-			HP_KEDALBE_ENGINES_01
+			HP_KEDALBE_ENGINES_01,
+			HP_KEDALBE_Shield_Generator,
+			HP_KEDALBE_DUMMY_00,
+			HP_KEDALBE_DUMMY_01,
+			HP_KEDALBE_DUMMY_02,
+			HP_KEDALBE_DUMMY_03,
+			HP_KEDALBE_DUMMY_04,
+			HP_KEDALBE_DUMMY_05,
+			HP_KEDALBE_DUMMY_06,
+			HP_KEDALBE_DUMMY_07,
+			HP_KEDALBE_DUMMY_08,
+			HP_KEDALBE_DUMMY_09,
+			HP_KEDALBE_DUMMY_10,
+			HP_KEDALBE_DUMMY_11,
+			HP_KEDALBE_DUMMY_12
 		</HardPoints>
 
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -233,12 +248,6 @@
 		<Affiliation> Underworld </Affiliation>
 		<Ship_Class> capital_ship </Ship_Class>
 		<Remove_Upon_Death>true</Remove_Upon_Death>
-	</SpaceUnit>
-	
-	<SpaceUnit Name="Kedalbe_Zsinj">
-		<Variant_Of_Existing_Type>Kedalbe_Battleship</Variant_Of_Existing_Type>
-		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

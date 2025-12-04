@@ -14,10 +14,10 @@
 		<Icon_Name>i_button_uv_vengeance.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_VENGEANCE.ALO</Space_Model_Name>
+		<Space_Model_Name>Uv_VengeanceFrigate.ALO</Space_Model_Name>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		<Mass>0.999</Mass>
-		<Scale_Factor>0.9</Scale_Factor>
+		<Scale_Factor>0.7</Scale_Factor>
 
 		<Select_Box_Scale>300</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
@@ -48,11 +48,11 @@
 		<Build_Cost_Credits>2800</Build_Cost_Credits>
 		<Build_Time_Seconds>25</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Tech_Level>1</Tech_Level>
+		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era4</Required_Special_Structures>
+		<Required_Star_Base_Level>4</Required_Star_Base_Level>
+		<Required_Special_Structures />
 		<Required_Planets />
 
 		<Cheap_Bribe_Cost>110</Cheap_Bribe_Cost>
@@ -216,12 +216,6 @@
 		<Affiliation>Underworld</Affiliation>
 		<Ship_Class>frigate</Ship_Class>
 		<Remove_Upon_Death>true</Remove_Upon_Death>
-	</SpaceUnit>
-	
-	<SpaceUnit Name="Vengeance_Zsinj">
-		<Variant_Of_Existing_Type>Vengeance_Frigate</Variant_Of_Existing_Type>
-		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>Heavy_Shipyard | Medium_Shipyard</Required_Special_Structures>
 	</SpaceUnit>
 
 

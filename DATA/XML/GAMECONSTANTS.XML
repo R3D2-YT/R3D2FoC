@@ -111,8 +111,8 @@
 	<Black_Market_Income_Mult_Min>1.0</Black_Market_Income_Mult_Min>	<!-- AJA 09/30/2005 - Removing negative factor from Black Market planetary effect -->
 	<Black_Market_Income_Mult_Max>3.0</Black_Market_Income_Mult_Max>
 	
-	<Num_Structures_For_Medium_Planet_Name>1</Num_Structures_For_Medium_Planet_Name>
-	<Num_Structures_For_Large_Planet_Name>1</Num_Structures_For_Large_Planet_Name>
+	<Num_Structures_For_Medium_Planet_Name>3</Num_Structures_For_Medium_Planet_Name>
+	<Num_Structures_For_Large_Planet_Name>5</Num_Structures_For_Large_Planet_Name>
 
 
 	<!-- Planetary Corruption Constants -->
@@ -159,7 +159,7 @@
 	<MaximumSpecialStructures> 5 </MaximumSpecialStructures>
 	<MaximumSpecialStructuresLand> 3 </MaximumSpecialStructuresLand>
 	<MaximumSpecialStructuresSpace> 3 </MaximumSpecialStructuresSpace>
-	<MaximumFleetMovementDistance> 1.0 </MaximumFleetMovementDistance>
+	<MaximumFleetMovementDistance> 100.0 </MaximumFleetMovementDistance>
 	<TradeRouteMovementFactor> 0.5 </TradeRouteMovementFactor>
 	<Tooltip_Delay>330</Tooltip_Delay>
 	<Encyclopedia_Delay>750</Encyclopedia_Delay>
@@ -172,7 +172,9 @@
 	<AIUsesFogOfWarSpace> False </AIUsesFogOfWarSpace>
 	<AIUsesFogOfWarLand> False </AIUsesFogOfWarLand>
 	<SetupPhaseEnabled> False </SetupPhaseEnabled>
-	<ShowUnitAIPlanAttachment> False </ShowUnitAIPlanAttachment>
+
+	<ShowUnitAIPlanAttachment> True </ShowUnitAIPlanAttachment>
+	
 	<AITechLevelProductionTimeWeight> 1.0 </AITechLevelProductionTimeWeight>
 	
 	<!-- Default is NO. Set to YES to always engage in tactical battles and skip auto-resolve battles (even instant overrrun ones). -->

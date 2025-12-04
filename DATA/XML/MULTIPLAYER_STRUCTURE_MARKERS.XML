@@ -6,7 +6,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad, Independant_Command_Center_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_CommandCenter.alo</Land_Model_Name>
 		<Scale_Factor>.65</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -20,7 +20,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad, Independant_Ground_Barracks_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_InfantryBarracks.alo</Land_Model_Name>
 		<Scale_Factor>1</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -34,7 +34,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory, E_Ground_Light_Vehicle_Factory, U_Ground_Droid_Works_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory, E_Ground_Light_Vehicle_Factory, U_Ground_Droid_Works_Build_Pad, Independant_Ground_Light_Vehicle_Factory </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>rb_lightvehiclefactory.alo</Land_Model_Name>
 		<Scale_Factor>1.20</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -48,7 +48,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Heavy_Vehicle_Factory, E_Ground_Heavy_Vehicle_Factory, U_Ground_Arms_Depot_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Heavy_Vehicle_Factory, E_Ground_Heavy_Vehicle_Factory, U_Ground_Arms_Depot_Build_Pad, Independant_Ground_Heavy_Vehicle_Factory_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>rb_heavyvehiclefactory.alo</Land_Model_Name>
 		<Scale_Factor>1.42</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -62,7 +62,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Communications_Array_R, Communications_Array_E </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Communications_Array_R, Communications_Array_E, Communications_Array_Independant </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_COMCENTER.ALO</Land_Model_Name>
 		<Scale_Factor>1</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -90,7 +90,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Power_Generator_E, Power_Generator_R </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Power_Generator_E, Power_Generator_R, Power_Generator_Independant </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_SHIELD-GENERATOR.ALO</Land_Model_Name>
 		<Scale_Factor>.75</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -104,7 +104,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Base_Shield, E_Ground_Base_Shield </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Base_Shield, E_Ground_Base_Shield, Independant_Ground_Base_Shield </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>NB_BASESHIELDGEN.ALO</Land_Model_Name>
 		<Scale_Factor>.75</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -118,7 +118,7 @@
 		<Text_ID>TEXT_ORBITAL_STATION_POSITION</Text_ID>
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
-		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1, Skirmish_Republic_Star_Base_1 </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1, Skirmish_INDEPENDANT_Star_Base_1 </Marker_For_Specific_Object_Type>
 		<Space_Model_Name>RB_STATION_01.ALO</Space_Model_Name>
 		<Land_Model_Name />
 		<Behavior>MARKER</Behavior>
@@ -139,7 +139,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad, Independant_Command_Center_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_CommandCenter.alo</Land_Model_Name>
 		<Scale_Factor>.65</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -153,7 +153,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad, Independant_Ground_Barracks_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_InfantryBarracks.alo</Land_Model_Name>
 		<Scale_Factor>1</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -167,7 +167,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad, Independant_Ground_Light_Vehicle_Factory </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>rb_lightvehiclefactory.alo</Land_Model_Name>
 		<Scale_Factor>1.2</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -292,7 +292,7 @@
 		<Text_ID>TEXT_ORBITAL_STATION_POSITION</Text_ID>
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
-		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1 </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1, Skirmish_INDEPENDANT_Star_Base_1 </Marker_For_Specific_Object_Type>
 		<Space_Model_Name>EB_STATION_01.ALO</Space_Model_Name>
 		<Land_Model_Name />
 		<Behavior>MARKER</Behavior>
@@ -320,7 +320,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad, Independant_Command_Center_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_CommandCenter.alo</Land_Model_Name>
 		<Scale_Factor>.65</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -334,7 +334,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad, Independant_Ground_Barracks_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_InfantryBarracks.alo</Land_Model_Name>
 		<Scale_Factor>1</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -348,7 +348,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad, Independant_Ground_Light_Vehicle_Factory </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>rb_lightvehiclefactory.alo</Land_Model_Name>
 		<Scale_Factor>1.2</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -473,7 +473,7 @@
 		<Text_ID>TEXT_ORBITAL_STATION_POSITION</Text_ID>
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
-		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1 </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1, Skirmish_INDEPENDANT_Star_Base_1 </Marker_For_Specific_Object_Type>
 		<Space_Model_Name>EB_STATION_01.ALO</Space_Model_Name>
 		<Land_Model_Name />
 		<Behavior>MARKER</Behavior>
@@ -501,7 +501,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Rebel_Command_Center_Build_Pad, Imperial_Command_Center_Build_Pad, Underworld_Palace_Build_Pad, Independant_Command_Center_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_CommandCenter.alo</Land_Model_Name>
 		<Scale_Factor>.65</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -515,7 +515,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> E_Ground_Barracks_Build_Pad, R_Ground_Barracks_Build_Pad, U_Ground_Merc_Outpost_Build_Pad, Independant_Ground_Barracks_Build_Pad </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>RB_InfantryBarracks.alo</Land_Model_Name>
 		<Scale_Factor>1</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -529,7 +529,7 @@
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
 		<Space_Model_Name />
-		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> R_Ground_Light_Vehicle_Factory_Build_Pad, E_Ground_Light_Vehicle_Factory_Build_Pad, U_Ground_Droid_Works_Build_Pad, Independant_Ground_Light_Vehicle_Factory </Marker_For_Specific_Object_Type>
 		<Land_Model_Name>rb_lightvehiclefactory.alo</Land_Model_Name>
 		<Scale_Factor>1.2</Scale_Factor>
 		<Behavior>MARKER</Behavior>
@@ -654,7 +654,7 @@
 		<Text_ID>TEXT_ORBITAL_STATION_POSITION</Text_ID>
 		<Is_Marker>Yes</Is_Marker>
 		<Galactic_Model_Name />
-		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1 </Marker_For_Specific_Object_Type>
+		<Marker_For_Specific_Object_Type> Skirmish_Rebel_Star_Base_1, Skirmish_Empire_Star_Base_1, Skirmish_Underworld_Star_Base_1, Skirmish_INDEPENDANT_Star_Base_1 </Marker_For_Specific_Object_Type>
 		<Space_Model_Name>EB_STATION_01.ALO</Space_Model_Name>
 		<Land_Model_Name />
 		<Behavior>MARKER</Behavior>

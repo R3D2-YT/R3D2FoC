@@ -55,7 +55,7 @@
 		<Squadron_Capacity>0</Squadron_Capacity>
 		<Number_per_Squadron>3</Number_per_Squadron>
 
-		<SpaceBehavior>HUNT, ABILITY_COUNTDOWN, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, REVEAL, NEBULA </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, REVEAL, NEBULA </SpaceBehavior>
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 
 		<Land_FOW_Reveal_Range>130.0</Land_FOW_Reveal_Range>
@@ -134,7 +134,7 @@
 				<Effective_Radius>300.0</Effective_Radius> 
                 <SFXEvent_GUI_Unit_Ability_Activated> Unit_Jam_Sensors_On_Skipray </SFXEvent_GUI_Unit_Ability_Activated> 				
 				<SFXEvent_GUI_Unit_Ability_Deactivated> Unit_Jam_Sensors_Off_Skipray </SFXEvent_GUI_Unit_Ability_Deactivated> 
-				<Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+				<Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
 			</Unit_Ability>
 
 			<Unit_Ability>
@@ -148,7 +148,7 @@
 			<Sensor_Jamming_Ability Name="Skipray_Sensor_Jamming">
 				<Activation_Style> User_Input </Activation_Style>
                 <Owner_Particle_Effect>Sensor_Jamming_Effect_Skipray</Owner_Particle_Effect>
-                <Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
 			</Sensor_Jamming_Ability>
 
 		</Abilities>
@@ -181,8 +181,8 @@
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
+		<Required_Star_Base_Level>2</Required_Star_Base_Level>
+		<Required_Special_Structures />
 
 		<Cheap_Bribe_Cost>10</Cheap_Bribe_Cost>
 		<Expensive_Bribe_Cost>20</Expensive_Bribe_Cost>
@@ -227,7 +227,7 @@
 				<Recharge_Seconds>35.0</Recharge_Seconds> 
 				<Expiration_Seconds>30.0</Expiration_Seconds>
 				<Effective_Radius>300.0</Effective_Radius> 
-                <Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
 			</Unit_Ability>
 
 			<Unit_Ability>
@@ -241,25 +241,13 @@
 			<Sensor_Jamming_Ability Name="Skipray_Sensor_Jamming">
 				<Activation_Style> User_Input </Activation_Style>
                 <Owner_Particle_Effect>Sensor_Jamming_Effect_Skipray</Owner_Particle_Effect>
-                <Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
 			</Sensor_Jamming_Ability>
 
 		</Abilities>
 
 
 	</Squadron>
-	
-	<SpaceUnit Name="Skipray_Zsinj">
-		<Variant_Of_Existing_Type>Skipray_Squadron</Variant_Of_Existing_Type>
-		<Affiliation>Zsinj</Affiliation>
-		<Required_Special_Structures>Light_Shipyard | Medium_Shipyard</Required_Special_Structures>
-	</SpaceUnit>
-
-	<SpaceUnit Name="Skipray_Eriadu">
-		<Variant_Of_Existing_Type>Skipray_Squadron</Variant_Of_Existing_Type>
-		<Affiliation>Eriadu</Affiliation>
-		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard</Required_Special_Structures>
-	</SpaceUnit>
 
 
 

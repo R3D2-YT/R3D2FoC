@@ -509,284 +509,44 @@
 		<Prev_Level_Base>Hutt_Ground_Base_4</Prev_Level_Base>
 		<Next_Level_Base></Next_Level_Base>
 	</GroundBase>
-	
-	<GroundBase Name="Republic_Ground_Base_1">
+
+	<GroundBase Name="Independant_Ground_Base_1">
 		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Independant</Affiliation>
 		<AI_Combat_Power>1400</AI_Combat_Power>
 		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Republic_Ground_Base_2</Next_Level_Base>
+		<Next_Level_Base>Independant_Ground_Base_2</Next_Level_Base>
 	</GroundBase>
 
-	<GroundBase Name="Republic_Ground_Base_2">
+	<GroundBase Name="Independant_Ground_Base_2">
 		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Independant</Affiliation>
 		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Republic_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Republic_Ground_Base_3</Next_Level_Base>
+		<Prev_Level_Base>Independant_Ground_Base_1</Prev_Level_Base>
+		<Next_Level_Base>Independant_Ground_Base_3</Next_Level_Base>
 	</GroundBase>
 
-	<GroundBase Name="Republic_Ground_Base_3">
+	<GroundBase Name="Independant_Ground_Base_3">
 		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Independant</Affiliation>
 		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Republic_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Republic_Ground_Base_4</Next_Level_Base>
+		<Prev_Level_Base>Independant_Ground_Base_2</Prev_Level_Base>
+		<Next_Level_Base>Independant_Ground_Base_4</Next_Level_Base>
 	</GroundBase>
 
-	<GroundBase Name="Republic_Ground_Base_4">
+	<GroundBase Name="Independant_Ground_Base_4">
 		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Independant</Affiliation>
 		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Republic_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Republic_Ground_Base_5</Next_Level_Base>
+		<Prev_Level_Base>Independant_Ground_Base_3</Prev_Level_Base>
+		<Next_Level_Base>Independant_Ground_Base_5</Next_Level_Base>
 	</GroundBase>
 
-	<GroundBase Name="Republic_Ground_Base_5">
+	<GroundBase Name="Independant_Ground_Base_5">
 		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Republic</Affiliation>
+		<Affiliation>Independant</Affiliation>
 		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Republic_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-	
-	<GroundBase Name="Mando_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Mandalorians</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Mando_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Mando_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Mandalorians</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Mando_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Mando_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Mando_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Mandalorians</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Mando_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Mando_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Mando_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Mandalorians</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Mando_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Mando_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Mando_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Mandalorians</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Mando_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-	
-	<GroundBase Name="Player_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Player</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Player_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Player_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Player</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Player_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Player_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Player_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Player</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Player_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Player_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Player_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Player</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Player_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Player_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Player_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Player</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Player_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-	
-	<GroundBase Name="Sith_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Sith</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Sith_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Sith_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Sith</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Sith_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Sith_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Sith_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Sith</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Sith_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Sith_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Sith_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Sith</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Sith_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Sith_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Sith_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Sith</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Sith_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-	
-	<GroundBase Name="Confederacy_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Confederacy</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Confederacy_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Confederacy_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Confederacy</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Confederacy_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Confederacy_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Confederacy_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Confederacy</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Confederacy_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Confederacy_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Confederacy_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Confederacy</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Confederacy_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Confederacy_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Confederacy_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Confederacy</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Confederacy_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-	
-	<GroundBase Name="Warlord_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar, Zsinj, Maldrood, Eriadu</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Warlord_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Warlord_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar, Zsinj, Maldrood, Eriadu</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Warlord_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Warlord_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Warlord_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar, Zsinj, Maldrood, Eriadu</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Warlord_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Warlord_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Warlord_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar, Zsinj, Maldrood, Eriadu</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Warlord_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Warlord_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Warlord_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Pentastar, Zsinj, Maldrood, Eriadu</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Warlord_Ground_Base_4</Prev_Level_Base>
-		<Next_Level_Base></Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Yevethan_Ground_Base_1">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_1</Variant_Of_Existing_Type>
-		<Affiliation>Yevethan</Affiliation>
-		<AI_Combat_Power>1400</AI_Combat_Power>
-		<Prev_Level_Base></Prev_Level_Base>
-		<Next_Level_Base>Yevethan_Ground_Base_2</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Yevethan_Ground_Base_2">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_2</Variant_Of_Existing_Type>
-		<Affiliation>Yevethan</Affiliation>
-		<AI_Combat_Power>3300</AI_Combat_Power>
-		<Prev_Level_Base>Yevethan_Ground_Base_1</Prev_Level_Base>
-		<Next_Level_Base>Yevethan_Ground_Base_3</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Yevethan_Ground_Base_3">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_3</Variant_Of_Existing_Type>
-		<Affiliation>Yevethan</Affiliation>
-		<AI_Combat_Power>5500</AI_Combat_Power>
-		<Prev_Level_Base>Yevethan_Ground_Base_2</Prev_Level_Base>
-		<Next_Level_Base>Yevethan_Ground_Base_4</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Yevethan_Ground_Base_4">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_4</Variant_Of_Existing_Type>
-		<Affiliation>Yevethan</Affiliation>
-		<AI_Combat_Power>8300</AI_Combat_Power>
-		<Prev_Level_Base>Warlord_Ground_Base_3</Prev_Level_Base>
-		<Next_Level_Base>Warlord_Ground_Base_5</Next_Level_Base>
-	</GroundBase>
-
-	<GroundBase Name="Yevethan_Ground_Base_5">
-		<Variant_Of_Existing_Type>Rebel_Ground_Base_5</Variant_Of_Existing_Type>
-		<Affiliation>Yevethan</Affiliation>
-		<AI_Combat_Power>12800</AI_Combat_Power>
-		<Prev_Level_Base>Yevethan_Ground_Base_4</Prev_Level_Base>
+		<Prev_Level_Base>Independant_Ground_Base_4</Prev_Level_Base>
 		<Next_Level_Base></Next_Level_Base>
 	</GroundBase>
 

@@ -445,12 +445,7 @@
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>
 		<Required_Special_Structures />
-		<Required_Planets>
-			Geonosis_Era3,
-			Geonosis_Era4,
-			Hypori_Era3,
-			Hypori_Era4,
-		</Required_Planets>
+		<Required_Planets />
 		<Tactical_Health>650</Tactical_Health>
 		<Shield_Points>700</Shield_Points>
 		<Shield_Refresh_Rate>25</Shield_Refresh_Rate>
@@ -491,6 +486,8 @@
 		
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
+				Underworld_B1_Squad,
+				Underworld_B2_Squad,
 				Destroyer_Droid_Company,
 				Underworld_MDU_Company,
 				UL_MDU_Armor_Plating_L1_Upgrade,
@@ -651,6 +648,7 @@
 
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Underworld,
+				A4_Juggernaut_Company,
 				F9TZ_Cloaking_Transport_Company,
 				MAL_Rocket_Vehicle_Company,
 				MZ8_Pulse_Cannon_Tank_Company,
@@ -975,7 +973,7 @@
 		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
 		<Size_Value>50</Size_Value>
 		<Base_Position>Out_Base</Base_Position>
-		<Tech_Level>0</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>0</Required_Star_Base_Level>

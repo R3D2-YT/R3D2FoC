@@ -14,11 +14,11 @@
 		<Icon_Name>i_button_Crusader.tga</Icon_Name>
 		
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>UV_CrusaderClassCorvette.alo</Space_Model_Name>
-		<Select_Box_Scale>260</Select_Box_Scale>
+		<Space_Model_Name>Uv_CrusaderGunship_Underworld.alo</Space_Model_Name>
+		<Select_Box_Scale>50</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
-		<Scale_Factor>0.56</Scale_Factor>
+		<Scale_Factor>3.5</Scale_Factor>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 
@@ -40,11 +40,11 @@
 		<Hyperspace_Speed>2.0</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Armor_Type> Armor_Corellian_Gunboat </Armor_Type>
+		<Armor_Type> Armor_Tartan </Armor_Type>
         <Shield_Armor_Type>Shield_Corvette</Shield_Armor_Type>
 
-		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>900</Tactical_Health>
+		<Shield_Points>700</Shield_Points>
+		<Tactical_Health>800</Tactical_Health>
 		<Damage>20</Damage>
 		<Autoresolve_Health>800</Autoresolve_Health> 
 		<Shield_Refresh_Rate>12</Shield_Refresh_Rate>
@@ -61,17 +61,11 @@
 		<Affiliation>Underworld</Affiliation>
 		<Tech_Level>0</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
-		<Build_Cost_Credits>900</Build_Cost_Credits>
+		<Required_Star_Base_Level>2</Required_Star_Base_Level>
+		<Build_Cost_Credits>1400</Build_Cost_Credits>
 		<AI_Combat_Power>1250</AI_Combat_Power>
 		<Build_Time_Seconds>8</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		
-		<Required_Planets>
-			Mandalore_Era3,
-			Mandalore_Era4,
-		</Required_Planets>
 
 		<Cheap_Bribe_Cost>60</Cheap_Bribe_Cost>
 		<Expensive_Bribe_Cost>120</Expensive_Bribe_Cost>

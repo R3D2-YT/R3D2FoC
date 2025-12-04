@@ -14,16 +14,14 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
 			<Damage_Type> Damage_Star_Destroyer </Damage_Type>
-            <Model_To_Attach>EV_StarDestroyer_HP00_L-F.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+
+            <Attachment_Bone>LTL_02</Attachment_Bone>
+            <Collision_Mesh>LTL_02</Collision_Mesh>
             <Damage_Decal>HP_F-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Star_Dest_Weapon_FL </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>LTL_02</Fire_Bone_A>
+            <Fire_Bone_B>LTL_02</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -56,16 +54,14 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
 			<Damage_Type> Damage_Star_Destroyer </Damage_Type>
-            <Model_To_Attach>EV_StarDestroyer_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+
+            <Attachment_Bone>LTL_05</Attachment_Bone>
+            <Collision_Mesh>LTL_05</Collision_Mesh>
             <Damage_Decal>HP_F-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Star_Dest_Weapon_FR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>LTL_05</Fire_Bone_A>
+            <Fire_Bone_B>LTL_05</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -97,16 +93,14 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
 			<Damage_Type> Damage_Star_Destroyer </Damage_Type>
-            <Model_To_Attach>EV_StarDestroyer_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+
+            <Attachment_Bone>LTL_01</Attachment_Bone>
+            <Collision_Mesh>LTL_01</Collision_Mesh>
             <Damage_Decal>HP_B-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-L_EMITDAMAGE</Damage_Particles>
-
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Star_Dest_Weapon_BL </Death_Breakoff_Prop>
 				
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>LTL_01</Fire_Bone_A>
+            <Fire_Bone_B>LTL_01</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -138,16 +132,14 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
 			<Damage_Type> Damage_Star_Destroyer </Damage_Type>
-            <Model_To_Attach>EV_StarDestroyer_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+
+            <Attachment_Bone>LTL_04</Attachment_Bone>
+            <Collision_Mesh>LTL_04</Collision_Mesh>
             <Damage_Decal>HP_B-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Star_Dest_Weapon_BR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>LTL_04</Fire_Bone_A>
+            <Fire_Bone_B>LTL_04</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -178,14 +170,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_StarDestroyer_HP00_M-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-L_COLL</Collision_Mesh>
+            <Attachment_Bone>OTL_01</Attachment_Bone>
+            <Collision_Mesh>OTL_01</Collision_Mesh>
             <Damage_Decal>HP_M-L_BLAST</Damage_Decal>
-            <Damage_Particles>HP_M-L_EMITDAMAGE</Damage_Particles>
+            <Damage_Particles>OTL_Fire_01</Damage_Particles>
 
-            <Fire_Bone_A>FP_M-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-L_01</Fire_Bone_B>
+            <Fire_Bone_A>OTL_01</Fire_Bone_A>
+            <Fire_Bone_B>OTL_01</Fire_Bone_B>
             <Fire_Cone_Width>120.0</Fire_Cone_Width>
             <Fire_Cone_Height>70.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon_Large</Fire_Projectile_Type>
@@ -216,14 +207,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_StarDestroyer_HP00_M-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-R_COLL</Collision_Mesh>
+            <Attachment_Bone>OTL_03</Attachment_Bone>
+            <Collision_Mesh>OTL_03</Collision_Mesh>
             <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
-            <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
+            <Damage_Particles>OTL_Fire_03</Damage_Particles>
 
-            <Fire_Bone_A>FP_M-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-R_01</Fire_Bone_B>
+            <Fire_Bone_A>OTL_03</Fire_Bone_A>
+            <Fire_Bone_B>OTL_03</Fire_Bone_B>
             <Fire_Cone_Width>120.0</Fire_Cone_Width>
             <Fire_Cone_Height>70.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon_Large</Fire_Projectile_Type>
@@ -254,13 +244,10 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Shields_Death</Death_Explosion_SFXEvent>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Star_Dest_Shield_Gen </Death_Breakoff_Prop>
-
-            <Model_To_Attach>EV_StarDestroyer_HP00_M-C.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-C_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-C_COLL</Collision_Mesh>
+            <Attachment_Bone>Shield_HP</Attachment_Bone>
+            <Collision_Mesh>Shield_HP</Collision_Mesh>
             <Damage_Decal>HP_M-C_BLAST</Damage_Decal>
-            <Damage_Particles>HP_M-C_EMITDAMAGE</Damage_Particles>
+            <Damage_Particles>Shield_Fire</Damage_Particles>
     </HardPoint>
 
     <HardPoint Name="HP_Star_Destroyer_Engines">
@@ -285,10 +272,24 @@
 		<Type> HARD_POINT_FIGHTER_BAY </Type>
 		<Is_Targetable>Yes</Is_Targetable>
 		<Is_Destroyable>Yes</Is_Destroyable>
-		<Attachment_Bone>SPAWN_00</Attachment_Bone>             
-		<Collision_Mesh>SPAWN_00</Collision_Mesh>
+		<Attachment_Bone>HANGAR</Attachment_Bone>             
+		<Collision_Mesh>HANGAR</Collision_Mesh>
 		<Tooltip_Text>TEXT_FIGHTER_BAY_HARDPOINT</Tooltip_Text>
 		<Health>250.0</Health>
+        <Damage_Particles>HANGAR_FIRE</Damage_Particles>
+		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent> <!-- STUBBED PLACEHOLDER -->
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_Fighter_Bay_Dummy">
+		<Type> HARD_POINT_FIGHTER_BAY </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Attachment_Bone>HANGAR</Attachment_Bone>             
+		<Collision_Mesh>HANGAR</Collision_Mesh>
+		<Tooltip_Text>TEXT_FIGHTER_BAY_HARDPOINT</Tooltip_Text>
+		<Health>250.0</Health>
+        <Damage_Particles>HANGAR_FIRE</Damage_Particles>
 		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
 		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent> <!-- STUBBED PLACEHOLDER -->
 	</HardPoint>
@@ -300,13 +301,121 @@
 		<Is_Destroyable>Yes</Is_Destroyable>
 		<Health>225.0</Health>
 		
-		<Attachment_Bone>HP_trac_bone</Attachment_Bone>             
-		<Collision_Mesh>HP_trac_bone</Collision_Mesh>
+		<Attachment_Bone>ROOT</Attachment_Bone>             
+		<Collision_Mesh>ROOT</Collision_Mesh>
 		<Damage_Decal>HP_TRAC_BLAST</Damage_Decal>
 		<Damage_Particles>HP_TRAC_EMITDAMAGE</Damage_Particles>
 
 		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
 		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent> <!-- STUBBED PLACEHOLDER -->
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_00">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>QIC_04</Fire_Bone_A>
+
+		<Attachment_Bone>QIC_04</Attachment_Bone>             
+		<Collision_Mesh>QIC_04</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>QIC_04_FIRE</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_01">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>QIC_03</Fire_Bone_A>
+
+		<Attachment_Bone>QIC_03</Attachment_Bone>             
+		<Collision_Mesh>QIC_03</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>QIC_03_FIRE</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_02">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>QIC_01</Fire_Bone_A>
+
+		<Attachment_Bone>QIC_01</Attachment_Bone>             
+		<Collision_Mesh>QIC_01</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>QIC_01_FIRE</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_03">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>QIC_02</Fire_Bone_A>
+
+		<Attachment_Bone>QIC_02</Attachment_Bone>             
+		<Collision_Mesh>QIC_02</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>QIC_02_FIRE</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_04">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>OTL_02</Fire_Bone_A>
+
+		<Attachment_Bone>OTL_02</Attachment_Bone>             
+		<Collision_Mesh>OTL_02</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>OTL_FIRE_02</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
+	</HardPoint>
+
+    <HardPoint Name="HP_Star_Destroyer_DUMMY_05">
+		<Type> HARD_POINT_WEAPON_SPECIAL </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Tooltip_Text>TEXT_WEAPON_SPECIAL</Tooltip_Text>
+		<Health>250.0</Health>
+
+		<Fire_Bone_A>OTL_04</Fire_Bone_A>
+
+		<Attachment_Bone>OTL_04</Attachment_Bone>             
+		<Collision_Mesh>OTL_04</Collision_Mesh>
+		<Damage_Decal>HP_SHL_00_BLAST</Damage_Decal>
+		<Damage_Particles>OTL_FIRE_04</Damage_Particles>
+
+		<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles> 
+		<Death_Explosion_SFXEvent>Unit_Hardpoint_Bay_Death</Death_Explosion_SFXEvent>
 	</HardPoint>
 
 
@@ -330,17 +439,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_MonCalCruiser_HP00_F-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleC_01</Attachment_Bone>
+            <Collision_Mesh>MuzzleC_01</Collision_Mesh>
             <Damage_Decal>HP_F-L_blast</Damage_Decal>
             <Damage_Particles>HP_F-L_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_FL </Death_Breakoff_Prop>
-
 		<Projectile_Damage>40.0</Projectile_Damage>
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleC_01</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleC_01</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon_Large</Fire_Projectile_Type>
@@ -371,17 +477,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_MonCalCruiser_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_00</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_00</Collision_Mesh>
             <Damage_Decal>HP_F-R_blast</Damage_Decal>
             <Damage_Particles>HP_F-R_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_FR </Death_Breakoff_Prop>
-
 		<Projectile_Damage>40.0</Projectile_Damage>
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_00</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon_Large</Fire_Projectile_Type>
@@ -414,16 +517,13 @@
 
 		<Projectile_Damage>20.0</Projectile_Damage>
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Model_To_Attach>RV_MonCalCruiser_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_04</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_04</Collision_Mesh>
             <Damage_Decal>HP_B-L_blast</Damage_Decal>
             <Damage_Particles>HP_B-L_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_BL </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_04</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_04</Fire_Bone_B>
             <Fire_Cone_Width>160.0</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -456,16 +556,13 @@
 
 		<Projectile_Damage>20.0</Projectile_Damage>
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Model_To_Attach>RV_MonCalCruiser_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_07</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_07</Collision_Mesh>
             <Damage_Decal>HP_B-R_blast</Damage_Decal>
             <Damage_Particles>HP_B-R_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_BR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_07</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_07</Fire_Bone_B>
             <Fire_Cone_Width>160.0</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -498,16 +595,13 @@
 
 		<Projectile_Damage>20.0</Projectile_Damage>
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Model_To_Attach>RV_MonCalCruiser_HP00_M-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_03</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_03</Collision_Mesh>
             <Damage_Decal>HP_M-L_blast</Damage_Decal>
             <Damage_Particles>HP_M-L_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_ML </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_M-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_03</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_03</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -540,16 +634,13 @@
 
 		<Projectile_Damage>20.0</Projectile_Damage>
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Model_To_Attach>RV_MonCalCruiser_HP00_M-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleB_04</Attachment_Bone>
+            <Collision_Mesh>MuzzleB_04</Collision_Mesh>
             <Damage_Decal>HP_M-R_blast</Damage_Decal>
             <Damage_Particles>HP_M-R_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_MonCal_Weapon_MR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_M-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleB_04</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleB_04</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -580,9 +671,8 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_MonCalCruiser_HP00_E.alo</Model_To_Attach>
-            <Attachment_Bone>HP_E_BONE</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>Engines_00</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Engines_00</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -841,6 +931,184 @@
 			
  			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
    </HardPoint>
+
+<!-- Hard points for the Ton Falk Carrier -->
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_00">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_04</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_04</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_01">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_05</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_05</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_02">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_03</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_03</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_03">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_02</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_02</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_04">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_00</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_05">
+			<Type> HARD_POINT_WEAPON_LASER </Type>
+            <Is_Targetable>No</Is_Targetable>
+            <Is_Destroyable>No</Is_Destroyable>
+
+			<Damage_Type> Damage_Tartan_Cruiser </Damage_Type>
+            <Fire_Bone_A>MuzzleA_01</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
+            <Fire_Cone_Width>65.0</Fire_Cone_Width>
+            <Fire_Cone_Height>45.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>2.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>3.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1000.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Empire_Ship_Laser_Fire</Fire_SFXEvent>
+
+			<Fire_Inaccuracy_Distance> Fighter, 5.8 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 5.3 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 10.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			<Allow_Opportunity_Fire_When_Targeting>False</Allow_Opportunity_Fire_When_Targeting>
+	</HardPoint>
+
+    <HardPoint Name="HP_Ton_Falk_Carrier_Fighter_Bay">
+		<Type> HARD_POINT_FIGHTER_BAY </Type>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
+		<Attachment_Bone>HANGAR_00</Attachment_Bone>             
+		<Collision_Mesh>HANGAR_00</Collision_Mesh>
+	</HardPoint>
 
 
 <!-- Hard points for the Tartan Cruiser -->
@@ -1205,17 +1473,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_nebulonb_HP00_F-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+            <Attachment_Bone>DUALTURBO_00</Attachment_Bone>
+            <Collision_Mesh>DUALTURBO_00</Collision_Mesh>
             <Damage_Decal>HP_F-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Nebulon_Weapon_FL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Nebulon_B </Damage_Type>
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>DUALTURBO_00</Fire_Bone_A>
+            <Fire_Bone_B>DUALTURBO_00</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -1247,17 +1512,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_nebulonb_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+            <Attachment_Bone>DUALTURBO_01</Attachment_Bone>
+            <Collision_Mesh>DUALTURBO_01</Collision_Mesh>
             <Damage_Decal>HP_F-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Nebulon_Weapon_FR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Nebulon_B </Damage_Type>
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>DUALTURBO_01</Fire_Bone_A>
+            <Fire_Bone_B>DUALTURBO_01</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -1289,17 +1551,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_nebulonb_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+            <Attachment_Bone>LASER_00</Attachment_Bone>
+            <Collision_Mesh>LASER_00</Collision_Mesh>
             <Damage_Decal>HP_B-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Nebulon_Weapon_BL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Nebulon_B </Damage_Type>
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>LASER_00</Fire_Bone_A>
+            <Fire_Bone_B>LASER_00</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Red</Fire_Projectile_Type>
@@ -1331,17 +1590,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_nebulonb_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+            <Attachment_Bone>LASER_01</Attachment_Bone>
+            <Collision_Mesh>LASER_01</Collision_Mesh>
             <Damage_Decal>HP_B-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Nebulon_Weapon_BR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Nebulon_B </Damage_Type>
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>LASER_01</Fire_Bone_A>
+            <Fire_Bone_B>LASER_01</Fire_Bone_B>
             <Fire_Cone_Width>175.0</Fire_Cone_Width>
             <Fire_Cone_Height>160.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Red</Fire_Projectile_Type>
@@ -1627,16 +1883,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_VictoryStarDestroyer_HP00_C-F.alo</Model_To_Attach>
-            <Attachment_Bone>HP_C-F_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_C-F_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleD_00</Attachment_Bone>
+            <Collision_Mesh>MuzzleD_00</Collision_Mesh>
             <Damage_Decal>HP_C-F_BLAST</Damage_Decal>
             <Damage_Particles>HP_C-F_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Victory_Weapon_CF </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_C-F_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_C-F_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleD_00</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleD_00</Fire_Bone_B>
             <Fire_Cone_Width>100.0</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>
@@ -1659,6 +1912,44 @@
     </HardPoint>
 
     <HardPoint Name="HP_Victory_Weapon_02">
+			<Type> HARD_POINT_WEAPON_ION_CANNON </Type>
+            <Is_Targetable>Yes</Is_Targetable>
+            <Is_Destroyable>Yes</Is_Destroyable>
+            <Tooltip_Text>TEXT_WEAPON_IONCANNON</Tooltip_Text>
+            <Health>1000</Health> <!-- was 260 -->
+
+			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
+			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
+
+            <Attachment_Bone>MuzzleD_01</Attachment_Bone>
+            <Collision_Mesh>MuzzleD_01</Collision_Mesh>
+            <Damage_Decal>HP_C-F_BLAST</Damage_Decal>
+            <Damage_Particles>HP_C-F_EMITDAMAGE</Damage_Particles>
+
+            <Fire_Bone_A>MuzzleD_01</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleD_01</Fire_Bone_B>
+            <Fire_Cone_Width>100.0</Fire_Cone_Width>
+            <Fire_Cone_Height>90.0</Fire_Cone_Height>
+            <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>
+            <Fire_Min_Recharge_Seconds>3.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>4.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>5</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.2</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1800.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Ion_Fire</Fire_SFXEvent>
+
+
+			<Fire_Inaccuracy_Distance> Fighter, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Bomber, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Transport, 30.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Corvette, 1.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Frigate, 15.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Capital, 70.0 </Fire_Inaccuracy_Distance>
+			<Fire_Inaccuracy_Distance> Super, 30.0 </Fire_Inaccuracy_Distance>
+			
+    </HardPoint>
+
+    <HardPoint Name="HP_Victory_Weapon_03">
 			<Type> HARD_POINT_WEAPON_LASER </Type>
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
@@ -1668,18 +1959,15 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_VictoryStarDestroyer_HP00_M-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-R_COLL</Collision_Mesh>
-            <Damage_Decal>HP_M-R_BLAST</Damage_Decal>
-            <Damage_Particles>HP_M-R_EMITDAMAGE</Damage_Particles>
-
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Victory_Weapon_MR </Death_Breakoff_Prop>
+            <Attachment_Bone>MuzzleA_01</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_01</Collision_Mesh>
+            <Damage_Decal>HP_M-L_BLAST</Damage_Decal>
+            <Damage_Particles>HP_M-L_EMITDAMAGE</Damage_Particles>
 
 			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
-            <Fire_Bone_A>FP_M-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_01</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -1701,7 +1989,7 @@
 			
     </HardPoint>
 
-    <HardPoint Name="HP_Victory_Weapon_03">
+    <HardPoint Name="HP_Victory_Weapon_04">
 			<Type> HARD_POINT_WEAPON_LASER </Type>
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
@@ -1711,18 +1999,15 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_VictoryStarDestroyer_HP00_M-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_M-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_M-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_07</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_07</Collision_Mesh>
             <Damage_Decal>HP_M-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_M-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Victory_Weapon_ML </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Victory_SD </Damage_Type>
             <Projectile_Damage>20.0</Projectile_Damage>
-            <Fire_Bone_A>FP_M-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_M-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_07</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_07</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -1754,11 +2039,8 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Shields_Death</Death_Explosion_SFXEvent>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Victory_Shield_Gen </Death_Breakoff_Prop>
-
-            <Model_To_Attach>EV_VictoryStarDestroyer_HP00_C-B.alo</Model_To_Attach>
-            <Attachment_Bone>HP_C-B_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_C-B_COLL</Collision_Mesh>
+            <Attachment_Bone>Bridge_00</Attachment_Bone>
+            <Collision_Mesh>Bridge_00</Collision_Mesh>
             <Damage_Decal>HP_C-B_BLAST</Damage_Decal>
             <Damage_Particles>HP_C-B_EMITDAMAGE</Damage_Particles>
     </HardPoint>
@@ -1773,9 +2055,8 @@
 				<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 				<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_VictoryStarDestroyer_HP00_E.alo</Model_To_Attach>
-            <Attachment_Bone>HP_E_BONE</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>Engines_02</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Engines_02</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -1785,8 +2066,8 @@
 		<Type> HARD_POINT_FIGHTER_BAY </Type>
 		<Is_Targetable>Yes</Is_Targetable>
 		<Is_Destroyable>Yes</Is_Destroyable>
-		<Attachment_Bone>SPAWN_00</Attachment_Bone>             
-		<Collision_Mesh>SPAWN_00</Collision_Mesh>
+		<Attachment_Bone>HANGAR_00</Attachment_Bone>             
+		<Collision_Mesh>HANGAR_00</Collision_Mesh>
 		<Tooltip_Text>TEXT_FIGHTER_BAY_HARDPOINT</Tooltip_Text>
 		<Health>100.0</Health>
 		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
@@ -1805,17 +2086,14 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Interdictor_HP00_F-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_08</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_08</Collision_Mesh>
             <Damage_Decal>HP_F-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Interdictor_Weapon_FL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Interdictor </Damage_Type>
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_08</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_08</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -1847,17 +2125,14 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Interdictor_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_09</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_09</Collision_Mesh>
             <Damage_Decal>HP_F-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Interdictor_Weapon_FR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Interdictor </Damage_Type>
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_09</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_09</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -1889,17 +2164,14 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Interdictor_Weapon_BL </Death_Breakoff_Prop>
-
-            <Model_To_Attach>EV_Interdictor_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_04</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_04</Collision_Mesh>
             <Damage_Decal>HP_B-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-L_EMITDAMAGE</Damage_Particles>
 
 			<Damage_Type> Damage_Interdictor </Damage_Type>
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_04</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_04</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -1931,17 +2203,14 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Interdictor_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_05</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_05</Collision_Mesh>
             <Damage_Decal>HP_B-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Interdictor_Weapon_BR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Interdictor </Damage_Type>
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_05</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_05</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Medium_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -1974,8 +2243,8 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Gravity_Well_Death</Death_Explosion_SFXEvent>
 
             <Model_To_Attach>EV_Interdictor_HP00_C-M.alo</Model_To_Attach>
-            <Attachment_Bone>HP_C-M_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_C-M_COLL</Collision_Mesh>
+            <Attachment_Bone>PGW_GRAV_WELL</Attachment_Bone>
+            <Collision_Mesh>PGW_GRAV_WELL</Collision_Mesh>
             <Damage_Decal>HP_C-M_BLAST</Damage_Decal>
             <Damage_Particles>HP_C-M_EMITDAMAGE</Damage_Particles>
     </HardPoint>
@@ -1990,9 +2259,8 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Shields_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Interdictor_HP00_C-B.alo</Model_To_Attach>
-            <Attachment_Bone>HP_C-B_BONE</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_C-B_COLL</Collision_Mesh>
+            <Attachment_Bone>Shield_00</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Shield_00</Collision_Mesh>
             <Damage_Decal>HP_C-B_BLAST</Damage_Decal>
             <Damage_Particles>HP_C-B_EMITDAMAGE</Damage_Particles>
     </HardPoint>
@@ -2007,9 +2275,8 @@
 			<Death_Explosion_Particles> Medium_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Interdictor_HP00_E.alo</Model_To_Attach>
-            <Attachment_Bone>HP_E_BONE</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>Engines_00</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Engines_00</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -2027,18 +2294,15 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_AssaultFrigate_HP00_F-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+            <Attachment_Bone>Muzzlea_04</Attachment_Bone>
+            <Collision_Mesh>Muzzlea_04</Collision_Mesh>
             <Damage_Decal>HP_F-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_AAFrigate_Weapon_FL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Assault_Frigate </Damage_Type>
 			  <Projectile_Damage>40</Projectile_Damage>
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>Muzzlea_04</Fire_Bone_A>
+            <Fire_Bone_B>Muzzlea_04</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red_Heavy</Fire_Projectile_Type>
@@ -2069,18 +2333,15 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_AssaultFrigate_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+            <Attachment_Bone>Muzzlea_05</Attachment_Bone>
+            <Collision_Mesh>Muzzlea_05</Collision_Mesh>
             <Damage_Decal>HP_F-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_AAFrigate_Weapon_FR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Assault_Frigate </Damage_Type>
 			  <Projectile_Damage>40</Projectile_Damage>
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>Muzzlea_05</Fire_Bone_A>
+            <Fire_Bone_B>Muzzlea_05</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red_Heavy</Fire_Projectile_Type>
@@ -2112,17 +2373,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_AssaultFrigate_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+            <Attachment_Bone>Muzzlea_10</Attachment_Bone>
+            <Collision_Mesh>Muzzlea_10</Collision_Mesh>
             <Damage_Decal>HP_B-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_AAFrigate_Weapon_BL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Assault_Frigate </Damage_Type>
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>Muzzlea_10</Fire_Bone_A>
+            <Fire_Bone_B>Muzzlea_10</Fire_Bone_B>
             <Fire_Cone_Width>160.0</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Red</Fire_Projectile_Type>
@@ -2154,17 +2412,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_AssaultFrigate_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+            <Attachment_Bone>Muzzlea_11</Attachment_Bone>
+            <Collision_Mesh>Muzzlea_11</Collision_Mesh>
             <Damage_Decal>HP_B-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_AAFrigate_Weapon_BR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Assault_Frigate </Damage_Type>
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>Muzzlea_11</Fire_Bone_A>
+            <Fire_Bone_B>Muzzlea_11</Fire_Bone_B>
             <Fire_Cone_Width>160.0</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Red</Fire_Projectile_Type>
@@ -2195,9 +2450,8 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_AssaultFrigate_HP00_E.alo</Model_To_Attach>
-            <Attachment_Bone>HP_E_BONE</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>Engines_00</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Engines_00</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -2215,17 +2469,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_F-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-L_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_F-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_02</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_02</Collision_Mesh>
             <Damage_Decal>HP_F-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Acclamator_Weapon_FL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Acclamator </Damage_Type>
-            <Fire_Bone_A>FP_F-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_02</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_02</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -2256,17 +2507,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_F-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-R_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_F-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_03</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_03</Collision_Mesh>
             <Damage_Decal>HP_F-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Acclamator_Weapon_FR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Acclamator </Damage_Type>
-            <Fire_Bone_A>FP_F-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_03</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_03</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Large_Laser_Cannon_Green</Fire_Projectile_Type>
@@ -2298,16 +2546,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Missile_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_F-C.alo</Model_To_Attach>
-            <Attachment_Bone>HP_F-C_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_F-C_COLL</Collision_Mesh>
+            <Attachment_Bone>ROOT</Attachment_Bone>
+            <Collision_Mesh>ROOT</Collision_Mesh>
             <Damage_Decal>HP_F-C_BLAST</Damage_Decal>
             <Damage_Particles>HP_F-C_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Acclamator_Weapon_FC </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_F-C_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_F-C_01</Fire_Bone_B>
+            <Fire_Bone_A>ROOT</Fire_Bone_A>
+            <Fire_Bone_B>ROOT</Fire_Bone_B>
             <Fire_Cone_Width>130</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Concussion_Missile</Fire_Projectile_Type>
@@ -2330,17 +2575,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_B-L.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-L_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_B-L_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_00</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_00</Collision_Mesh>
             <Damage_Decal>HP_B-L_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-L_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Acclamator_Weapon_BL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Acclamator_TL </Damage_Type>
-            <Fire_Bone_A>FP_B-L_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-L_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_00</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_00</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -2372,17 +2614,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_B-R.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-R_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_B-R_COLL</Collision_Mesh>
+            <Attachment_Bone>MuzzleA_01</Attachment_Bone>
+            <Collision_Mesh>MuzzleA_01</Collision_Mesh>
             <Damage_Decal>HP_B-R_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-R_EMITDAMAGE</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_Acclamator_Weapon_BR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Acclamator </Damage_Type>
-            <Fire_Bone_A>FP_B-R_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-R_01</Fire_Bone_B>
+            <Fire_Bone_A>MuzzleA_01</Fire_Bone_A>
+            <Fire_Bone_B>MuzzleA_01</Fire_Bone_B>
             <Fire_Cone_Width>160</Fire_Cone_Width>
             <Fire_Cone_Height>90.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Green</Fire_Projectile_Type>
@@ -2404,7 +2643,7 @@
 			
     </HardPoint>
 
-    <HardPoint Name="HP_Acclamator_Weapon_BC">
+    <HardPoint Name="HP_Acclamator_Weapon_BC_00">
 			<Type> HARD_POINT_WEAPON_TORPEDO </Type>
             <Is_Targetable>Yes</Is_Targetable>
             <Is_Destroyable>Yes</Is_Destroyable>
@@ -2414,14 +2653,44 @@
 				<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 				<Death_Explosion_SFXEvent>Unit_Hardpoint_Torpedo_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_B-C.alo</Model_To_Attach>
-            <Attachment_Bone>HP_B-C_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_B-C_COLL</Collision_Mesh>
+            <Attachment_Bone>PROTORP_00</Attachment_Bone>
+            <Collision_Mesh>PROTORP_00</Collision_Mesh>
             <Damage_Decal>HP_B-C_BLAST</Damage_Decal>
             <Damage_Particles>HP_B-C_EMITDAMAGE</Damage_Particles>
 
-            <Fire_Bone_A>FP_B-C_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_B-C_01</Fire_Bone_B>
+            <Fire_Bone_A>PROTORP_00</Fire_Bone_A>
+            <Fire_Bone_B>PROTORP_00</Fire_Bone_B>
+            <Fire_Cone_Width>130.0</Fire_Cone_Width>
+            <Fire_Cone_Height>130.0</Fire_Cone_Height> 
+            <Fire_Projectile_Type>Proj_Ship_Proton_Torpedo_Light</Fire_Projectile_Type> <!-- Split off so it doesn't 5x cap ships -->
+            <Fire_Min_Recharge_Seconds>18.0</Fire_Min_Recharge_Seconds>
+            <Fire_Max_Recharge_Seconds>18.0</Fire_Max_Recharge_Seconds>
+            <Fire_Pulse_Count>2</Fire_Pulse_Count>
+            <Fire_Pulse_Delay_Seconds>0.4</Fire_Pulse_Delay_Seconds>
+            <Fire_Range_Distance>1400.0</Fire_Range_Distance>
+				<Fire_SFXEvent>Unit_Torpedo_Fire</Fire_SFXEvent>
+
+            
+			<Fire_Category_Restrictions> Fighter, Bomber, Transport </Fire_Category_Restrictions>
+    </HardPoint>
+
+    <HardPoint Name="HP_Acclamator_Weapon_BC_01">
+			<Type> HARD_POINT_WEAPON_TORPEDO </Type>
+            <Is_Targetable>Yes</Is_Targetable>
+            <Is_Destroyable>Yes</Is_Destroyable>
+            <Tooltip_Text>TEXT_WEAPON_TORPEDOES</Tooltip_Text>
+            <Health>160.0</Health>
+
+				<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
+				<Death_Explosion_SFXEvent>Unit_Hardpoint_Torpedo_Death</Death_Explosion_SFXEvent>
+
+            <Attachment_Bone>PROTORP_01</Attachment_Bone>
+            <Collision_Mesh>PROTORP_01</Collision_Mesh>
+            <Damage_Decal>HP_B-C_BLAST</Damage_Decal>
+            <Damage_Particles>HP_B-C_EMITDAMAGE</Damage_Particles>
+
+            <Fire_Bone_A>PROTORP_01</Fire_Bone_A>
+            <Fire_Bone_B>PROTORP_01</Fire_Bone_B>
             <Fire_Cone_Width>130.0</Fire_Cone_Width>
             <Fire_Cone_Height>130.0</Fire_Cone_Height> 
             <Fire_Projectile_Type>Proj_Ship_Proton_Torpedo_Light</Fire_Projectile_Type> <!-- Split off so it doesn't 5x cap ships -->
@@ -2446,9 +2715,8 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>EV_Acclamator_HP00_E.alo</Model_To_Attach>
-            <Attachment_Bone>HP_E_Bone</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>Engines</Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>Engines</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -2459,8 +2727,8 @@
 		<Type> HARD_POINT_FIGHTER_BAY </Type>
 		<Is_Targetable>Yes</Is_Targetable>
 		<Is_Destroyable>Yes</Is_Destroyable>
-		<Attachment_Bone>SPAWN_00</Attachment_Bone>             
-		<Collision_Mesh>SPAWN_00</Collision_Mesh>
+		<Attachment_Bone>HANGAR_00</Attachment_Bone>             
+		<Collision_Mesh>HANGAR_00</Collision_Mesh>
 		<Tooltip_Text>TEXT_FIGHTER_BAY_HARDPOINT</Tooltip_Text>
 		<Health>100.0</Health>
 		<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>  <!-- STUBBED PLACEHOLDER -->
@@ -4278,11 +4546,8 @@
 			<Death_Explosion_Particles> Large_Explosion_Space_Empire </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Shields_Death</Death_Explosion_SFXEvent>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Shield_Gen </Death_Breakoff_Prop>
-
-            <Model_To_Attach>RV_HomeOne_HP_SHG.alo</Model_To_Attach>
-            <Attachment_Bone>HP_SHG_Bone</Attachment_Bone>
-            <Collision_Mesh>HP_SHG_COLL</Collision_Mesh>
+            <Attachment_Bone>ShieldHP</Attachment_Bone>
+            <Collision_Mesh>ShieldHP</Collision_Mesh>
             <Damage_Decal>HP_SHG_BLAST</Damage_Decal>
             <Damage_Particles>HP_SHG_EMITDAMAGE</Damage_Particles>
     </HardPoint>
@@ -4298,8 +4563,8 @@
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Engines_Death</Death_Explosion_SFXEvent>
 
             <Model_To_Attach />
-            <Attachment_Bone>HP_E_Bone </Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
-            <Collision_Mesh>HP_E_COLL</Collision_Mesh>
+            <Attachment_Bone>EngineHP_01 </Attachment_Bone> <!-- This is an attachment bone for the HUD reticle centering, even though no model is attached -->
+            <Collision_Mesh>EngineHP_01</Collision_Mesh>
             <Damage_Decal />
             <Damage_Particles>HP_E_EMITDAMAGE</Damage_Particles>
             <Engine_Particles>HP_E_MAINENGINES</Engine_Particles>
@@ -4315,17 +4580,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_TBL_BL.alo</Model_To_Attach>
-            <Attachment_Bone>HP_TBL_BL_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_TBL_BL_COLL</Collision_Mesh>
+            <Attachment_Bone>TURBO_01</Attachment_Bone>
+            <Collision_Mesh>TURBO_01</Collision_Mesh>
             <Damage_Decal>HP_TBL_BL_blast</Damage_Decal>
             <Damage_Particles>HP_TBL_BL_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_TBL_BL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Fire_Bone_A>FP_TBL_BL_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_TBL_BL_01</Fire_Bone_B>
+            <Fire_Bone_A>TURBO_01</Fire_Bone_A>
+            <Fire_Bone_B>TURBO_01</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -4357,17 +4619,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_TBL_BR.alo</Model_To_Attach>
-            <Attachment_Bone>HP_TBL_BR_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_TBL_BR_COLL</Collision_Mesh>
+            <Attachment_Bone>TURBO_03</Attachment_Bone>
+            <Collision_Mesh>TURBO_03</Collision_Mesh>
             <Damage_Decal>HP_TBL_BR_blast</Damage_Decal>
             <Damage_Particles>HP_TBL_BR_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_TBL_BR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Fire_Bone_A>FP_TBL_BR_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_TBL_BR_01</Fire_Bone_B>
+            <Fire_Bone_A>TURBO_03</Fire_Bone_A>
+            <Fire_Bone_B>TURBO_03</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -4399,17 +4658,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_TBL_FL.alo</Model_To_Attach>
-            <Attachment_Bone>HP_TBL_FL_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_TBL_FL_COLL</Collision_Mesh>
+            <Attachment_Bone>TURBO_04</Attachment_Bone>
+            <Collision_Mesh>TURBO_04</Collision_Mesh>
             <Damage_Decal>HP_TBL_FL_blast</Damage_Decal>
             <Damage_Particles>HP_TBL_FL_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_TBL_FL </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Fire_Bone_A>FP_TBL_FL_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_TBL_FL_01</Fire_Bone_B>
+            <Fire_Bone_A>TURBO_04</Fire_Bone_A>
+            <Fire_Bone_B>TURBO_04</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -4441,17 +4697,14 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Turbo_Laser_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_TBL_FR.alo</Model_To_Attach>
-            <Attachment_Bone>HP_TBL_FR_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_TBL_FR_COLL</Collision_Mesh>
+            <Attachment_Bone>TURBO_05</Attachment_Bone>
+            <Collision_Mesh>TURBO_05</Collision_Mesh>
             <Damage_Decal>HP_TBL_FR_blast</Damage_Decal>
             <Damage_Particles>HP_TBL_FR_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_TBL_FR </Death_Breakoff_Prop>
-
 			<Damage_Type> Damage_Calamari_Cruiser </Damage_Type>
-            <Fire_Bone_A>FP_TBL_FR_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_TBL_FR_01</Fire_Bone_B>
+            <Fire_Bone_A>TURBO_05</Fire_Bone_A>
+            <Fire_Bone_B>TURBO_05</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Turbolaser_Red</Fire_Projectile_Type>
@@ -4483,16 +4736,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_IC_BL.alo</Model_To_Attach>
-            <Attachment_Bone>HP_IC_BL_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_IC_BL_COLL</Collision_Mesh>
+            <Attachment_Bone>ION_01</Attachment_Bone>
+            <Collision_Mesh>ION_01</Collision_Mesh>
             <Damage_Decal>HP_IC_BL_blast</Damage_Decal>
             <Damage_Particles>HP_IC_BL_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_IC_BL </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_IC_BL_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_IC_BL_01</Fire_Bone_B>
+            <Fire_Bone_A>ION_01</Fire_Bone_A>
+            <Fire_Bone_B>ION_01</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>
@@ -4524,16 +4774,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_IC_BR.alo</Model_To_Attach>
-            <Attachment_Bone>HP_IC_BR_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_IC_BR_COLL</Collision_Mesh>
+            <Attachment_Bone>ION_02</Attachment_Bone>
+            <Collision_Mesh>ION_02</Collision_Mesh>
             <Damage_Decal>HP_IC_BR_blast</Damage_Decal>
             <Damage_Particles>HP_IC_BR_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_IC_BR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_IC_BR_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_IC_BR_01</Fire_Bone_B>
+            <Fire_Bone_A>ION_02</Fire_Bone_A>
+            <Fire_Bone_B>ION_02</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>
@@ -4565,16 +4812,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_IC_FL.alo</Model_To_Attach>
-            <Attachment_Bone>HP_IC_FL_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_IC_FL_COLL</Collision_Mesh>
+            <Attachment_Bone>ION_03</Attachment_Bone>
+            <Collision_Mesh>ION_03</Collision_Mesh>
             <Damage_Decal>HP_IC_FL_blast</Damage_Decal>
             <Damage_Particles>HP_IC_FL_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_IC_FL </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_IC_FL_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_IC_FL_01</Fire_Bone_B>
+            <Fire_Bone_A>ION_03</Fire_Bone_A>
+            <Fire_Bone_B>ION_03</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>
@@ -4606,16 +4850,13 @@
 			<Death_Explosion_Particles> Large_Explosion_Space </Death_Explosion_Particles>
 			<Death_Explosion_SFXEvent>Unit_Hardpoint_Ion_Death</Death_Explosion_SFXEvent>
 
-            <Model_To_Attach>RV_homeone_hp_IC_FR.alo</Model_To_Attach>
-            <Attachment_Bone>HP_IC_FR_BONE</Attachment_Bone>
-            <Collision_Mesh>HP_IC_FR_COLL</Collision_Mesh>
+            <Attachment_Bone>ION_04</Attachment_Bone>
+            <Collision_Mesh>ION_04</Collision_Mesh>
             <Damage_Decal>HP_IC_FR_blast</Damage_Decal>
             <Damage_Particles>HP_IC_FR_EmitDamage</Damage_Particles>
 
-			<Death_Breakoff_Prop> Hardpoint_Breakoff_HomeOne_Weapon_IC_FR </Death_Breakoff_Prop>
-
-            <Fire_Bone_A>FP_IC_FR_00</Fire_Bone_A>
-            <Fire_Bone_B>FP_IC_FR_01</Fire_Bone_B>
+            <Fire_Bone_A>ION_04</Fire_Bone_A>
+            <Fire_Bone_B>ION_04</Fire_Bone_B>
             <Fire_Cone_Width>170.0</Fire_Cone_Width>
             <Fire_Cone_Height>170.0</Fire_Cone_Height>
             <Fire_Projectile_Type>Proj_Ship_Ion_Cannon</Fire_Projectile_Type>

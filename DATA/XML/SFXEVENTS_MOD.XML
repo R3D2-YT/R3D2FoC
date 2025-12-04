@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+<SFXEvents>
+
+	<!-- Ton Falk -->
+
+	<SFXEvent Name="Unit_Complete_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_3.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Move_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Move_2.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Attack_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_3.wav</Samples>
+	</SFXEvent>
+
+	<!-- Battle Droids -->
+
+	<SFXEvent Name="Unit_Complete_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_2.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_3.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_4.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_5.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_6.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_7.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_attack_1.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_attack_2.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_attack_3.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav</Samples>
+	</SFXEvent>
+
+</SFXEvents>

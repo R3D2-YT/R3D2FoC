@@ -13,7 +13,7 @@
 		<Encyclopedia_Text> TEXT_TOOLTIP_INTERCEPTOR4_FRIGATE</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FRIGATE </Encyclopedia_Unit_Class>
 
-		<Space_Model_Name>UV_InterceptorIV.alo</Space_Model_Name>
+		<Space_Model_Name>Pv_InterceptorIV.alo</Space_Model_Name>
 		<Icon_Name>i_button_Pirate_frigate.tga</Icon_Name>
 
 		<Select_Box_Scale>720</Select_Box_Scale>
@@ -21,7 +21,7 @@
 		
 		<GUI_Row> 1 </GUI_Row>
 		<Mass>0.999</Mass>
-		<Scale_Factor>0.35</Scale_Factor>
+		<Scale_Factor>1.50</Scale_Factor>
 		<Damage>30</Damage>
 		<Autoresolve_Health>2500</Autoresolve_Health>
 		<Shield_Points>750</Shield_Points>
@@ -53,8 +53,8 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
+		<Required_Star_Base_Level>3</Required_Star_Base_Level>
+		<Required_Special_Structures />
 		<Required_Planets />
 		<Build_Cost_Credits>2400</Build_Cost_Credits>
 		<Build_Time_Seconds>23</Build_Time_Seconds>
@@ -90,7 +90,8 @@
 		<HardPoints>
 			HP_Interceptor_Frigate_00,
 			HP_Interceptor_Frigate_01,
-			HP_Interceptor_Frigate_02
+			HP_Interceptor_Frigate_02,
+			HP_Interceptor_Frigate_03
 		</HardPoints>
 		
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>

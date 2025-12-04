@@ -148,7 +148,7 @@
                 <Recharge_Seconds>10.0</Recharge_Seconds>
 				<Expiration_Seconds>120.0</Expiration_Seconds>
                 <SFXEvent_GUI_Unit_Ability_Activated>Unit_Cloak_Cloaking_Transport</SFXEvent_GUI_Unit_Ability_Activated>
-                <Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
             </Unit_Ability>
             
 		</Unit_Abilities_Data>
@@ -160,7 +160,7 @@
                 <Stealth_Color>255, 255, 255, 255</Stealth_Color>
                 <Stealth_Transition_Time>.3</Stealth_Transition_Time>
                 <SFXEvent_Activate>Unit_Lightsaber_Projectile_Block</SFXEvent_Activate>
-                <Must_Be_Bought_On_Black_Market>No</Must_Be_Bought_On_Black_Market>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
 			</Stealth_Ability>
             
 		</Abilities>

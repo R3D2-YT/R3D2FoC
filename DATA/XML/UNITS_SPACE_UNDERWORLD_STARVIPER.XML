@@ -14,7 +14,7 @@
 		<Encyclopedia_Vulnerable_To> Corellian_Corvette Tartan_Patrol_Cruiser </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_uv_starviper.tga</Icon_Name>
 
-		<Space_Model_Name>nv_Virago.ALO</Space_Model_Name>
+		<Space_Model_Name>Uv_Starviper_Base.ALO</Space_Model_Name>
 		<Scale_Factor>0.9</Scale_Factor>
 		<Select_Box_Scale>40</Select_Box_Scale>
 		<Select_Box_Z_Adjust>1.0f</Select_Box_Z_Adjust>
@@ -53,7 +53,7 @@
 		<Number_per_Squadron>5</Number_per_Squadron>
 		<Size_Value>5</Size_Value>
 
-		<SpaceBehavior>ABILITY_COUNTDOWN, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA </SpaceBehavior>
 
 		<Projectile_Types>Proj_Ship_Small_Laser_Cannon_Green</Projectile_Types>
 		<Projectile_Fire_Recharge_Seconds>1.0</Projectile_Fire_Recharge_Seconds>
@@ -143,6 +143,10 @@
                 <SFXEvent_Target_Ability> Unit_Buzz_Droids_Star_Viper </SFXEvent_Target_Ability>
 				<!-- Make this double the Chase_Radius in the special ability-->
                 <Area_Effect_Decal_Distance> 300.0 </Area_Effect_Decal_Distance>
+			</Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
 			</Unit_Ability>
 
 		</Unit_Abilities_Data>
@@ -251,8 +255,7 @@
 		<Tech_Level>0</Tech_Level>
 		<Required_Timeline />
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Ship_Market_Underworld_Era3 | Ship_Market_Underworld_Era4</Required_Special_Structures>
-		<Required_Planets>Mandalore_Era3</Required_Planets>
+		<Required_Special_Structures />
 
         <Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 
@@ -303,6 +306,10 @@
                 <SFXEvent_GUI_Unit_Ability_Activated>Unit_Buzz_Droids_Star_Viper</SFXEvent_GUI_Unit_Ability_Activated>
                 <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
             </Unit_Ability>
+
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 
 		</Unit_Abilities_Data>
 		
@@ -383,6 +390,9 @@
                 <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
             </Unit_Ability>
 
+			<Unit_Ability>
+				<Type>HUNT</Type>
+			</Unit_Ability>
 
 		</Unit_Abilities_Data>
 

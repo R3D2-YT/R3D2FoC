@@ -20,22 +20,6 @@
 				UC_Empire_Buildable_Bacta_Tank, 
 				UC_Empire_Buildable_Repair_Facility, 
 				UC_Empire_Buildable_Sensor_Node,
-				
-			Republic, 
-				UC_Republic_Buildable_Anti_Vehicle_Turret, 
-				UC_Republic_Buildable_Anti_Infantry_Turret, 
-				UC_Republic_Buildable_Anti_Aircraft_Turret, 
-				UC_Republic_Buildable_Bacta_Tank, 
-				UC_Republic_Buildable_Repair_Facility, 
-				UC_Republic_Buildable_Sensor_Node,
-				
-			Mandalorians, 
-				UC_Mandalorians_Buildable_Anti_Vehicle_Turret, 
-				UC_Mandalorians_Buildable_Anti_Infantry_Turret, 
-				UC_Mandalorians_Buildable_Anti_Aircraft_Turret, 
-				UC_Mandalorians_Buildable_Bacta_Tank, 
-				UC_Mandalorians_Buildable_Repair_Facility, 
-				UC_Mandalorians_Buildable_Sensor_Node,
 			
 			Rebel,
 				UC_Rebel_Buildable_Anti_Vehicle_Turret, 
@@ -76,23 +60,6 @@
 				UC_Empire_Buildable_Bacta_Tank, 
 				UC_Empire_Buildable_Repair_Facility, 
 				UC_Empire_Buildable_Sensor_Node,
-				
-			Republic, 
-				UC_Republic_Buildable_Anti_Vehicle_Turret, 
-				UC_Republic_Buildable_Anti_Infantry_Turret, 
-				UC_Republic_Buildable_Anti_Aircraft_Turret, 
-				UC_Republic_Buildable_Bacta_Tank, 
-				UC_Republic_Buildable_Repair_Facility, 
-				UC_Republic_Buildable_Sensor_Node,
-				
-			Mandalorians, 
-				UC_Mandalorians_Buildable_Anti_Vehicle_Turret, 
-				UC_Mandalorians_Buildable_Anti_Infantry_Turret, 
-				UC_Mandalorians_Buildable_Anti_Aircraft_Turret, 
-				UC_Mandalorians_Buildable_Bacta_Tank, 
-				UC_Mandalorians_Buildable_Repair_Facility, 
-				UC_Mandalorians_Buildable_Sensor_Node,
-				
 			Rebel,
 				UC_Rebel_Buildable_Anti_Vehicle_Turret, 
 				UC_Rebel_Buildable_Anti_Infantry_Turret, 
@@ -152,7 +119,7 @@
 		<GUI_Bracket_Size> 1 </GUI_Bracket_Size> 
 		<Has_Land_Evaluator>True</Has_Land_Evaluator>
 		<Influences_Capture_Point> False </Influences_Capture_Point>
-		<Affiliation>Neutral, Rebel, Empire, Pirates, Underworld, Hutts, Republic, Mandalorians</Affiliation>
+		<Affiliation>Neutral, Rebel, Empire, Pirates, Underworld, Hutts</Affiliation>
 		<Immune_To_Damage>True</Immune_To_Damage>
       <Include_In_UI_Map_Header>True</Include_In_UI_Map_Header>
 		

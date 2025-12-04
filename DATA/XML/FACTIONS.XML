@@ -22,7 +22,7 @@
 		<Credits_Accumulation_Factor> 0.95 </Credits_Accumulation_Factor>
 		<Planet_Icon_Scale> 10.0 </Planet_Icon_Scale>
 		<Planet_Icon_Offset> 10.0, 10.0, -1.1 </Planet_Icon_Offset>
-		<Is_Playable>True</Is_Playable>
+		<Is_Playable>true</Is_Playable>
 		<Primary_Enemy> Empire </Primary_Enemy>
 		<Hyperspace_Speed_Factor>0.07</Hyperspace_Speed_Factor>
 		<Is_Neutral> No </Is_Neutral>
@@ -47,8 +47,8 @@
 		<Easily_Bribed> No </Easily_Bribed>
 
 		<!-- Unlike the Empire, the Rebel's tech levels go from 0-3 instead of 1-4. It needs to be adjusted
-		before displaying it to the player otherwise it won't match the tech tree we show in-game.
-		<Displayed_Tech_Level_Adjustment> +1 </Displayed_Tech_Level_Adjustment>-->
+		before displaying it to the player otherwise it won't match the tech tree we show in-game. -->
+		<Displayed_Tech_Level_Adjustment> +1 </Displayed_Tech_Level_Adjustment>
 		
 		<Infantry_Icon_Name>i_button_rebel_soldier.tga</Infantry_Icon_Name>
 		<Vehicle_Icon_Name>i_r_vehicle.tga</Vehicle_Icon_Name>
@@ -66,7 +66,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>  <!-- WARNING: For some reason, non-0.0 Z can cause problems? -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> RHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
   		<Space_Retreat_Enemy_Begin_SFXEvent> Unit_Enemy_Retreat_Rebel_Soldier </Space_Retreat_Enemy_Begin_SFXEvent>
@@ -83,7 +83,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_REBEL_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
   		<Land_Retreat_Begin_SFXEvent> RHD_Retreat_Started_land  </Land_Retreat_Begin_SFXEvent>
   		<Land_Retreat_Enemy_Begin_SFXEvent> Unit_Enemy_Retreat_Rebel_Soldier </Land_Retreat_Enemy_Begin_SFXEvent>
@@ -626,22 +626,20 @@
 		<SFXEvent_Player_Taunt> Unit_Taunt_Luke   </SFXEvent_Player_Taunt>
 		<SFXEvent_Player_Taunt> Unit_Laugh_Chewie </SFXEvent_Player_Taunt>
 
-		<!-- Sandbox tactical battle introduction Command Bar movie -->
+		<!-- Sandbox tactical battle introduction Command Bar movie 
 
-		<Tactical_Intro_Command_Bar_Movie_Name> Luke_Loop </Tactical_Intro_Command_Bar_Movie_Name>  <!-- PLACEHOLDER ASSET -->
+		<Tactical_Intro_Command_Bar_Movie_Name> Luke_Loop </Tactical_Intro_Command_Bar_Movie_Name>
 
-		<!-- Sandbox tactical battle introduction SpeechEvents -->
-
-		<SpeechEvent_Tactical_Intro_Land_Attacker> GRS_INTRO_LAND_ATTACK_R_00<!--, GRS_INTRO_LAND_ATTACK_R_01, GRS_INTRO_LAND_ATTACK_R_02, GRS_INTRO_LAND_ATTACK_R_03--> </SpeechEvent_Tactical_Intro_Land_Attacker>		<!-- Default case for land battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Land_Defender> GRS_INTRO_LAND_DEFEND_R_00<!--, GRS_INTRO_LAND_DEFEND_R_01, GRS_INTRO_LAND_DEFEND_R_02, GRS_INTRO_LAND_DEFEND_R_03-->  </SpeechEvent_Tactical_Intro_Land_Defender> 	<!-- Default case for land battle as defender -->
-		<SpeechEvent_Tactical_Intro_Space_Attacker> GRS_INTRO_SPACE_ATTACK_R_00<!--, GRS_INTRO_SPACE_ATTACK_R_01, GRS_INTRO_SPACE_ATTACK_R_02, GRS_INTRO_SPACE_ATTACK_R_03-->  </SpeechEvent_Tactical_Intro_Space_Attacker> 	<!-- Default case for space battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Space_Defender> GRS_INTRO_SPACE_DEFEND_R_00<!--, GRS_INTRO_SPACE_DEFEND_R_01, GRS_INTRO_SPACE_DEFEND_R_02, GRS_INTRO_SPACE_DEFEND_R_03-->  </SpeechEvent_Tactical_Intro_Space_Defender> 	<!-- Default case for space battle as defender -->
+		<SpeechEvent_Tactical_Intro_Land_Attacker> GRS_INTRO_LAND_ATTACK_R_00</SpeechEvent_Tactical_Intro_Land_Attacker>	
+		<SpeechEvent_Tactical_Intro_Land_Defender> GRS_INTRO_LAND_DEFEND_R_00</SpeechEvent_Tactical_Intro_Land_Defender> 	
+		<SpeechEvent_Tactical_Intro_Space_Attacker> GRS_INTRO_SPACE_ATTACK_R_00</SpeechEvent_Tactical_Intro_Space_Attacker> 	
+		<SpeechEvent_Tactical_Intro_Space_Defender> GRS_INTRO_SPACE_DEFEND_R_00</SpeechEvent_Tactical_Intro_Space_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> GRS_INTRO_LAND_ATTACK_R_04 </SpeechEvent_Tactical_Intro_Land_Raid_Attacker>
-		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> </SpeechEvent_Tactical_Intro_Land_Raid_Defender>  <!-- N/A for Rebels since no other Faction raids -->
+		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> </SpeechEvent_Tactical_Intro_Land_Raid_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location> GRS_INTRO_SPACE_ATTACK_R_05 </SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location>
-		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GRS_INTRO_LAND_DEFEND_R_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>
+		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GRS_INTRO_LAND_DEFEND_R_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> -->
 
 													<!-- Note that conditionals will be evaluated in the order below, so order/priority is important -->
 													<!-- -->  
@@ -751,7 +749,7 @@
 
 
 		<Allies />
-		<Enemies>Empire, Pirates, Hostile, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Maldrood, Zsinj, Eriadu, Yevethan</Enemies>
+		<Enemies>Empire, Pirates, Hostile, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 
@@ -817,12 +815,12 @@
 		<Credits_Accumulation_Factor> 0.85 </Credits_Accumulation_Factor>
 		<Planet_Icon_Scale> 10.0 </Planet_Icon_Scale>
 		<Planet_Icon_Offset> 7.0, 10.0, -1.1 </Planet_Icon_Offset>
-		<Is_Playable>True</Is_Playable>
+		<Is_Playable>true</Is_Playable>
 		<Primary_Enemy> Rebel </Primary_Enemy>
 		<Hyperspace_Speed_Factor>0.07</Hyperspace_Speed_Factor>
 		<Is_Neutral> No </Is_Neutral>
 		<Force_Alignment>Dark</Force_Alignment>
-		<Minimum_Visible_Base_Level>1</Minimum_Visible_Base_Level>
+		<Minimum_Visible_Base_Level>3</Minimum_Visible_Base_Level>
 		<Basic_AI>BasicEmpire</Basic_AI>
 		<Faction_Super_Weapon> Death_Star </Faction_Super_Weapon>
 		<Skirmish_Land_Bomber> TIE_Bomber_Bombing_Run </Skirmish_Land_Bomber>
@@ -857,7 +855,7 @@
 		<Space_Retreat_Unit_Increment_Wait_Frames> 1 </Space_Retreat_Unit_Increment_Wait_Frames>
 		<Space_Retreat_Off_Map_Dest_Pos> 12000.0, 12000.0, 0.0 </Space_Retreat_Off_Map_Dest_Pos>	<!-- WARNING: For some reason, non-0.0 Z crashes the game -->
 		<Space_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Space_Retreat_Countdown_Color_RGBA>
-		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_SPACE_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
+		<Space_Retreat_Countdown_Text_ID> TEXT_RETREAT_COUNTDOWN </Space_Retreat_Countdown_Text_ID>
 
 		<Space_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Space </Space_Retreat_Begin_SFXEvent>
 		<Space_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Space_Retreat_Cancel_SFXEvent>
@@ -872,7 +870,7 @@
 		<Land_Retreat_Pursue_Max_Speed_Mod_Factor> 2.0 </Land_Retreat_Pursue_Max_Speed_Mod_Factor> 
 		<Land_Retreat_Units_Damaged_Mod_Factor> 2.0 </Land_Retreat_Units_Damaged_Mod_Factor> 
 		<Land_Retreat_Countdown_Color_RGBA> 255, 255, 255, 255 </Land_Retreat_Countdown_Color_RGBA>
-		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_LAND_EMPIRE_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
+		<Land_Retreat_Countdown_Text_ID> TEXT_RETREAT_COUNTDOWN </Land_Retreat_Countdown_Text_ID>
 
 		<Land_Retreat_Begin_SFXEvent> EHD_Retreat_Started_Land </Land_Retreat_Begin_SFXEvent>
 		<Land_Retreat_Cancel_SFXEvent> EHD_Retreat_Cancelled </Land_Retreat_Cancel_SFXEvent>
@@ -919,7 +917,7 @@
 		
 		<Space_Skirmish_Unit_Buy_Credits> 100000 </Space_Skirmish_Unit_Buy_Credits>
 		<Space_Skirmish_AI_Default_Forces> 
-			TIE_Interceptor_Squadron, TIE_Interceptor_Squadron
+			TIE_Fighter_Squadron, TIE_Fighter_Squadron
 		</Space_Skirmish_AI_Default_Forces>
 
 		<Land_Skirmish_Unit_Buy_Credits> 50000 </Land_Skirmish_Unit_Buy_Credits>
@@ -1403,22 +1401,20 @@
 		<SFXEvent_Player_Taunt> Unit_Taunt_Boba_Fett   </SFXEvent_Player_Taunt>
 		<SFXEvent_Player_Taunt> Unit_Taunt_Emperor </SFXEvent_Player_Taunt>
 		
-		<!-- Sandbox tactical battle introduction Command Bar movie -->
+		<!-- Sandbox tactical battle introduction Command Bar movie
 
-		<Tactical_Intro_Command_Bar_Movie_Name> Stormtrooper_Loop </Tactical_Intro_Command_Bar_Movie_Name>  <!-- PLACEHOLDER ASSET -->
+		<Tactical_Intro_Command_Bar_Movie_Name> Stormtrooper_Loop </Tactical_Intro_Command_Bar_Movie_Name>
 
-		<!-- Sandbox tactical battle introduction SpeechEvents -->
-
-		<SpeechEvent_Tactical_Intro_Land_Attacker> GES_INTRO_LAND_ATTACK_E_00 <!--, GES_INTRO_LAND_ATTACK_E_01, GES_INTRO_LAND_ATTACK_E_02, GES_INTRO_LAND_ATTACK_E_03-->  </SpeechEvent_Tactical_Intro_Land_Attacker>		<!-- Default case for land battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Land_Defender> GES_INTRO_LAND_DEFEND_E_00 <!--, GES_INTRO_LAND_DEFEND_E_01, GES_INTRO_LAND_DEFEND_E_02, GES_INTRO_LAND_DEFEND_E_03-->  </SpeechEvent_Tactical_Intro_Land_Defender> 	<!-- Default case for land battle as defender -->
-		<SpeechEvent_Tactical_Intro_Space_Attacker> GES_INTRO_SPACE_ATTACK_E_00 <!--, GES_INTRO_SPACE_ATTACK_E_01, GES_INTRO_SPACE_ATTACK_E_02, GES_INTRO_SPACE_ATTACK_E_03-->  </SpeechEvent_Tactical_Intro_Space_Attacker> 	<!-- Default case for space battle as attacker -->
-		<SpeechEvent_Tactical_Intro_Space_Defender> GES_INTRO_SPACE_DEFEND_E_00 <!--, GES_INTRO_SPACE_DEFEND_E_01, GES_INTRO_SPACE_DEFEND_E_02, GES_INTRO_SPACE_DEFEND_E_03-->  </SpeechEvent_Tactical_Intro_Space_Defender> 	<!-- Default case for space battle as defender -->
+		<SpeechEvent_Tactical_Intro_Land_Attacker> GES_INTRO_LAND_ATTACK_E_00</SpeechEvent_Tactical_Intro_Land_Attacker>
+		<SpeechEvent_Tactical_Intro_Land_Defender> GES_INTRO_LAND_DEFEND_E_00</SpeechEvent_Tactical_Intro_Land_Defender>
+		<SpeechEvent_Tactical_Intro_Space_Attacker> GES_INTRO_SPACE_ATTACK_E_00</SpeechEvent_Tactical_Intro_Space_Attacker>
+		<SpeechEvent_Tactical_Intro_Space_Defender> GES_INTRO_SPACE_DEFEND_E_00</SpeechEvent_Tactical_Intro_Space_Defender>
 
 		<SpeechEvent_Tactical_Intro_Land_Raid_Defender> GES_INTRO_LAND_DEFEND_E_04 </SpeechEvent_Tactical_Intro_Land_Raid_Defender>  
-		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> </SpeechEvent_Tactical_Intro_Land_Raid_Attacker> <!-- N/A for Empire since does not raid -->
+		<SpeechEvent_Tactical_Intro_Land_Raid_Attacker> </SpeechEvent_Tactical_Intro_Land_Raid_Attacker>
 
 		<SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location> GES_INTRO_LAND_ATTACK_E_05 </SpeechEvent_Tactical_Intro_Land_Attacker_Last_Location>
-		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GES_INTRO_LAND_DEFEND_E_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>
+		<SpeechEvent_Tactical_Intro_Land_Defender_Last_Location> GES_INTRO_LAND_DEFEND_E_05 </SpeechEvent_Tactical_Intro_Land_Defender_Last_Location>-->
 
 														<!-- Note that conditionals will be evaluated in the order below, so order/priority is important -->
 														<!-- -->  
@@ -1515,7 +1511,7 @@
 		<!-- End Droid Advisor Speech/Text -->
 
 		<Allies />
-		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts, Republic, Mandalorians, Confederacy, Player, Pentastar, Zsinj, Maldrood, Eriadu, Yevethan</Enemies>
+		<Enemies>Rebel, Pirates, Hostile, Target, Sarlacc, Underworld, Hutts</Enemies>
 		
 		<Can_Control_Planets>true</Can_Control_Planets>
 

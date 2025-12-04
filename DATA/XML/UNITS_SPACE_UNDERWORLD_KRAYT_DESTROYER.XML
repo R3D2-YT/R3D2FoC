@@ -19,7 +19,7 @@
 		<Select_Box_Scale>740</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
-		<Scale_Factor>1</Scale_Factor>
+		<Scale_Factor>0.65</Scale_Factor>
 		
 		<Damage>60</Damage>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
@@ -44,11 +44,11 @@
 		<Maintenance_Cost>0.3</Maintenance_Cost>
 
 		<Affiliation>Underworld</Affiliation>
-		<Tech_Level>99</Tech_Level>
+		<Tech_Level>0</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>1</Required_Star_Base_Level>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
+		<Required_Star_Base_Level>4</Required_Star_Base_Level>
+		<Required_Special_Structures />
 		<Required_Planets />
 		<Autoresolve_Health>7000</Autoresolve_Health>
 		<Tactical_Health>7000</Tactical_Health>
@@ -59,7 +59,7 @@
 		<Ship_Class>capital</Ship_Class>
 		<Formation_Priority>5</Formation_Priority>
 		<Squadron_Capacity>40</Squadron_Capacity>
-		<Build_Cost_Credits>7500</Build_Cost_Credits>
+		<Build_Cost_Credits>4500</Build_Cost_Credits>
 		<AI_Combat_Power>4250</AI_Combat_Power>
 		<Build_Time_Seconds>50</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
@@ -70,7 +70,7 @@
 		<Tactical_Bribe_Cost>3500</Tactical_Bribe_Cost>
 
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
 
 		
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
@@ -82,20 +82,19 @@
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN_1,
-			HP_KRAYT_SHIELD_GEN_2,
+			HP_KRAYT_SHIELD_GEN_00,
+			HP_KRAYT_SHIELD_GEN_01,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
-			HP_KRAYT_TURBOLASER_LEFT_1,
-			HP_KRAYT_TURBOLASER_LEFT_2,
-			HP_KRAYT_TURBOLASER_LEFT_3,
-			HP_KRAYT_TURBOLASER_RIGHT_1,
-			HP_KRAYT_TURBOLASER_RIGHT_2,
-			HP_KRAYT_TURBOLASER_RIGHT_3,
+			HP_KRAYT_TURBOLASER_LEFT,
+			HP_KRAYT_TURBOLASER_RIGHT,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES_1,
-			HP_KRAYT_ENGINES_2
-			HP_Krayt_Fighter_Bay_00,
+			HP_KRAYT_ENGINES,
+			HP_KRAYT_DUMMY_00,
+			HP_KRAYT_DUMMY_01,
+			HP_KRAYT_DUMMY_02,
+			HP_KRAYT_DUMMY_03,
+			HP_KRAYT_DUMMY_04
 		</HardPoints>
 
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>
@@ -150,7 +149,7 @@
 		<Targeting_Stickiness_Time_Threshold>5.0</Targeting_Stickiness_Time_Threshold>
 		<Targeting_Priority_Set>Capital</Targeting_Priority_Set>
 		<Score_Cost_Credits> 42500 </Score_Cost_Credits>
-		<Population_Value>5</Population_Value>
+		<Population_Value>4</Population_Value>
 		<Victory_Relevant>yes</Victory_Relevant>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
@@ -166,7 +165,25 @@
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 
+		<!-- Non-Hero unit abilities description -->
+		<Unit_Abilities_Data SubObjectList="Yes">
+			<!-- Primary ability -->
+			<Unit_Ability>
+				<Type>SELF_DESTRUCT</Type>
+				<Alternate_Description_Text>TEXT_TOOLTIP_KRAYT_DESTRUCT_DESCRIPTION</Alternate_Description_Text>
+				<Expiration_Seconds>3.5</Expiration_Seconds>
+				<Recharge_Seconds>10</Recharge_Seconds> 
+				<Spawned_Object_Type> Krayt_Self_Destruct_Blast </Spawned_Object_Type>
+				<GUI_Activated_Ability_Name>Krayt_Self_Destruct</GUI_Activated_Ability_Name>
+				<Stop_When_Activated>No</Stop_When_Activated>
+					 <SFXEvent_GUI_Unit_Ability_Activated>Unit_Self_Destruct_Krayt_Class_Destroyer</SFXEvent_GUI_Unit_Ability_Activated>
+                <Must_Be_Bought_On_Black_Market>Yes</Must_Be_Bought_On_Black_Market>
+                <Supports_Autofire>True</Supports_Autofire>
+			</Unit_Ability>
+		</Unit_Abilities_Data>
+
 	</SpaceUnit>
+
 
 	<SpaceUnit Name="Krayt_Class_Destroyer_Death_Clone">
 		<Text_ID>TEXT_UNIT_KRAYT_DESTROYER</Text_ID>
@@ -185,62 +202,7 @@
 		<Remove_Upon_Death>true</Remove_Upon_Death>
 	</SpaceUnit>
 
-	<SpaceUnit Name="Krayt_E">
-		<Variant_Of_Existing_Type>Krayt_Class_Destroyer</Variant_Of_Existing_Type>
-		<Build_Limit_Current_Per_Player>3</Build_Limit_Current_Per_Player>
-		<Encyclopedia_Text>
-			TEXT_TOOLTIP_KRAYT_DESTROYER
-			SPACER
-			TEXT_EXPERIMENTAL_3
-			SPACER
-		</Encyclopedia_Text>
-		<Icon_Name>i_button_ev_krayt.tga</Icon_Name>
-		<Affiliation>Empire</Affiliation>
-		<Tech_Level>1</Tech_Level>
-		<Space_Model_Name>Uv_Aggressor_Imperial.alo</Space_Model_Name>
-		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
 
-		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0>
-		
-	</SpaceUnit>
-
-	<SpaceUnit Name="Krayt_Zann">
-		<Variant_Of_Existing_Type>Krayt_Class_Destroyer</Variant_Of_Existing_Type>
-		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
-		<Encyclopedia_Text>
-			TEXT_TOOLTIP_KRAYT_DESTROYER
-			SPACER
-			TEXT_SCARCE_1
-			SPACER
-		</Encyclopedia_Text>
-		<Affiliation>Underworld</Affiliation>
-		<Tech_Level>1</Tech_Level>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
-
-		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>StarViper_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>StarViper_Squadron, 8</Reserve_Spawned_Units_Tech_0>
-		
-	</SpaceUnit>
-
-	<SpaceUnit Name="Krayt_Zsinj">
-		<Variant_Of_Existing_Type>Krayt_Class_Destroyer</Variant_Of_Existing_Type>
-		<Icon_Name>i_button_ev_krayt.tga</Icon_Name>
-		<Affiliation>Zsinj</Affiliation>
-		<Tech_Level>1</Tech_Level>
-		<Space_Model_Name>Uv_Aggressor_Imperial.alo</Space_Model_Name>
-		<Required_Special_Structures>Tier_IV_Shipyard | Tier_V_Shipyard</Required_Special_Structures>
-
-		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>TIE_RAPTOR_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_RAPTOR_Squadron, 8</Reserve_Spawned_Units_Tech_0>
-		
-	</SpaceUnit>
 
 
 
