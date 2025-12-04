@@ -6,29 +6,44 @@
 
 	<SFXEvent Name="Unit_Complete_Ton_Falk">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Select_Ton_Falk">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Select_3.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Select_2.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Select_3.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Move_Ton_Falk">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Move_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Move_2.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Move_1.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Move_2.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Attack_Ton_Falk">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/TonFalk/TonFalk_Attack_1.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_2.wav DATA/AUDIO/Space/TonFalk/TonFalk_Attack_3.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Attack_1.wav 
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Attack_2.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Attack_3.wav
+			</Samples>
 	</SFXEvent>
 
 	<!-- Battle Droids -->
 
 	<SFXEvent Name="Unit_Complete_Battle_Droid">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Select_Battle_Droid">
@@ -55,14 +70,18 @@
 
 	<SFXEvent Name="Unit_Move_Battle_Droid">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav
+			</Samples>
 	</SFXEvent>
 
 	<!-- Dreadnought -->
 
 	<SFXEvent Name="Unit_Complete_Dreadnought">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Select_Dreadnought">
@@ -78,12 +97,20 @@
 
 	<SFXEvent Name="Unit_Move_Dreadnought">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_1.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_2.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_3.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_1.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_2.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_3.wav
+			</Samples>
 	</SFXEvent>
 
 	<SFXEvent Name="Unit_Attack_Dreadnought">
 			 <Use_Preset>Preset_UR</Use_Preset>
-			 <Samples>DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_1.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_2.wav DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_3.wav</Samples>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_1.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_2.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_3.wav
+			</Samples>
 	</SFXEvent>
 
 </SFXEvents>
