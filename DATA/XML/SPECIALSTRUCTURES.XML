@@ -2236,10 +2236,10 @@
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 		<Affiliation>Empire</Affiliation>
 		<Political_Control>0</Political_Control>
-		<Build_Cost_Credits>500</Build_Cost_Credits>
+		<Build_Cost_Credits>2500</Build_Cost_Credits>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
 		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
-		<Build_Max_Instances_Per_Planet> -1 </Build_Max_Instances_Per_Planet>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
 		<Size_Value>50</Size_Value>
 		<Base_Position>In_Base</Base_Position>
 		<Tech_Level>0</Tech_Level>
@@ -2304,11 +2304,11 @@
 			<Planet_Income_Bonus_Ability Name="Empire_Mining_Income_Bonus">
 				<Specific_Mod_Source_Text>TEXT_ECONOMY_MINING_FACILITIES</Specific_Mod_Source_Text>
 				<!-- 3% bonus to base planetary income -->
-				<Percentage_Income_Modifier>2</Percentage_Income_Modifier>
+				<Percentage_Income_Modifier>0</Percentage_Income_Modifier>
 				<!-- plus an absolute 0 credits to planetary income -->
-				<Absolute_Income_Modifier>0</Absolute_Income_Modifier>
+				<Absolute_Income_Modifier>750</Absolute_Income_Modifier>
 				<!-- net effect of +( (base income * 0%) + 20) credits -->
-				<Additional_Multiplier_On_Mining_Colonies>1.5</Additional_Multiplier_On_Mining_Colonies>
+				<Additional_Multiplier_On_Mining_Colonies>0</Additional_Multiplier_On_Mining_Colonies>
 				<!-- net result above multiplied by 2.0 if the affected planet is a mining colony -->
 			</Planet_Income_Bonus_Ability>
 			<Income_Stream_Ability Name="Empire_Mining_Income_Stream">
@@ -2363,10 +2363,10 @@
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
 		<Affiliation>Rebel</Affiliation>
 		<Political_Control>0</Political_Control>
-		<Build_Cost_Credits>500</Build_Cost_Credits>
+		<Build_Cost_Credits>2500</Build_Cost_Credits>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
 		<Build_Tab_Special_Structures>Yes</Build_Tab_Special_Structures>
-		<Build_Max_Instances_Per_Planet> -1 </Build_Max_Instances_Per_Planet>
+		<Build_Max_Instances_Per_Planet> 1 </Build_Max_Instances_Per_Planet>
 		<Size_Value>50</Size_Value>
 		<Build_Initially_Locked>No</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>No</Build_Can_Be_Unlocked_By_Slicer>
@@ -2434,11 +2434,11 @@
 			<Planet_Income_Bonus_Ability Name="Rebel_Mining_Income_Bonus">
 				<Specific_Mod_Source_Text>TEXT_ECONOMY_MINING_FACILITIES</Specific_Mod_Source_Text>
 				<!-- 3% bonus to base planetary income -->
-				<Percentage_Income_Modifier>2</Percentage_Income_Modifier>
+				<Percentage_Income_Modifier>0</Percentage_Income_Modifier>
 				<!-- plus an absolute 0 credits to planetary income -->
-				<Absolute_Income_Modifier>0</Absolute_Income_Modifier>
+				<Absolute_Income_Modifier>750</Absolute_Income_Modifier>
 				<!-- net effect of +( (base income * 0%) + 20) credits -->
-				<Additional_Multiplier_On_Mining_Colonies>1.5</Additional_Multiplier_On_Mining_Colonies>
+				<Additional_Multiplier_On_Mining_Colonies>0</Additional_Multiplier_On_Mining_Colonies>
 				<!-- net result above multiplied by 2.0 if the affected planet is a mining colony -->
 			</Planet_Income_Bonus_Ability>
 			<Income_Stream_Ability Name="Rebel_Mining_Income_Stream">
@@ -2898,11 +2898,8 @@
 		</Tactical_Buildable_Objects_Multiplayer>-->
 
 		<AI_Combat_Power>300</AI_Combat_Power>
-		<Starting_Spawned_Units_Tech_0>Imperial_Stormtrooper_Squad, 2</Starting_Spawned_Units_Tech_0>
-		<Reserve_Spawned_Units_Tech_0>Imperial_Stormtrooper_Squad, -1</Reserve_Spawned_Units_Tech_0>
-
-		<Starting_Spawned_Units_Tech_0>Scout_Trooper, 4</Starting_Spawned_Units_Tech_0>
-		<Reserve_Spawned_Units_Tech_0>Scout_Trooper, -1</Reserve_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Imperial_Army_Trooper_Squad, 4</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Imperial_Army_Trooper_Squad, -1</Reserve_Spawned_Units_Tech_0>
 		
 		<Spawned_Squadron_Delay_Seconds>25</Spawned_Squadron_Delay_Seconds>		
 		<Spawned_Squadron_Location_Bones>SPAWN_00</Spawned_Squadron_Location_Bones>

@@ -130,7 +130,6 @@
 
 <!-- COMPANY INFO -->
 
-
 	<GroundCompany Name="Underworld_B1_Squad">
 		<Text_ID>TEXT_UNIT_UNDERWORLD_B1_SQUAD</Text_ID>
 		<Encyclopedia_Good_Against> Rebel_Trooper Stormtrooper </Encyclopedia_Good_Against>

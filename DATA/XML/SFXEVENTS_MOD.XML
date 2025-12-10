@@ -113,4 +113,44 @@
 			</Samples>
 	</SFXEvent>
 
+		<!-- Army Trooper -->
+
+	<SFXEvent Name="Unit_Complete_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_2.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_1.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_2.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_1.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_2.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_3.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_4.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_5.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_6.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_7.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_1.wav
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_2.wav
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_3.wav
+			</Samples>
+	</SFXEvent>
+
 </SFXEvents>

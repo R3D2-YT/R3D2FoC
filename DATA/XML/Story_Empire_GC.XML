@@ -36,14 +36,6 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
-	<Event Name="Empire_AI_Heroes_01">
-		<Event_Type>STORY_TRIGGER</Event_Type>
-		<Reward_Type>SPAWN_HERO</Reward_Type>
-		<Reward_Param1>Grand_Moff_Tarkin_Team</Reward_Param1>
-		<Reward_Param2>EQR_Coruscant</Reward_Param2>
-		<Prereq>Universal_Story_Start</Prereq>
-	</Event>
-
 
 
 
