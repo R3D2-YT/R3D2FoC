@@ -16,7 +16,7 @@
 		</Land_Terrain_Model_Mapping>
 		<Land_Model_Anim_Override_Name>ei_imperial_greyarmy_trooper.ALo</Land_Model_Anim_Override_Name>
 		<Icon_Name>i_button_army_trooper.tga</Icon_Name>
-		<Text_ID>TEXT_UNIT_ARMY_TROOPER</Text_ID>
+		<Text_ID>TEXT_IMPERIAL_ARMY_SQUAD</Text_ID>
 		<LandBehavior>LANDING, SURFACE_FX, LAND_TEAM_INFANTRY_LOCOMOTOR,IDLE,WEAPON, STUNNABLE, REVEAL,HIDE_WHEN_FOGGED,DAMAGE_TRACKING</LandBehavior>
 		<Is_Squashable> Yes </Is_Squashable>
 		<Projectile_Fire_Recharge_Seconds>1.5</Projectile_Fire_Recharge_Seconds>
