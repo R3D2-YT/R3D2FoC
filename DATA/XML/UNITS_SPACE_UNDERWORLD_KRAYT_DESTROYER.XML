@@ -70,7 +70,7 @@
 		<Tactical_Bribe_Cost>3500</Tactical_Bribe_Cost>
 
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SPAWN_SQUADRON, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, TARGETING, HIDE_WHEN_FOGGED, REVEAL, UNIT_AI, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA, SELF_DESTRUCT </SpaceBehavior>
 
 		
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
@@ -82,20 +82,26 @@
 		<Targeting_Max_Attack_Distance>2000.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_KRAYT_SHIELD_GEN_00,
-			HP_KRAYT_SHIELD_GEN_01,
+			HP_KRAYT_SHIELD_GEN_1,
+			HP_KRAYT_SHIELD_GEN_2,
 			HP_KRAYT_MEGAWEAPON_ION,
 			HP_KRAYT_MEGAWEAPON_DAMAGE,
-			HP_KRAYT_TURBOLASER_LEFT,
-			HP_KRAYT_TURBOLASER_RIGHT,
+			HP_KRAYT_TURBOLASER_LEFT_1,
+			HP_KRAYT_TURBOLASER_LEFT_2,
+			HP_KRAYT_TURBOLASER_LEFT_3,
+			HP_KRAYT_TURBOLASER_RIGHT_1,
+			HP_KRAYT_TURBOLASER_RIGHT_2,
+			HP_KRAYT_TURBOLASER_RIGHT_3,
 			HP_KRAYT_TRACTOR_DUMMY,
-			HP_KRAYT_ENGINES,
-			HP_KRAYT_DUMMY_00,
-			HP_KRAYT_DUMMY_01,
-			HP_KRAYT_DUMMY_02,
-			HP_KRAYT_DUMMY_03,
-			HP_KRAYT_DUMMY_04
+			HP_KRAYT_ENGINES_1,
+			HP_KRAYT_ENGINES_2
+			HP_Krayt_Fighter_Bay_00,
 		</HardPoints>
+
+		<!-- Set to spawn all units once and then not continue - no reserves -->
+		<Starting_Spawned_Units_Tech_0>StarViper_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
+		<Reserve_Spawned_Units_Tech_0>StarViper_Squadron, 8</Reserve_Spawned_Units_Tech_0>
 
 		<SFXEvent_Build_Started>UHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Unit_Canceled</SFXEvent_Build_Cancelled>

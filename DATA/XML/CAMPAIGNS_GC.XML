@@ -605,7 +605,7 @@
         <Starting_Forces> Empire, EQR_Abregado_Rae, Broadside_Class_Cruiser </Starting_Forces>
         <!-- Abregado_Rae Land Forces -->
         <Starting_Forces> Empire, EQR_Abregado_Rae, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Abregado_Rae, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Abregado_Rae, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Abregado_Rae, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- AetenII Space Forces -->
@@ -614,7 +614,7 @@
         <!-- AetenII Land Forces -->
         <Starting_Forces> Empire, EQR_AetenII, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_AetenII, Empire_Ground_Mining_Facility </Starting_Forces> <!--swap to mining facility-->
-        <Starting_Forces> Empire, EQR_AetenII, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_AetenII, Imperial_Army_Trooper_Squad </Starting_Forces>
         
         <!-- Alderaan Space Forces -->
         <Starting_Forces> Empire, EQR_Alderaan, Empire_Star_Base_2 </Starting_Forces>
@@ -624,7 +624,7 @@
 
         <!-- Anaxes Land Forces -->
         <Starting_Forces> Empire, EQR_Anaxes, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Anaxes, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Anaxes, Imperial_Army_Trooper_Squad </Starting_Forces>
         
         <!-- Byss Space Forces -->
         <Starting_Forces> Empire, EQR_Byss, Empire_Star_Base_2 </Starting_Forces>
@@ -632,7 +632,7 @@
         <!-- Byss Land Forces -->
         <Starting_Forces> Empire, EQR_Byss, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_Byss, E_Ground_Research_Facility </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Byss, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Byss, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Byss, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- Carida Space Forces -->
@@ -641,7 +641,7 @@
         <!-- Carida Land Forces -->
         <Starting_Forces> Empire, EQR_Carida, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_Carida, E_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Carida, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Carida, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Carida, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- Corulag Space Forces -->
@@ -649,7 +649,7 @@
 
         <!-- Corulag Land Forces -->
         <Starting_Forces> Empire, EQR_Corulag, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Corulag, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Corulag, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Corulag, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Coruscant Space Forces -->
@@ -660,7 +660,7 @@
         
         <!-- Coruscant Land Forces -->
         <Starting_Forces> Empire, EQR_Coruscant, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Coruscant, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Coruscant, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Coruscant, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- Eriadu Space Forces -->
@@ -668,7 +668,7 @@
         <Starting_Forces> Empire, EQR_Eriadu, TIE_Scout_Squadron </Starting_Forces>
         <!-- Eriadu Land Forces -->
         <Starting_Forces> Empire, EQR_Eriadu, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Eriadu, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Eriadu, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Eriadu, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Endor Space Forces -->
@@ -678,15 +678,15 @@
         <!-- Endor Land Forces -->
         <Starting_Forces> Empire, EQR_Endor, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_Endor, E_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Endor, Imperial_Stormtrooper_Squad </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Endor, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Endor, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Endor, Imperial_Army_Trooper_Squad </Starting_Forces>
         
         <!-- Fresia Space Forces -->
         <Starting_Forces> Empire, EQR_Fresia, Empire_Star_Base_2 </Starting_Forces>
 
         <!-- Fresia Land Forces -->
         <Starting_Forces> Empire, EQR_Fresia, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Fresia, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Fresia, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Fresia, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- Ilum Space Forces -->
@@ -695,7 +695,7 @@
         <Starting_Forces> Empire, EQR_Ilum, Acclamator_Assault_Ship </Starting_Forces>
         <!-- Ilum Land Forces -->
         <Starting_Forces> Empire, EQR_Ilum, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Ilum, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Ilum, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Ilum, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Kamino Space Forces -->
@@ -705,7 +705,7 @@
         <!-- Kamino Land Forces -->
         <Starting_Forces> Empire, EQR_Kamino, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_Kamino, E_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Kamino, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Kamino, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Kamino, Imperial_Heavy_Scout_Squad </Starting_Forces>
        
         <!-- Kuat Space Forces -->
@@ -715,22 +715,22 @@
 
         <!-- Kuat Land Forces -->
         <Starting_Forces> Empire, EQR_Kuat, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Kuat, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Kuat, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Kuat, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Malastare Space Forces -->
         <Starting_Forces> Empire, EQR_Malastare, Empire_Star_Base_2 </Starting_Forces>
         <!-- Malastare Land Forces -->
         <Starting_Forces> Empire, EQR_Malastare, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Malastare, Imperial_Stormtrooper_Squad </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Malastare, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Malastare, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Malastare, Imperial_Army_Trooper_Squad </Starting_Forces>
         
         <!-- Sullust Space Forces -->
         <Starting_Forces> Empire, EQR_Sullust, Empire_Star_Base_2 </Starting_Forces>
         <Starting_Forces> Empire, EQR_Sullust, Acclamator_Assault_Ship </Starting_Forces>
         <!-- Sullust Land Forces -->
         <Starting_Forces> Empire, EQR_Sullust, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Sullust, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Sullust, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Sullust, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Tatooine Space Forces -->
@@ -738,7 +738,7 @@
         <Starting_Forces> Empire, EQR_Tatooine, Acclamator_Assault_Ship </Starting_Forces>
         <!-- Tatooine Land Forces -->
         <Starting_Forces> Empire, EQR_Tatooine, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Tatooine, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Tatooine, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Tatooine, Imperial_Heavy_Scout_Squad </Starting_Forces>
         
         <!-- The_Maw Space Forces -->
@@ -751,7 +751,7 @@
         <Starting_Forces> Empire, EQR_Wayland, Acclamator_Assault_Ship </Starting_Forces>
         <!-- Wayland Land Forces -->
         <Starting_Forces> Empire, EQR_Wayland, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Wayland, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Wayland, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Wayland, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Scarif Space Forces -->
@@ -761,7 +761,7 @@
         <!-- Scarif Land Forces -->
         <Starting_Forces> Empire, EQR_Scarif, E_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Empire, EQR_Scarif, Imperial_Heavy_Assault_Company </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Scarif, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Scarif, Imperial_Army_Trooper_Squad </Starting_Forces>
 
         <!-- Mantell Space Forces -->
         <Starting_Forces> Empire, EQR_Mantell, Empire_Star_Base_3 </Starting_Forces>
@@ -769,8 +769,8 @@
         
         <!-- Mantell Land Forces -->
         <Starting_Forces> Empire, EQR_Mantell, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Mantell, Imperial_Stormtrooper_Squad </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Mantell, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Mantell, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Mantell, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Mantell, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Mygeeto Space Forces -->
@@ -779,7 +779,7 @@
 
         <!-- Mygeeto Land Forces -->
         <Starting_Forces> Empire, EQR_Mygeeto, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Mygeeto, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Mygeeto, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Mygeeto, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Scipio Space Forces -->
@@ -788,7 +788,7 @@
         
         <!-- Scipio Land Forces -->
         <Starting_Forces> Empire, EQR_Scipio, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Scipio, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Scipio, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Scipio, Imperial_Heavy_Scout_Squad </Starting_Forces>      
 
         <!-- Cato Nemoidia Space Forces -->
@@ -796,7 +796,7 @@
         
         <!-- Cato Nemoidia Land Forces -->
         <Starting_Forces> Empire, EQR_Nemoidia, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Nemoidia, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Nemoidia, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Nemoidia, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Yaga Minor Space Forces -->
@@ -805,8 +805,8 @@
         
         <!-- Yaga Minor Land Forces -->
         <Starting_Forces> Empire, EQR_YagaMinor, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_YagaMinor, Imperial_Stormtrooper_Squad </Starting_Forces>
-        <Starting_Forces> Empire, EQR_YagaMinor, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_YagaMinor, Imperial_Army_Trooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_YagaMinor, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_YagaMinor, Imperial_Heavy_Scout_Squad </Starting_Forces>    
 
         <!-- Bilbringi Space Forces -->
@@ -815,7 +815,7 @@
         
         <!-- Bilbringi Land Forces -->
         <Starting_Forces> Empire, EQR_Bilbringi, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Bilbringi, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Bilbringi, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Bilbringi, Imperial_Heavy_Scout_Squad </Starting_Forces>
 
         <!-- Rothana Space Forces -->
@@ -823,7 +823,7 @@
         
         <!-- Rothana Land Forces -->
         <Starting_Forces> Empire, EQR_Rothana, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Rothana, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Rothana, Imperial_Army_Trooper_Squad </Starting_Forces>
 
         <!-- Foerost Space Forces -->
         <Starting_Forces> Empire, EQR_Foerost, Empire_Star_Base_3 </Starting_Forces>
@@ -842,7 +842,7 @@
         
         <!-- Balmorra Land Forces -->
         <Starting_Forces> Empire, EQR_Balmorra, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Balmorra, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Balmorra, Imperial_Army_Trooper_Squad </Starting_Forces>
         <Starting_Forces> Empire, EQR_Balmorra, Imperial_Heavy_Scout_Squad </Starting_Forces>   
 
         <!-- Aargau(Duro) Space Forces -->
@@ -850,7 +850,7 @@
         
         <!-- Aargau(Duro) Land Forces -->
         <Starting_Forces> Empire, EQR_Duro, E_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Duro, Imperial_Stormtrooper_Squad </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Duro, Imperial_Army_Trooper_Squad </Starting_Forces>
 
         <!-- Jakku Space Forces -->
         <Starting_Forces> Empire, EQR_Jakku, Empire_Star_Base_3 </Starting_Forces>
