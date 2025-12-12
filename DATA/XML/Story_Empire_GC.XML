@@ -24,7 +24,29 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
-<!-- Empire Hero Release -->
+<!-- Veers Promotion/AT-AT Project -->
+
+	<Event Name="Promote_Veers">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Veers_Infantry_Team</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_VEERS_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Veers_To_Colonel</Reward_Param1>
+  	</Event>
+
+<!-- Thrawn Promotion/New Fleet Initiative -->
 
 	<Event Name="Promote_Thrawn">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
@@ -102,7 +124,22 @@
     	<Reward_Param1>Promote_Thrawn_To_Grand_Admiral</Reward_Param1>
   	</Event>
 
-	
+	<Event Name="Thrawn_Promotion_GA_Speech">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Thrawn_To_Grand_Admiral</Event_Param1>
+		<Reward_Type>MULTIMEDIA</Reward_Type>
+		<Reward_Param1>TEXT_THRAWN_GA_PROMOTION</Reward_Param1>
+		<Reward_Param2>15</Reward_Param2>
+		<Reward_Param3 />
+		<Reward_Param4 />
+		<Reward_Param5 />
+		<Reward_Param6 />
+		<Reward_Param7 />
+		<Reward_Param8 />
+		<Reward_Param9>Thrawn_Loop</Reward_Param9>
+		<Reward_Param10>0</Reward_Param10>
+		<Prereq>Promote_Thrawn_2</Prereq>
+	</Event>
 
 
 	<!-- Spawn Starting Heroes -->
