@@ -21,6 +21,7 @@
 	<File>GroundBuildablesSkirmish.xml</File>
 
 	<File>SpaceProps.xml</File>
+	<File>Research_Dummies.xml</File>
 	<File>SpaceUnitsCapital.xml</File>
 	<File>SpaceUnitsFighters.xml</File>
 	<File>SpaceUnitsCorvettes.xml</File>
