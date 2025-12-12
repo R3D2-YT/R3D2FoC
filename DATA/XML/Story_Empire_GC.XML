@@ -24,7 +24,23 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
+<!-- New Fleet Initiative Locks 
+
+	<Event Name="Lock_TIE_Defender">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>-->
+
 <!-- Veers Promotion/AT-AT Project -->
+
+	<Event Name="Lock_Promote_Veers_General">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
 
 	<Event Name="Promote_Veers">
 		<Event_Type>STORY_CONSTRUCT</Event_Type>
@@ -45,6 +61,74 @@
     	<Reward_Type>REMOVE_UNIT</Reward_Type>
     	<Reward_Param1>Promote_Veers_To_Colonel</Reward_Param1>
   	</Event>
+
+	<Event Name="Lock_Promote_Veers">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_Colonel</Reward_Param1>
+		<Prereq>Promote_Veers</Prereq>
+	</Event>
+
+	<Event Name="Unlock_Promote_Veers_2">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Promote_Veers_2">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>General_Veers_Team</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_VEERS_2_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+  	</Event>
+
+	<Event Name="DESPAWN_VEERS_INFANTRY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Veers_Infantry_Team</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_Promote_Veers_2">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Promote_Veers_2</Prereq>
+	</Event>
+
+	<Event Name="Veers_Promotion_General_Speech">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+		<Reward_Type>MULTIMEDIA</Reward_Type>
+		<Reward_Param1>TEXT_VEERS_GENERAL_PROMOTION</Reward_Param1>
+		<Reward_Param2>15</Reward_Param2>
+		<Reward_Param3 />
+		<Reward_Param4 />
+		<Reward_Param5 />
+		<Reward_Param6 />
+		<Reward_Param7 />
+		<Reward_Param8 />
+		<Reward_Param9>Piett_Loop</Reward_Param9>
+		<Reward_Param10>0</Reward_Param10>
+		<Prereq>Promote_Veers_2</Prereq>
+	</Event>
 
 <!-- Thrawn Promotion/New Fleet Initiative -->
 
@@ -139,6 +223,22 @@
 		<Reward_Param9>Thrawn_Loop</Reward_Param9>
 		<Reward_Param10>0</Reward_Param10>
 		<Prereq>Promote_Thrawn_2</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_NEW_FLEET_INITIVE_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>New_Fleet_Initiative</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_NEW_FLEET_INITIVE">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>New_Fleet_Initiative</Reward_Param1>
+		<Prereq>DESPAWN_NEW_FLEET_INITIVE_DUMMY</Prereq>
 	</Event>
 
 
