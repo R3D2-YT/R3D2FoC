@@ -180,6 +180,26 @@
 		</Encyclopedia_Text>
 	</SpaceUnit>
 
+	<SpaceUnit Name="New_Fleet_Initiative">
+		<Variant_Of_Existing_Type>Research_Dummy</Variant_Of_Existing_Type>
+		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
+		<Required_Orbiting_Units>Admonitor_Star_Destroyer</Required_Orbiting_Units>
+		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
+		<Build_Limit_Lifetime_For_All_Allies>1</Build_Limit_Lifetime_For_All_Allies>
+		<Affiliation>Empire</Affiliation>
+		<Build_Time_Seconds>60</Build_Time_Seconds>
+		<Build_Cost_Credits>5500</Build_Cost_Credits>
+		<Text_ID>TEXT_NEW_FLEET_INIATIVE</Text_ID>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_NEW_FLEET_INIATIVE
+		</Encyclopedia_Text>
+
+		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>		
+		<SFXEvent_Build_Complete>Unit_Select_Thrawn</SFXEvent_Build_Complete>
+		<SFXEvent_Hero_Respawned>Unit_Select_Thrawn</SFXEvent_Hero_Respawned>
+	</SpaceUnit>
+
 	<SpaceUnit Name="Promote_Thrawn_To_Commodore">
 		<Variant_Of_Existing_Type>Research_Dummy</Variant_Of_Existing_Type>
 		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
@@ -190,9 +210,30 @@
 		<Build_Time_Seconds>60</Build_Time_Seconds>
 		<Build_Cost_Credits>7500</Build_Cost_Credits>
 		<Text_ID>TEXT_PROMOTE_THRAWN_TO_COMMODORE</Text_ID>
-		<Icon_Name>i_button_capt_thrawn.tga</Icon_Name>
+		<Icon_Name>i_button_promote_thrawn.tga</Icon_Name>
 		<Encyclopedia_Text>
 			TEXT_TOOLTIP_PROMOTE_THRAWN_TO_COMMODORE
+		</Encyclopedia_Text>
+
+		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>		
+		<SFXEvent_Build_Complete>Unit_Select_Thrawn</SFXEvent_Build_Complete>
+		<SFXEvent_Hero_Respawned>Unit_Select_Thrawn</SFXEvent_Hero_Respawned>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Promote_Thrawn_To_Grand_Admiral">
+		<Variant_Of_Existing_Type>Research_Dummy</Variant_Of_Existing_Type>
+		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
+		<Required_Orbiting_Units>Chimera_Star_Destroyer_Commodore</Required_Orbiting_Units>
+		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
+		<Build_Limit_Lifetime_For_All_Allies>1</Build_Limit_Lifetime_For_All_Allies>
+		<Affiliation>Empire</Affiliation>
+		<Build_Time_Seconds>60</Build_Time_Seconds>
+		<Build_Cost_Credits>8500</Build_Cost_Credits>
+		<Text_ID>TEXT_PROMOTE_THRAWN_TO_GA</Text_ID>
+		<Icon_Name>i_button_promote_thrawn_2.tga</Icon_Name>
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_PROMOTE_THRAWN_TO_GA
 		</Encyclopedia_Text>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
