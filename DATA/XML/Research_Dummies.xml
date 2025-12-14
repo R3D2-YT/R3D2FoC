@@ -202,6 +202,7 @@
 		<Text_ID>TEXT_PROMOTE_THRAWN_TO_COMMODORE</Text_ID>
 		<Icon_Name>i_button_promote_thrawn.tga</Icon_Name>
 		<Encyclopedia_Text>
+			TEXT_EFFECTS
 			TEXT_TOOLTIP_PROMOTE_THRAWN_TO_COMMODORE
 		</Encyclopedia_Text>
 
@@ -224,6 +225,7 @@
 		<Text_ID>TEXT_PROMOTE_THRAWN_TO_GA</Text_ID>
 		<Icon_Name>i_button_promote_thrawn_2.tga</Icon_Name>
 		<Encyclopedia_Text>
+			TEXT_EFFECTS
 			TEXT_TOOLTIP_PROMOTE_THRAWN_TO_GA
 		</Encyclopedia_Text>
 
@@ -245,7 +247,7 @@
 		<Build_Cost_Credits>2500</Build_Cost_Credits>
 		<Text_ID>TEXT_PROMOTE_VEERS_TO_COLONEL</Text_ID>
 		<Build_Tab_Heroes>Yes</Build_Tab_Heroes>
-		<Icon_Name>i_button_general_maximillian_veers.tga</Icon_Name>
+		<Icon_Name>i_button_promote_veers.tga</Icon_Name>
 		<Encyclopedia_Text>
 			TEXT_TOOLTIP_PROMOTE_VEERS_TO_COLONEL
 		</Encyclopedia_Text>
@@ -269,7 +271,7 @@
 		<Build_Cost_Credits>4500</Build_Cost_Credits>
 		<Text_ID>TEXT_PROMOTE_VEERS_TO_GENERAL</Text_ID>
 		<Build_Tab_Heroes>Yes</Build_Tab_Heroes>
-		<Icon_Name>i_button_general_maximillian_veers.tga</Icon_Name>
+		<Icon_Name>i_button_promote_veers.tga</Icon_Name>
 		<Encyclopedia_Text>
 			TEXT_TOOLTIP_PROMOTE_VEERS_TO_GENERAL
 		</Encyclopedia_Text>
