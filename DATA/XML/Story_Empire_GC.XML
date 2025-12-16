@@ -24,14 +24,23 @@
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
-<!-- New Fleet Initiative Locks 
+<!-- New Fleet Initiative Locks -->
 
 	<Event Name="Lock_TIE_Defender">
 		<Event_Type>STORY_TRIGGER</Event_Type>
 		<Reward_Type>LOCK_UNIT</Reward_Type>
-		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Reward_Param1>TIE_Defender_Squadron</Reward_Param1>
 		<Prereq>Universal_Story_Start</Prereq>
-	</Event>-->
+	</Event>
+	
+	<Event Name="Lock_Ton_Falk">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+	
+	
 
 <!-- Veers Promotion/AT-AT Project -->
 
@@ -239,6 +248,24 @@
 		<Reward_Type>LOCK_UNIT</Reward_Type>
 		<Reward_Param1>New_Fleet_Initiative</Reward_Param1>
 		<Prereq>DESPAWN_NEW_FLEET_INITIVE_DUMMY</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_TIE_DEFENDER">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>TIE_Defender_Squadron</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_TON_FALK">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 
 

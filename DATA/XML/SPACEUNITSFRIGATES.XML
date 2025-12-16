@@ -250,7 +250,7 @@
 		<Build_Initially_Locked>Yes</Build_Initially_Locked>
 		<Build_Can_Be_Unlocked_By_Slicer>Yes</Build_Can_Be_Unlocked_By_Slicer>
 		<Slice_Cost_Credits>1400</Slice_Cost_Credits>
-		<Tech_Level>2</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -605,7 +605,7 @@
 
 	<SpaceUnit Name="Victory_Destroyer">
 		<Variant_Of_Existing_Type>Victory_Destroyer_No_Fighters</Variant_Of_Existing_Type>
-		<Tech_Level>2</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<!-- Fighter complement -->
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
@@ -656,7 +656,7 @@
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>2</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -1032,7 +1032,7 @@
 		<Maintenance_Cost>0.2</Maintenance_Cost>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>4</Tech_Level>
+		<Tech_Level>1</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>

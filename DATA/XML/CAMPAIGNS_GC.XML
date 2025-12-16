@@ -238,7 +238,7 @@
         <Markup_Filename>Hutts, DefaultGalacticHints </Markup_Filename>
 
         
-        <Supports_Custom_Settings>True</Supports_Custom_Settings>
+        <Supports_Custom_Settings>False</Supports_Custom_Settings>
         <Show_Completed_Tab>True</Show_Completed_Tab>
 
         <!-- Win Conditions -->
@@ -282,17 +282,11 @@
         
         <Special_Case_Production> Empire, EQR_Tatooine, Ground_Hutt_Palace_E</Special_Case_Production>
         <Special_Case_Production> Rebel, EQR_Tatooine, Ground_Hutt_Palace_R</Special_Case_Production>
-
-        <!-- Rebel Starting Forces -->
-
-        <Starting_Credits> Rebel,  8000 </Starting_Credits>
-        <Starting_Tech_Level> Rebel, 1 </Starting_Tech_Level>
-        <Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
         
         <!-- Rebel Starting Forces -->
 
         <Starting_Credits> Rebel,  8000 </Starting_Credits>
-        <Starting_Tech_Level> Rebel, 1 </Starting_Tech_Level>
+        <Starting_Tech_Level> Rebel, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Rebel, 4 </Max_Tech_Level>
         
         <!-- Bespin Space Forces -->
@@ -596,7 +590,7 @@
         <!-- Empire Starting Forces -->
 
         <Starting_Credits> Empire,  8000 </Starting_Credits>
-        <Starting_Tech_Level> Empire, 2 </Starting_Tech_Level>
+        <Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Empire, 5 </Max_Tech_Level>
         
         <!-- Abregado_Rae Space Forces -->
@@ -863,7 +857,7 @@
         <!-- Underworld Starting Forces -->
 
         <Starting_Credits> Underworld,  12000 </Starting_Credits>
-        <Starting_Tech_Level> Underworld, 2 </Starting_Tech_Level>
+        <Starting_Tech_Level> Underworld, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Underworld, 5 </Max_Tech_Level>
         
         <!-- AlzocIII Space Forces -->
