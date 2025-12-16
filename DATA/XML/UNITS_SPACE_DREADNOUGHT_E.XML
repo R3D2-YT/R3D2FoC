@@ -189,6 +189,46 @@
 		</HardPoints>
 	</SpaceUnit>
 
+	<SpaceUnit Name="Imperial_Support_Cruiser">
+		<Variant_Of_Existing_Type>Dreadnought_No_Fighters</Variant_Of_Existing_Type>
+		<Text_ID>TEXT_UNIT_ISC</Text_ID>
+		<Tech_Level>99</Tech_Level>
+		<Affiliation>Empire</Affiliation>
+		<Space_Model_Name>Imperial_Support_Vessel.alo</Space_Model_Name>
+		<Icon_Name>i_button_Imperial_Support_Cruiser.tga</Icon_Name>
+		<Scale_Factor>1.2</Scale_Factor>
+
+		<Encyclopedia_Text>
+			TEXT_TOOLTIP_ISC
+		</Encyclopedia_Text>
+
+		<HardPoints>
+    		HP_Imperial_Support_Vessel_Hangar,
+			HP_Imperial_Support_Vessel_ENGINE_01,
+	 		HP_Imperial_Support_Vessel_ENGINE_02,
+	 		H_Imperial_Support_Vessel_SHIELD_01,
+	 		H_Imperial_Support_Vessel_DTL_01,
+	 		H_Imperial_Support_Vessel_DTL_02,
+	 		H_Imperial_Support_Vessel_DTL_03,
+	 		H_Imperial_Support_Vessel_DTL_04,
+	 		H_Imperial_Support_Vessel_DTL_05,
+	 		H_Imperial_Support_Vessel_DTL_06,
+	 		H_Imperial_Support_Vessel_DTL_07,
+	 		H_Imperial_Support_Vessel_TL_01,
+	 		H_Imperial_Support_Vessel_TL_02,
+	 		H_Imperial_Support_Vessel_TL_03,
+	 		H_Imperial_Support_Vessel_TL_04,
+	 		H_Imperial_Support_Vessel_PROTON_01
+		</HardPoints>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 2</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 6</Reserve_Spawned_Units_Tech_0>
+		<HardPoints>
+			HP_Dreadnought_Weapon_05, HP_Dreadnought_Weapon_04, HP_Dreadnought_Weapon_03, HP_Dreadnought_Weapon_02, HP_Dreadnought_Weapon_01, HP_Dreadnought_Weapon_00, HP_Dreadnought_Fighter_Bay, HP_Dreadnought_Engines_01
+		</HardPoints>
+	</SpaceUnit>
+
 	<SpaceUnit Name="R_Dreadnought">
 		<Variant_Of_Existing_Type>Dreadnought_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Rebel</Affiliation>
