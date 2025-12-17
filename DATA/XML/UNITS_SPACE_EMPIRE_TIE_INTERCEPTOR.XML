@@ -227,7 +227,24 @@
 
 	</Squadron>
 
+	<SpaceUnit Name="181st_Interceptor">
+		<Variant_Of_Existing_Type>TIE_Interceptor</Variant_Of_Existing_Type>
+		<Tech_Level>99</Tech_Level>
+		<Tactical_Health>100</Tactical_Health>
+		<Icon_Name>I_BUTTON_181ST.tga</Icon_Name>
+		
+	</SpaceUnit>
 
+	<Squadron Name="181st_Interceptor_Squadron">
+		<Variant_Of_Existing_Type>TIE_Interceptor_Squadron</Variant_Of_Existing_Type>
+		<Tech_Level>99</Tech_Level>
+		<Tactical_Health>100</Tactical_Health>
+		<Icon_Name>I_BUTTON_181ST.tga</Icon_Name>
+
+		<Squadron_Units>181st_Interceptor, 181st_Interceptor, 181st_Interceptor, 181st_Interceptor</Squadron_Units>
+		<Squadron_Units>181st_Interceptor, 181st_Interceptor, 181st_Interceptor</Squadron_Units>
+		
+	</Squadron>
 
 
 

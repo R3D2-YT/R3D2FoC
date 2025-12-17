@@ -617,7 +617,7 @@
 		
 	</SpaceUnit>
 
-	<SpaceUnit Name="Ton_Falk_Carrier">
+	<SpaceUnit Name="Ton_Falk_Carrier_No_Fighters">
 		<Text_ID>TEXT_UNIT_TON_FALK</Text_ID>
 		<Encyclopedia_Good_Against> Corellian_Corvette Marauder_Missile_Cruiser Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Calamari_Cruiser Skipray_Blastboat Y-wing </Encyclopedia_Vulnerable_To>
@@ -656,7 +656,7 @@
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>1</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -687,16 +687,6 @@
 
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
 		<Targeting_Max_Attack_Distance>1400.0</Targeting_Max_Attack_Distance>
-		
-		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Spawned_Squadron_Delay_Seconds>3</Spawned_Squadron_Delay_Seconds>
-		<!--Currently no reserves -->
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
 		
 		<HardPoints>
 			HP_Ton_Falk_Carrier_00, HP_Ton_Falk_Carrier_01, HP_Ton_Falk_Carrier_02, HP_Ton_Falk_Carrier_03, HP_Ton_Falk_Carrier_04, HP_Ton_Falk_Carrier_05, HP_Ton_Falk_Carrier_Fighter_Bay
@@ -798,6 +788,44 @@
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>3</Population_Value>
+	</SpaceUnit>
+
+	<SpaceUnit Name="Ton_Falk_Carrier">
+		<Variant_Of_Existing_Type>Ton_Falk_Carrier_No_Fighters</Variant_Of_Existing_Type>
+		<Tech_Level>1</Tech_Level>
+		<!-- Fighter complement -->
+		<!-- Set to spawn all units once and then not continue - no reserves -->
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Spawned_Squadron_Delay_Seconds>3</Spawned_Squadron_Delay_Seconds>
+		<!--Currently no reserves -->
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		<Population_Value>3</Population_Value>
+		
+		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
+		
+	</SpaceUnit>
+
+	<SpaceUnit Name="181st">
+	
+		<Variant_Of_Existing_Type>Ton_Falk_Carrier_No_Fighters</Variant_Of_Existing_Type>
+		<Text_ID>TEXT_UNIT_181_CARRIER</Text_ID>
+		<Encyclopedia_Text> TEXT_TOOLTIP_181_CARRIER </Encyclopedia_Text>
+		<Tech_Level>1</Tech_Level>
+		<Icon_Name>I_BUTTON_181ST.tga</Icon_Name>
+		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
+		<!-- Set to spawn all units once and then not continue - no reserves -->
+		<Starting_Spawned_Units_Tech_0>181st_Interceptor_Squadron, 4</Starting_Spawned_Units_Tech_0>
+		<Spawned_Squadron_Delay_Seconds>3</Spawned_Squadron_Delay_Seconds>
+		<!--Currently no reserves -->
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_181st_Interceptor_SquadronSquadron, 12</Reserve_Spawned_Units_Tech_0> 
+		<Population_Value>3</Population_Value>
+		
+		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
+		
 	</SpaceUnit>
 
 	<SpaceUnit Name="Acclamator_Assault_Ship">
