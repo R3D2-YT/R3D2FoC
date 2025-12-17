@@ -589,7 +589,7 @@
 
         <!-- Empire Starting Forces -->
 
-        <Starting_Credits> Empire,  8000 </Starting_Credits>
+        <Starting_Credits> Empire,  12000 </Starting_Credits>
         <Starting_Tech_Level> Empire, 5 </Starting_Tech_Level>
         <Max_Tech_Level> Empire, 5 </Max_Tech_Level>
         

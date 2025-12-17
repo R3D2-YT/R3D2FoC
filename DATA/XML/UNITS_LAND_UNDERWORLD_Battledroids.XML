@@ -128,6 +128,18 @@
 
 	</GroundInfantry>
 
+	<GroundInfantry Name="Squad_B1">
+		<Variant_Of_Existing_Type>Underworld_B1</Variant_Of_Existing_Type>
+		<LandBehavior>LANDING, SURFACE_FX, LAND_TEAM_INFANTRY_LOCOMOTOR,IDLE,WEAPON, STUNNABLE, REVEAL,HIDE_WHEN_FOGGED,DAMAGE_TRACKING</LandBehavior>
+		<Is_Squashable> Yes </Is_Squashable>
+		<Max_Speed> 1 </Max_Speed>
+		<Space_Layer> None </Space_Layer>
+		<Custom_Soft_Footprint_Radius> 3.0 </Custom_Soft_Footprint_Radius>
+		<Max_Rate_Of_Turn>16.0</Max_Rate_Of_Turn>
+		<FormationRaggedness> .2 </FormationRaggedness>
+		<MaxJiggleDistance> 2 </MaxJiggleDistance>
+	</GroundInfantry>
+
 <!-- COMPANY INFO -->
 
 	<GroundCompany Name="Underworld_B1_Squad">
@@ -160,8 +172,8 @@
 		<Ship_Class>infantry</Ship_Class>
 		<Company_Transport_Unit>Underworld_Infantry_Droid_Shuttle</Company_Transport_Unit>
 		<Create_Team_Type> Underworld_B1_Team </Create_Team_Type>
-		<Company_Units> Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1, Underworld_B1</Company_Units>
-		<Max_Squad_Size> 9 </Max_Squad_Size>
+		<Company_Units> Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1, Squad_B1</Company_Units>
+		<Max_Squad_Size> 12 </Max_Squad_Size>
 
 		<SFXEvent_Build_Started>UHD_Build_Troops</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Recruitment_Canceled</SFXEvent_Build_Cancelled>
@@ -215,13 +227,13 @@
 		<Max_Rate_Of_Turn>12.0</Max_Rate_Of_Turn>
 		<Space_Layer> Land </Space_Layer>
 		<UnitCollisionClass> Infantry </UnitCollisionClass>
-		<FormationSpacing> 1.0 </FormationSpacing>
+		<FormationSpacing> 0.1 </FormationSpacing>
 		<FormationOrder> 2 </FormationOrder>
 		<MovementClass> Infantry </MovementClass>
 		<OccupationStyle>1x1</OccupationStyle>
 		<Is_Squashable> true </Is_Squashable>
 		<MovementPredictionInterval> 4.0 </MovementPredictionInterval>	
-		<ContainerArrangement> Dartboard </ContainerArrangement>
+		<ContainerArrangement> Rows </ContainerArrangement>
 		<OverrideAcceleration> .08 </OverrideAcceleration>
 		<OverrideDeceleration> .08 </OverrideDeceleration>
 
@@ -288,8 +300,8 @@
 		<Ship_Class>infantry</Ship_Class>
 		<Company_Transport_Unit>Underworld_Infantry_Droid_Shuttle</Company_Transport_Unit>
 		<Create_Team_Type> Underworld_B2_Team </Create_Team_Type>
-		<Company_Units> Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2</Company_Units>
-		<Max_Squad_Size> 9 </Max_Squad_Size>
+		<Company_Units> Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2, Underworld_B2</Company_Units>
+		<Max_Squad_Size> 12 </Max_Squad_Size>
 
 		<SFXEvent_Build_Started>UHD_Build_Troops</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>UHD_Recruitment_Canceled</SFXEvent_Build_Cancelled>
@@ -335,13 +347,13 @@
 		<Max_Rate_Of_Turn>12.0</Max_Rate_Of_Turn>
 		<Space_Layer> Land </Space_Layer>
 		<UnitCollisionClass> Infantry </UnitCollisionClass>
-		<FormationSpacing> 1.0 </FormationSpacing>
+		<FormationSpacing> 0.5 </FormationSpacing>
 		<FormationOrder> 2 </FormationOrder>
 		<MovementClass> Infantry </MovementClass>
 		<OccupationStyle>1x1</OccupationStyle>
 		<Is_Squashable> true </Is_Squashable>
 		<MovementPredictionInterval> 4.0 </MovementPredictionInterval>	
-		<ContainerArrangement> Dartboard </ContainerArrangement>
+		<ContainerArrangement> Rows </ContainerArrangement>
 		<OverrideAcceleration> .08 </OverrideAcceleration>
 		<OverrideDeceleration> .08 </OverrideDeceleration>
 
