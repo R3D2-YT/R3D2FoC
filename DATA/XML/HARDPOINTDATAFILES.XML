@@ -5,8 +5,29 @@
 	<File>CIN_HardPoints.xml</File>
 	<File>HardPoints_Underworld.xml</File>
 
-	<File>HardPoints_Arquitens.xml</File>
-	<File>HardPoints_Dreadnought.xml</File>
-	<File>HardPoints_Imperial_Support_Cruiser.xml</File>
-	<File>Hardpoints_Assault_Frigate_MKI.xml</File>
+	<!-- Fighters -->
+
+	<!-- Frigates -->
+
+	<File>Hardpoints\HardPoints_Lancer.xml</File>
+
+	<!-- Light Cruisers -->
+
+	<File>Hardpoints\HardPoints_Arquitens.xml</File>
+
+	<!-- Cruisers -->
+
+	<File>Hardpoints\HardPoints_Dreadnought.xml</File>
+	<File>Hardpoints\HardPoints_Imperial_Support_Cruiser.xml</File>
+	<File>Hardpoints\Hardpoints_Assault_Frigate_MKI.xml</File>
+
+	<!-- Light Capitals -->
+
+	<File>Hardpoints\HardPoints_Gladiator.XML</File>
+	<File>Hardpoints\HardPoints_Victory_I.XML</File>
+
+	<!-- Capital Ships -->
+
+	<File>Hardpoints\HARDPOINTS_ISD.XML</File>
+	<File>Hardpoints\HARDPOINTS_TSD.XML</File>
 </Hard_Point_Files>

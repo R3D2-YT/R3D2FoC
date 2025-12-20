@@ -93,6 +93,22 @@
 
 	<File>MOV_Cinematics.xml</File>
 
+	<!-- Frigates -->
+
+	<File>UNITS\SPACE\FRIGATE\UNITS_SPACE_LANCER.XML</File>
+
+	<!-- Cruisers -->
+
+	<!-- Light Capital Ships -->
+
+	<File>UNITS\SPACE\LIGHT_CAPITAL\UNITS_SPACE_GLADIATOR.XML</File>
+	<File>UNITS\SPACE\LIGHT_CAPITAL\Units_Space_Victory_I.XML</File>
+
+	<!-- Capital Ships -->
+	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_STAR_DESTROYER.XML</File>
+	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_STAR_DESTROYER_II.XML</File>
+	<File>UNITS\SPACE\CAPITAL\UNITS_SPACE_TECTOR_STAR_DESTROYER.XML</File>
+
 
 
 

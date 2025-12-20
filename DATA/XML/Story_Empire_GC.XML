@@ -39,6 +39,13 @@
 		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
+
+	<Event Name="Lock_Star_Destroyer_II">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
 	
 	
 
@@ -265,6 +272,15 @@
 		<Event_Param2>1</Event_Param2>
 		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
 		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_Star_Destroyer_II">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
 		<Prereq>Universal_Story_Start</Prereq>
 	</Event>
 

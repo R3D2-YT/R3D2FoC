@@ -650,7 +650,7 @@
         <Starting_Forces> Empire, EQR_Coruscant, Empire_Star_Base_4 </Starting_Forces>
         <Starting_Forces> Empire, EQR_Coruscant, TIE_Scout_Squadron </Starting_Forces>
         <Starting_Forces> Empire, EQR_Coruscant, Acclamator_Assault_Ship </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Coruscant, Victory_Destroyer </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Coruscant, Victory_Destroyer_I_E </Starting_Forces>
         
         <!-- Coruscant Land Forces -->
         <Starting_Forces> Empire, EQR_Coruscant, E_Ground_Barracks </Starting_Forces>
@@ -704,7 +704,7 @@
        
         <!-- Kuat Space Forces -->
         <Starting_Forces> Empire, EQR_Kuat, Empire_Star_Base_4 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Kuat, Victory_Destroyer </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Kuat, Victory_Destroyer_I_E </Starting_Forces>
         <Starting_Forces> Empire, EQR_Kuat, Imperial_Star_Destroyer_I </Starting_Forces>
 
         <!-- Kuat Land Forces -->
@@ -737,7 +737,7 @@
         
         <!-- The_Maw Space Forces -->
         <Starting_Forces> Empire, EQR_The_Maw, Empire_Star_Base_2 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_The_Maw, Victory_Destroyer </Starting_Forces>
+        <Starting_Forces> Empire, EQR_The_Maw, Victory_Destroyer_I_E </Starting_Forces>
         <Starting_Forces> Empire, EQR_The_Maw, Acclamator_Assault_Ship </Starting_Forces>
         
         <!-- Wayland Space Forces -->
@@ -750,7 +750,7 @@
 
         <!-- Scarif Space Forces -->
         <Starting_Forces> Empire, EQR_Scarif, Empire_Star_Base_3 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Scarif, Victory_Destroyer </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Scarif, Victory_Destroyer_I_E </Starting_Forces>
 
         <!-- Scarif Land Forces -->
         <Starting_Forces> Empire, EQR_Scarif, E_Ground_Barracks </Starting_Forces>
@@ -795,7 +795,7 @@
 
         <!-- Yaga Minor Space Forces -->
         <Starting_Forces> Empire, EQR_YagaMinor, Empire_Star_Base_3 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_YagaMinor, Victory_Destroyer_MK1 </Starting_Forces>
+        <Starting_Forces> Empire, EQR_YagaMinor, Victory_Destroyer_I_E_MK1 </Starting_Forces>
         
         <!-- Yaga Minor Land Forces -->
         <Starting_Forces> Empire, EQR_YagaMinor, E_Ground_Barracks </Starting_Forces>
@@ -805,7 +805,7 @@
 
         <!-- Bilbringi Space Forces -->
         <Starting_Forces> Empire, EQR_Bilbringi, Empire_Star_Base_3 </Starting_Forces>
-        <Starting_Forces> Empire, EQR_Bilbringi, Victory_Destroyer_MK1 </Starting_Forces>
+        <Starting_Forces> Empire, EQR_Bilbringi, Victory_Destroyer_I_E_MK1 </Starting_Forces>
         
         <!-- Bilbringi Land Forces -->
         <Starting_Forces> Empire, EQR_Bilbringi, E_Ground_Barracks </Starting_Forces>

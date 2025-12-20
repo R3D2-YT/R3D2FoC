@@ -544,7 +544,7 @@
 
 	<SpaceUnit Name="Star_Destroyer">
 		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
-		<Tech_Level>4</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
@@ -568,7 +568,7 @@
 		<Text_ID>TEXT_UNIT_TECTOR_STAR_DESTROYER</Text_ID>
 		<Encyclopedia_Text> TEXT_TOOLTIP_TECTOR_STAR_DESTROYER TEXT_TOOLTIP_REQUIRED_PLANETS_CAPITAL_SHIPS</Encyclopedia_Text>
 		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
-		<Tech_Level>4</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 
 		<Behavior> SELECTABLE, DUMMY_STARSHIP </Behavior>
 		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>

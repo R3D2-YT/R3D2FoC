@@ -113,6 +113,48 @@
 			</Samples>
 	</SFXEvent>
 
+	<!-- Lancer -->
+
+	<SFXEvent Name="Unit_Complete_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_select_4.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Select_1.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_2.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_3.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_4.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Move_1.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Move_2.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Move_3.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_4.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_5.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_6.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_7.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Attack_1.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Attack_2.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
 		<!-- Army Trooper -->
 
 	<SFXEvent Name="Unit_Complete_Army_Trooper">

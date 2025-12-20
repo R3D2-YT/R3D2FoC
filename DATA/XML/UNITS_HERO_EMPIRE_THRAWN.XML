@@ -176,7 +176,7 @@
 
 
 	<UniqueUnit Name="Admonitor_Star_Destroyer">
-		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Star_Destroyer_E_No_Fighters</Variant_Of_Existing_Type>
 		
 		<Text_ID>TEXT_UNIT_SD_ADMONITOR</Text_ID>
 		<Encyclopedia_Text> TEXT_TOOLTIP_SD_ADMONITOR </Encyclopedia_Text>
@@ -207,17 +207,46 @@
 
 		<!-- Set to spawn all units once and then not continue - no reserves -->
 		<Starting_Spawned_Units_Tech_0>TIE_Defender_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
 
 		<HardPoints> 
-			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL, HP_Star_Destroyer_Weapon_BR,
-			HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, HP_Star_Destroyer_Shield_Generator,
-			HP_Star_Destroyer_Tractor_Beam, HP_Star_Destroyer_Fighter_Bay,
-			HP_Star_Destroyer_DUMMY_00, HP_Star_Destroyer_DUMMY_01, HP_Star_Destroyer_DUMMY_02,
-			HP_Star_Destroyer_DUMMY_03, HP_Star_Destroyer_DUMMY_04, HP_Star_Destroyer_DUMMY_05
+			HP_Star_Destroyer_00,
+			HP_Star_Destroyer_01,
+			HP_Star_Destroyer_02,
+			HP_Star_Destroyer_03,
+			HP_Star_Destroyer_04,
+			HP_Star_Destroyer_05,
+			HP_Star_Destroyer_06,
+			HP_Star_Destroyer_07,
+			HP_Star_Destroyer_08,
+			HP_Star_Destroyer_09,
+			HP_Star_Destroyer_10,
+			HP_Star_Destroyer_11,
+			HP_Star_Destroyer_12,
+			<!--HP_Star_Destroyer_13,
+			HP_Star_Destroyer_14,
+			HP_Star_Destroyer_15,
+			HP_Star_Destroyer_16,
+			HP_Star_Destroyer_17,-->
+			<!--HP_Star_Destroyer_18,
+			HP_Star_Destroyer_19,
+			HP_Star_Destroyer_20,-->
+			HP_Star_Destroyer_21,
+			HP_Star_Destroyer_22,
+			HP_Star_Destroyer_23,
+			HP_Star_Destroyer_24,
+			HP_Star_Destroyer_25,
+			HP_Star_Destroyer_26,
+			HP_Star_Destroyer_Shield_Generator_00,
+			HP_Star_Destroyer_Fighter_Bay,
+			<!--HP_Star_Destroyer_Engines_00,
+			HP_Star_Destroyer_Engines_01,
+			HP_Star_Destroyer_Engines_02-->
 		</HardPoints>
 		
 		<SFXEvent_Select>Unit_Select_Thrawn</SFXEvent_Select>
@@ -350,7 +379,7 @@
 	</UniqueUnit>
 
 	<UniqueUnit Name="Chimera_Star_Destroyer_Commodore">
-		<Variant_Of_Existing_Type>Generic_Star_Destroyer</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Star_Destroyer_E_No_Fighters</Variant_Of_Existing_Type>
 		
 		<Text_ID>TEXT_UNIT_SD_CHIMERA_COMMODORE</Text_ID>
 		<Encyclopedia_Text> TEXT_TOOLTIP_SD_CHIMERA_COMMODORE </Encyclopedia_Text>
@@ -359,7 +388,7 @@
 		<Encyclopedia_Vulnerable_To> B-Wing MC30_Frigate Skipray_Blastboat </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_capt_thrawn.tga</Icon_Name>
 		<Required_Orbiting_Units>Thunder_Wasp_Hero</Required_Orbiting_Units>
-		<Required_Special_Structures>Tier_I_Shipyard | Tier_II_Shipyard | Tier_III_Shipyard, Naval_Headquarters</Required_Special_Structures>
+		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
 
 		<Space_Model_Name>Imperator_1_Chimaera.alo</Space_Model_Name>
 
@@ -382,11 +411,38 @@
 		<SpaceBehavior> ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, POWERED, SHIELDED, HIDE_WHEN_FOGGED, REVEAL, TARGETING, UNIT_AI, ASTEROID_FIELD_DAMAGE, ION_STUN_EFFECT, NEBULA, SPAWN_SQUADRON </SpaceBehavior>
 
 		<HardPoints> 
-			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL, HP_Star_Destroyer_Weapon_BR,
-			HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, HP_Star_Destroyer_Shield_Generator,
-			HP_Star_Destroyer_Tractor_Beam, HP_Star_Destroyer_Fighter_Bay,
-			HP_Star_Destroyer_DUMMY_00, HP_Star_Destroyer_DUMMY_01, HP_Star_Destroyer_DUMMY_02,
-			HP_Star_Destroyer_DUMMY_03, HP_Star_Destroyer_DUMMY_04, HP_Star_Destroyer_DUMMY_05
+			HP_Star_Destroyer_00,
+			HP_Star_Destroyer_01,
+			HP_Star_Destroyer_02,
+			HP_Star_Destroyer_03,
+			HP_Star_Destroyer_04,
+			HP_Star_Destroyer_05,
+			HP_Star_Destroyer_06,
+			HP_Star_Destroyer_07,
+			HP_Star_Destroyer_08,
+			HP_Star_Destroyer_09,
+			HP_Star_Destroyer_10,
+			HP_Star_Destroyer_11,
+			HP_Star_Destroyer_12,
+			<!--HP_Star_Destroyer_13,
+			HP_Star_Destroyer_14,
+			HP_Star_Destroyer_15,
+			HP_Star_Destroyer_16,
+			HP_Star_Destroyer_17,-->
+			<!--HP_Star_Destroyer_18,
+			HP_Star_Destroyer_19,
+			HP_Star_Destroyer_20,-->
+			HP_Star_Destroyer_21,
+			HP_Star_Destroyer_22,
+			HP_Star_Destroyer_23,
+			HP_Star_Destroyer_24,
+			HP_Star_Destroyer_25,
+			HP_Star_Destroyer_26,
+			HP_Star_Destroyer_Shield_Generator_00,
+			HP_Star_Destroyer_Fighter_Bay,
+			<!--HP_Star_Destroyer_Engines_00,
+			HP_Star_Destroyer_Engines_01,
+			HP_Star_Destroyer_Engines_02-->
 		</HardPoints>
 
 		<!-- Set to spawn all units once and then not continue - no reserves -->
