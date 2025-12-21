@@ -107,7 +107,7 @@
 	</HeroCompany>
 
 	<HeroCompany Name="Probe_Droid_Team">
-		<GUI_Row>1</GUI_Row>
+		<GUI_Row>0</GUI_Row>
 		<Text_ID>TEXT_HERO_UNIT_PROBE_DROID</Text_ID>
 		<Is_Dummy>Yes</Is_Dummy>
 		<Affiliation>Empire</Affiliation>

@@ -26,9 +26,6 @@
 	<File>SpaceUnitsFighters.xml</File>
 	<File>SpaceUnitsCorvettes.xml</File>
 	<File>SpaceUnitsFrigates.xml</File>
-	<File>UNITS_SPACE_ARQUITENS.xml</File>
-	<File>Assault_Frigate_MKI.xml</File>
-	<File>UNITS_SPACE_DREADNOUGHT_E.xml</File>
 	<File>SpaceUnitsSupers.xml</File>
 	<File>SpacePrimarySkydomes.xml</File>
 	<File>SpaceSecondarySkydomes.xml</File>
@@ -93,15 +90,38 @@
 
 	<File>MOV_Cinematics.xml</File>
 
+	<!-- Tanks -->
+
+	<File>UNITS\LAND\Units_EMPIRE_TIE_TANK.xml</File>
+
+	<!-- Fighters -->
+
+	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Avenger.xml</File>
+	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Defender.xml</File>
+	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Interceptor.xml</File>
+	<File>UNITS\SPACE\FIGHTERS\Units_Space_Empire_TIE_Phantom.xml</File>
+
 	<!-- Frigates -->
 
 	<File>UNITS\SPACE\FRIGATE\UNITS_SPACE_LANCER.XML</File>
+	<File>UNITS\SPACE\FRIGATE\UNITS_SPACE_NEBULONB.XML</File>
+
+	<!-- Light Cruisers -->
+
+	<File>UNITS\SPACE\LIGHT_CRUISER\UNITS_SPACE_ARQUITENS.xml</File>
 
 	<!-- Cruisers -->
+
+	<File>Assault_Frigate_MKI.xml</File>
+	<File>UNITS\SPACE\CRUISER\UNITS_SPACE_DREADNOUGHT_E.xml</File>
+	<File>UNITS\SPACE\CRUISER\UNITS_SPACE_ACCLAMATOR.XML</File>
+	<File>UNITS\SPACE\CRUISER\UNITS_SPACE_TONFALK.XML</File>
+	<File>UNITS\SPACE\CRUISER\UNITS_SPACE_INTERDICTOR.XML</File>
 
 	<!-- Light Capital Ships -->
 
 	<File>UNITS\SPACE\LIGHT_CAPITAL\UNITS_SPACE_GLADIATOR.XML</File>
+	<File>UNITS\SPACE\LIGHT_CAPITAL\Units_Space_VENATOR.XML</File>
 	<File>UNITS\SPACE\LIGHT_CAPITAL\Units_Space_Victory_I.XML</File>
 
 	<!-- Capital Ships -->
@@ -117,11 +137,6 @@
 	<!-- Expansion Units: Empire -->
 
 	<File>Units_Hero_Empire_Thrawn.xml</File>
-
-	<File>Units_Space_Empire_TIE_Avenger.xml</File>
-	<File>Units_Space_Empire_TIE_Defender.xml</File>
-	<File>Units_Space_Empire_TIE_Interceptor.xml</File>
-	<File>Units_Space_Empire_TIE_Phantom.xml</File>
 	<File>Units_Space_Empire_Executor.xml</File>
 	
 	<File>Units_Land_Empire_DarkTroopers.xml</File>

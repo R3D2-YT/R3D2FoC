@@ -113,6 +113,45 @@
 			</Samples>
 	</SFXEvent>
 
+	<!-- Gladiator -->
+
+	<SFXEvent Name="Unit_Complete_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Select_1.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_2.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_3.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_4.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Move_1.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Move_2.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Attack_1.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_2.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_3.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_4.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_5.wav
+			</Samples>
+	</SFXEvent>
+
 	<!-- Lancer -->
 
 	<SFXEvent Name="Unit_Complete_Lancer">

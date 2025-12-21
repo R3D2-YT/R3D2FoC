@@ -93,15 +93,15 @@
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete>Unit_Complete_Victory_Destroyer</SFXEvent_Build_Complete>
+		<SFXEvent_Build_Complete>Unit_Complete_Gladiator</SFXEvent_Build_Complete>
 		<SFXEvent_Ambient_Loop>Unit_Victory_Destroyer_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
-		<SFXEvent_Select>Unit_Select_Victory_Destroyer</SFXEvent_Select>
-		<SFXEvent_Move>Unit_Move_Victory_Destroyer</SFXEvent_Move>
-		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Victory_Destroyer</SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>Unit_Attack_Victory_Destroyer</SFXEvent_Attack>
-		<SFXEvent_Guard>Unit_Guard_Victory_Destroyer</SFXEvent_Guard>
-		<SFXEvent_Stop>Unit_Stop_Victory_Destroyer</SFXEvent_Stop>
-		<SFXEvent_Barrage>Unit_Barrage_Victory_Destroyer</SFXEvent_Barrage>
+		<SFXEvent_Select>Unit_Select_Gladiator</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Gladiator</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Move_Gladiator</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Gladiator</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Attack_Gladiator</SFXEvent_Guard>
+		<SFXEvent_Stop></SFXEvent_Stop>
+		<SFXEvent_Barrage>Unit_Attack_Gladiator</SFXEvent_Barrage>
 		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Victory_Destroyer </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Victory_Destroyer </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>

@@ -172,7 +172,6 @@
 		<GUI_Row>0</GUI_Row>
 		<Variant_Of_Existing_Type>Research_Dummy</Variant_Of_Existing_Type>
 		<Required_Special_Structures>Naval_Headquarters</Required_Special_Structures>
-		<Required_Orbiting_Units>Admonitor_Star_Destroyer</Required_Orbiting_Units>
 		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
 		<Build_Limit_Lifetime_For_All_Allies>1</Build_Limit_Lifetime_For_All_Allies>
 		<Affiliation>Empire</Affiliation>

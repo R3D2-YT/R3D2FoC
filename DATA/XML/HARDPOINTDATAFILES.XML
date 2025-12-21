@@ -24,6 +24,7 @@
 	<!-- Light Capitals -->
 
 	<File>Hardpoints\HardPoints_Gladiator.XML</File>
+	<File>Hardpoints\HardPoints_Venator.XML</File>
 	<File>Hardpoints\HardPoints_Victory_I.XML</File>
 
 	<!-- Capital Ships -->
