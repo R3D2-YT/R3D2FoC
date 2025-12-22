@@ -152,6 +152,45 @@
 			</Samples>
 	</SFXEvent>
 
+	<!-- Venator -->
+
+	<SFXEvent Name="Unit_Complete_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_2.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_3.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_4.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_5.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_6.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav 
+				DATA/AUDIO/Space/Venator/Venator_Select_4.wav 
+				DATA/AUDIO/Space/Venator/Venator_Select_5.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Attack_1.wav 
+				DATA/AUDIO/Space/Venator/Venator_Attack_2.wav 
+				DATA/AUDIO/Space/Venator/Venator_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
 	<!-- Lancer -->
 
 	<SFXEvent Name="Unit_Complete_Lancer">

@@ -2309,8 +2309,8 @@
 
 	<HardPoint Name="HP_KRAYT_ENGINES_2">
 		<Type> HARD_POINT_ENGINE </Type>
-		<Is_Targetable>Yes</Is_Targetable>
-		<Is_Destroyable>Yes</Is_Destroyable>
+		<Is_Targetable>No</Is_Targetable>
+		<Is_Destroyable>No</Is_Destroyable>
 		<Tooltip_Text>TEXT_ENGINE_HARDPOINT</Tooltip_Text>
 		<Health>1000.0</Health>
 

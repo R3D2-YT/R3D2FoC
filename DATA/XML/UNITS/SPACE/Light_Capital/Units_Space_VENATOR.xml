@@ -8,7 +8,7 @@
 		<Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Crusader_Gunship </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat Calamari_Cruiser </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>Venator_Empire.alo</Space_Model_Name>
+		<Space_Model_Name>Venator_Command.alo</Space_Model_Name>
 		<Select_Box_Scale>350</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
@@ -105,15 +105,15 @@
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete>Unit_Complete_Victory_Destroyer</SFXEvent_Build_Complete>
+		<SFXEvent_Build_Complete>Unit_Complete_Venator</SFXEvent_Build_Complete>
 		<SFXEvent_Ambient_Loop>Unit_Victory_Destroyer_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
-		<SFXEvent_Select>Unit_Select_Victory_Destroyer</SFXEvent_Select>
-		<SFXEvent_Move>Unit_Move_Victory_Destroyer</SFXEvent_Move>
-		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Victory_Destroyer</SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>Unit_Attack_Victory_Destroyer</SFXEvent_Attack>
-		<SFXEvent_Guard>Unit_Guard_Victory_Destroyer</SFXEvent_Guard>
-		<SFXEvent_Stop>Unit_Stop_Victory_Destroyer</SFXEvent_Stop>
-		<SFXEvent_Barrage>Unit_Barrage_Victory_Destroyer</SFXEvent_Barrage>
+		<SFXEvent_Select>Unit_Select_Venator</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Venator</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Move_Venator</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Venator</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Attack_Venator</SFXEvent_Guard>
+		<SFXEvent_Stop>Unit_Move_Venator</SFXEvent_Stop>
+		<SFXEvent_Barrage>Unit_Attack_Venator</SFXEvent_Barrage>
 		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Victory_Destroyer </SFXEvent_Move_Into_Asteroid_Field>
 		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Victory_Destroyer </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
@@ -176,6 +176,7 @@
 
 	<SpaceUnit Name="Venator_Destroyer">
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
+		<Icon_Name>i_button_jedi_cruiser_E.tga</Icon_Name>
 		<Affiliation>Empire</Affiliation>
 		<Space_Model_Name>Venator_Empire.alo</Space_Model_Name>
 		
@@ -198,6 +199,7 @@
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Pirates</Affiliation>
 		<Space_Model_Name>Venator_Command.alo</Space_Model_Name>
+		<Icon_Name>i_button_jedi_cruiser.tga</Icon_Name>
 		
 		<Tech_Level>99</Tech_Level>
 		<Required_Special_Structures> Tier_II_Shipyard </Required_Special_Structures>
@@ -217,6 +219,7 @@
 	<UniqueUnit Name="Jedi_Cruiser_E">
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Empire</Affiliation>
+		<Icon_Name>i_button_jedi_cruiser_E.tga</Icon_Name>
 		<Tech_Level>99</Tech_Level>
 		<SFXEvent_Tactical_Build_Started> EHD_Reinforcements_En_Route </SFXEvent_Tactical_Build_Started>		
 		<SFXEvent_Tactical_Build_Complete> EHD_Reinforcements_Available </SFXEvent_Tactical_Build_Complete>		
@@ -227,6 +230,7 @@
 	<UniqueUnit Name="Jedi_Cruiser_R">
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Rebel</Affiliation>
+		<Icon_Name>i_button_jedi_cruiser.tga</Icon_Name>
 		<Tech_Level>99</Tech_Level>
 		<SFXEvent_Tactical_Build_Started> RHD_Reinforcements_En_Route </SFXEvent_Tactical_Build_Started>		
 		<SFXEvent_Tactical_Build_Complete> RHD_Reinforcements_Available </SFXEvent_Tactical_Build_Complete>		
@@ -235,8 +239,9 @@
 
 
 	<UniqueUnit Name="Jedi_Cruiser_P">
-		<Variant_Of_Existing_Type>Jedi_Cruiser</Variant_Of_Existing_Type>
+		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Pirates</Affiliation>
+		<Icon_Name>i_button_jedi_cruiser.tga</Icon_Name>
 		<Tech_Level>99</Tech_Level>
 		<SFXEvent_Tactical_Build_Started> UHD_Reinforcements_En_Route </SFXEvent_Tactical_Build_Started>		
 		<SFXEvent_Tactical_Build_Complete> UHD_Reinforcements_Available </SFXEvent_Tactical_Build_Complete>		

@@ -1,13 +1,12 @@
 <?xml version="1.0" ?>
 
 <REP_PDF_Dreadnought>
-	
-	<SpaceUnit Name="Interdictor_Cruiser">
-		<Text_ID>TEXT_UNIT_INTERDICTOR_CRUISER</Text_ID>
+	<SpaceUnit Name="Vindicator_Cruiser">
+		<Text_ID>TEXT_UNIT_VINDICATOR_CRUISER</Text_ID>
 		<Encyclopedia_Good_Against> Marauder_Missile_Cruiser Interceptor4_Frigate</Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Calamari_Cruiser Y-wing Skipray_Blastboat</Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>Ev_Interdictor.alo</Space_Model_Name>
+		<Space_Model_Name>Ev_Vindicator.alo</Space_Model_Name>
 		<Select_Box_Scale>250</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-30</Select_Box_Z_Adjust>
 		<Mass>0.9995</Mass>
@@ -27,7 +26,7 @@
 		<OverrideAcceleration> .04 </OverrideAcceleration>
 		<OverrideDeceleration> .04 </OverrideDeceleration>
 
-		<Armor_Type> Armor_Interdictor </Armor_Type>
+		<Armor_Type> Armor_Acclamator </Armor_Type>
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Max_Thrust>0.8</Max_Thrust>
 		<Hyperspace>Yes</Hyperspace>
@@ -35,7 +34,7 @@
 		<Maintenance_Cost>0.2</Maintenance_Cost>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>1</Tech_Level>
+		<Tech_Level>4</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -43,8 +42,8 @@
 		<Required_Planets />
 		<Autoresolve_Health>800</Autoresolve_Health>
 		<Damage>20</Damage>
-		<Shield_Points>800</Shield_Points>
-		<Tactical_Health>700</Tactical_Health>
+		<Shield_Points>3000</Shield_Points>
+		<Tactical_Health>3200</Tactical_Health>
 		<Shield_Refresh_Rate>60</Shield_Refresh_Rate>
 		<Energy_Capacity>10000</Energy_Capacity>
 		<Energy_Refresh_Rate>400</Energy_Refresh_Rate>
@@ -57,7 +56,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>3000</Build_Cost_Credits>
+		<Build_Cost_Credits>3100</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>3000</AI_Combat_Power>
 		<Build_Time_Seconds>50</Build_Time_Seconds>
@@ -65,7 +64,7 @@
 		<Disallows_Hyperspace_Retreat> No </Disallows_Hyperspace_Retreat>  <!-- gravity_well ability will take care of this -->
 		<Size_Value>120</Size_Value>
 		<Behavior>DUMMY_STARSHIP, SELECTABLE, POWERED, SHIELDED</Behavior>
-		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
+		<SpaceBehavior>ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, SPAWN_SQUADRON, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
 		<Lua_Script>Interdictor</Lua_Script>
 
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
@@ -77,13 +76,21 @@
 		<Targeting_Max_Attack_Distance>800.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_Interdictor_Weapon_01, HP_Interdictor_Weapon_02, HP_Interdictor_Weapon_03, HP_Interdictor_Weapon_04,HP_Interdictor_GravWell_01, HP_Interdictor_Shields_01
+			HP_Vindicator_Weapon_01, HP_Vindicator_Weapon_02, HP_Vindicator_Weapon_03, HP_Vindicator_Weapon_04, HP_Vindicator_Weapon_05, HP_Vindicator_Weapon_06, HP_Vindicator_Shields_01, HP_Vindicator_Fighter_Bay
 		</HardPoints>
+
+		<!-- Squadrons -->
+		
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0>
+
+		
 
 		<Asteroid_Damage_Hit_Particles>Large_Damage_Space</Asteroid_Damage_Hit_Particles>
 
 		<CategoryMask> Frigate | AntiCorvette </CategoryMask>
-		<Icon_Name>i_button_interdictor_cruiser.tga</Icon_Name>
+		<Icon_Name>i_button_vindicator_cruiser.tga</Icon_Name>
 		<GUI_Model_Name>EV_Interdictor.alo</GUI_Model_Name>
 		<GUI_Distance>900</GUI_Distance>
 		<GUI_Offset>0 0 0</GUI_Offset>
@@ -149,30 +156,20 @@
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<!-- Primary ability -->
 			<Unit_Ability>
-				<Type>INTERDICT</Type>
-				<Disable_Movement>Yes</Disable_Movement>
+				<Type>POWER_TO_WEAPONS</Type>
+				<Expiration_Seconds>20</Expiration_Seconds>
+				<Mod_Multiplier>WEAPON_DELAY_MULTIPLIER,	0.5f</Mod_Multiplier>
+				<Mod_Multiplier>SHIELD_REGEN_MULTIPLIER,	-3f</Mod_Multiplier>
+				<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0f</Mod_Multiplier>
+				<Mod_Multiplier>SPEED_MULTIPLIER,		0.5f</Mod_Multiplier>
+				<Recharge_Seconds>60</Recharge_Seconds>
 				
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Interdictor_Interdictor</SFXEvent_GUI_Unit_Ability_Activated>
-				<SFXEvent_GUI_Unit_Ability_Deactivated />
+				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Barrage_Victory_Destroyer</SFXEvent_GUI_Unit_Ability_Activated>
 			</Unit_Ability>
-			
-			<!-- Secondary ability -->
-			<Unit_Ability>
-				<Type>MISSILE_SHIELD</Type>
-				<Disable_Movement>Yes</Disable_Movement>
-
-				<Effective_Radius>750</Effective_Radius>
-				<Recharge_Seconds>0</Recharge_Seconds>
-				<Expiration_Seconds>0</Expiration_Seconds>
-				
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Missile_Field_Interdictor</SFXEvent_GUI_Unit_Ability_Activated>
-				<SFXEvent_GUI_Unit_Ability_Deactivated />
-				<Supports_Autofire>True</Supports_Autofire>
-		</Unit_Ability>
 			
 		</Unit_Abilities_Data>
 
-		<Encyclopedia_Text> TEXT_TOOLTIP_INTERDICTOR</Encyclopedia_Text>
+		<Encyclopedia_Text> TEXT_TOOLTIP_VINDICATOR</Encyclopedia_Text>
 		<Encyclopedia_Unit_Class> TEXT_ENCYCLOPEDIA_CLASS_FRIGATE </Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 3000</Score_Cost_Credits>
 
@@ -186,6 +183,4 @@
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 		<Population_Value>3</Population_Value>
 	</SpaceUnit>
-
-
 </REP_PDF_Dreadnought>

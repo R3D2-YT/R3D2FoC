@@ -9,7 +9,7 @@
 		<Encyclopedia_Good_Against> TIE_Fighter Skipray_Blastboat TIE_Bomber </Encyclopedia_Good_Against>
 		<Encyclopedia_Vulnerable_To> Tartan_Patrol_Cruiser Crusader_Gunship</Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>BF1_AWing.ALO</Space_Model_Name>
-		<Scale_Factor>0.7</Scale_Factor>
+		<Scale_Factor>1.4</Scale_Factor>
 		<Select_Box_Scale>70</Select_Box_Scale>
 		<Select_Box_Z_Adjust>1.0f</Select_Box_Z_Adjust>
 

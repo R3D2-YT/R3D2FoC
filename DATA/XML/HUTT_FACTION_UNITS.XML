@@ -697,6 +697,8 @@
 	<SpaceUnit Name="Hutt_Refurbished_Venator">
 		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
 		<Tech_Level>99</Tech_Level>
+		<Starting_Spawned_Units_Tech_0>Hutt_VWing_Squadron, 4</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Hutt_VWing_Squadron, 12</Reserve_Spawned_Units_Tech_0>
 		<Affiliation>Hutts</Affiliation>
 	</SpaceUnit>
 

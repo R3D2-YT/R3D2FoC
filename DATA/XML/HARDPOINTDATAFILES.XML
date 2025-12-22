@@ -18,8 +18,10 @@
 	<!-- Cruisers -->
 
 	<File>Hardpoints\HardPoints_Dreadnought.xml</File>
+	<File>Hardpoints\HardPoints_Vindicator.xml</File>
 	<File>Hardpoints\HardPoints_Imperial_Support_Cruiser.xml</File>
 	<File>Hardpoints\Hardpoints_Assault_Frigate_MKI.xml</File>
+	<File>Hardpoints\Hardpoints_Assault_Frigate_MKII.xml</File>
 
 	<!-- Light Capitals -->
 
