@@ -22,12 +22,14 @@
 	<File>Hardpoints\HardPoints_Imperial_Support_Cruiser.xml</File>
 	<File>Hardpoints\Hardpoints_Assault_Frigate_MKI.xml</File>
 	<File>Hardpoints\Hardpoints_Assault_Frigate_MKII.xml</File>
+	<File>Hardpoints\Hardpoints_MC40.xml</File>
 
 	<!-- Light Capitals -->
 
 	<File>Hardpoints\HardPoints_Gladiator.XML</File>
 	<File>Hardpoints\HardPoints_Venator.XML</File>
 	<File>Hardpoints\HardPoints_Victory_I.XML</File>
+	<File>Hardpoints\Hardpoints_Dauntless.XML</File>
 
 	<!-- Capital Ships -->
 
