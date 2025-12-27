@@ -232,6 +232,7 @@
 	<SpaceUnit Name="R_Dreadnought">
 		<Variant_Of_Existing_Type>Dreadnought_No_Fighters</Variant_Of_Existing_Type>
 		<Affiliation>Rebel</Affiliation>
+		<Tech_Level>0</Tech_Level>
 		<Space_Model_Name>Nv_DreadnaughtHeavyCruiser_Rebel.alo</Space_Model_Name>
 	</SpaceUnit>
 
