@@ -2,10 +2,10 @@
 
 <Campaigns>
 	
-<Campaign Name="Galactic_Conflict_Empire">
+<Campaign Name="MP_Galactic_Conflict">
 
         <Campaign_Set> MP_Galactic_Conflict </Campaign_Set>
-        <Sort_Order>2</Sort_Order>
+        <Sort_Order>1</Sort_Order>
 
         <Text_ID> TEXT_CAMPAIGN_SINGLE_GC </Text_ID>
         <Description_Text> TEXT_CAMPAIGN_SINGLE_DESCRIPTION_GC </Description_Text>
