@@ -90,6 +90,10 @@
 
 	<File>MOV_Cinematics.xml</File>
 
+	<!-- Ground Structures -->
+
+	<File>Structures\Land\Corporations.xml</File>
+
 	<!-- Tanks -->
 
 	<File>UNITS\LAND\Units_EMPIRE_TIE_TANK.xml</File>
