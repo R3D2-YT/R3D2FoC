@@ -121,6 +121,9 @@
 
         <Variant_Of_Existing_Type>Corp_Template</Variant_Of_Existing_Type>
 
+		<Build_Cost_Credits>7500</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
+
         <Affiliation>Empire</Affiliation>
         <Icon_Name>i_button_kdy.tga</Icon_Name>
 
@@ -133,6 +136,9 @@
         <Text_ID>TEXT_RENDILI</Text_ID>
 
         <Variant_Of_Existing_Type>Corp_Template</Variant_Of_Existing_Type>
+
+		<Build_Cost_Credits>2500</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
 
         <Affiliation>Empire, Rebel, Underworld</Affiliation>
         <Icon_Name>I_BUTTON_RENDILI_STARDRIVE.tga</Icon_Name>

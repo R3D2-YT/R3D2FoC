@@ -22,7 +22,7 @@
 
 		<Affiliation>Underworld</Affiliation>
         
-		<Max_Speed>1.25</Max_Speed>
+		<Max_Speed>0.75</Max_Speed>
 		<Movement_Animation_Speed> 1.0 </Movement_Animation_Speed>
 		<Max_Rate_Of_Turn>4.5</Max_Rate_Of_Turn>
 		<Space_Layer> Land </Space_Layer>
@@ -41,8 +41,8 @@
         <Shield_Armor_Type>Shield_Tank</Shield_Armor_Type>
 
 		<Tactical_Health>425</Tactical_Health>
-		<Shield_Points>300</Shield_Points>
-		<Shield_Refresh_Rate>17</Shield_Refresh_Rate>
+		<Shield_Points>150</Shield_Points>
+		<Shield_Refresh_Rate>12</Shield_Refresh_Rate>
 		<Energy_Capacity>999</Energy_Capacity>
 		<Energy_Refresh_Rate>999</Energy_Refresh_Rate>
 		<Ranged_Target_Z_Adjust>12.0</Ranged_Target_Z_Adjust>
@@ -64,14 +64,14 @@
 		<Projectile_Types>Proj_Mass_Driver_Tank</Projectile_Types>
 		<Projectile_Fire_Pulse_Count>2</Projectile_Fire_Pulse_Count>
 		<Projectile_Fire_Pulse_Delay_Seconds>0.2</Projectile_Fire_Pulse_Delay_Seconds>
-		<Projectile_Fire_Recharge_Seconds>1.0</Projectile_Fire_Recharge_Seconds>
+		<Projectile_Fire_Recharge_Seconds>1.5</Projectile_Fire_Recharge_Seconds>
 		
 		<Land_FOW_Reveal_Range>260.0</Land_FOW_Reveal_Range>
 		<Targeting_Max_Attack_Distance>250.0</Targeting_Max_Attack_Distance>
 
-		<Targeting_Fire_Inaccuracy> Infantry, 15.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Infantry, 50.0 </Targeting_Fire_Inaccuracy>
 		<Targeting_Fire_Inaccuracy> Vehicle, 1.0 </Targeting_Fire_Inaccuracy>
-		<Targeting_Fire_Inaccuracy> Air, 5.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Air, 25.0 </Targeting_Fire_Inaccuracy>
 		<Targeting_Fire_Inaccuracy> Structure, 5.0 </Targeting_Fire_Inaccuracy>
 
 		<SurfaceFX_Name>Hover</SurfaceFX_Name>
@@ -156,83 +156,6 @@
 
 		<Tactical_Bribe_Cost>100</Tactical_Bribe_Cost>
 
-		<!-- Non-Hero unit abilities description -->
-		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>LURE</Type>
-				<Alternate_Name_Text>TEXT_TOOLTIP_SYSTEM_CONTROL</Alternate_Name_Text>
-				<Alternate_Description_Text>TEXT_SYSTEM_CONTROL_DESCRIPTION</Alternate_Description_Text>
-
-
-				<!-- If you change this - please make sure you communicate the change to artists (to Mike specifically).
-				     Any change to this radius will require a manual adjustment to the particle effect. Thank you. -->
-				<Effective_Radius>350</Effective_Radius>
-
-				<Target_Types>
-						AT_AT_Walker,
-						AT_ST_Walker,
-						AT_AA_Walker,
-						SPMAT_Walker,
-						Snowspeeder,
-						MPTL,
-						T2B_Tank,
-						T4B_Tank,
-						TIE_Crawler,
-						M1_Repulsor_Tank,
-						Pirate_Skiff,
-						Pirate_Skiff_E,
-						Pirate_Skiff_R,
-						Pirate_Skiff_U,
-						Empire_Anti_Infantry_Turret,
-						Rebel_Anti_Infantry_Turret,
-						Pirate_Anti_Infantry_Turret,
-						Empire_Anti_Vehicle_Turret,
-						Rebel_Anti_Vehicle_Turret,
-						Pirate_Anti_Vehicle_Turret,
-						Underworld_Mass_Driver_Turret,
-						Underworld_Torpedo_Turret,
-						Underworld_Rocket_Pod,
-						Empire_Grenade_Mortar,
-						Hutt_Grenade_Mortar,
-						Rebel_Rapid_Fire_Laser_Turret,
-						Hutt_Rapid_Fire_Laser_Turret,
-						Dark_Trooper_PhaseI,
-						Dark_Trooper_PhaseII,
-						Dark_Trooper_PhaseIII,
-						HAV_Juggernaut,
-						Lancet_Air_Artillery,
-						Gallofree_HTT_Transport,
-						Canderous_Assault_Tank,
-						Destroyer_Droid,
-						MAL_Rocket_Vehicle,
-						MZ8_Pulse_Cannon_Tank,
-						Swamp_Speeder_E,
-						Swamp_Speeder_R,
-						Swamp_Speeder_U,
-						Swamp_Speeder_P,
-						Pod_Walker_Rebel,
-						Pod_Walker_Empire,
-						Pod_Walker_Underworld,
-						Pod_Walker_Pirate,
-						Hutt_Pod_Walker,
-						Hutt_Skiff,
-						Hutt_Swamp_Speeder
-				</Target_Types>
-
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<Is_Pulsing>Yes</Is_Pulsing>
-				<Pulse_Frequency_Secs>0.5</Pulse_Frequency_Secs>
-				<Max_Number_Of_Pulses>40</Max_Number_Of_Pulses>
-				<Particle_Effect>canderous_lure</Particle_Effect>
-	
-				<Mod_Multiplier>TAKE_DAMAGE_MULTIPLIER,	0.25f</Mod_Multiplier><!-- Invulnerable -->
-			</Unit_Ability>
-			
-		</Unit_Abilities_Data>
-
 	</GroundVehicle>
 
 	<GroundVehicle Name="Canderous_Assault_Tank_Captured">
@@ -243,75 +166,6 @@
 		<!-- Non-Hero unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
 			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>LURE</Type>
-				<Alternate_Name_Text>TEXT_TOOLTIP_SYSTEM_CONTROL</Alternate_Name_Text>
-				<Alternate_Description_Text>TEXT_SYSTEM_CONTROL_DESCRIPTION</Alternate_Description_Text>
-				<!-- If you change this - please make sure you communicate the change to artists (to Mike specifically).
-				     Any change to this radius will require a manual adjustment to the particle effect. Thank you. -->
-				<Effective_Radius>350</Effective_Radius>
-
-				<Target_Types>
-						AT_AT_Walker,
-						AT_ST_Walker,
-						AT_AA_Walker,
-						SPMAT_Walker,
-						Snowspeeder,
-						MPTL,
-						T2B_Tank,
-						T4B_Tank,
-						TIE_Crawler,
-						M1_Repulsor_Tank,
-						Pirate_Skiff,
-						Pirate_Skiff_E,
-						Pirate_Skiff_R,
-						Pirate_Skiff_U,
-						Empire_Anti_Infantry_Turret,
-						Rebel_Anti_Infantry_Turret,
-						Pirate_Anti_Infantry_Turret,
-						Empire_Anti_Vehicle_Turret,
-						Rebel_Anti_Vehicle_Turret,
-						Pirate_Anti_Vehicle_Turret,
-						Underworld_Mass_Driver_Turret,
-						Underworld_Torpedo_Turret,
-						Underworld_Rocket_Pod,
-						Empire_Grenade_Mortar,
-						Hutt_Grenade_Mortar,
-						Rebel_Rapid_Fire_Laser_Turret,
-						Hutt_Rapid_Fire_Laser_Turret,
-						Dark_Trooper_PhaseI,
-						Dark_Trooper_PhaseII,
-						Dark_Trooper_PhaseIII,
-						HAV_Juggernaut,
-						Lancet_Air_Artillery,
-						Gallofree_HTT_Transport,
-						Canderous_Assault_Tank,
-						Destroyer_Droid,
-						MAL_Rocket_Vehicle,
-						MZ8_Pulse_Cannon_Tank,
-						Swamp_Speeder_E,
-						Swamp_Speeder_R,
-						Swamp_Speeder_U,
-						Swamp_Speeder_P,
-						Pod_Walker_Rebel,
-						Pod_Walker_Empire,
-						Pod_Walker_Underworld,
-						Pod_Walker_Pirate,
-						Hutt_Pod_Walker,
-						Hutt_Skiff,
-						Hutt_Swamp_Speeder
-				</Target_Types>
-
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<Is_Pulsing>Yes</Is_Pulsing>
-				<Pulse_Frequency_Secs>0.5</Pulse_Frequency_Secs>
-				<Max_Number_Of_Pulses>40</Max_Number_Of_Pulses>
-				<Particle_Effect>Lure_Ability_Particle</Particle_Effect>
-	
-				<Mod_Multiplier>TAKE_DAMAGE_MULTIPLIER,	0.25f</Mod_Multiplier><!-- Invulnerable -->
-			</Unit_Ability>
 			
 			<!-- Primary ability -->
 			<Unit_Ability>
@@ -338,7 +192,7 @@
 		<Autoresolve_Health>100</Autoresolve_Health>
 		
 		<Affiliation>Underworld</Affiliation>
-		<Build_Cost_Credits>2000</Build_Cost_Credits>
+		<Build_Cost_Credits>3500</Build_Cost_Credits>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
 		<Build_Time_Reduced_By_Multiple_Factories> Yes </Build_Time_Reduced_By_Multiple_Factories>
 		<Build_Tab_Land_Units>Yes</Build_Tab_Land_Units>
@@ -354,7 +208,7 @@
 		<Is_Escort>yes</Is_Escort>
 		<Ship_Class>tank</Ship_Class>
 		<Company_Transport_Unit>Underworld_Vehicle_Transport</Company_Transport_Unit>
-		<Company_Units>Canderous_Assault_Tank, Canderous_Assault_Tank, Canderous_Assault_Tank</Company_Units>
+		<Company_Units>Canderous_Assault_Tank, Canderous_Assault_Tank</Company_Units>
 		<Max_Squad_Size> 1 </Max_Squad_Size>
 		<Score_Cost_Credits>180</Score_Cost_Credits>
 		<Population_Value>1</Population_Value>
@@ -376,81 +230,6 @@
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
-
-		<!-- Non-Hero unit abilities description -->
-		<Unit_Abilities_Data SubObjectList="Yes">
-			<!-- Primary ability -->
-			<Unit_Ability>
-				<Type>LURE</Type>
-				<Alternate_Name_Text>TEXT_TOOLTIP_SYSTEM_CONTROL</Alternate_Name_Text>
-				<Alternate_Description_Text>TEXT_SYSTEM_CONTROL_DESCRIPTION</Alternate_Description_Text>
-				<!-- If you change this - please make sure you communicate the change to artists (to Mike specifically).
-				     Any change to this radius will require a manual adjustment to the particle effect. Thank you. -->
-				<Effective_Radius>350</Effective_Radius>
-
-				<Target_Types>
-						AT_AT_Walker,
-						AT_ST_Walker,
-						AT_AA_Walker,
-						SPMAT_Walker,
-						Snowspeeder,
-						MPTL,
-						T2B_Tank,
-						T4B_Tank,
-						TIE_Crawler,
-						M1_Repulsor_Tank,
-						Pirate_Skiff,
-						Pirate_Skiff_E,
-						Pirate_Skiff_R,
-						Pirate_Skiff_U,
-						Empire_Anti_Infantry_Turret,
-						Rebel_Anti_Infantry_Turret,
-						Pirate_Anti_Infantry_Turret,
-						Empire_Anti_Vehicle_Turret,
-						Rebel_Anti_Vehicle_Turret,
-						Pirate_Anti_Vehicle_Turret,
-						Underworld_Mass_Driver_Turret,
-						Underworld_Torpedo_Turret,
-						Underworld_Rocket_Pod,
-						Empire_Grenade_Mortar,
-						Hutt_Grenade_Mortar,
-						Rebel_Rapid_Fire_Laser_Turret,
-						Hutt_Rapid_Fire_Laser_Turret,
-						Dark_Trooper_PhaseI,
-						Dark_Trooper_PhaseII,
-						Dark_Trooper_PhaseIII,
-						HAV_Juggernaut,
-						Lancet_Air_Artillery,
-						Gallofree_HTT_Transport,
-						Canderous_Assault_Tank,
-						Destroyer_Droid,
-						MAL_Rocket_Vehicle,
-						MZ8_Pulse_Cannon_Tank,
-						Swamp_Speeder_E,
-						Swamp_Speeder_R,
-						Swamp_Speeder_U,
-						Swamp_Speeder_P,
-						Pod_Walker_Rebel,
-						Pod_Walker_Empire,
-						Pod_Walker_Underworld,
-						Pod_Walker_Pirate,
-						Hutt_Pod_Walker,
-						Hutt_Skiff,
-						Hutt_Swamp_Speeder
-				</Target_Types>
-
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<Is_Pulsing>Yes</Is_Pulsing>
-				<Pulse_Frequency_Secs>0.5</Pulse_Frequency_Secs>
-				<Max_Number_Of_Pulses>40</Max_Number_Of_Pulses>
-				<Particle_Effect>canderous_lure</Particle_Effect>
-	
-				<Mod_Multiplier>TAKE_DAMAGE_MULTIPLIER,	0.25f</Mod_Multiplier><!-- Invulnerable -->
-			</Unit_Ability>
-			
-		</Unit_Abilities_Data>
 	</GroundCompany>
 
 

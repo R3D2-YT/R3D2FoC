@@ -62,7 +62,7 @@
 		<!--<Political_Control>1</Political_Control>-->
 		<Political_Faction>Empire</Political_Faction>
 		<Squadron_Capacity>40</Squadron_Capacity>
-		<Build_Cost_Credits>4100</Build_Cost_Credits>
+		<Build_Cost_Credits>5500</Build_Cost_Credits>
 		<Piracy_Value_Credits>250</Piracy_Value_Credits>
 		<AI_Combat_Power>5000</AI_Combat_Power>
 		<Build_Time_Seconds>90</Build_Time_Seconds>
@@ -108,16 +108,20 @@
 			HP_Invincible_FighterBay
 		</HardPoints>
 
-		<SFXEvent_Select>Unit_Select_Star_Destroyer</SFXEvent_Select>
-		<SFXEvent_Move>Unit_Move_Star_Destroyer</SFXEvent_Move>
-		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Star_Destroyer</SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>Unit_Attack_Star_Destroyer</SFXEvent_Attack>
-		<SFXEvent_Guard>Unit_Guard_Star_Destroyer</SFXEvent_Guard>
-		<SFXEvent_Move_Opposite>Unit_Move_Opposite_Star_Destroyer</SFXEvent_Move_Opposite>
-		<SFXEvent_Barrage>Unit_Barrage_Star_Destroyer</SFXEvent_Barrage>
-		<SFXEvent_Stop>Unit_Stop_Star_Destroyer</SFXEvent_Stop>
-		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Star_Destroyer </SFXEvent_Move_Into_Asteroid_Field>
-		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Star_Destroyer </SFXEvent_Move_Into_Nebula>
+		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
+		<SFXEvent_Build_Complete>Unit_Complete_Dreadnought</SFXEvent_Build_Complete>
+
+		<SFXEvent_Ambient_Loop>Unit_Victory_Destroyer_Moving_Engine_Loop</SFXEvent_Ambient_Loop>
+		<SFXEvent_Select>Unit_Select_Dreadnought</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Dreadnought</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Move_Dreadnought</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Dreadnought</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Attack_Dreadnought</SFXEvent_Guard>
+		<SFXEvent_Stop>Unit_Select_Dreadnought</SFXEvent_Stop>
+		<SFXEvent_Barrage>Unit_Attack_Dreadnought</SFXEvent_Barrage>
+		<SFXEvent_Move_Into_Asteroid_Field>  </SFXEvent_Move_Into_Asteroid_Field>
+		<SFXEvent_Move_Into_Nebula>  </SFXEvent_Move_Into_Nebula>
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
 		<SFXEvent_Bombard_Select_Target>	EHD_Bombard_Select_Target </SFXEvent_Bombard_Select_Target>
 		<SFXEvent_Bombard_Incoming> EHD_Bombard_Incoming  </SFXEvent_Bombard_Incoming>
@@ -144,10 +148,6 @@
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENABLE_SPECIAL_ABILITY, </SFXEvent_Hardpoint_Destroyed>
 
 		<Death_SFXEvent_Start_Die>Unit_Star_Destroyer_Death_SFX</Death_SFXEvent_Start_Die>
-         
-		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
-		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
-		<SFXEvent_Build_Complete>Unit_Complete_Star_Destroyer</SFXEvent_Build_Complete>
 
 		<SFXEvent_Engine_Idle_Loop> Unit_Star_Destroyer_Idle_Engine_Loop </SFXEvent_Engine_Idle_Loop>
 		<SFXEvent_Engine_Moving_Loop> Unit_Star_Destroyer_Moving_Engine_Loop </SFXEvent_Engine_Moving_Loop>
@@ -202,6 +202,9 @@
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Underworld</Affiliation>
 		<Tech_Level>0</Tech_Level>
+
+		<Starting_Spawned_Units_Tech_0>Z95_Headhunter_Underworld_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Z95_Headhunter_Underworld_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 		
 	</SpaceUnit>
 
@@ -210,6 +213,9 @@
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
+
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 		
 	</SpaceUnit>
 
@@ -218,6 +224,9 @@
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Rebel</Affiliation>
 		<Tech_Level>0</Tech_Level>
+
+		<Starting_Spawned_Units_Tech_0>Z95_Headhunter_Rebel_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>Z95_Headhunter_Rebel_Squadron, 6</Reserve_Spawned_Units_Tech_0>
 		
 	</SpaceUnit>
 
