@@ -43,7 +43,7 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Shield_Points>65</Shield_Points>
 		<Tactical_Health>65</Tactical_Health>
-		<Shield_Refresh_Rate>5</Shield_Refresh_Rate>
+		<Shield_Refresh_Rate>4</Shield_Refresh_Rate>
 		<Energy_Capacity>500</Energy_Capacity>
 		<Energy_Refresh_Rate>300</Energy_Refresh_Rate>
 		<Ship_Class>fighter</Ship_Class>

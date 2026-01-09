@@ -19,19 +19,47 @@
         <Ranking_In_Category>3</Ranking_In_Category>
 
 		<!-- Set to spawn all units once and then not continue - no reserves -->
-		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 2</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
-		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0> 
 		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 4</Reserve_Spawned_Units_Tech_0>
 		
 		<HardPoints> 
-			HP_Star_Destroyer_Weapon_FL, HP_Star_Destroyer_Weapon_FR, HP_Star_Destroyer_Weapon_BL,
-			HP_Star_Destroyer_Weapon_BR, HP_Star_Destroyer_Weapon_ML, HP_Star_Destroyer_Weapon_MR, 
-			HP_Star_Destroyer_Shield_Generator,
-			HP_Star_Destroyer_Fighter_Bay, HP_Star_Destroyer_Tractor_Beam,
-			HP_Star_Destroyer_DUMMY_00, HP_Star_Destroyer_DUMMY_01, HP_Star_Destroyer_DUMMY_02,
-			HP_Star_Destroyer_DUMMY_03, HP_Star_Destroyer_DUMMY_04, HP_Star_Destroyer_DUMMY_05
+			HP_Star_Destroyer_00,
+			HP_Star_Destroyer_01,
+			HP_Star_Destroyer_02,
+			HP_Star_Destroyer_03,
+			HP_Star_Destroyer_04,
+			HP_Star_Destroyer_05,
+			HP_Star_Destroyer_06,
+			HP_Star_Destroyer_07,
+			HP_Star_Destroyer_08,
+			HP_Star_Destroyer_09,
+			HP_Star_Destroyer_10,
+			HP_Star_Destroyer_11,
+			HP_Star_Destroyer_12,
+			<!--HP_Star_Destroyer_13,
+			HP_Star_Destroyer_14,
+			HP_Star_Destroyer_15,
+			HP_Star_Destroyer_16,
+			HP_Star_Destroyer_17,-->
+			<!--HP_Star_Destroyer_18,
+			HP_Star_Destroyer_19,
+			HP_Star_Destroyer_20,-->
+			HP_Star_Destroyer_21,
+			HP_Star_Destroyer_22,
+			HP_Star_Destroyer_23,
+			HP_Star_Destroyer_24,
+			HP_Star_Destroyer_25,
+			HP_Star_Destroyer_26,
+			HP_Star_Destroyer_Shield_Generator_00,
+			HP_Star_Destroyer_Fighter_Bay,
+			<!--HP_Star_Destroyer_Engines_00,
+			HP_Star_Destroyer_Engines_01,
+			HP_Star_Destroyer_Engines_02-->
 		</HardPoints>
 
 		<Tech_Level>99</Tech_Level>

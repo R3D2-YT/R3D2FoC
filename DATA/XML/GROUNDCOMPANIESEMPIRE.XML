@@ -415,7 +415,7 @@
 		<Damage>18</Damage>
 		<Autoresolve_Health>100</Autoresolve_Health> <!-- changed to reflect the real health of the units-->
 		<Affiliation>Empire</Affiliation>
-		<Build_Cost_Credits>60</Build_Cost_Credits>
+		<Build_Cost_Credits>120</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
 		<Build_Time_Reduced_By_Multiple_Factories> Yes </Build_Time_Reduced_By_Multiple_Factories>

@@ -15,7 +15,7 @@
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
-		<Max_Speed>2.8</Max_Speed>
+		<Max_Speed>1.8</Max_Speed>
 		<Max_Rate_Of_Turn>0.5</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Frigate </Space_Layer>
@@ -57,7 +57,7 @@
 		<Number_per_Squadron>1</Number_per_Squadron>
 		<Build_Cost_Credits>1800</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
-		<AI_Combat_Power>2200</AI_Combat_Power>
+		<AI_Combat_Power>1200</AI_Combat_Power>
 		<Build_Time_Seconds>30</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>

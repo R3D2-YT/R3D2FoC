@@ -28,7 +28,7 @@
 		<Armor_Type> Armor_Star_Destroyer </Armor_Type>
 		<Shield_Armor_Type>Shield_Capital</Shield_Armor_Type>
 
-		<Max_Speed>1.4</Max_Speed>
+		<Max_Speed>1.0</Max_Speed>
 		<Max_Rate_Of_Turn>0.3</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Capital </Space_Layer>
@@ -52,7 +52,7 @@
 		<Required_Planets></Required_Planets>
 		<Damage>70</Damage>
 		<Autoresolve_Health>7500</Autoresolve_Health>
-		<Shield_Points>4000</Shield_Points>
+		<Shield_Points>3000</Shield_Points>
 		<Tactical_Health>4200</Tactical_Health> <!-- was 6000 -->
 		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
 		<Energy_Capacity>8000</Energy_Capacity>
@@ -64,7 +64,7 @@
 		<Squadron_Capacity>40</Squadron_Capacity>
 		<Build_Cost_Credits>5500</Build_Cost_Credits>
 		<Piracy_Value_Credits>250</Piracy_Value_Credits>
-		<AI_Combat_Power>5000</AI_Combat_Power>
+		<AI_Combat_Power>3800</AI_Combat_Power>
 		<Build_Time_Seconds>90</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>

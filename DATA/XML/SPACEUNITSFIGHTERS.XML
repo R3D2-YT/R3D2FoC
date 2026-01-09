@@ -101,7 +101,7 @@
 		<SFXEvent_Ambient_Moving_Max_Delay_Seconds> 10 </SFXEvent_Ambient_Moving_Max_Delay_Seconds>
 		<SFXEvent_Engine_Cinematic_Focus_Loop> Unit_A_Wing_Cinematic_Engine_Loop </SFXEvent_Engine_Cinematic_Focus_Loop>
 
-		<CategoryMask> Fighter | AntiBomber</CategoryMask>
+		<CategoryMask> Fighter | AntiBomber </CategoryMask>
 		<Property_Flags> SmallShip </Property_Flags>
 		<Icon_Name>i_button_a_wing.tga</Icon_Name>
 		<Victory_Relevant>yes</Victory_Relevant>
@@ -352,7 +352,7 @@
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 		<Mass>0.985</Mass>
-		<Max_Speed>4.5</Max_Speed>
+		<Max_Speed>5.0</Max_Speed>
 		<Min_Speed>2.5</Min_Speed>
 		<Max_Rate_Of_Turn>3.0</Max_Rate_Of_Turn>
 		<Max_Lift>4</Max_Lift>
@@ -507,7 +507,7 @@
 		<Ranged_Target_Z_Adjust>0</Ranged_Target_Z_Adjust>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
 		<Mass>0.985</Mass>
-		<Max_Speed>3.0</Max_Speed>
+		<Max_Speed>3.5</Max_Speed>
 		<Min_Speed>2.0</Min_Speed>
 		<Max_Rate_Of_Turn>1.3</Max_Rate_Of_Turn>
 		<Max_Lift>3</Max_Lift>
@@ -638,7 +638,7 @@
 		<Turret_Rotate_Extent_Degrees>20</Turret_Rotate_Extent_Degrees>
 		<Turret_Elevate_Extent_Degrees>40</Turret_Elevate_Extent_Degrees>
 		<Max_Lift>3</Max_Lift>
-		<Max_Speed>3.0</Max_Speed>
+		<Max_Speed>3.7</Max_Speed>
 		<Min_Speed>2.0</Min_Speed>
 		<Max_Rate_Of_Turn>1.3</Max_Rate_Of_Turn>
 		<Max_Thrust>1.0</Max_Thrust>
@@ -1052,7 +1052,7 @@
 
         <Damage_Type>Damage_Fighter</Damage_Type>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
-		<Max_Speed>2.5</Max_Speed>
+		<Max_Speed>4.5</Max_Speed>
 		<Min_Speed>2.0</Min_Speed>
 		<Max_Rate_Of_Turn>2.5</Max_Rate_Of_Turn>
 		<Max_Thrust>1.0</Max_Thrust>
@@ -1178,7 +1178,7 @@
 
         <Damage_Type>Damage_Fighter</Damage_Type>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
-		<Max_Speed>3.5</Max_Speed>
+		<Max_Speed>4.5</Max_Speed>
 		<Min_Speed>2.0</Min_Speed>
 		<Max_Rate_Of_Turn>2.5</Max_Rate_Of_Turn>
 		<Max_Thrust>1.0</Max_Thrust>

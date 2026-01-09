@@ -30,7 +30,7 @@
 		<Turret_Rotate_Extent_Degrees>20</Turret_Rotate_Extent_Degrees>
 		<Turret_Elevate_Extent_Degrees>40</Turret_Elevate_Extent_Degrees>
 		<Max_Lift>3</Max_Lift>
-		<Max_Speed>3.8</Max_Speed>
+		<Max_Speed>4.0</Max_Speed>
 		<Min_Speed>2.5</Min_Speed>
 		<Max_Rate_Of_Turn>3.0</Max_Rate_Of_Turn>
 		<Max_Thrust>1.0</Max_Thrust>

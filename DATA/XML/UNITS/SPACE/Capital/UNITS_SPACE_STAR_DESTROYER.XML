@@ -107,7 +107,7 @@
 		<Political_Faction>Neutral</Political_Faction>
 		<Squadron_Capacity>40</Squadron_Capacity>
 		<Piracy_Value_Credits>250</Piracy_Value_Credits>
-		<AI_Combat_Power>5900</AI_Combat_Power>
+		<AI_Combat_Power>5000</AI_Combat_Power>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>
@@ -237,13 +237,13 @@
 		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
 		<Lua_Script>StarDestroyer</Lua_Script>
 
-		<Population_Value>4</Population_Value>
+		<Population_Value>5</Population_Value>
 
 		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 3</Starting_Spawned_Units_Tech_0>
 		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
 
-		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 9</Reserve_Spawned_Units_Tech_0> 
-		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 5</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Reserve_Spawned_Units_Tech_0> 
 
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 

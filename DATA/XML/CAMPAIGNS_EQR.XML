@@ -2737,7 +2737,6 @@
         <Starting_Forces> Hutts, EQR_Bakura, Interceptor4_Frigate </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_Refurbished_Venator </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_Refurbished_Venator </Starting_Forces>
-                
         <!-- Bakura Land Forces -->
         <Starting_Forces> Hutts, EQR_Bakura, Pirate_Command_Center </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_Soldier_Squad </Starting_Forces>
@@ -2746,6 +2745,7 @@
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_PLEX_Soldier_Squad </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_Skiff_Team </Starting_Forces>
         <Starting_Forces> Hutts, EQR_Bakura, Hutt_Skiff_Team </Starting_Forces>
+
     </Campaign>
 
 

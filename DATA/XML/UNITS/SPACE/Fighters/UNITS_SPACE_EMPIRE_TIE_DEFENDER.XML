@@ -2,9 +2,7 @@
 
 <TIE_Defender_Files>
 
-
-
-<!-- **** BASE SHIP INFORMATION **** -->
+	<!-- **** BASE SHIP INFORMATION **** -->
 
 	<SpaceUnit Name="TIE_Defender">
 
@@ -23,7 +21,7 @@
 
 		<Dense_FOW_Reveal_Range_Multiplier>0.5</Dense_FOW_Reveal_Range_Multiplier>
 		<Mass>0.98</Mass>
-		<Max_Speed>4.5</Max_Speed>
+		<Max_Speed>5.5</Max_Speed>
 		<Min_Speed>3.0</Min_Speed>
 		<Max_Rate_Of_Turn>4.5</Max_Rate_Of_Turn>
 		<Max_Thrust>1.0</Max_Thrust>
@@ -58,7 +56,7 @@
 		<Build_Cost_Credits>100</Build_Cost_Credits>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
 		<Size_Value>4</Size_Value>
-		<SpaceBehavior>FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA, ABILITY_COUNTDOWN </SpaceBehavior>
+		<SpaceBehavior>HUNT, FIGHTER_LOCOMOTOR, SELECTABLE, TARGETING, WEAPON, POWERED, SHIELDED, HIDE_WHEN_FOGGED, AMBIENT_SFX, DAMAGE_TRACKING, NEBULA, ABILITY_COUNTDOWN </SpaceBehavior>
 			
 		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
 		<Damage>7</Damage>
@@ -67,7 +65,9 @@
 			HP_TIE_DEFENDER_TORP_00,
 			HP_TIE_DEFENDER_TORP_01,
 			HP_TIE_DEFENDER_ION_00,
-			HP_TIE_DEFENDER_ION_01
+			HP_TIE_DEFENDER_ION_01,
+			HP_TIE_DEFENDER_MISSILE_00,
+			HP_TIE_DEFENDER_MISSILE_01
 		</HardPoints>
 
 		<Land_FOW_Reveal_Range>130.0</Land_FOW_Reveal_Range>
@@ -140,49 +140,18 @@
 
  		<!-- Unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
-		
-			<!-- Primary ability -->
 			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-				<GUI_Activated_Ability_Name>Tie_Defender_Ion_Cannon_Shot</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Ion_Cannon_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<Projectile_Types_Override>Proj_Ion_Cannon_Medium_Laser_Blue</Projectile_Types_Override>
-                <Recharge_Seconds>25.0</Recharge_Seconds>
-                <Supports_Autofire>True</Supports_Autofire>
+				<Type>HUNT</Type>
 			</Unit_Ability>
-		
 			<Unit_Ability>
-				<Type>POWER_TO_WEAPONS</Type>
-			
-				<Mod_Multiplier>SPEED_MULTIPLIER,		0.4f</Mod_Multiplier>
-				<Mod_Multiplier>SHIELD_REGEN_MULTIPLIER,	-25.0</Mod_Multiplier>
-				<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0</Mod_Multiplier>
-				<Mod_Multiplier>WEAPON_DELAY_MULTIPLIER,	0.2f</Mod_Multiplier>
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Barrage_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<SFXEvent_GUI_Unit_Ability_Deactivated />
+				<Type>ROCKET_ATTACK</Type>
+				<Alternate_Name_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_NAME</Alternate_Name_Text>
+				<Alternate_Description_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_DESCRIPTION</Alternate_Description_Text>
 			</Unit_Ability>
-		
-		
 		</Unit_Abilities_Data>
-
-        <Abilities SubObjectList="Yes">
-            <Ion_Cannon_Shot_Attack_Ability Name="Tie_Defender_Ion_Cannon_Shot">
-                <Activation_Style> User_Input </Activation_Style>
-                <!-- We only consider the following unit types "valid targets": -->
-                <Applicable_Unit_Categories>All</Applicable_Unit_Categories>
-                <Applicable_Unit_Types />
-            </Ion_Cannon_Shot_Attack_Ability>
-        </Abilities>
 
 
 	</SpaceUnit>
-
-
-
-
 
 <!-- **** SQUADRON INFORMATION **** -->
 
@@ -204,19 +173,26 @@
 		<Damage>50</Damage>
 		<Affiliation>Empire</Affiliation>
 		<Political_Control>0</Political_Control>
-		<Build_Cost_Credits>650</Build_Cost_Credits>
+		<Build_Cost_Credits>1650</Build_Cost_Credits>
 		<Build_Time_Seconds>20</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
-		<Tech_Level>5</Tech_Level>
+		<Tech_Level>1</Tech_Level>
+		
+		<Required_Planets>
+				
+		</Required_Planets>
+		
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Tier_I_Shipyard</Required_Special_Structures>
 
 		<Behavior>DUMMY_SPACE_FIGHTER_SQUADRON</Behavior>
 
-		<Squadron_Units>TIE_Defender, TIE_Defender, TIE_Defender</Squadron_Units>
-		<Squadron_Offsets>60.0,0.0,0.0</Squadron_Offsets>
-		<Squadron_Offsets>0.0,40.0,0.0</Squadron_Offsets>
-		<Squadron_Offsets>0.0,-40.0,0.0</Squadron_Offsets>
+		<Squadron_Units>TIE_Defender, TIE_Defender, TIE_Defender, TIE_Defender, TIE_Defender</Squadron_Units>
+		<Squadron_Offsets>30.0,0.0,0.0</Squadron_Offsets>
+		<Squadron_Offsets>0.0,15.0,0.0</Squadron_Offsets>
+		<Squadron_Offsets>0.0,-15.0,0.0</Squadron_Offsets>
+		<Squadron_Offsets>-30.0,30.0,0.0</Squadron_Offsets>
+		<Squadron_Offsets>-30.0,-30.0,0.0</Squadron_Offsets>
 
 		<SFXEvent_Build_Started>EHD_Build_Vehicle</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Unit_Canceled</SFXEvent_Build_Cancelled>
@@ -234,7 +210,7 @@
 		<Score_Cost_Credits> 1000</Score_Cost_Credits>
 
 		<Create_Team_Type>TIE_Defender_Squadron_Container</Create_Team_Type>
-     	<Max_Squad_Size> 3 </Max_Squad_Size>
+     	<Max_Squad_Size> 5 </Max_Squad_Size>
 
 		<Tactical_Bribe_Cost>600</Tactical_Bribe_Cost>
 
@@ -250,41 +226,18 @@
 
  		<!-- Unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
-		
-			<!-- Primary ability -->
+
 			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-				<GUI_Activated_Ability_Name>Tie_Defender_Ion_Cannon_Shot</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Ion_Cannon_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<Projectile_Types_Override>Proj_Ion_Cannon_Medium_Laser_Blue</Projectile_Types_Override>
-                <Recharge_Seconds>25.0</Recharge_Seconds>
-                <Supports_Autofire>True</Supports_Autofire>
+				<Type>HUNT</Type>
 			</Unit_Ability>
-		
+
 			<Unit_Ability>
-				<Type>POWER_TO_WEAPONS</Type>
-			
-				<Mod_Multiplier>SPEED_MULTIPLIER,		0.4f</Mod_Multiplier>
-				<Mod_Multiplier>SHIELD_REGEN_MULTIPLIER,	-25.0</Mod_Multiplier>
-				<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0</Mod_Multiplier>
-				<Mod_Multiplier>WEAPON_DELAY_MULTIPLIER,	0.2f</Mod_Multiplier>
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Barrage_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<SFXEvent_GUI_Unit_Ability_Deactivated />
+				<Type>ROCKET_ATTACK</Type>
+				<Alternate_Name_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_NAME</Alternate_Name_Text>
+				<Alternate_Description_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_DESCRIPTION</Alternate_Description_Text>
 			</Unit_Ability>
 		
 		</Unit_Abilities_Data>
-
-        <Abilities SubObjectList="Yes">
-            <Ion_Cannon_Shot_Attack_Ability Name="Tie_Defender_Ion_Cannon_Shot">
-                <Activation_Style> User_Input </Activation_Style>
-                <!-- We only consider the following unit types "valid targets": -->
-                <Applicable_Unit_Categories>All</Applicable_Unit_Categories>
-                <Applicable_Unit_Types />
-            </Ion_Cannon_Shot_Attack_Ability>
-        </Abilities>
 
 	</Squadron>
 
@@ -299,7 +252,7 @@
 		<Encyclopedia_Vulnerable_To> Corellian_Corvette Crusader_Gunship Buzz_Droids </Encyclopedia_Vulnerable_To>
 		<Icon_Name>i_button_EV_TIE_Defender.tga</Icon_Name>
 		
-		<Behavior>TEAM, TEAM_LOCOMOTOR, SELECTABLE, TARGETING, UNIT_AI</Behavior>
+		<Behavior>HUNT, TEAM, TEAM_LOCOMOTOR, SELECTABLE, TARGETING, UNIT_AI</Behavior>
 		<SpaceBehavior> REVEAL, ABILITY_COUNTDOWN</SpaceBehavior>
 			
 		<CategoryMask> Fighter | AntiBomber | AntiCapital </CategoryMask>
@@ -310,41 +263,18 @@
 
  		<!-- Unit abilities description -->
 		<Unit_Abilities_Data SubObjectList="Yes">
-		
-			<!-- Primary ability -->
+
 			<Unit_Ability>
-				<Type>ION_CANNON_SHOT</Type>
-				<GUI_Activated_Ability_Name>Tie_Defender_Ion_Cannon_Shot</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Ion_Cannon_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<Projectile_Types_Override>Proj_Ion_Cannon_Medium_Laser_Blue</Projectile_Types_Override>
-                <Recharge_Seconds>25.0</Recharge_Seconds>
-                <Supports_Autofire>True</Supports_Autofire>
+				<Type>HUNT</Type>
 			</Unit_Ability>
-		
+
 			<Unit_Ability>
-				<Type>POWER_TO_WEAPONS</Type>
-			
-				<Mod_Multiplier>SPEED_MULTIPLIER,		0.4f</Mod_Multiplier>
-				<Mod_Multiplier>SHIELD_REGEN_MULTIPLIER,	-25.0</Mod_Multiplier>
-				<Mod_Multiplier>ENERGY_REGEN_MULTIPLIER,	1.0</Mod_Multiplier>
-				<Mod_Multiplier>WEAPON_DELAY_MULTIPLIER,	0.2f</Mod_Multiplier>
-				<Recharge_Seconds>50</Recharge_Seconds>
-				<Expiration_Seconds>6</Expiration_Seconds>
-				
-				<SFXEvent_GUI_Unit_Ability_Activated>Unit_Barrage_Tie_Defender</SFXEvent_GUI_Unit_Ability_Activated>
-				<SFXEvent_GUI_Unit_Ability_Deactivated />
+				<Type>ROCKET_ATTACK</Type>
+				<Alternate_Name_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_NAME</Alternate_Name_Text>
+				<Alternate_Description_Text>TEXT_TOOLTIP_ABILITY_SWAP_TO_TORPS_DESCRIPTION</Alternate_Description_Text>
 			</Unit_Ability>
 		
 		</Unit_Abilities_Data>
-
-        <Abilities SubObjectList="Yes">
-            <Ion_Cannon_Shot_Attack_Ability Name="Tie_Defender_Ion_Cannon_Shot">
-                <Activation_Style> User_Input </Activation_Style>
-                <!-- We only consider the following unit types "valid targets": -->
-                <Applicable_Unit_Categories>All</Applicable_Unit_Categories>
-                <Applicable_Unit_Types />
-            </Ion_Cannon_Shot_Attack_Ability>
-        </Abilities>
 		
 	</Container>
 

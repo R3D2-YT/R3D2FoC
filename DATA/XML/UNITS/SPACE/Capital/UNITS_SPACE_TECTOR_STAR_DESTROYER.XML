@@ -87,9 +87,9 @@
 		<Maintenance_Cost>0.3</Maintenance_Cost>
 		<Damage>70</Damage>
 		<Autoresolve_Health>7500</Autoresolve_Health>
-		<Shield_Points>2000</Shield_Points>
+		<Shield_Points>5000</Shield_Points>
 		<Tactical_Health>7500</Tactical_Health> <!-- was 6000 -->
-		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
+		<Shield_Refresh_Rate>63</Shield_Refresh_Rate>
 		<Energy_Capacity>8000</Energy_Capacity>
 		<Energy_Refresh_Rate>800</Energy_Refresh_Rate>
 		<Ship_Class>capital</Ship_Class>
@@ -98,7 +98,7 @@
 		<Political_Faction>Neutral</Political_Faction>
 		<Squadron_Capacity>40</Squadron_Capacity>
 		<Piracy_Value_Credits>250</Piracy_Value_Credits>
-		<AI_Combat_Power>5900</AI_Combat_Power>
+		<AI_Combat_Power>4850</AI_Combat_Power>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		<CategoryMask> Capital | AntiFrigate </CategoryMask>

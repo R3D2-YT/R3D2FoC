@@ -15,7 +15,7 @@
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
-		<Max_Speed>2.8</Max_Speed>
+		<Max_Speed>3.0</Max_Speed>
 		<Max_Rate_Of_Turn>0.5</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Frigate </Space_Layer>
@@ -34,8 +34,8 @@
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Damage>25</Damage>
 		<Autoresolve_Health>1000</Autoresolve_Health>
-		<Shield_Points>500</Shield_Points>
-		<Tactical_Health>1800</Tactical_Health>  <!-- was 2600 -->
+		<Shield_Points>550</Shield_Points>
+		<Tactical_Health>900</Tactical_Health>  <!-- was 2600 -->
 		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
 		<Energy_Capacity>3000</Energy_Capacity>
 		<Energy_Refresh_Rate>500</Energy_Refresh_Rate>
@@ -174,7 +174,7 @@
 		<!--<Build_Limit_Current_Per_Player>0</Build_Limit_Current_Per_Player>-->
 		<!--<Build_Limit_Lifetime_Per_Player>0</Build_Limit_Lifetime_Per_Player>-->  
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
-		<Population_Value>3</Population_Value>
+		<Population_Value>2</Population_Value>
 	</SpaceUnit>
 	<!--
 	<SpaceUnit Name="Rep_Arquitens">

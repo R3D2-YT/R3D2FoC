@@ -42,7 +42,7 @@
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Damage>40</Damage>
 		<Autoresolve_Health>3500</Autoresolve_Health>
-		<Shield_Points>3000</Shield_Points>
+		<Shield_Points>2500</Shield_Points>
 		<Tactical_Health>900</Tactical_Health>
 		<Shield_Refresh_Rate>60</Shield_Refresh_Rate>
 		<Energy_Capacity>3000</Energy_Capacity>

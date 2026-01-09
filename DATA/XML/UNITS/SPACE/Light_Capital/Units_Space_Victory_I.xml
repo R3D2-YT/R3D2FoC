@@ -35,7 +35,7 @@
         <Shield_Armor_Type>Shield_Frigate</Shield_Armor_Type>
 		<Damage>40</Damage>
 		<Autoresolve_Health>3400</Autoresolve_Health>
-		<Shield_Points>800</Shield_Points>
+		<Shield_Points>2000</Shield_Points>
 		<Tactical_Health>3400</Tactical_Health>  <!-- was 2600 -->
 		<Shield_Refresh_Rate>50</Shield_Refresh_Rate>
 		<Energy_Capacity>3000</Energy_Capacity>
@@ -209,7 +209,7 @@
 		<Spawned_Squadron_Delay_Seconds>5</Spawned_Squadron_Delay_Seconds>
 		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 6</Reserve_Spawned_Units_Tech_0> 
 		<SpaceBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
-		<Population_Value>3</Population_Value>
+		<Population_Value>4</Population_Value>
 		<Tactical_Build_Prerequisites>  </Tactical_Build_Prerequisites>
 		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
 		

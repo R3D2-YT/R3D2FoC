@@ -16,7 +16,7 @@
         <Reinforcement_Prevention_Radius> 1800 </Reinforcement_Prevention_Radius>
 
         <Ranking_In_Category>6</Ranking_In_Category>
-		<Max_Speed>2.2</Max_Speed>
+		<Max_Speed>2.5</Max_Speed>
 		<Max_Rate_Of_Turn>0.6</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Frigate </Space_Layer>
@@ -42,7 +42,7 @@
 		<Required_Planets />
 		<Autoresolve_Health>800</Autoresolve_Health>
 		<Damage>20</Damage>
-		<Shield_Points>3000</Shield_Points>
+		<Shield_Points>1500</Shield_Points>
 		<Tactical_Health>3200</Tactical_Health>
 		<Shield_Refresh_Rate>60</Shield_Refresh_Rate>
 		<Energy_Capacity>10000</Energy_Capacity>

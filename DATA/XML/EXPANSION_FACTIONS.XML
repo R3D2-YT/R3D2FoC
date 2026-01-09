@@ -756,7 +756,7 @@
 		<Credits_Accumulation_Factor> 0.85 </Credits_Accumulation_Factor>
 		<Planet_Icon_Scale> 10.0 </Planet_Icon_Scale>
 		<Planet_Icon_Offset> 7.0, 10.0, -1.1 </Planet_Icon_Offset>
-		<Is_Playable>false</Is_Playable>
+		<Is_Playable>true</Is_Playable>
 		<Primary_Enemy> Rebel </Primary_Enemy>
 		<Hyperspace_Speed_Factor>0.07</Hyperspace_Speed_Factor>
 		<Is_Neutral> No </Is_Neutral>
@@ -780,14 +780,14 @@
 
 		<Scatters_From_Crushers> false </Scatters_From_Crushers>
 		
-		<Infantry_Icon_Name>i_button_storm_trooper.tga</Infantry_Icon_Name>
+		<Infantry_Icon_Name>i_button_rebel_soldier.tga</Infantry_Icon_Name>
 		<Vehicle_Icon_Name>i_e_vehicle.tga</Vehicle_Icon_Name>
 		<Carrier_Icon_Name>i_e_carrier.tga</Carrier_Icon_Name>
 		<Frigate_Icon_Name>i_e_frigate.tga</Frigate_Icon_Name>
 		<Corvette_Icon_Name>i_e_corvette.tga</Corvette_Icon_Name>
 		<Fighter_Icon_Name>i_button_tie_fighter.tga</Fighter_Icon_Name>
-        <Tech_Tree_Dialog_Name>IDD_TECH_TREE_EMPIRE</Tech_Tree_Dialog_Name>
-        <Helper_Icon_Name>i_empire_help_droid.tga</Helper_Icon_Name>
+        <Tech_Tree_Dialog_Name></Tech_Tree_Dialog_Name>
+        <Helper_Icon_Name>i_rebel_help_droid.tga</Helper_Icon_Name>
 
 		<Space_Retreat_Countdown_Seconds> 10.99 </Space_Retreat_Countdown_Seconds> 
 		<Space_Retreat_Pursue_Max_Speed_Mod_Factor> 3.0 </Space_Retreat_Pursue_Max_Speed_Mod_Factor> 
@@ -862,6 +862,7 @@
 		</Space_Skirmish_AI_Default_Forces>
 
 		<Land_Skirmish_Unit_Buy_Credits> 50000 </Land_Skirmish_Unit_Buy_Credits>
+
 		<Land_Skirmish_AI_Default_Forces> 
 			Imperial_Stormtrooper_Squad, Imperial_Stormtrooper_Squad
 		</Land_Skirmish_AI_Default_Forces>

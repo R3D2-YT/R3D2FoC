@@ -54,7 +54,7 @@
 		<Squadron_Capacity>5</Squadron_Capacity>
 		<Transport_Capacity>4</Transport_Capacity>
 		<Number_per_Squadron>1</Number_per_Squadron>
-		<Build_Cost_Credits>1250</Build_Cost_Credits>
+		<Build_Cost_Credits>1650</Build_Cost_Credits>
 		<Piracy_Value_Credits>50</Piracy_Value_Credits>
 		<AI_Combat_Power>1250</AI_Combat_Power>
 		<Build_Time_Seconds>15</Build_Time_Seconds>
