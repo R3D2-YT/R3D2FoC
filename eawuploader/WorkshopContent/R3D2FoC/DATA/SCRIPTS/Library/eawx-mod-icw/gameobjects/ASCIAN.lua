@@ -1,0 +1,3 @@
+return {
+	Scripts = {"diplomacy"}
+}

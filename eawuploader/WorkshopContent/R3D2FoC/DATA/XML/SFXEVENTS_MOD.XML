@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+
+<SFXEvents>
+
+	<!-- Ton Falk -->
+
+	<SFXEvent Name="Unit_Complete_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Select_1.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Select_2.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Select_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Move_1.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Move_2.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Ton_Falk">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Attack_1.wav 
+			 	DATA/AUDIO/Space/TonFalk/TonFalk_Attack_2.wav 
+				DATA/AUDIO/Space/TonFalk/TonFalk_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Battle Droids -->
+
+	<SFXEvent Name="Unit_Complete_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_2.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_3.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_4.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_5.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_6.wav
+				DATA/AUDIO/Land/Battledroid/Battledroid_select_7.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_attack_1.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_attack_2.wav 
+				DATA/AUDIO/Land/Battledroid/Battledroid_attack_3.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Battle_Droid">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/Battledroid/Battledroid_select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Dreadnought -->
+
+	<SFXEvent Name="Unit_Complete_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_1.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_2.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_3.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_4.wav
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_1.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_2.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Move_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Dreadnought">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_1.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_2.wav 
+				DATA/AUDIO/Space/Dreadnought/Dreadnought_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Gladiator -->
+
+	<SFXEvent Name="Unit_Complete_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Select_1.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_2.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_3.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_4.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Move_1.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Move_2.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Gladiator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Gladiator/Gladiator_Attack_1.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_2.wav 
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_3.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_4.wav
+				DATA/AUDIO/Space/Gladiator/Gladiator_Attack_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Venator -->
+
+	<SFXEvent Name="Unit_Complete_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_2.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_3.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_4.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_5.wav
+				DATA/AUDIO/Space/Venator/Venator_Select_6.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Select_1.wav 
+				DATA/AUDIO/Space/Venator/Venator_Select_4.wav 
+				DATA/AUDIO/Space/Venator/Venator_Select_5.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Venator">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Venator/Venator_Attack_1.wav 
+				DATA/AUDIO/Space/Venator/Venator_Attack_2.wav 
+				DATA/AUDIO/Space/Venator/Venator_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Dauntless -->
+
+	<SFXEvent Name="Unit_Complete_Dauntless">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dauntless/Dauntless_Select_1.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Dauntless">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dauntless/Dauntless_Select_1.wav
+				DATA/AUDIO/Space/Dauntless/Dauntless_Select_2.wav
+				DATA/AUDIO/Space/Dauntless/Dauntless_Select_3.wav
+				DATA/AUDIO/Space/Dauntless/Dauntless_Select_4.wav
+				DATA/AUDIO/Space/Dauntless/Dauntless_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Dauntless">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Dauntless/Dauntless_Move_1.wav 
+				DATA/AUDIO/Space/Dauntless/Dauntless_Move_2.wav 
+				DATA/AUDIO/Space/Dauntless/Dauntless_Move_3.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Dauntless">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+				DATA/AUDIO/Space/Dauntless/Dauntless_Select_2.wav
+			</Samples>
+	</SFXEvent>
+
+	<!-- Lancer -->
+
+	<SFXEvent Name="Unit_Complete_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_select_4.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Select_1.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_2.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_3.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_4.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Select_5.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Move_1.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Move_2.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Move_3.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_4.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_5.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_6.wav
+				DATA/AUDIO/Space/Lancer/Lancer_Move_7.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Lancer">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Space/Lancer/Lancer_Attack_1.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Attack_2.wav 
+				DATA/AUDIO/Space/Lancer/Lancer_Attack_3.wav
+			</Samples>
+	</SFXEvent>
+
+		<!-- Army Trooper -->
+
+	<SFXEvent Name="Unit_Complete_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_2.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Select_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_1.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_2.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Select_3.wav
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Attack_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_1.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_2.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_3.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_4.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_5.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_6.wav 
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_attack_7.wav 
+			</Samples>
+	</SFXEvent>
+
+	<SFXEvent Name="Unit_Move_Army_Trooper">
+			 <Use_Preset>Preset_UR</Use_Preset>
+			 <Samples>
+			 	DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_1.wav
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_2.wav
+				DATA/AUDIO/Land/ArmyTrooper/ArmyTrooper_Move_3.wav
+			</Samples>
+	</SFXEvent>
+
+</SFXEvents>

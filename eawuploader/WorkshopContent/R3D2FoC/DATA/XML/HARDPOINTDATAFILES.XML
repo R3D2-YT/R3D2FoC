@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+
+<Hard_Point_Files>
+	<File>HardPoints.xml</File>
+	<File>CIN_HardPoints.xml</File>
+	<File>HardPoints_Underworld.xml</File>
+
+	<!-- Fighters -->
+
+	<!-- Frigates -->
+
+	<File>Hardpoints\HardPoints_Lancer.xml</File>
+
+	<!-- Light Cruisers -->
+
+	<File>Hardpoints\HardPoints_Arquitens.xml</File>
+
+	<!-- Cruisers -->
+
+	<File>Hardpoints\HardPoints_Dreadnought.xml</File>
+	<File>Hardpoints\Hardpoints_TonFalk.xml</File>
+	<File>Hardpoints\Hardpoints_Quasar.xml</File>
+	<File>Hardpoints\HardPoints_Strike.xml</File>
+	<File>Hardpoints\HardPoints_Vindicator.xml</File>
+	<File>Hardpoints\HardPoints_Imperial_Support_Cruiser.xml</File>
+	<File>Hardpoints\Hardpoints_Assault_Frigate_MKI.xml</File>
+	<File>Hardpoints\Hardpoints_Assault_Frigate_MKII.xml</File>
+	<File>Hardpoints\Hardpoints_MC40.xml</File>
+
+	<!-- Light Capitals -->
+
+	<File>Hardpoints\HardPoints_Gladiator.XML</File>
+	<File>Hardpoints\HardPoints_Venator.XML</File>
+	<File>Hardpoints\HardPoints_Victory_I.XML</File>
+	<File>Hardpoints\Hardpoints_Dauntless.XML</File>
+
+	<!-- Capital Ships -->
+
+	<File>HardPoints\HardPoints_Invincible.Xml</File>
+	<File>Hardpoints\HARDPOINTS_ISD.XML</File>
+	<File>Hardpoints\HARDPOINTS_TSD.XML</File>
+</Hard_Point_Files>

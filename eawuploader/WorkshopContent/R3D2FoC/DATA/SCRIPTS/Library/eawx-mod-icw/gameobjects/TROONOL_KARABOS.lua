@@ -1,0 +1,3 @@
+return {
+	Flags = {FULLINHERIT = "KARABOS_DESTROYER"}
+}

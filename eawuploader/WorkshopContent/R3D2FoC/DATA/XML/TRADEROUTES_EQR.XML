@@ -1,0 +1,898 @@
+<?xml version="1.0"?>
+<TradeRoutes>
+    <TradeRoute Name="EQR_Ryloth_VergessoAsteroids">
+            <Point_A>EQR_Ryloth</Point_A>
+            <Point_B>EQR_VergessoAsteroids</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_VergessoAsteroids_Utapau">
+            <Point_A>EQR_VergessoAsteroids</Point_A>
+            <Point_B>EQR_Utapau</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Utapau_Mustafar">
+            <Point_A>EQR_Utapau</Point_A>
+            <Point_B>EQR_Mustafar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Gerrenthum_Atzerri">
+            <Point_A>EQR_Gerrenthum</Point_A>
+            <Point_B>EQR_Atzerri</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Gerrenthum_Malastare">
+            <Point_A>EQR_Gerrenthum</Point_A>
+            <Point_B>EQR_Malastare</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Gerrenthum_Allyeun">
+            <Point_A>EQR_Gerrenthum</Point_A>
+            <Point_B>EQR_Allyeun</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Allyeun_Crait">
+            <Point_A>EQR_Allyeun</Point_A>
+            <Point_B>EQR_Crait</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Allyeun_Bespin">
+            <Point_A>EQR_Allyeun</Point_A>
+            <Point_B>EQR_Bespin</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Allyeun_Malastare">
+            <Point_A>EQR_Allyeun</Point_A>
+            <Point_B>EQR_Malastare</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Allyeun_Atzerri">
+            <Point_A>EQR_Allyeun</Point_A>
+            <Point_B>EQR_Atzerri</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bespin_Hoth">
+            <Point_A>EQR_Bespin</Point_A>
+            <Point_B>EQR_Hoth</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bespin_Anoat">
+            <Point_A>EQR_Bespin</Point_A>
+            <Point_B>EQR_Anoat</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Anoat_Hoth">
+            <Point_A>EQR_Anoat</Point_A>
+            <Point_B>EQR_Hoth</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Anoat_PolisMassa">
+            <Point_A>EQR_Anoat</Point_A>
+            <Point_B>EQR_PolisMassa</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_PolisMassa_Dqar">
+            <Point_A>EQR_PolisMassa</Point_A>
+            <Point_B>EQR_Dqar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dqar_Crait">
+            <Point_A>EQR_Dqar</Point_A>
+            <Point_B>EQR_Crait</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Malastare_Mustafar">
+            <Point_A>EQR_Malastare</Point_A>
+            <Point_B>EQR_Mustafar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Malastare_Naboo">
+            <Point_A>EQR_Malastare</Point_A>
+            <Point_B>EQR_Naboo</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dagobah_Mustafar">
+            <Point_A>EQR_Dagobah</Point_A>
+            <Point_B>EQR_Mustafar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Coruscant_Anaxes">
+            <Point_A>EQR_Coruscant</Point_A>
+            <Point_B>EQR_Anaxes</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Coruscant_Carida">
+            <Point_A>EQR_Coruscant</Point_A>
+            <Point_B>EQR_Carida</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Anaxes_Kuat">
+            <Point_A>EQR_Anaxes</Point_A>
+            <Point_B>EQR_Kuat</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Anaxes_Alderaan">
+            <Point_A>EQR_Anaxes</Point_A>
+            <Point_B>EQR_Alderaan</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Byss_Kuat">
+            <Point_A>EQR_Byss</Point_A>
+            <Point_B>EQR_Kuat</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Byss_Corulag">
+            <Point_A>EQR_Byss</Point_A>
+            <Point_B>EQR_Corulag</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Corulag_Duro">
+            <Point_A>EQR_Corulag</Point_A>
+            <Point_B>EQR_Duro</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Corulag_Carida">
+            <Point_A>EQR_Corulag</Point_A>
+            <Point_B>EQR_Carida</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Duro_AbregadoRae">
+            <Point_A>EQR_Duro</Point_A>
+            <Point_B>EQR_Abregado_Rae</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Duro_Corellia">
+            <Point_A>EQR_Duro</Point_A>
+            <Point_B>EQR_Corellia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Brentaal_Corellia">
+            <Point_A>EQR_Brentaal</Point_A>
+            <Point_B>EQR_Corellia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Brentaal_CatoNemoidia">
+            <Point_A>EQR_Brentaal</Point_A>
+            <Point_B>EQR_Nemoidia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Brentaal_Sullust">
+            <Point_A>EQR_Brentaal</Point_A>
+            <Point_B>EQR_Sullust</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_CatoNemoidia_Alderaan">
+            <Point_A>EQR_Nemoidia</Point_A>
+            <Point_B>EQR_Alderaan</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Alderaan_Fresia">
+            <Point_A>EQR_Alderaan</Point_A>
+            <Point_B>EQR_Fresia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bilbringi_Wayland">
+            <Point_A>EQR_Bilbringi</Point_A>
+            <Point_B>EQR_Wayland</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bilbringi_Fresia">
+            <Point_A>EQR_Bilbringi</Point_A>
+            <Point_B>EQR_Fresia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bilbringi_Taris">
+            <Point_A>EQR_Bilbringi</Point_A>
+            <Point_B>EQR_Taris</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bilbringi_OrdMantell">
+            <Point_A>EQR_Bilbringi</Point_A>
+            <Point_B>EQR_Mantell</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Foreost_Wayland">
+            <Point_A>EQR_Foerost</Point_A>
+            <Point_B>EQR_Wayland</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Eriadu_Sullust">
+            <Point_A>EQR_Eriadu</Point_A>
+            <Point_B>EQR_Sullust</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Eriadu_Malastare">
+            <Point_A>EQR_Eriadu</Point_A>
+            <Point_B>EQR_Malastare</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Eriadu_Naboo">
+            <Point_A>EQR_Eriadu</Point_A>
+            <Point_B>EQR_Naboo</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mantell_Arkania">
+            <Point_A>EQR_Mantell</Point_A>
+            <Point_B>EQR_Arkania</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mantell_Scipio">
+            <Point_A>EQR_Mantell</Point_A>
+            <Point_B>EQR_Scipio</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Arkania_Aeten">
+            <Point_A>EQR_Arkania</Point_A>
+            <Point_B>EQR_AetenII</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Aeten_Ilum">
+            <Point_A>EQR_AetenII</Point_A>
+            <Point_B>EQR_Ilum</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Aeten_Alzoc">
+            <Point_A>EQR_AetenII</Point_A>
+            <Point_B>EQR_AlzocIII</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_AlzocIII_YagaMinor">
+            <Point_A>EQR_AlzocIII</Point_A>
+            <Point_B>EQR_YagaMinor</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Scipio_Muunilinst">
+            <Point_A>EQR_Scipio</Point_A>
+            <Point_B>EQR_Muunilinst</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Muunilinst_Mygeeto">
+            <Point_A>EQR_Muunilinst</Point_A>
+            <Point_B>EQR_Mygeeto</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Muunilinst_YagaMinor">
+            <Point_A>EQR_Muunilinst</Point_A>
+            <Point_B>EQR_YagaMinor</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Muunilinst_Balmorra">
+            <Point_A>EQR_Muunilinst</Point_A>
+            <Point_B>EQR_Balmorra</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dathomir_Balmorra">
+            <Point_A>EQR_Balmorra</Point_A>
+            <Point_B>EQR_Dathomir</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dathomir_Dantooine">
+            <Point_A>EQR_Dathomir</Point_A>
+            <Point_B>EQR_Dantooine</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dantooine_Yavin">
+            <Point_A>EQR_Dantooine</Point_A>
+            <Point_B>EQR_Yavin</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Yavin_Felucia">
+            <Point_A>EQR_Yavin</Point_A>
+            <Point_B>EQR_Felucia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Yavin_Bonadan">
+            <Point_A>EQR_Yavin</Point_A>
+            <Point_B>EQR_Bonadan</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Felucia_MonCala">
+            <Point_A>EQR_Felucia</Point_A>
+            <Point_B>EQR_MonCalimari</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bonadan_MonCala">
+            <Point_A>EQR_Bonadan</Point_A>
+            <Point_B>EQR_MonCalimari</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Yavin_Korriban">
+            <Point_A>EQR_Yavin</Point_A>
+            <Point_B>EQR_Korriban</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Korriban_Saleucami">
+            <Point_A>EQR_Korriban</Point_A>
+            <Point_B>EQR_Saleucami</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Saleucami_Honoghr">
+            <Point_A>EQR_Saleucami</Point_A>
+            <Point_B>EQR_Honoghr</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Honoghr_Kessel">
+            <Point_A>EQR_Honoghr</Point_A>
+            <Point_B>EQR_Kessel</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kessel_Kashyyyk">
+            <Point_A>EQR_Kessel</Point_A>
+            <Point_B>EQR_Kashyyyk</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kessel_TheMaw">
+            <Point_A>EQR_Kessel</Point_A>
+            <Point_B>EQR_The_Maw</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kessel_NalHutta">
+            <Point_A>EQR_Kessel</Point_A>
+            <Point_B>EQR_NalHutta</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Trandosha_Kashyyyk">
+            <Point_A>EQR_Trandosha</Point_A>
+            <Point_B>EQR_Kashyyyk</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_NalHutta_Gamorr">
+            <Point_A>EQR_NalHutta</Point_A>
+            <Point_B>EQR_Gamorr</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kashyyyk_Bothawui">
+            <Point_A>EQR_Kashyyyk</Point_A>
+            <Point_B>EQR_Bothawui</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bothawui_Scarif">
+            <Point_A>EQR_Bothawui</Point_A>
+            <Point_B>EQR_Scarif</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Scarif_Kamino">
+            <Point_A>EQR_Scarif</Point_A>
+            <Point_B>EQR_Kamino</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kamino_Rothana">
+            <Point_A>EQR_Kamino</Point_A>
+            <Point_B>EQR_Rothana</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Scarif_Tatooine">
+            <Point_A>EQR_Scarif</Point_A>
+            <Point_B>EQR_Tatooine</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Tatooine_Hypori">
+            <Point_A>EQR_Tatooine</Point_A>
+            <Point_B>EQR_Hypori</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Tatooine_Shola">
+            <Point_A>EQR_Tatooine</Point_A>
+            <Point_B>EQR_Shola</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Hypori_Geonosis">
+            <Point_A>EQR_Hypori</Point_A>
+            <Point_B>EQR_Geonosis</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Geonosis_Ryloth">
+            <Point_A>EQR_Geonosis</Point_A>
+            <Point_B>EQR_Ryloth</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Shola_Ryloth">
+            <Point_A>EQR_Shola</Point_A>
+            <Point_B>EQR_Ryloth</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Sullust_Aridus">
+            <Point_A>EQR_Sullust</Point_A>
+            <Point_B>EQR_Aridus</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Kashyyyk_Manaan">
+            <Point_A>EQR_Kashyyyk</Point_A>
+            <Point_B>EQR_Manaan</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bothawui_Myrkr">
+            <Point_A>EQR_Bothawui</Point_A>
+            <Point_B>EQR_Myrkr</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Aridus_Bothawui">
+            <Point_A>EQR_Aridus</Point_A>
+            <Point_B>EQR_Bothawui</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Myrkr_Nemoidia">
+            <Point_A>EQR_Myrkr</Point_A>
+            <Point_B>EQR_Nemoidia</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Myrkr_Manaan">
+            <Point_A>EQR_Myrkr</Point_A>
+            <Point_B>EQR_Manaan</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Myrkr_Brentaal">
+            <Point_A>EQR_Myrkr</Point_A>
+            <Point_B>EQR_Brentaal</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Gerrenthum_Thyferra">
+            <Point_A>EQR_Gerrenthum</Point_A>
+            <Point_B>EQR_Thyferra</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Thyferra_Fondor">
+            <Point_A>EQR_Thyferra</Point_A>
+            <Point_B>EQR_Fondor</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Fondor_AbregadoRae">
+            <Point_A>EQR_Fondor</Point_A>
+            <Point_B>EQR_Abregado_Rae</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Abregado_Jabiim">
+            <Point_A>EQR_Abregado_Rae</Point_A>
+            <Point_B>EQR_Jabiim</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Abregado_Polus">
+            <Point_A>EQR_Abregado_Rae</Point_A>
+            <Point_B>EQR_Polus</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Abregado_Endor">
+            <Point_A>EQR_Abregado_Rae</Point_A>
+            <Point_B>EQR_Endor</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Jabiim_Bestine">
+            <Point_A>EQR_Jabiim</Point_A>
+            <Point_B>EQR_Bestine</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bestine_Taris">
+            <Point_A>EQR_Bestine</Point_A>
+            <Point_B>EQR_Taris</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Polus_Jedha">
+            <Point_A>EQR_Polus</Point_A>
+            <Point_B>EQR_Jedha</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Jedha_Jakku">
+            <Point_A>EQR_Jedha</Point_A>
+            <Point_B>EQR_Jakku</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Jakku_Ilum">
+            <Point_A>EQR_Jakku</Point_A>
+            <Point_B>EQR_Ilum</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Jakku_Alzoc">
+            <Point_A>EQR_Jakku</Point_A>
+            <Point_B>EQR_AlzocIII</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mandalore_Scipio">
+            <Point_A>EQR_Mandalore</Point_A>
+            <Point_B>EQR_Scipio</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mandalore_Dathomir">
+            <Point_A>EQR_Mandalore</Point_A>
+            <Point_B>EQR_Dathomir</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mandalore_Mantell">
+            <Point_A>EQR_Mandalore</Point_A>
+            <Point_B>EQR_Mantell</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mandalore_Hapes">
+            <Point_A>EQR_Mandalore</Point_A>
+            <Point_B>EQR_Hapes</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Foerost_Antar">
+            <Point_A>EQR_Foerost</Point_A>
+            <Point_B>EQR_Antar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Antar_Carida">
+            <Point_A>EQR_Antar</Point_A>
+            <Point_B>EQR_Carida</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Bakura_Endor">
+            <Point_A>EQR_Bakura</Point_A>
+            <Point_B>EQR_Endor</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Naboo_Sullust">
+            <Point_A>EQR_Naboo</Point_A>
+            <Point_B>EQR_Sullust</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Aridus_Mimban">
+            <Point_A>EQR_Aridus</Point_A>
+            <Point_B>EQR_Mimban</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mimban_Scarif">
+            <Point_A>EQR_Mimban</Point_A>
+            <Point_B>EQR_Scarif</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Mimban_Falleen">
+            <Point_A>EQR_Mimban</Point_A>
+            <Point_B>EQR_Falleen</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Falleen_Shola">
+            <Point_A>EQR_Falleen</Point_A>
+            <Point_B>EQR_Shola</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Falleen_Tatooine">
+            <Point_A>EQR_Falleen</Point_A>
+            <Point_B>EQR_Tatooine</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Gerrenthum_Eriadu">
+            <Point_A>EQR_Gerrenthum</Point_A>
+            <Point_B>EQR_Eriadu</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+
+    <TradeRoute Name="EQR_Dagobah_Dqar">
+            <Point_A>EQR_Dagobah</Point_A>
+            <Point_B>EQR_Dqar</Point_B>
+            <HS_Speed_Factor>0.05</HS_Speed_Factor>
+            <Political_Control_Gain>0</Political_Control_Gain>
+            <Credit_Gain_Factor>0.15</Credit_Gain_Factor>
+    </TradeRoute>
+</TradeRoutes>

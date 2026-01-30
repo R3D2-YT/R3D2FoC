@@ -1,0 +1,361 @@
+<?xml version="1.0" ?>
+
+
+
+<!--****************************************************-->
+<!--***** CAMPAIGN: EQUAL FOOTING (Empire Version) *****-->
+<!--****************************************************-->
+
+
+
+<Story>
+	
+	<Event Name="Universal_Story_Start">
+		<Event_Type>STORY_ELAPSED</Event_Type>
+		<Event_Param1>0</Event_Param1>
+		<Story_Dialog>Dialog_Expansion_GC_Solo</Story_Dialog>
+		<Story_Chapter>12</Story_Chapter>
+		<Story_Tag>Intro_Tag</Story_Tag>
+	</Event>
+
+	<Event Name="Reveal_All_Planets">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>REVEAL_ALL_PLANETS</Reward_Type>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+<!-- New Fleet Initiative Locks -->
+
+	<Event Name="Lock_TIE_Defender">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>TIE_Defender_Squadron</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+	
+	<Event Name="Lock_Ton_Falk">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Lock_Lancer">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>E_Lancer</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Lock_Star_Destroyer_II">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<!-- New Fleet Initiative -->
+
+	<Event Name="DESPAWN_NEW_FLEET_INITIVE_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>New_Fleet_Initiative</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_NEW_FLEET_INITIVE">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>New_Fleet_Initiative</Reward_Param1>
+		<Prereq>DESPAWN_NEW_FLEET_INITIVE_DUMMY</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_TIE_DEFENDER">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>TIE_Defender_Squadron</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_TON_FALK">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Ton_Falk_Carrier</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_LANCER">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>E_Lancer</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="NEW_FLEET_INITIVE_Star_Destroyer_II">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>New_Fleet_Initiative</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Star_Destroyer_II_E</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+	
+	
+
+<!-- Veers Promotion/AT-AT Project -->
+
+	<Event Name="Lock_Promote_Veers_General">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Promote_Veers">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Veers_Infantry_Team</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_VEERS_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Veers_To_Colonel</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_Promote_Veers">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_Colonel</Reward_Param1>
+		<Prereq>Promote_Veers</Prereq>
+	</Event>
+
+	<Event Name="Unlock_Promote_Veers_2">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_Colonel</Event_Param1>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Promote_Veers_2">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>General_Veers_Team</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_VEERS_2_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+  	</Event>
+
+	<Event Name="DESPAWN_VEERS_INFANTRY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Veers_Infantry_Team</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_Promote_Veers_2">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Promote_Veers_To_General</Reward_Param1>
+		<Prereq>Promote_Veers_2</Prereq>
+	</Event>
+
+	<Event Name="Veers_Promotion_General_Speech">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Veers_To_General</Event_Param1>
+		<Reward_Type>MULTIMEDIA</Reward_Type>
+		<Reward_Param1>TEXT_VEERS_GENERAL_PROMOTION</Reward_Param1>
+		<Reward_Param2>20</Reward_Param2>
+		<Reward_Param3 />
+		<Reward_Param4 />
+		<Reward_Param5 />
+		<Reward_Param6 />
+		<Reward_Param7 />
+		<Reward_Param8 />
+		<Reward_Param9>Piett_Loop</Reward_Param9>
+		<Reward_Param10>0</Reward_Param10>
+		<Prereq>Promote_Veers_2</Prereq>
+	</Event>
+
+<!-- Thrawn Promotion -->
+
+	<Event Name="Promote_Thrawn">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Thrawn_To_Commodore</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Chimera_Star_Destroyer_Commodore</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="Spawn_Thunder_Wasp_NonHero">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Thrawn_To_Commodore</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Thunder_Wasp_Flagship</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_THUNDER_WASP_HERO">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Thrawn_To_Commodore</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Thunder_Wasp_Hero</Reward_Param1>
+  	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_THRAWN_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Thrawn_To_Commodore</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Thrawn_To_Commodore</Reward_Param1>
+  	</Event>
+
+	<Event Name="Lock_Thunder_Wasp">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>LOCK_UNIT</Reward_Type>
+		<Reward_Param1>Thunder_Wasp_Hero</Reward_Param1>
+		<Prereq>Promote_Thrawn</Prereq>
+	</Event>
+
+	<Event Name="Promote_Thrawn_2">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Thrawn_To_Grand_Admiral</Event_Param1>
+		<Event_Param2>1</Event_Param2>
+		<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+		<Reward_Type>SPAWN_HERO</Reward_Type>
+		<Reward_Param1>Admonitor_Star_Destroyer</Reward_Param1>
+		<Reward_Param2>EQR_Coruscant</Reward_Param2>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+	<Event Name="DESPAWN_COMMODORE">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Thrawn_To_Grand_Admiral</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Chimera_Star_Destroyer_Commodore</Reward_Param1>
+  	</Event>
+
+	<Event Name="DESPAWN_PROMOTE_THRAWN_2_DUMMY">
+    	<Event_Type>STORY_CONSTRUCT</Event_Type>
+   		<Event_Param1>Promote_Thrawn_To_Grand_Admiral</Event_Param1>
+    	<Event_Param2>1</Event_Param2>
+    	<Event_Param3>FILTER_FRIENDLY_ONLY</Event_Param3>
+    	<Reward_Type>REMOVE_UNIT</Reward_Type>
+    	<Reward_Param1>Promote_Thrawn_To_Grand_Admiral</Reward_Param1>
+  	</Event>
+
+	<Event Name="Thrawn_Promotion_GA_Speech">
+		<Event_Type>STORY_CONSTRUCT</Event_Type>
+		<Event_Param1>Promote_Thrawn_To_Grand_Admiral</Event_Param1>
+		<Reward_Type>MULTIMEDIA</Reward_Type>
+		<Reward_Param1>TEXT_THRAWN_GA_PROMOTION</Reward_Param1>
+		<Reward_Param2>15</Reward_Param2>
+		<Reward_Param3 />
+		<Reward_Param4 />
+		<Reward_Param5 />
+		<Reward_Param6 />
+		<Reward_Param7 />
+		<Reward_Param8 />
+		<Reward_Param9>Thrawn_Loop</Reward_Param9>
+		<Reward_Param10>0</Reward_Param10>
+		<Prereq>Promote_Thrawn_2</Prereq>
+	</Event>
+
+
+	<!-- Spawn Starting Heroes -->
+
+	<Event Name="Empire_AI_Unlock_Research_Facility">
+		<Event_Type>STORY_TRIGGER</Event_Type>
+		<Reward_Type>BUILDABLE_UNIT</Reward_Type>
+		<Reward_Param1>E_Ground_Research_Facility</Reward_Param1>
+		<Prereq>Universal_Story_Start</Prereq>
+	</Event>
+
+
+
+
+	<!-- Spawn Tech Level 1 Heroes -->
+
+	<Event Name="Empire_Enters_Tech_01">
+		<Event_Type>STORY_TECH_LEVEL</Event_Type>
+		<Event_Param1>1</Event_Param1>
+	</Event>
+
+
+
+
+	<!-- Spawn Time Era 2 Heroes -->
+
+	<Event Name="Empire_Enters_Tech_02">
+		<Event_Type>STORY_TECH_LEVEL</Event_Type>
+		<Event_Param1>2</Event_Param1>
+	</Event>
+
+
+
+	<!-- Spawn Time Era 3 Heroes -->
+
+	<Event Name="Empire_Enters_Tech_03">
+		<Event_Type>STORY_TECH_LEVEL</Event_Type>
+		<Event_Param1>3</Event_Param1>
+	</Event>
+
+
+	<!-- Spawn Time Era 4 Heroes -->
+
+	<Event Name="Empire_Enters_Tech_04">
+		<Event_Type>STORY_TECH_LEVEL</Event_Type>
+		<Event_Param1>4</Event_Param1>
+	</Event>
+
+
+
+	<!-- Spawn Time Era 5 Heroes -->
+
+	<Event Name="Empire_Enters_Tech_05">
+		<Event_Type>STORY_TECH_LEVEL</Event_Type>
+		<Event_Param1>5</Event_Param1>
+	</Event>
+
+</Story>
