@@ -383,7 +383,7 @@
 
 		<Death_Clone>Damage_Normal, Pirate_Asteroid_Base_Death_Clone</Death_Clone>
 
-		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_NAVAL_HEADQUARTERS  </Encyclopedia_Text>
+		<Encyclopedia_Text> TEXT_ENCYCLOPEDIA_PIRATE_SHIPYARD  </Encyclopedia_Text>
 		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_STRUCTURE</Encyclopedia_Unit_Class>
 		<Score_Cost_Credits> 15000 </Score_Cost_Credits>
 		<Has_Space_Evaluator>True</Has_Space_Evaluator>
