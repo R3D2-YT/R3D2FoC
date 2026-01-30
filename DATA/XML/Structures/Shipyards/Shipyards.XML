@@ -248,7 +248,7 @@
 		<Size_Value>90</Size_Value>
 		<Scale_Factor>0.45</Scale_Factor>
 		<Base_Position>Orbital</Base_Position>
-		<Tech_Level>5</Tech_Level>
+		<Tech_Level>99</Tech_Level>
 		<Is_Interdictor>no</Is_Interdictor>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
