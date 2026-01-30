@@ -1,0 +1,86 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 6700 (ID=0x73df)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   32.0.13031.3015
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\libnoise.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\libnoise.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\LitJson.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\LitJson.dll into Unity Child Domain
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\TinyJSON.dll (this message is harmless)
+Loading D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\TinyJSON.dll into Unity Child Domain
+- Completed reload, in  0.478 seconds
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\EaW Modding Programs\eawuploader\uploader_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 240Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'DON'T TOUCH ME!') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 0.387300 ms
+basePath is: D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to load preview file which doesn't exist (yet?): D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/SampleWS\Capture.jpg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to load preview file which doesn't exist (yet?): D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/SampleWS\Capture.jpg
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrote to D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/SampleWS.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved modpack to file: D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/SampleWS.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrote to D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/R3D2FoCREF.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved modpack to file: D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/R3D2FoCREF.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wrote to D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/R3D2FoCREF.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved modpack to file: D:/EaW Modding Programs/eawuploader/uploader_Data/../WorkshopContent/R3D2FoCREF.workshop.json
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: 4ed8 -> priority: 1 
+  Thread -> id: 43bc -> priority: 1 
+  Thread -> id: 3d44 -> priority: 1 
+  Thread -> id: 4434 -> priority: 1 
+  Thread -> id: 4190 -> priority: 1 
+  Thread -> id: 2a58 -> priority: 1 
+  Thread -> id: 250 -> priority: 1 
+  Thread -> id: 14e0 -> priority: 1 
+  Thread -> id: 1f74 -> priority: 1 
+  Thread -> id: 3918 -> priority: 1 
+  Thread -> id: 1070 -> priority: 1 
+  Thread -> id: 3370 -> priority: 1 
