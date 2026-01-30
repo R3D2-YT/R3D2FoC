@@ -2877,6 +2877,7 @@
 		
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Empire,
+				Imperial_Army_Trooper_Squad,
 				Imperial_Stormtrooper_Squad,
 				Imperial_Light_Scout_Squad,
 				Field_Com_Empire_Team,
@@ -3574,6 +3575,7 @@
 		<Tactical_Buildable_Objects_Multiplayer> 
 			Empire,
 				Imperial_Armor_Group,
+				TIE_Tank_Company,
 				Imperial_Artillery_Corp,
 				Imperial_Heavy_Assault_Company,
 				Lancet_Air_Wing,
