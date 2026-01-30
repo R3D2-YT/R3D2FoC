@@ -163,4 +163,20 @@
 
     </SpecialStructure>
 
+	<SpecialStructure Name="SoroSuub">
+
+        <Text_ID>TEXT_SOROSUUB</Text_ID>
+
+        <Variant_Of_Existing_Type>Corp_Template</Variant_Of_Existing_Type>
+
+		<Build_Cost_Credits>3000</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
+
+        <Affiliation>Rebel</Affiliation>
+        <Icon_Name>I_BUTTON_SOROSUUB.tga</Icon_Name>
+
+        <Encyclopedia_Text> TEXT_ENCYCLOPEDIA_SOROSUUB  </Encyclopedia_Text>
+
+    </SpecialStructure>
+
 </Corporations>

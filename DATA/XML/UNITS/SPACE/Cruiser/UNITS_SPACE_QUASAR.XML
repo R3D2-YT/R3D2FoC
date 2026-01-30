@@ -180,6 +180,7 @@
 		<Variant_Of_Existing_Type>Quasar_Carrier_No_Fighters</Variant_Of_Existing_Type>
 		<Tech_Level>0</Tech_Level>
 		<Affiliation>Rebel</Affiliation>
+		<Required_Special_Structures>Tier_II_Shipyard, SoroSuub</Required_Special_Structures>
 
 		<HardPoints>
 			HP_Quasar_Carrier_Rebel_00, HP_Quasar_Carrier_Rebel_01, HP_Quasar_Carrier_Rebel_02, HP_Quasar_Carrier_Rebel_03, HP_Quasar_Carrier_Fighter_Bay
