@@ -6,8 +6,6 @@
 
 	<SpaceUnit Name="Invincible">
 		<Text_ID>TEXT_UNIT_INVINCIBLE</Text_ID>
-		<Encyclopedia_Good_Against> Jehavey_Frigate Kyramud Sith_Destroyer </Encyclopedia_Good_Against>
-		<Encyclopedia_Vulnerable_To> Davaab_Fighter Basilisk_Space Sith_Destroyer </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 1 </GUI_Row>
 		<Space_Model_Name>Nv_InvcincibleDreadnought.ALO</Space_Model_Name>
 
@@ -199,6 +197,8 @@
 	
 	<SpaceUnit Name="Invincible_U">
 		<Variant_Of_Existing_Type>Invincible</Variant_Of_Existing_Type>
+		<Encyclopedia_Good_Against> Ton_Falk_Carrier_No_Fighters Quasar_Carrier R_Dreadnought </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Y-Wing TIE_Bomber Star_Destroyer_E_No_Fighters </Encyclopedia_Vulnerable_To>
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Underworld</Affiliation>
 		<Tech_Level>0</Tech_Level>
@@ -210,6 +210,8 @@
 
 	<SpaceUnit Name="Invincible_E">
 		<Variant_Of_Existing_Type>Invincible</Variant_Of_Existing_Type>
+		<Encyclopedia_Good_Against> Ton_Falk_Carrier_No_Fighters Quasar_Carrier R_Dreadnought </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Y-Wing TIE_Bomber Star_Destroyer_E_No_Fighters </Encyclopedia_Vulnerable_To>
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Empire</Affiliation>
 		<Tech_Level>0</Tech_Level>
@@ -221,6 +223,8 @@
 
 	<SpaceUnit Name="Invincible_R">
 		<Variant_Of_Existing_Type>Invincible</Variant_Of_Existing_Type>
+		<Encyclopedia_Good_Against> Ton_Falk_Carrier_No_Fighters Quasar_Carrier R_Dreadnought </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Y-Wing TIE_Bomber Star_Destroyer_E_No_Fighters </Encyclopedia_Vulnerable_To>
 		<Required_Special_Structures>Tier_III_Shipyard, Rendili</Required_Special_Structures>
 		<Affiliation>Rebel</Affiliation>
 		<Tech_Level>0</Tech_Level>
