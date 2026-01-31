@@ -120,16 +120,6 @@
 				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Energy_Blast </SFXEvent_Special_Ability_Loop> 
 				<Supports_Autofire>True</Supports_Autofire>
 			</Unit_Ability>
-			
-		  <Unit_Ability>
-	            <Type>TRACTOR_BEAM</Type>
-	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.6f</Mod_Multiplier>
-	            <GUI_Activated_Ability_Name>Piet_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-	            <Recharge_Seconds>20</Recharge_Seconds>
-	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Star_Destroyer</SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
-				<Supports_Autofire>True</Supports_Autofire>
-	      </Unit_Ability>
 
 		</Unit_Abilities_Data>
 
@@ -175,20 +165,6 @@
 				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
 				<Damage_Per_Frame>50</Damage_Per_Frame>			
 			</Energy_Weapon_Attack_Ability>
-
-			<Tractor_Beam_Attack_Ability Name="Piet_Tractor_Beam_Attack_Ability">
-				<Activation_Style> User_Input </Activation_Style>
-				<Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
-	            <Applicable_Unit_Types>Millennium_Falcon, Sundered_Heart</Applicable_Unit_Types>
-				<Excluded_Unit_Types>Buzz_Droids</Excluded_Unit_Types>
-				<Activation_Min_Range>5</Activation_Min_Range>
-	            <Activation_Max_Range>1100</Activation_Max_Range>
-
-				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Target_Speed_Decrease_Percent>.98</Target_Speed_Decrease_Percent>
-				<Stacking_Category>2</Stacking_Category>			
-			</Tractor_Beam_Attack_Ability>
-
 
 		</Abilities>
 		
