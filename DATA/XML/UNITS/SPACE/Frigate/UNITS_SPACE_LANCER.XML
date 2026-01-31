@@ -4,8 +4,8 @@
 	
 	<SpaceUnit Name="E_Lancer">
 		<Text_ID>TEXT_UNIT_LANCER</Text_ID>
-		<Encyclopedia_Good_Against> Corellian_Corvette Corellian_Gunboat Crusader_Gunship </Encyclopedia_Good_Against>
-		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat Calamari_Cruiser </Encyclopedia_Vulnerable_To>
+		<Encyclopedia_Good_Against> Y-wing Skipray_Blastboat TIE_Fighter </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> Nebulon_B_Frigate Calamari_Cruiser </Encyclopedia_Vulnerable_To>
 		<GUI_Row> 0 </GUI_Row>
 		<Space_Model_Name>Ev_Lancer.alo</Space_Model_Name>
 		<Select_Box_Scale>250</Select_Box_Scale>
