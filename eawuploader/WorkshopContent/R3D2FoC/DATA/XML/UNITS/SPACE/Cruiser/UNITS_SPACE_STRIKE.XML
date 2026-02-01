@@ -15,8 +15,8 @@
 
         <Ranking_In_Category>6</Ranking_In_Category>
 		<Dense_FOW_Reveal_Range_Multiplier>0.2</Dense_FOW_Reveal_Range_Multiplier>
-		<Max_Speed>2.6</Max_Speed>
-		<Max_Rate_Of_Turn>0.5</Max_Rate_Of_Turn>
+		<Max_Speed>3.2</Max_Speed>
+		<Max_Rate_Of_Turn>1.2</Max_Rate_Of_Turn>
 		<MovementClass> Space </MovementClass>
 		<Space_Layer> Frigate </Space_Layer>
 		<Layer_Z_Adjust>-150.0</Layer_Z_Adjust>		

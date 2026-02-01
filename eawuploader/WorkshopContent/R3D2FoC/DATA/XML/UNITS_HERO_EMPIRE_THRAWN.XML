@@ -305,15 +305,6 @@
                 <Alternate_Icon_Name>i_sa_assault.tga</Alternate_Icon_Name>
 			</Unit_Ability>
 
-            <Unit_Ability>
-	            <Type>TRACTOR_BEAM</Type>
-	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.6f</Mod_Multiplier>
-	            <GUI_Activated_Ability_Name>Admonitor_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name>
-	            <Recharge_Seconds>25</Recharge_Seconds>
-	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Thrawn</SFXEvent_Target_Ability>
-				   <SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
-            </Unit_Ability>
-
 		</Unit_Abilities_Data>
 
 		<Abilities SubObjectList="Yes">
@@ -330,19 +321,6 @@
 				<Movement_Speed_Bonus_Percentage>0.1</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
-
-			<Tractor_Beam_Attack_Ability Name="Admonitor_Tractor_Beam_Attack_Ability">
-				<Activation_Style> User_Input </Activation_Style>
-				<Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
-	            <Applicable_Unit_Types>Millennium_Falcon, Houndstooth, IG-2000</Applicable_Unit_Types>
-				<Excluded_Unit_Types>Buzz_Droids</Excluded_Unit_Types>
-				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>800</Activation_Max_Range>
-
-				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Target_Speed_Decrease_Percent>0.9</Target_Speed_Decrease_Percent>
-				<Stacking_Category>2</Stacking_Category>			
-			</Tractor_Beam_Attack_Ability>
 
 			<System_Spy_Ability Name="Admonitor_Ship_Reveal">
 				<Initially_Enabled>Yes</Initially_Enabled>
@@ -508,15 +486,6 @@
                 <Alternate_Icon_Name>i_sa_assault.tga</Alternate_Icon_Name>
 			</Unit_Ability>
 
-            <Unit_Ability>
-	            <Type>TRACTOR_BEAM</Type>
-	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.6f</Mod_Multiplier>
-	            <GUI_Activated_Ability_Name>Admonitor_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name>
-	            <Recharge_Seconds>25</Recharge_Seconds>
-	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Thrawn</SFXEvent_Target_Ability>
-				   <SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
-            </Unit_Ability>
-
 		</Unit_Abilities_Data>
 
 		<Abilities SubObjectList="Yes">
@@ -533,19 +502,6 @@
 				<Movement_Speed_Bonus_Percentage>0.1</Movement_Speed_Bonus_Percentage>
 				<Stacking_Category>0</Stacking_Category>
 			</Combat_Bonus_Ability>
-
-			<Tractor_Beam_Attack_Ability Name="Admonitor_Tractor_Beam_Attack_Ability">
-				<Activation_Style> User_Input </Activation_Style>
-				<Applicable_Unit_Categories>Transport | Corvette | Frigate</Applicable_Unit_Categories>
-	            <Applicable_Unit_Types>Millennium_Falcon, Houndstooth, IG-2000</Applicable_Unit_Types>
-				<Excluded_Unit_Types>Buzz_Droids</Excluded_Unit_Types>
-				<Activation_Min_Range>0</Activation_Min_Range>
-	            <Activation_Max_Range>800</Activation_Max_Range>
-
-				<!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-				<Target_Speed_Decrease_Percent>0.9</Target_Speed_Decrease_Percent>
-				<Stacking_Category>2</Stacking_Category>			
-			</Tractor_Beam_Attack_Ability>
 
 			<System_Spy_Ability Name="Admonitor_Ship_Reveal">
 				<Initially_Enabled>Yes</Initially_Enabled>
