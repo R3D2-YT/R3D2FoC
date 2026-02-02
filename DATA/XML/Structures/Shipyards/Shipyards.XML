@@ -425,7 +425,7 @@
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Rebel</Affiliation>
 		<Tech_Level>99</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -523,6 +523,16 @@
 				Broadside_Class_Cruiser,
 				Quasar_Carrier,
 				E_Lancer,
+			Rebel,
+				Rebel_X-Wing_Squadron, 
+				Y-Wing_Squadron, 
+				Corellian_Corvette,
+				Nebulon_B_Frigate,
+				A_Wing_Squadron,
+				Corellian_Gunboat,
+				B-Wing_Squadron,
+				Marauder_Missile_Cruiser,
+				Quasar_Carrier_Rebel,
 		</Tactical_Buildable_Objects_Multiplayer>
 	
 		<Encyclopedia_Text>TEXT_ENCYCLOPEDIA_TIER_I_SHIPYARD</Encyclopedia_Text>
@@ -572,7 +582,7 @@
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Rebel</Affiliation>
 		<Tech_Level>99</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -669,6 +679,11 @@
 				Vindicator_Cruiser,
 				Interdictor_Cruiser,
 				Gladiator,
+			Rebel,
+				Alliance_Assault_Frigate_MKI,
+				Alliance_Assault_Frigate,
+				MC30_Frigate,
+				MC40,
 		</Tactical_Buildable_Objects_Multiplayer>
 	
 		<Encyclopedia_Text>TEXT_ENCYCLOPEDIA_TIER_II_SHIPYARD</Encyclopedia_Text>
@@ -718,7 +733,7 @@
 		<Hyperspace_Speed>1.5</Hyperspace_Speed>
 		<Maintenance_Cost>0.05</Maintenance_Cost>
 
-		<Affiliation>Empire</Affiliation>
+		<Affiliation>Empire, Rebel</Affiliation>
 		<Tech_Level>99</Tech_Level>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
@@ -812,6 +827,10 @@
 				Star_Destroyer_E,
 				Star_Destroyer_II_E,
 				Tector_Star_Destroyer_E,
+			Rebel,
+				Dauntless,
+				Calamari_Cruiser,
+				Calamari_Cruiser_Home_One,
 		</Tactical_Buildable_Objects_Multiplayer>
 	
 		<Encyclopedia_Text>TEXT_ENCYCLOPEDIA_TIER_III_SHIPYARD</Encyclopedia_Text>
