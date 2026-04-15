@@ -55,7 +55,7 @@
 		<Icon_Name>i_button_EV_ExecutorStarDestroyer.tga</Icon_Name>
 
 		<GUI_Row> 1 </GUI_Row>
-		<Space_Model_Name>EV_ExecutorStarDestroyer.ALO</Space_Model_Name>
+		<Space_Model_Name>Ev_Executor_Base.ALO</Space_Model_Name>
 
 		<Ranking_In_Category>5</Ranking_In_Category>
 		<GUI_Bracket_Size>2</GUI_Bracket_Size>
@@ -63,7 +63,7 @@
 		<Select_Box_Scale>800</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 
-		<Scale_Factor>1.0</Scale_Factor>
+		<Scale_Factor>0.75</Scale_Factor>
 		<Mass>0.999</Mass>
 		<Dense_FOW_Reveal_Range_Multiplier>0.24</Dense_FOW_Reveal_Range_Multiplier>
 		<Multisample_FOW_Check>Yes</Multisample_FOW_Check>
