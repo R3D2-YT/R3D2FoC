@@ -1,43 +1,82 @@
 <?xml version="1.0"?>
 <Executor_Files>
-
+<!--
 	<UniqueUnit Name="Executor_Super_Star_Destroyer_No_Tractor_Beam">
 
 		<Variant_Of_Existing_Type>Executor_Super_Star_Destroyer</Variant_Of_Existing_Type>
 		
 		<HardPoints>
-			HP_EXECUTOR_LEFT_TURBO_00,
-			HP_EXECUTOR_LEFT_TURBO_01,
-			HP_EXECUTOR_LEFT_TURBO_02,
-			HP_EXECUTOR_LEFT_TURBO_03,
-			HP_EXECUTOR_LEFT_TURBO_04,
-			HP_EXECUTOR_LEFT_ION_00,
-			HP_EXECUTOR_LEFT_ION_01,
-			HP_EXECUTOR_LEFT_ION_02,
-			HP_EXECUTOR_LEFT_CONM_00,
-			HP_EXECUTOR_LEFT_CONM_01,
-			HP_EXECUTOR_LEFT_TORP_00,
-			HP_EXECUTOR_RIGHT_TURBO_00,
-			HP_EXECUTOR_RIGHT_TURBO_01,
-			HP_EXECUTOR_RIGHT_TURBO_02,
-			HP_EXECUTOR_RIGHT_TURBO_03,
-			HP_EXECUTOR_RIGHT_TURBO_04,
-			HP_EXECUTOR_RIGHT_ION_00,
-			HP_EXECUTOR_RIGHT_ION_01,
-			HP_EXECUTOR_RIGHT_ION_02,
-			HP_EXECUTOR_RIGHT_CONM_00,
-			HP_EXECUTOR_RIGHT_CONM_01,
-			HP_EXECUTOR_RIGHT_TORP_00,
-			HP_EXECUTOR_CENTER_TORP_00,
-			HP_EXECUTOR_SHIELD_00,
-			HP_EXECUTOR_SHIELD_01,
-			HP_EXECUTOR_SHIELD_02,
-			HP_EXECUTOR_ENGINES_00,
-			HP_EXECUTOR_ENGINES_01,
-			HP_EXECUTOR_FIGHTER_BAY_00
+			HP_EXECUTOR_01,
+			HP_EXECUTOR_02,
+			HP_EXECUTOR_03,
+			HP_EXECUTOR_04,
+			HP_EXECUTOR_05,
+			HP_EXECUTOR_06,
+			HP_EXECUTOR_07,
+			HP_EXECUTOR_08,
+			HP_EXECUTOR_09,
+			HP_EXECUTOR_10,
+			HP_EXECUTOR_11,
+			HP_EXECUTOR_12,
+			HP_EXECUTOR_13,
+			HP_EXECUTOR_14,
+			HP_EXECUTOR_15,
+			HP_EXECUTOR_16,
+			HP_EXECUTOR_17,
+			HP_EXECUTOR_18,
+			HP_EXECUTOR_19,
+			HP_EXECUTOR_20,
+			HP_EXECUTOR_21,
+			HP_EXECUTOR_22,
+			HP_EXECUTOR_23,
+			HP_EXECUTOR_24,
+			HP_EXECUTOR_25,
+			HP_EXECUTOR_26,
+			HP_EXECUTOR_27,
+			HP_EXECUTOR_28,
+			HP_EXECUTOR_29,
+			HP_EXECUTOR_30,
+			HP_EXECUTOR_31,
+			HP_EXECUTOR_32,
+			HP_EXECUTOR_33,
+			HP_EXECUTOR_34,
+			HP_EXECUTOR_35,
+			HP_EXECUTOR_36,
+			HP_EXECUTOR_37,
+			HP_EXECUTOR_38,
+			HP_EXECUTOR_39,
+			HP_EXECUTOR_40,
+			HP_EXECUTOR_41,
+			HP_EXECUTOR_42,
+			HP_EXECUTOR_43,
+			HP_EXECUTOR_44,
+			HP_EXECUTOR_45,
+			HP_EXECUTOR_46,
+			HP_EXECUTOR_47,
+			HP_EXECUTOR_48,
+			HP_EXECUTOR_49,
+			HP_EXECUTOR_50,
+			HP_EXECUTOR_51,
+			HP_EXECUTOR_52,
+			HP_EXECUTOR_53,
+			HP_EXECUTOR_54,
+			HP_EXECUTOR_55,
+			HP_EXECUTOR_56,
+			HP_EXECUTOR_57,
+			HP_EXECUTOR_58,
+			HP_EXECUTOR_59,
+			HP_EXECUTOR_60,
+			HP_EXECUTOR_61,
+			HP_EXECUTOR_62,
+			HP_EXECUTOR_ENGINES_03,
+			HP_EXECUTOR_ENGINES_04,
+			HP_EXECUTOR_ENGINES_05,
+			HP_EXECUTOR_FIGHTER_BAY_01,
+			HP_EXECUTOR_FIGHTER_BAY_02,
+			HP_EXECUTOR_FIGHTER_BAY_03,
 		</HardPoints>
 	
-	</UniqueUnit>
+	</UniqueUnit>-->
 
 	<!-- The Executor is Darth Vader's flagship -->
 	<UniqueUnit Name="Executor_Super_Star_Destroyer">
@@ -88,15 +127,17 @@
 		<Maintenance_Cost>0.3</Maintenance_Cost>
 
 		<Affiliation>Empire</Affiliation>
-		<Tech_Level>99</Tech_Level>
+		<Tech_Level>5</Tech_Level>
 		<Required_Timeline>0</Required_Timeline>
 		<Required_Ground_Base_Level>0</Required_Ground_Base_Level>
-		<Required_Star_Base_Level>5</Required_Star_Base_Level>
+		<Required_Star_Base_Level>1</Required_Star_Base_Level>
+		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
+		<Required_Planets>EQR_Kuat, EQR_Fondor</Required_Planets>
 		<Damage>70</Damage>
-		<Autoresolve_Health>18000</Autoresolve_Health>
-		<Shield_Points>7000</Shield_Points>
+		<Autoresolve_Health>50000</Autoresolve_Health>
+		<Shield_Points>25000</Shield_Points>
 		
-		<Tactical_Health>9000</Tactical_Health>
+		<Tactical_Health>50000</Tactical_Health>
 		
 		<Shield_Refresh_Rate>150</Shield_Refresh_Rate>
 		<Energy_Capacity>99000</Energy_Capacity>
@@ -106,24 +147,21 @@
 
 		<Political_Faction>Empire</Political_Faction>
 		<Squadron_Capacity>40</Squadron_Capacity>
-		<Build_Cost_Credits>15000</Build_Cost_Credits>
-		<AI_Combat_Power>45000</AI_Combat_Power>
-		<Build_Time_Seconds>90</Build_Time_Seconds>
+		<Build_Cost_Credits>50755</Build_Cost_Credits>
+		<AI_Combat_Power>50000</AI_Combat_Power>
+		<Build_Time_Seconds>80</Build_Time_Seconds>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 		<Size_Value>8</Size_Value>
 		
 		<!-- Fighter Spawners -->
-		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 4</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 3</Starting_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Fighter_Squadron, 16</Reserve_Spawned_Units_Tech_0>
 		
-		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 6</Starting_Spawned_Units_Tech_0>
-		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 24</Reserve_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Reserve_Spawned_Units_Tech_0>TIE_Interceptor_Squadron, 5</Reserve_Spawned_Units_Tech_0>
 			
-		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 4</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 3</Starting_Spawned_Units_Tech_0>
 		<Reserve_Spawned_Units_Tech_0>TIE_Bomber_Squadron, 16</Reserve_Spawned_Units_Tech_0>
-		
-		<Starting_Spawned_Units_Tech_0>TIE_Defender_Squadron, 1</Starting_Spawned_Units_Tech_0>
-		<Reserve_Spawned_Units_Tech_0>TIE_Defender_Squadron, 5</Reserve_Spawned_Units_Tech_0>
 		
 		<Spawned_Squadron_Delay_Seconds>8</Spawned_Squadron_Delay_Seconds>
 
@@ -139,66 +177,114 @@
 		<Targeting_Max_Attack_Distance>2200.0</Targeting_Max_Attack_Distance>
 
 		<HardPoints>
-			HP_EXECUTOR_LEFT_TURBO_00,
-			HP_EXECUTOR_LEFT_TURBO_01,
-			HP_EXECUTOR_LEFT_TURBO_02,
-			HP_EXECUTOR_LEFT_TURBO_03,
-			HP_EXECUTOR_LEFT_TURBO_04,
-			HP_EXECUTOR_LEFT_ION_00,
-			HP_EXECUTOR_LEFT_ION_01,
-			HP_EXECUTOR_LEFT_ION_02,
-			HP_EXECUTOR_LEFT_CONM_00,
-			HP_EXECUTOR_LEFT_CONM_01,
-			HP_EXECUTOR_LEFT_TORP_00,
-			HP_EXECUTOR_RIGHT_TURBO_00,
-			HP_EXECUTOR_RIGHT_TURBO_01,
-			HP_EXECUTOR_RIGHT_TURBO_02,
-			HP_EXECUTOR_RIGHT_TURBO_03,
-			HP_EXECUTOR_RIGHT_TURBO_04,
-			HP_EXECUTOR_RIGHT_ION_00,
-			HP_EXECUTOR_RIGHT_ION_01,
-			HP_EXECUTOR_RIGHT_ION_02,
-			HP_EXECUTOR_RIGHT_CONM_00,
-			HP_EXECUTOR_RIGHT_CONM_01,
-			HP_EXECUTOR_RIGHT_TORP_00,
-			HP_EXECUTOR_CENTER_TORP_00,
-			HP_EXECUTOR_TRACTOR_00,
-			HP_EXECUTOR_SHIELD_00,
-			HP_EXECUTOR_SHIELD_01,
-			HP_EXECUTOR_SHIELD_02,
-			HP_EXECUTOR_ENGINES_00,
-			HP_EXECUTOR_ENGINES_01,
-			HP_EXECUTOR_FIGHTER_BAY_00
+			HP_EXECUTOR_01,
+			HP_EXECUTOR_02,
+			HP_EXECUTOR_03,
+			HP_EXECUTOR_04,
+			HP_EXECUTOR_05,
+			HP_EXECUTOR_06,
+			HP_EXECUTOR_07,
+			HP_EXECUTOR_08,
+			HP_EXECUTOR_09,
+			HP_EXECUTOR_10,
+			HP_EXECUTOR_11,
+			HP_EXECUTOR_12,
+			HP_EXECUTOR_13,
+			HP_EXECUTOR_14,
+			HP_EXECUTOR_15,
+			HP_EXECUTOR_16,
+			HP_EXECUTOR_17,
+			HP_EXECUTOR_18,
+			HP_EXECUTOR_19,
+			HP_EXECUTOR_20,
+			HP_EXECUTOR_21,
+			HP_EXECUTOR_22,
+			HP_EXECUTOR_23,
+			HP_EXECUTOR_24,
+			HP_EXECUTOR_25,
+			HP_EXECUTOR_26,
+			HP_EXECUTOR_27,
+			HP_EXECUTOR_28,
+			HP_EXECUTOR_29,
+			HP_EXECUTOR_30,
+			HP_EXECUTOR_31,
+			HP_EXECUTOR_32,
+			HP_EXECUTOR_33,
+			HP_EXECUTOR_34,
+			HP_EXECUTOR_35,
+			HP_EXECUTOR_36,
+			HP_EXECUTOR_37,
+			HP_EXECUTOR_38,
+			HP_EXECUTOR_39,
+			HP_EXECUTOR_40,
+			HP_EXECUTOR_41,
+			HP_EXECUTOR_42,
+			HP_EXECUTOR_43,
+			HP_EXECUTOR_44,
+			HP_EXECUTOR_45,
+			HP_EXECUTOR_46,
+			HP_EXECUTOR_47,
+			HP_EXECUTOR_48,
+			HP_EXECUTOR_49,
+			HP_EXECUTOR_50,
+			HP_EXECUTOR_51,
+			HP_EXECUTOR_52,
+			HP_EXECUTOR_53,
+			HP_EXECUTOR_54,
+			HP_EXECUTOR_55,
+			HP_EXECUTOR_56,
+			HP_EXECUTOR_57,
+			HP_EXECUTOR_58,
+			HP_EXECUTOR_59,
+			HP_EXECUTOR_60,
+			HP_EXECUTOR_61,
+			HP_EXECUTOR_62,
+			HP_EXECUTOR_ENGINES_03,
+			HP_EXECUTOR_ENGINES_04,
+			HP_EXECUTOR_ENGINES_05,
+			HP_EXECUTOR_FIGHTER_BAY_01,
+			HP_EXECUTOR_FIGHTER_BAY_02,
+			HP_EXECUTOR_FIGHTER_BAY_03,
 		</HardPoints>
 
 
 
-		<SFXEvent_Select>Unit_Select_Vader_Executor</SFXEvent_Select>
-		<SFXEvent_Move>Unit_Move_Vader_Executor</SFXEvent_Move>
-		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Vader_Executor</SFXEvent_Fleet_Move>
-		<SFXEvent_Attack>Unit_Attack_Vader_Executor</SFXEvent_Attack>
-		<SFXEvent_Guard>Unit_Guard_Vader_Executor</SFXEvent_Guard>
-		<SFXEvent_Barrage>Unit_Barrage_Vader_Executor</SFXEvent_Barrage>
-		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Vader_Executor </SFXEvent_Move_Into_Asteroid_Field>
-		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Vader_Executor </SFXEvent_Move_Into_Nebula>
+		<SFXEvent_Select>Unit_Select_Star_Destroyer</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Star_Destroyer</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Star_Destroyer</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Star_Destroyer</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Guard_Star_Destroyer</SFXEvent_Guard>
+		<SFXEvent_Move_Opposite>Unit_Move_Opposite_Star_Destroyer</SFXEvent_Move_Opposite>
+		<SFXEvent_Barrage>Unit_Barrage_Star_Destroyer</SFXEvent_Barrage>
+		<SFXEvent_Stop>Unit_Stop_Star_Destroyer</SFXEvent_Stop>
+		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Star_Destroyer </SFXEvent_Move_Into_Asteroid_Field>
+		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Star_Destroyer </SFXEvent_Move_Into_Nebula>
+		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
 		<SFXEvent_Bombard_Select_Target>	EHD_Bombard_Select_Target </SFXEvent_Bombard_Select_Target>
 		<SFXEvent_Bombard_Incoming> EHD_Bombard_Incoming  </SFXEvent_Bombard_Incoming>
-		<SFXEvent_Health_Low_Warning> Unit_Health_Low_Vader_Executor</SFXEvent_Health_Low_Warning>
-		<SFXEvent_Health_Critical_Warning> Unit_Health_Critical_Vader_Executor </SFXEvent_Health_Critical_Warning>
-        <Play_SFXEvent_On_Sighting>True</Play_SFXEvent_On_Sighting>
-		
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_LASER, Unit_Lost_Laser_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
+
+
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_WEAPON_LASER, Unit_HP_LASER_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_WEAPON_MISSILE, Unit_HP_MISSILE_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_WEAPON_TORPEDO, Unit_HP_TORP_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_WEAPON_ION_CANNON, Unit_HP_ION_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_SHIELD_GENERATOR, Unit_HP_SHIELDS_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+		<SFXEvent_Attack_Hardpoint> HARD_POINT_ENGINE, Unit_HP_ENGINES_Star_Destroyer </SFXEvent_Attack_Hardpoint>
+
+		<SFXEvent_Ambient_Loop>Unit_Star_Destroyer_Idle_Engine_Loop</SFXEvent_Ambient_Loop>
+
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_LASER, Unit_Lost_Laser_Star_Destroyer </SFXEvent_Hardpoint_Destroyed>
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_MISSILE,  </SFXEvent_Hardpoint_Destroyed>
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_TORPEDO,  </SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_ION_CANNON, Unit_Lost_Ion_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_SHIELD_GENERATOR, Unit_Health_Critical_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENGINE, Unit_Lost_Engines_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_ION_CANNON, Unit_Lost_Ion_Star_Destroyer </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_SHIELD_GENERATOR, Unit_Lost_Shields_Star_Destroyer </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENGINE, Unit_Lost_Engines_Star_Destroyer </SFXEvent_Hardpoint_Destroyed>
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_GRAVITY_WELL, </SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_FIGHTER_BAY, Unit_Health_Low_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_TRACTOR_BEAM, Unit_Lost_Tractor_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_FIGHTER_BAY, Unit_Lost_Bay_Star_Destroyer </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_TRACTOR_BEAM, </SFXEvent_Hardpoint_Destroyed>
 		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENABLE_SPECIAL_ABILITY, </SFXEvent_Hardpoint_Destroyed>
-		<SFXEvent_Build_Complete>Unit_Respawn_Vader_Executor</SFXEvent_Build_Complete>
-		<SFXEvent_Hero_Respawned>Unit_Respawn_Vader_Executor</SFXEvent_Hero_Respawned>
+
+		<Death_SFXEvent_Start_Die>Unit_Star_Destroyer_Death_SFX</Death_SFXEvent_Start_Die>
 		
 		<SFXEvent_Damaged_By_Asteroid> SFX_Asteroid_Detonation </SFXEvent_Damaged_By_Asteroid>
 		<SFXEvent_Ambient_Loop>Unit_Star_Destroyer_Idle_Engine_Loop</SFXEvent_Ambient_Loop>
@@ -228,78 +314,7 @@
 		<Radar_Icon_Scale_Space>1.0</Radar_Icon_Scale_Space>
 		<Radar_Icon_Size>0.4  0.4</Radar_Icon_Size>
 
-		<Space_Override_Population_Value>3</Space_Override_Population_Value>
-
-		<!-- Non-Hero unit abilities description -->
-	   <Unit_Abilities_Data SubObjectList="Yes">
-	      <!-- Primary ability -->
-	      <Unit_Ability>
-	            <Type>TRACTOR_BEAM</Type>
-	            <Mod_Multiplier>SPEED_MULTIPLIER, 0.8f</Mod_Multiplier>
-	            <GUI_Activated_Ability_Name>Executor_Tractor_Beam_Attack_Ability</GUI_Activated_Ability_Name> <!-- GUI Command Bar support -->
-	            <Recharge_Seconds>20</Recharge_Seconds>
-	            <SFXEvent_Target_Ability>Unit_Tractor_Beam_Vader_Executor</SFXEvent_Target_Ability>
-				<SFXEvent_Special_Ability_Loop> Unit_Star_Destroyer_Tractor_Beam </SFXEvent_Special_Ability_Loop>
-				<Supports_Autofire>True</Supports_Autofire>
-	      </Unit_Ability>
-	      <Unit_Ability>
-                <Type>DEPLOY_SQUAD</Type>
-	            <Recharge_Seconds>5</Recharge_Seconds>
-	            <SFXEvent_GUI_Unit_Ability_Activated> Unit_Deploy_Squad_Vader_Executor </SFXEvent_GUI_Unit_Ability_Activated>
-          </Unit_Ability>
-	   </Unit_Abilities_Data>
-
-	   <Abilities SubObjectList="Yes">
-	      <Tractor_Beam_Attack_Ability Name="Executor_Tractor_Beam_Attack_Ability">
-	            <Activation_Style> User_Input </Activation_Style>
-	            <Applicable_Unit_Categories>Transport | Corvette | Frigate | Capital</Applicable_Unit_Categories>
-	            <Applicable_Unit_Types>Millennium_Falcon</Applicable_Unit_Types>
-	            
-				<Excluded_Unit_Types>
-					Buzz_Droids,
-					Rebel_Star_Base_1,
-					Rebel_Star_Base_2,
-					Rebel_Star_Base_3,
-					Rebel_Star_Base_4,
-					Rebel_Star_Base_5,
-					Empire_Star_Base_1,
-					Empire_Star_Base_2,
-					Empire_Star_Base_3,
-					Empire_Star_Base_4,
-					Empire_Star_Base_5,
-					Pirate_Asteroid_Base,
-					Skirmish_Rebel_Star_Base_1,
-					Skirmish_Rebel_Star_Base_2,
-					Skirmish_Rebel_Star_Base_3,
-					Skirmish_Rebel_Star_Base_4,
-					Skirmish_Rebel_Star_Base_5,
-					Skirmish_Empire_Star_Base_1,
-					Skirmish_Empire_Star_Base_2,
-					Skirmish_Empire_Star_Base_3,
-					Skirmish_Empire_Star_Base_4,
-					Skirmish_Empire_Star_Base_5,
-					Underworld_Star_Base_1,
-					Underworld_Star_Base_2,
-					Underworld_Star_Base_3,
-					Underworld_Star_Base_4,
-					Underworld_Star_Base_5,
-					Skirmish_Underworld_Star_Base_1,
-					Skirmish_Underworld_Star_Base_2,
-					Skirmish_Underworld_Star_Base_3,
-					Skirmish_Underworld_Star_Base_4,
-					Skirmish_Underworld_Star_Base_5,
-					Hutt_Asteroid_Base,
-					Skirmish_Hutt_Asteroid_Base
-				</Excluded_Unit_Types>
-				
-	            <Activation_Min_Range>10</Activation_Min_Range>
-	            <Activation_Max_Range>2000</Activation_Max_Range>
-
-	            <!-- Modifiers. If 0 - no modifier is applied, 1 - "100% increase or decrease" -->
-	            <Target_Speed_Decrease_Percent>0.8</Target_Speed_Decrease_Percent>
-	            <Stacking_Category>0</Stacking_Category>            
-	      </Tractor_Beam_Attack_Ability>
-	   </Abilities>
+		<Population_Value>35</Population_Value>
 
 		<Score_Cost_Credits> 100000</Score_Cost_Credits>
 
@@ -308,8 +323,9 @@
 		<Tactical_Build_Time_Seconds>90</Tactical_Build_Time_Seconds>
 		<Tactical_Build_Prerequisites />
 		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
+		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
 		<Build_Limit_Current_For_All_Allies>1</Build_Limit_Current_For_All_Allies>
-		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
+		<Build_Limit_Lifetime_Per_Player>-1</Build_Limit_Lifetime_Per_Player>
 		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
 	</UniqueUnit>
 
@@ -357,8 +373,8 @@
 		<Required_Star_Base_Level>1</Required_Star_Base_Level>
 		<Required_Special_Structures>Tier_III_Shipyard</Required_Special_Structures>
 		<Required_Planets>EQR_Kuat, EQR_Fondor</Required_Planets>
-		<Build_Time_Seconds>180</Build_Time_Seconds>
-		<Build_Cost_Credits>25000</Build_Cost_Credits>
+		<Build_Time_Seconds>80</Build_Time_Seconds>
+		<Build_Cost_Credits>50755</Build_Cost_Credits>
 		<Build_Tab_Space_Units>Yes</Build_Tab_Space_Units>
 
 		<Is_Dummy>Yes</Is_Dummy>
@@ -374,9 +390,36 @@
 
 		<CategoryMask>LandHero | SpaceHero</CategoryMask>
 		<Ranking_In_Category> 3 </Ranking_In_Category>
-		<Population_Value>3</Population_Value>
+		<Population_Value>35</Population_Value>
 		<Land_Override_Population_Value>1</Land_Override_Population_Value>
 		<Score_Cost_Credits> 20000 </Score_Cost_Credits>
+
+		<SFXEvent_Select>Unit_Select_Vader_Executor</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Vader_Executor</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Vader_Executor</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Vader_Executor</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Guard_Vader_Executor</SFXEvent_Guard>
+		<SFXEvent_Barrage>Unit_Barrage_Vader_Executor</SFXEvent_Barrage>
+		<SFXEvent_Move_Into_Asteroid_Field> Unit_Asteroids_Vader_Executor </SFXEvent_Move_Into_Asteroid_Field>
+		<SFXEvent_Move_Into_Nebula> Unit_Nebula_Vader_Executor </SFXEvent_Move_Into_Nebula>
+		<SFXEvent_Bombard_Select_Target>	EHD_Bombard_Select_Target </SFXEvent_Bombard_Select_Target>
+		<SFXEvent_Bombard_Incoming> EHD_Bombard_Incoming  </SFXEvent_Bombard_Incoming>
+		<SFXEvent_Health_Low_Warning> Unit_Health_Low_Vader_Executor</SFXEvent_Health_Low_Warning>
+		<SFXEvent_Health_Critical_Warning> Unit_Health_Critical_Vader_Executor </SFXEvent_Health_Critical_Warning>
+        <Play_SFXEvent_On_Sighting>True</Play_SFXEvent_On_Sighting>
+		
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_LASER, Unit_Lost_Laser_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_MISSILE,  </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_TORPEDO,  </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_WEAPON_ION_CANNON, Unit_Lost_Ion_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_SHIELD_GENERATOR, Unit_Health_Critical_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENGINE, Unit_Lost_Engines_Vader_Executor </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_GRAVITY_WELL, </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_FIGHTER_BAY, Unit_Health_Low_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_TRACTOR_BEAM, Unit_Lost_Tractor_Vader_Executor</SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Hardpoint_Destroyed> HARD_POINT_ENABLE_SPECIAL_ABILITY, </SFXEvent_Hardpoint_Destroyed>
+		<SFXEvent_Build_Complete>Unit_Respawn_Vader_Executor</SFXEvent_Build_Complete>
+		<SFXEvent_Hero_Respawned>Unit_Respawn_Vader_Executor</SFXEvent_Hero_Respawned>
 
 		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
 		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>
