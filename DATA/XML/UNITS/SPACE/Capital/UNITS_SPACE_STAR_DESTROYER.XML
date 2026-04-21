@@ -16,7 +16,7 @@
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat MC30_Frigate </Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>Imperator_1_Star_Destroyer.ALO</Space_Model_Name>
 		<Icon_Name>i_button_imperator.tga</Icon_Name>
-		<Scale_Factor>0.5</Scale_Factor>
+		<Scale_Factor>0.3</Scale_Factor>
 
 		<!-- Build Requirements -->
 
@@ -224,7 +224,7 @@
 		<Encyclopedia_Vulnerable_To> Y-wing Skipray_Blastboat MC30_Frigate </Encyclopedia_Vulnerable_To>
 		<Space_Model_Name>Imperator_1_Star_Destroyer.ALO</Space_Model_Name>
 		<Icon_Name>i_button_imperator.tga</Icon_Name>
-		<Scale_Factor>0.5</Scale_Factor>
+		<Scale_Factor>0.3</Scale_Factor>
 		<Lua_Script>isd</Lua_Script>
 
 		<!-- Build Requirements -->
