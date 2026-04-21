@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+
+
+<Template>
+
+	<SpaceUnit Name="Resolute">
+		<Variant_Of_Existing_Type>Venator_Destroyer_No_Fighters</Variant_Of_Existing_Type>
+		<Text_ID>TEXT_UNIT_YULAREN</Text_ID>
+		<Encyclopedia_Text> TEXT_TOOLTIP_YULAREN </Encyclopedia_Text>
+		<Icon_Name>i_button_yularen.tga</Icon_Name>
+		<Affiliation>Empire</Affiliation>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		
+		<Tech_Level>99</Tech_Level>
+		<Required_Special_Structures> Tier_III_Shipyard </Required_Special_Structures>
+		<!-- Fighter complement -->
+		<Starting_Spawned_Units_Tech_0>VWing_Squadron_E, 3</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>Y-Wing_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>VWing_Squadron_E, 9</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>Y-Wing_Squadron, 5</Reserve_Spawned_Units_Tech_0> 
+		<SpaceBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
+		<Population_Value>7</Population_Value>
+		<Tactical_Build_Prerequisites>  </Tactical_Build_Prerequisites>
+		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
+
+		<Abilities SubObjectList="Yes">
+			<Combat_Bonus_Ability Name="Command_Tier_IV">
+				<Activation_Style>Space_Automatic</Activation_Style>
+				<Unit_Strength_Category>Capital | Corvette | Frigate | Fighter</Unit_Strength_Category>
+				<Applicable_Unit_Categories>Capital | Corvette | Frigate | Fighter</Applicable_Unit_Categories>
+				<Applicable_Unit_Types />
+				<Health_Bonus_Percentage>0.20</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.20</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.20</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.20</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.20</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.20</Movement_Speed_Bonus_Percentage>
+				<Stacking_Category>0</Stacking_Category>
+		</Combat_Bonus_Ability>
+			
+			<Combat_Bonus_Ability Name="Yularen_Combat_Bonus_Venator_Destroyer">
+				<Unit_Strength_Category />
+				<Activation_Style>Space_Automatic</Activation_Style>
+				<Applicable_Unit_Categories />
+				<Applicable_Unit_Types>Venator_Destroyer</Applicable_Unit_Types>
+				<Health_Bonus_Percentage>0.25</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.0</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.0</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.0</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.0</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.0</Movement_Speed_Bonus_Percentage>
+				<!-- note stacking category, this stacks with other hero combat bonuses -->
+				<Stacking_Category>1</Stacking_Category>
+			</Combat_Bonus_Ability>
+
+		</Abilities>
+		
+	</SpaceUnit>
+
+</Template>

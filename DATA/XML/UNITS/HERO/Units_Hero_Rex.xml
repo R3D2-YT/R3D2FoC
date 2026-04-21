@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<HeroCompanies>
+	
+	<GenericHeroUnit Name="Rex">
+		<No_Colorization_Color>33, 33, 33, 255</No_Colorization_Color>
+		<Text_ID>TEXT_HERO_UNIT_REX</Text_ID>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		<GUI_Row> 1 </GUI_Row>
+		<Land_Model_Name>Rep_I_ARC_Alpha.alo</Land_Model_Name>
+		<Land_Model_Anim_Override_Name>Rep_I_ARC_Alpha.ALO</Land_Model_Anim_Override_Name>
+		<Icon_Name>i_button_rex.tga</Icon_Name>
+		<Mass>1.0</Mass>
+		<Scale_Factor>0.08</Scale_Factor>
+		<Is_Sprite>No</Is_Sprite>
+
+		<Affiliation>Empire</Affiliation>
+		<Political_Control>0</Political_Control>
+		<Size_Value>75</Size_Value>
+
+		<Behavior>SELECTABLE</Behavior>
+		<LandBehavior>SURFACE_FX,WALK_LOCOMOTOR,IDLE,TARGETING,WEAPON,REVEAL,HIDE_WHEN_FOGGED</LandBehavior>
+		<SurfaceFX_Name>Generic_Footprint, Infantry_Terrain_Modifier</SurfaceFX_Name>
+		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
+		<Loop_Idle_Anim_00>No</Loop_Idle_Anim_00>
+		<Collidable_By_Projectile_Living>Yes</Collidable_By_Projectile_Living>
+		<CanCellStack>yes</CanCellStack>
+		<Mass>1.0</Mass>
+		<Armor_Type> Armor_Hero </Armor_Type>
+
+		<Movement_Animation_Speed> 0.8 </Movement_Animation_Speed>
+		<Rotation_Animation_Speed> 20.0 </Rotation_Animation_Speed>
+		<Crouch_Animation_Speed> .537 </Crouch_Animation_Speed>
+		<Max_Speed>0.8</Max_Speed>
+		<Max_Rate_Of_Turn>20.0</Max_Rate_Of_Turn>
+		<Custom_Soft_Footprint_Radius> 3.5 </Custom_Soft_Footprint_Radius>
+		<Custom_Hard_XExtent> 2.0 </Custom_Hard_XExtent>
+		<Custom_Hard_YExtent> 2.0 </Custom_Hard_YExtent>
+		<Space_Layer> Land </Space_Layer>
+		<UnitCollisionClass> Infantry </UnitCollisionClass>
+		<FormationSpacing> 0.3 </FormationSpacing>
+		<OverrideAcceleration> .05 </OverrideAcceleration>
+		<OverrideDeceleration> .05 </OverrideDeceleration>
+		<FormationOrder> 2 </FormationOrder>
+
+		<Scale_Factor>1.5</Scale_Factor>
+		<Is_Sprite>No</Is_Sprite>
+		<Shield_Points>0</Shield_Points>
+		<Autoresolve_Health>650</Autoresolve_Health>
+		<Tactical_Health>650</Tactical_Health>
+		<Shield_Refresh_Rate>0</Shield_Refresh_Rate>
+		<Energy_Capacity>0</Energy_Capacity>
+		<Energy_Refresh_Rate>0</Energy_Refresh_Rate>
+		<Victory_Relevant>yes</Victory_Relevant>
+
+		<Damage>50</Damage>
+		<Projectile_Types>Proj_Rex_Blaster</Projectile_Types>
+		<Land_FOW_Reveal_Range>75.0</Land_FOW_Reveal_Range>
+		<Targeting_Max_Attack_Distance>150.0</Targeting_Max_Attack_Distance>
+		<Ranged_Target_Z_Adjust>7.0</Ranged_Target_Z_Adjust>
+		<Projectile_Fire_Recharge_Seconds>1.5</Projectile_Fire_Recharge_Seconds>
+
+		<Targeting_Fire_Inaccuracy> Infantry, 3.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Vehicle, 10.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Air, 70.0 </Targeting_Fire_Inaccuracy>
+		<Targeting_Fire_Inaccuracy> Structure, 10.0 </Targeting_Fire_Inaccuracy>
+
+		<SFXEvent_Select>Unit_Select_Clone_Trooper</SFXEvent_Select>
+		<SFXEvent_Move>Unit_Move_Clone_Trooper</SFXEvent_Move>
+		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Clone_Trooper</SFXEvent_Fleet_Move>
+		<SFXEvent_Attack>Unit_Attack_Clone_Trooper</SFXEvent_Attack>
+		<SFXEvent_Guard>Unit_Guard_Clone_Trooper</SFXEvent_Guard>
+		<SFXEvent_Announce>Unit_Announce_Clone_Trooper</SFXEvent_Announce>
+		<SFXEvent_Group_Move>Unit_Group_Move_Clone_Trooper</SFXEvent_Group_Move>
+		<SFXEvent_Fire>Unit_Storm_Trooper_Fire</SFXEvent_Fire>
+
+		<CategoryMask> LandHero </CategoryMask>
+		<Ranking_In_Category> 21 </Ranking_In_Category>
+		<MovementClass> Infantry </MovementClass>
+
+		<OccupationStyle>1x1</OccupationStyle>
+		<Blob_Shadow_Below_Detail_Level>3</Blob_Shadow_Below_Detail_Level>
+		<Blob_Shadow_Scale>5.0, 5.0</Blob_Shadow_Scale>
+		<Blob_Shadow_Material_Name>Generic_Shadow</Blob_Shadow_Material_Name>
+		<Blob_Shadow_Bone_Name>B_Chest</Blob_Shadow_Bone_Name>
+		<No_Reflection_Below_Detail_Level>2</No_Reflection_Below_Detail_Level>
+		<No_Refraction_Below_Detail_Level>2</No_Refraction_Below_Detail_Level>
+		<Ground_Infantry_Turret_Target> Yes </Ground_Infantry_Turret_Target>
+		<Is_Squashable> Yes </Is_Squashable>
+		<Create_Team>No</Create_Team>
+
+		<Select_Box_Scale>27</Select_Box_Scale>
+		<Select_Box_Z_Adjust>3.0f</Select_Box_Z_Adjust>
+
+		<Execute_Script_On_Type>true</Execute_Script_On_Type>
+		<Lua_Script>FieldCommander</Lua_Script>
+		<Attach_To_Flagship_During_Space_Battle>Yes</Attach_To_Flagship_During_Space_Battle>
+		<Stay_In_Transport_During_Ground_Battle>No</Stay_In_Transport_During_Ground_Battle>
+		<AI_Combat_Power>50</AI_Combat_Power>
+
+		<Encyclopedia_Text>TEXT_TOOLTIP_REX TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY</Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_HERO_MINOR</Encyclopedia_Unit_Class>
+
+		<Neutralization_Cost>100.0</Neutralization_Cost>
+		<Can_Be_Neutralized_By_Major_Heroes>Yes</Can_Be_Neutralized_By_Major_Heroes>
+		<Can_Be_Neutralized_By_Minor_Heroes>No</Can_Be_Neutralized_By_Minor_Heroes>
+
+		<Play_SFXEvent_On_Sighting>True</Play_SFXEvent_On_Sighting>
+
+		<Death_Clone>Damage_Disruptor_Hand, Infantry_Disruptor_Death_Clone_00</Death_Clone>
+		<Death_Clone>Damage_Disruptor_Hand, Infantry_Disruptor_Death_Clone_01</Death_Clone>
+		<Death_Clone>Damage_Infection, Infantry_Melt_Death_Clone_00</Death_Clone>
+
+		<Idle_Chase_Range>50.0</Idle_Chase_Range>
+		<Guard_Chase_Range>200.0</Guard_Chase_Range>
+		<Attack_Move_Response_Range>150.0</Attack_Move_Response_Range>
+		<Targeting_Stickiness_Time_Threshold>5.0</Targeting_Stickiness_Time_Threshold>
+		<Targeting_Priority_Set>AntiInfantry</Targeting_Priority_Set>
+
+		<Death_Fade_Time>0.25</Death_Fade_Time>
+		<Death_Persistence_Duration>0.0</Death_Persistence_Duration>
+
+		<Abilities SubObjectList="Yes">
+			<Enhance_Defense_Ability Name="Empire_Field_Commander_Enhance_Defense">
+				<Activation_Style>Ground_Automatic</Activation_Style>
+				<Enhancement_Percentage>0.25</Enhancement_Percentage>
+				<Apply_To_All_Allies>No</Apply_To_All_Allies>
+				<Stacking_Category>0</Stacking_Category>
+				<Unit_Strength_Category>Vehicle | Air | Infantry</Unit_Strength_Category>
+			</Enhance_Defense_Ability>
+			<Battlefield_Modifier_Ability Name="Empire_Field_Commander_FOW_Increase">
+				<Initially_Enabled>Yes</Initially_Enabled>
+				<Activation_Style>Ground_Automatic</Activation_Style>
+				<FOW_Reveal_Range_Multiplier>1.5</FOW_Reveal_Range_Multiplier>
+				<Apply_To_All_Allies>Yes</Apply_To_All_Allies>
+				<Stacking_Category>0</Stacking_Category>
+			</Battlefield_Modifier_Ability>
+		</Abilities>
+	</GenericHeroUnit>
+	
+	<GenericHeroUnit Name="Squad_Rex">
+		<Variant_Of_Existing_Type>Rex</Variant_Of_Existing_Type>
+		<LandBehavior>LANDING, SURFACE_FX, LAND_TEAM_INFANTRY_LOCOMOTOR,IDLE,WEAPON, STUNNABLE, REVEAL,HIDE_WHEN_FOGGED,DAMAGE_TRACKING</LandBehavior>
+		<Is_Squashable> No </Is_Squashable>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		<Max_Speed> 1.1 </Max_Speed>
+		<Space_Layer> None </Space_Layer>
+		<Custom_Soft_Footprint_Radius> 3.0 </Custom_Soft_Footprint_Radius>
+		<Max_Rate_Of_Turn>8.0</Max_Rate_Of_Turn>
+		<FormationRaggedness> .2 </FormationRaggedness>
+		<MaxJiggleDistance> 2 </MaxJiggleDistance>
+		<Create_Team>Yes</Create_Team>
+		<Select_Box_Scale>0</Select_Box_Scale>
+		<Scale_Factor>0.08</Scale_Factor>
+
+	</GenericHeroUnit>
+
+	<GenericHeroUnit Name="501st_Clone">
+		<Variant_Of_Existing_Type>Clone</Variant_Of_Existing_Type>
+		<No_Colorization_Color> 0, 38, 255 </No_Colorization_Color>
+		<Tactical_Health>400</Tactical_Health>
+	</GenericHeroUnit>
+
+	<HeroCompany Name="Rex_Team">
+		<GUI_Row>1</GUI_Row>
+		<Text_ID>TEXT_HERO_REX</Text_ID>
+		<Icon_Name>i_button_rex.tga</Icon_Name>
+		<Is_Dummy>Yes</Is_Dummy>
+		<Affiliation>Empire</Affiliation>
+		<Build_Cost_Credits>1500</Build_Cost_Credits>
+		<Build_Time_Seconds>30</Build_Time_Seconds>
+		<Build_Time_Reduced_By_Multiple_Factories> Yes </Build_Time_Reduced_By_Multiple_Factories>
+		<Build_Limit_Current_Per_Player>1</Build_Limit_Current_Per_Player>
+		<Build_Limit_Lifetime_Per_Player>1</Build_Limit_Lifetime_Per_Player>
+		<Build_Limit_Lifetime_For_All_Allies>1</Build_Limit_Lifetime_For_All_Allies>
+		<Can_Be_Only_One>True</Can_Be_Only_One>
+		<Build_Tab_Heroes>Yes</Build_Tab_Heroes>
+		<Combat_Power_Value>0</Combat_Power_Value>
+		<Tech_Level>99</Tech_Level>
+		<Required_Timeline>0</Required_Timeline>
+		<Required_Ground_Base_Level>1</Required_Ground_Base_Level>
+		<Required_Star_Base_Level>0</Required_Star_Base_Level>
+		<Required_Special_Structures>E_Ground_Officer_Academy</Required_Special_Structures>
+		<Required_Planets></Required_Planets>
+		<Behavior>DUMMY_GROUND_COMPANY</Behavior>
+		<Company_Transport_Unit>Shuttle_Tyderium</Company_Transport_Unit>
+		<Company_Units> Squad_Rex, 501st_Clone, 501st_Clone, 501st_Clone, 501st_Clone</Company_Units>
+		<Is_Homogeneous>No</Is_Homogeneous>
+		<Max_Squad_Size> 5 </Max_Squad_Size>
+		<Create_Team_Type> Rex_Team_Container </Create_Team_Type>
+		<SFXEvent_Build_Started>EHD_Request_Assistance</SFXEvent_Build_Started>
+		<SFXEvent_Build_Cancelled>EHD_Request_Canceled</SFXEvent_Build_Cancelled>		
+		<SFXEvent_Build_Complete>Unit_Respawn_Veers</SFXEvent_Build_Complete>
+		<SFXEvent_Hero_Respawned>Unit_Respawn_Veers</SFXEvent_Hero_Respawned>
+		<SFXEvent_Fleet_Move>Unit_Fleet_Move_Veers</SFXEvent_Fleet_Move>
+
+		
+		<Encyclopedia_Text>TEXT_TOOLTIP_REX</Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_HERO_MINOR</Encyclopedia_Unit_Class>
+		
+				<!--<MULTIPLAYER SKIRMISH VALUES BEGIN>-->  
+		<Tactical_Build_Cost_Multiplayer>550</Tactical_Build_Cost_Multiplayer>
+		<Tactical_Build_Time_Seconds>15</Tactical_Build_Time_Seconds>
+		<Tactical_Build_Prerequisites>EC_Level_Three_Tech_Upgrade</Tactical_Build_Prerequisites>
+		<Tactical_Production_Queue>Tactical_Units</Tactical_Production_Queue>
+		<Build_Limit_Current_Per_Player>-1</Build_Limit_Current_Per_Player>
+		<Build_Limit_Lifetime_For_All_Allies>-1</Build_Limit_Lifetime_For_All_Allies>  
+		<!--<MULTIPLAYER SKIRMISH VALUES END>-->
+		<Population_Value>1</Population_Value>
+		<CategoryMask>LandHero</CategoryMask>
+		<Score_Cost_Credits> 500 </Score_Cost_Credits>
+	</HeroCompany>
+
+	<Container Name="Rex_Team_Container">
+		<Select_Box_Scale>65</Select_Box_Scale>
+		<Text_ID>TEXT_HERO_REX</Text_ID>
+		<Encyclopedia_Good_Against> Rebel_Trooper </Encyclopedia_Good_Against>
+		<Encyclopedia_Vulnerable_To> MPTL UC_Rebel_Buildable_Anti_Infantry_Turret </Encyclopedia_Vulnerable_To>
+		<Encyclopedia_Text>TEXT_TOOLTIP_REX TEXT_TOOLTIP_UNIT_CAPTURE_ABILITY</Encyclopedia_Text>
+		<Encyclopedia_Unit_Class>TEXT_ENCYCLOPEDIA_CLASS_HERO_MINOR</Encyclopedia_Unit_Class>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		<Behavior>TEAM,SELECTABLE,UNIT_AI</Behavior>
+		<LandBehavior>REVEAL, LAND_TEAM_CONTAINER_LOCOMOTOR, TEAM_TARGETING, GARRISON_UNIT</LandBehavior>
+		<SpaceBehavior>REVEAL</SpaceBehavior>
+		<Land_FOW_Reveal_Range>200.0</Land_FOW_Reveal_Range>
+		<Space_FOW_Reveal_Range>800.0</Space_FOW_Reveal_Range>
+		<MovementClass>Infantry</MovementClass>
+		<Garrison_Category> Infantry </Garrison_Category>
+
+		<Max_Speed> .8 </Max_Speed>
+		<Max_Rate_Of_Turn>12.0</Max_Rate_Of_Turn>
+		<Space_Layer> Land </Space_Layer>
+		<UnitCollisionClass> Infantry </UnitCollisionClass>
+		<FormationSpacing> 1 </FormationSpacing> 
+		<MovementClass> Infantry </MovementClass>
+		<OccupationStyle>1x1</OccupationStyle>
+		<Is_Squashable> true </Is_Squashable>
+		<MovementPredictionInterval> 4.0 </MovementPredictionInterval>	
+		<ContainerArrangement> Rows </ContainerArrangement>
+		<FormationOrder> 2 </FormationOrder>
+		<Override_Acceleration> .1 </Override_Acceleration>
+		<Override_Deceleration> .1 </Override_Deceleration>
+		
+		<Is_Visible_On_Radar>Yes</Is_Visible_On_Radar>
+		<Radar_Icon_Scale_Land>80</Radar_Icon_Scale_Land>
+		<Radar_Icon_Scale_Space>200</Radar_Icon_Scale_Space>
+
+		<Icon_Name>i_button_rex.tga</Icon_Name>
+
+		<Targeting_Max_Attack_Distance>140.0</Targeting_Max_Attack_Distance>
+		<Idle_Chase_Range>50.0</Idle_Chase_Range>
+		<Guard_Chase_Range>200.0</Guard_Chase_Range>
+		<Attack_Move_Response_Range>130.0</Attack_Move_Response_Range>
+		<Autonomous_Move_Extension_Vs_Attacker>200.0</Autonomous_Move_Extension_Vs_Attacker>
+		<Tactical_Bribe_Cost>150</Tactical_Bribe_Cost>
+		
+		
+	
+		<CategoryMask>Infantry</CategoryMask>
+	</Container>
+
+</HeroCompanies>

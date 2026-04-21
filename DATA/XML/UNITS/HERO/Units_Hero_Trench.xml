@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+
+<Template>
+
+	<SpaceUnit Name="Trench">
+		<Text_ID>TEXT_HERO_TRENCH</Text_ID>
+		<Encyclopedia_Text>TEXT_TOOLTIP_TRENCH</Encyclopedia_Text>
+		<Variant_Of_Existing_Type>Providence_Dreadnought_No_Fighters</Variant_Of_Existing_Type>
+		<Icon_Name>i_button_trench.tga</Icon_Name>
+		<Affiliation>Rebel</Affiliation>
+		<Is_Named_Hero>Yes</Is_Named_Hero>
+		
+		<Tech_Level>99</Tech_Level>
+		<Required_Special_Structures> Tier_III_Shipyard </Required_Special_Structures>
+		<!-- Fighter complement -->
+		<Starting_Spawned_Units_Tech_0>Vulture_Squadron, 2</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>TriDroid_Squadron, 1</Starting_Spawned_Units_Tech_0>
+		<Starting_Spawned_Units_Tech_0>HYENA_Bomber_Squadron, 1</Starting_Spawned_Units_Tech_0>
+
+		<Reserve_Spawned_Units_Tech_0>Vulture_Squadron, 10</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>TriDroid_Squadron, 8</Reserve_Spawned_Units_Tech_0> 
+		<Reserve_Spawned_Units_Tech_0>HYENA_Bomber_Squadron, 10</Reserve_Spawned_Units_Tech_0> 
+		<SpaceBehavior>SPAWN_SQUADRON, ABILITY_COUNTDOWN, SIMPLE_SPACE_LOCOMOTOR, TARGETING, REVEAL, HIDE_WHEN_FOGGED, UNIT_AI, ASTEROID_FIELD_DAMAGE, DAMAGE_TRACKING, ION_STUN_EFFECT, NEBULA </SpaceBehavior>
+		<Population_Value>5</Population_Value>
+		<Tactical_Build_Prerequisites>  </Tactical_Build_Prerequisites>
+		<Tactical_Bribe_Cost>2800</Tactical_Bribe_Cost>
+
+		<Abilities SubObjectList="Yes">
+			<Combat_Bonus_Ability Name="Command_Tier_IV">
+				<Activation_Style>Space_Automatic</Activation_Style>
+				<Unit_Strength_Category>Capital | Corvette | Frigate | Fighter</Unit_Strength_Category>
+				<Applicable_Unit_Categories>Capital | Corvette | Frigate | Fighter</Applicable_Unit_Categories>
+				<Applicable_Unit_Types />
+				<Health_Bonus_Percentage>0.20</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.20</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.20</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.20</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.20</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.20</Movement_Speed_Bonus_Percentage>
+				<Stacking_Category>0</Stacking_Category>
+		</Combat_Bonus_Ability>
+			
+			<Combat_Bonus_Ability Name="Trench_Combat_Bonus_Providence_Destroyer">
+				<Unit_Strength_Category />
+				<Activation_Style>Space_Automatic</Activation_Style>
+				<Applicable_Unit_Categories />
+				<Applicable_Unit_Types>Providence_Destroyer</Applicable_Unit_Types>
+				<Health_Bonus_Percentage>0.25</Health_Bonus_Percentage>
+				<Damage_Bonus_Percentage>0.0</Damage_Bonus_Percentage>
+				<Energy_Pool_Bonus_Percentage>0.0</Energy_Pool_Bonus_Percentage>
+				<Shield_Bonus_Percentage>0.0</Shield_Bonus_Percentage>
+				<Defense_Bonus_Percentage>0.0</Defense_Bonus_Percentage>
+				<Movement_Speed_Bonus_Percentage>0.0</Movement_Speed_Bonus_Percentage>
+				<!-- note stacking category, this stacks with other hero combat bonuses -->
+				<Stacking_Category>1</Stacking_Category>
+			</Combat_Bonus_Ability>
+
+		</Abilities>
+		
+	</SpaceUnit>
+
+</Template>

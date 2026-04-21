@@ -21,7 +21,7 @@
 		<Select_Box_Scale>890</Select_Box_Scale>
 		<Select_Box_Z_Adjust>-50</Select_Box_Z_Adjust>
 		<Mass>0.995</Mass>
-		<Scale_Factor>0.50</Scale_Factor>
+		<Scale_Factor>0.35</Scale_Factor>
 		<Size_Value>360</Size_Value>
 		<No_Colorization_Color> 255, 255, 255, 255 </No_Colorization_Color>
 
