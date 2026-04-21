@@ -39,4 +39,7 @@
 	<File>HardPoints\HardPoints_Invincible.Xml</File>
 	<File>Hardpoints\HARDPOINTS_ISD.XML</File>
 	<File>Hardpoints\HARDPOINTS_TSD.XML</File>
+
+	<!-- Dreadnoughts -->
+	<File>HardPoints\HardPoints_Executor.xml</File>
 </Hard_Point_Files>

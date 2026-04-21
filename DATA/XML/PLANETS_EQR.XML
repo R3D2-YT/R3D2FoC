@@ -3401,7 +3401,7 @@
 			<Reduce_Production_Price_Ability Name="Kuat_Star_Destroyer_Production_Boost">
 				<Unit_Strength_Category />
 				<Applicable_Unit_Categories />
-				<Applicable_Unit_Types> Generic_Star_Destroyer, Imperial_Star_Destroyer_I, Executor_Super_Star_Destroyer </Applicable_Unit_Types>
+				<Applicable_Unit_Types> </Applicable_Unit_Types>
 				<Price_Reduction_Percentage>0.20</Price_Reduction_Percentage>
 				<Stacking_Category>9</Stacking_Category>
 				<Galaxy_Wide> Yes </Galaxy_Wide>
