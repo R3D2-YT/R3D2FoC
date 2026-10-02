@@ -5916,12 +5916,15 @@
 		<Force_Strength>0.0</Force_Strength>
 		<Planet_Surface_Accessible> Yes </Planet_Surface_Accessible>
 		<Space_Tactical_Map>_Space_Planet_Ilum_01.ted</Space_Tactical_Map>
-		<Land_Tactical_Map> _LAND_ARCTIC_00.ted </Land_Tactical_Map>
+		<Land_Tactical_Map> _Land_Planet_AlzocIII_02.ted </Land_Tactical_Map>
 		<Planet_Capture_Bonus_Reward> 2500 </Planet_Capture_Bonus_Reward>
 		<Planet_Slice_Difficulty_Rating>1</Planet_Slice_Difficulty_Rating>
 		<Planet_Tech_Availability_Rating>4</Planet_Tech_Availability_Rating>
 		<Planet_Slice_Affinity_Types />
 		<Planet_Restricted_Unit_Categories />
+
+		<!--<Land_Tactical_Map> _Land_Planet_AlzocIII_02.ted </Land_Tactical_Map>
+		<Space_Tactical_Map>_Space_Planet_AlzocIII_01.ted</Space_Tactical_Map>-->
 
 		<Describe_Population>TEXT_PLANET_MYGEETO_INFO_POP</Describe_Population>
 		<Describe_Wildlife>TEXT_PLANET_MYGEETO_INFO_WL</Describe_Wildlife>
