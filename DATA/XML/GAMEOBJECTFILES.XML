@@ -10,7 +10,7 @@
 	<File>GroundTurrets.xml</File>
 	<File>GroundInfantry.xml</File>
 	<File>GroundVehicles.xml</File>
-	<File>GroundCompaniesRebel.xml</File>
+	<!--<File>GroundCompaniesRebel.xml</File>-->
 	<File>UNITS_LAND_Empire_ArmyTroopers.XML</File>
 	<File>GroundCompaniesEmpire.xml</File>
 	<File>GroundIndigenous.xml</File>
@@ -93,9 +93,17 @@
 	<!-- Ground Structures -->
 
 	<File>Structures\Land\Corporations.xml</File>
+	
+	<!-- Infantry -->
+
+	<File>UNITS\LAND\Units_Rebel_Infantry.xml</File>
 
 	<!-- Tanks -->
 
+	<File>UNITS\LAND\Units_Rebel_T2B.xml</File>
+	<File>UNITS\LAND\Units_Rebel_T4B.xml</File>
+	<File>UNITS\LAND\Units_Rebel_Airspeeder.xml</File>
+	<File>UNITS\LAND\Units_Rebel_MPTL.xml</File>
 	<File>UNITS\LAND\Units_EMPIRE_TIE_TANK.xml</File>
 
 	<!-- Fighters -->

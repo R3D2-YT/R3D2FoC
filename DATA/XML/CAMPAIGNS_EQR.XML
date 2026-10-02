@@ -298,7 +298,7 @@
       
         <!-- Bespin Land Forces -->
         <Starting_Forces> Rebel, EQR_Bespin, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bespin, Rebel_Light_Tank_Brigade </Starting_Forces>
         
       
@@ -311,7 +311,7 @@
         <!-- Bonadan Land Forces -->
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Light_Tank_Brigade </Starting_Forces>
 
      
@@ -323,7 +323,7 @@
 
         <!-- Bothawui Land Forces -->
         <Starting_Forces> Rebel, EQR_Bothawui, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         
@@ -334,7 +334,7 @@
         <Starting_Forces> Rebel, EQR_Dagobah, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dagobah Land Forces -->
         <Starting_Forces> Rebel, EQR_Dagobah, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Dantooine Space Forces -->
@@ -343,7 +343,7 @@
         <Starting_Forces> Rebel, EQR_Dantooine, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dantooine Land Forces -->
         <Starting_Forces> Rebel, EQR_Dantooine, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad_2 </Starting_Forces>
         
         <!-- Dathomir Space Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Star_Base_2 </Starting_Forces>
@@ -353,7 +353,7 @@
         <!-- Dathomir Land Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Light_Tank_Brigade </Starting_Forces>
                 
         <!-- Honoghr Space Forces -->
@@ -364,7 +364,7 @@
         <!-- Honoghr Land Forces -->
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Light_Tank_Brigade </Starting_Forces>
                                                      
         <!-- Hoth Space Forces -->
@@ -375,7 +375,7 @@
         <Starting_Forces> Rebel, EQR_Hoth, Corellian_Corvette </Starting_Forces>
         <!-- Hoth Land Forces -->
         <Starting_Forces> Rebel, EQR_Hoth, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad_2 </Starting_Forces>
         
         <!-- Korriban Space Forces -->
         <Starting_Forces> Rebel, EQR_Korriban, Rebel_Star_Base_2 </Starting_Forces>
@@ -386,7 +386,7 @@
         <!-- Korriban Land Forces -->
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Manaan Space Forces -->
@@ -397,7 +397,7 @@
         <!-- Manaan Land Forces -->
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- MonCalimari Space Forces -->
@@ -411,7 +411,7 @@
         <!-- MonCalimari Land Forces -->
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Light_Tank_Brigade </Starting_Forces>
        
 
@@ -425,7 +425,7 @@
         <!-- Mustafar Land Forces -->
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Muunilinst Space Forces -->
@@ -439,11 +439,11 @@
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
 
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Saleucami Space Forces -->
@@ -454,7 +454,7 @@
         <!-- Saleucami Land Forces -->
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Utapau Space Forces -->
@@ -465,7 +465,7 @@
         <!-- Utapau Land Forces -->
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Thyferra Space Forces -->
@@ -474,7 +474,7 @@
         <Starting_Forces> Rebel, EQR_Thyferra, Nebulon_B_Frigate </Starting_Forces>
         <!-- Thyferra Land Forces -->
         <Starting_Forces> Rebel, EQR_Thyferra, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Vergesso Asteroids Space Forces -->
@@ -492,7 +492,7 @@
         <!-- Yavin Land Forces -->
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Crait Space Forces -->
@@ -503,7 +503,7 @@
         <!-- Crait Land Forces -->
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- D'qar Space Forces -->
@@ -514,7 +514,7 @@
         <!-- D'qar Land Forces -->
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- PolisM Space Forces -->
@@ -525,7 +525,7 @@
         <!-- PolisM Land Forces -->
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Anoat Space Forces -->
@@ -537,7 +537,7 @@
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Felucia Space Forces -->
@@ -548,7 +548,7 @@
         <!-- Felucia Land Forces -->
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Kashyyyk Space Forces -->
@@ -559,7 +559,7 @@
         <!-- Kashyyyk Land Forces -->
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Naboo Space Forces -->
@@ -570,7 +570,7 @@
         <!-- Naboo Land Forces -->
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Aridus Space Forces -->
@@ -581,7 +581,7 @@
         <!-- Aridus Land Forces -->
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Gerrenthum Space Forces -->
@@ -592,7 +592,7 @@
         <!-- Gerrenthum Land Forces -->
         <Starting_Forces> Rebel, EQR_Gerrenthum, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Light_Tank_Brigade </Starting_Forces>
         
 
@@ -1673,7 +1673,7 @@
       
         <!-- Bespin Land Forces -->
         <Starting_Forces> Rebel, EQR_Bespin, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bespin, Rebel_Light_Tank_Brigade </Starting_Forces>
         
       
@@ -1685,7 +1685,7 @@
         <!-- Bonadan Land Forces -->
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Light_Tank_Brigade </Starting_Forces>
 
      
@@ -1696,7 +1696,7 @@
 
         <!-- Bothawui Land Forces -->
         <Starting_Forces> Rebel, EQR_Bothawui, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         
@@ -1707,7 +1707,7 @@
         <Starting_Forces> Rebel, EQR_Dagobah, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dagobah Land Forces -->
         <Starting_Forces> Rebel, EQR_Dagobah, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Dantooine Space Forces -->
@@ -1716,7 +1716,7 @@
         <Starting_Forces> Rebel, EQR_Dantooine, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dantooine Land Forces -->
         <Starting_Forces> Rebel, EQR_Dantooine, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad_2 </Starting_Forces>
         
         <!-- Dathomir Space Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Star_Base_2 </Starting_Forces>
@@ -1726,7 +1726,7 @@
         <!-- Dathomir Land Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Light_Tank_Brigade </Starting_Forces>
                 
         <!-- Honoghr Space Forces -->
@@ -1737,7 +1737,7 @@
         <!-- Honoghr Land Forces -->
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Light_Tank_Brigade </Starting_Forces>
                                                      
        
@@ -1749,7 +1749,7 @@
         <Starting_Forces> Rebel, EQR_Hoth, Corellian_Corvette </Starting_Forces>
         <!-- Hoth Land Forces -->
         <Starting_Forces> Rebel, EQR_Hoth, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad_2 </Starting_Forces>
         
        
         <!-- Korriban Space Forces -->
@@ -1762,7 +1762,7 @@
         <!-- Korriban Land Forces -->
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Manaan Space Forces -->
@@ -1773,7 +1773,7 @@
         <!-- Manaan Land Forces -->
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- MonCalimari Space Forces -->
@@ -1786,7 +1786,7 @@
         <!-- MonCalimari Land Forces -->
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Light_Tank_Brigade </Starting_Forces>
        
 
@@ -1800,7 +1800,7 @@
         <!-- Mustafar Land Forces -->
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Muunilinst Space Forces -->
@@ -1815,11 +1815,11 @@
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
 
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Saleucami Space Forces -->
@@ -1830,7 +1830,7 @@
         <!-- Saleucami Land Forces -->
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Utapau Space Forces -->
@@ -1841,7 +1841,7 @@
         <!-- Utapau Land Forces -->
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Thyferra Space Forces -->
@@ -1850,7 +1850,7 @@
         <Starting_Forces> Rebel, EQR_Thyferra, Nebulon_B_Frigate </Starting_Forces>
         <!-- Thyferra Land Forces -->
         <Starting_Forces> Rebel, EQR_Thyferra, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Vergesso Asteroids Space Forces -->
@@ -1867,7 +1867,7 @@
         <!-- Yavin Land Forces -->
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Crait Space Forces -->
@@ -1878,7 +1878,7 @@
         <!-- Crait Land Forces -->
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- D'qar Space Forces -->
@@ -1889,7 +1889,7 @@
         <!-- D'qar Land Forces -->
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- PolisM Space Forces -->
@@ -1900,7 +1900,7 @@
         <!-- PolisM Land Forces -->
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Anoat Space Forces -->
@@ -1912,7 +1912,7 @@
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Felucia Space Forces -->
@@ -1923,7 +1923,7 @@
         <!-- Felucia Land Forces -->
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Kashyyyk Space Forces -->
@@ -1934,7 +1934,7 @@
         <!-- Kashyyyk Land Forces -->
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Naboo Space Forces -->
@@ -1945,7 +1945,7 @@
         <!-- Naboo Land Forces -->
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Aridus Space Forces -->
@@ -1956,7 +1956,7 @@
         <!-- Aridus Land Forces -->
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Gerrenthum Space Forces -->
@@ -1967,7 +1967,7 @@
         <!-- Gerrenthum Land Forces -->
         <Starting_Forces> Rebel, EQR_Gerrenthum, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Gerrenthum, Rebel_Light_Tank_Brigade </Starting_Forces>
         
 
@@ -3050,7 +3050,7 @@
       
         <!-- Bespin Land Forces -->
         <Starting_Forces> Rebel, EQR_Bespin, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bespin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bespin, Rebel_Light_Tank_Brigade </Starting_Forces>
         
       
@@ -3063,7 +3063,7 @@
         <!-- Bonadan Land Forces -->
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bonadan, Rebel_Light_Tank_Brigade </Starting_Forces>
 
      
@@ -3075,7 +3075,7 @@
 
         <!-- Bothawui Land Forces -->
         <Starting_Forces> Rebel, EQR_Bothawui, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Bothawui, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         
@@ -3086,7 +3086,7 @@
         <Starting_Forces> Rebel, EQR_Dagobah, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dagobah Land Forces -->
         <Starting_Forces> Rebel, EQR_Dagobah, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dagobah, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Dantooine Space Forces -->
@@ -3095,7 +3095,7 @@
         <Starting_Forces> Rebel, EQR_Dantooine, Nebulon_B_Frigate </Starting_Forces>
         <!-- Dantooine Land Forces -->
         <Starting_Forces> Rebel, EQR_Dantooine, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dantooine, Rebel_Infantry_Squad_2 </Starting_Forces>
         
         <!-- Dathomir Space Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Star_Base_2 </Starting_Forces>
@@ -3105,7 +3105,7 @@
         <!-- Dathomir Land Forces -->
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dathomir, Rebel_Light_Tank_Brigade </Starting_Forces>
                 
         <!-- Honoghr Space Forces -->
@@ -3116,7 +3116,7 @@
         <!-- Honoghr Land Forces -->
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Honoghr, Rebel_Light_Tank_Brigade </Starting_Forces>
                                                      
         <!-- Hoth Space Forces -->
@@ -3127,7 +3127,7 @@
         <Starting_Forces> Rebel, EQR_Hoth, Corellian_Corvette </Starting_Forces>
         <!-- Hoth Land Forces -->
         <Starting_Forces> Rebel, EQR_Hoth, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Hoth, Rebel_Infantry_Squad_2 </Starting_Forces>
         
         <!-- Korriban Space Forces -->
         <Starting_Forces> Rebel, EQR_Korriban, Rebel_Star_Base_2 </Starting_Forces>
@@ -3138,7 +3138,7 @@
         <!-- Korriban Land Forces -->
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Korriban, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Korriban, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Manaan Space Forces -->
@@ -3149,7 +3149,7 @@
         <!-- Manaan Land Forces -->
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Manaan, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Manaan, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- MonCalimari Space Forces -->
@@ -3163,7 +3163,7 @@
         <!-- MonCalimari Land Forces -->
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_MonCalimari, Rebel_Light_Tank_Brigade </Starting_Forces>
        
 
@@ -3177,7 +3177,7 @@
         <!-- Mustafar Land Forces -->
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Mustafar, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Muunilinst Space Forces -->
@@ -3191,11 +3191,11 @@
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Ground_Mining_Facility </Starting_Forces>
 
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Muunilinst, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Saleucami Space Forces -->
@@ -3206,7 +3206,7 @@
         <!-- Saleucami Land Forces -->
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Saleucami, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Utapau Space Forces -->
@@ -3217,7 +3217,7 @@
         <!-- Utapau Land Forces -->
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Utapau, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Utapau, Rebel_Light_Tank_Brigade </Starting_Forces>
         
         <!-- Thyferra Space Forces -->
@@ -3226,7 +3226,7 @@
         <Starting_Forces> Rebel, EQR_Thyferra, Nebulon_B_Frigate </Starting_Forces>
         <!-- Thyferra Land Forces -->
         <Starting_Forces> Rebel, EQR_Thyferra, R_Ground_Barracks </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad</Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Infantry_Squad_2</Starting_Forces>
         <Starting_Forces> Rebel, EQR_Thyferra, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Vergesso Asteroids Space Forces -->
@@ -3244,7 +3244,7 @@
         <!-- Yavin Land Forces -->
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Yavin, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Yavin, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Crait Space Forces -->
@@ -3255,7 +3255,7 @@
         <!-- Crait Land Forces -->
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Crait, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Crait, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- D'qar Space Forces -->
@@ -3266,7 +3266,7 @@
         <!-- D'qar Land Forces -->
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Dqar, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Dqar, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- PolisM Space Forces -->
@@ -3277,7 +3277,7 @@
         <!-- PolisM Land Forces -->
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_PolisMassa, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Anoat Space Forces -->
@@ -3289,7 +3289,7 @@
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Ground_Mining_Facility </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Anoat, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Anoat, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Felucia Space Forces -->
@@ -3300,7 +3300,7 @@
         <!-- Felucia Land Forces -->
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Felucia, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Felucia, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Kashyyyk Space Forces -->
@@ -3311,7 +3311,7 @@
         <!-- Kashyyyk Land Forces -->
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Kashyyyk, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Naboo Space Forces -->
@@ -3322,7 +3322,7 @@
         <!-- Naboo Land Forces -->
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Naboo, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Naboo, Rebel_Light_Tank_Brigade </Starting_Forces>
 
         <!-- Aridus Space Forces -->
@@ -3333,7 +3333,7 @@
         <!-- Aridus Land Forces -->
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Barracks </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, R_Ground_Light_Vehicle_Factory </Starting_Forces>
-        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad </Starting_Forces>
+        <Starting_Forces> Rebel, EQR_Aridus, Rebel_Infantry_Squad_2 </Starting_Forces>
         <Starting_Forces> Rebel, EQR_Aridus, Rebel_Light_Tank_Brigade </Starting_Forces>
       
 
