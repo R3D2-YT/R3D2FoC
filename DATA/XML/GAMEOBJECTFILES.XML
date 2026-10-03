@@ -100,6 +100,7 @@
 
 	<!-- Tanks -->
 
+	<File>UNITS\LAND\Units_Rebel_T1B.xml</File>
 	<File>UNITS\LAND\Units_Rebel_T2B.xml</File>
 	<File>UNITS\LAND\Units_Rebel_T4B.xml</File>
 	<File>UNITS\LAND\Units_Rebel_Airspeeder.xml</File>

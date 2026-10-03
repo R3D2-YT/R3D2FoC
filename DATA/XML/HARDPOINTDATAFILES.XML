@@ -4,6 +4,10 @@
 	<File>HardPoints.xml</File>
 	<File>CIN_HardPoints.xml</File>
 	<File>HardPoints_Underworld.xml</File>
+	
+	<!-- Tanks -->
+	
+	<File>Hardpoints\HardPoints_T1B.xml</File>
 
 	<!-- Fighters -->
 
